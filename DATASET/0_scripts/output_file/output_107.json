@@ -1,0 +1,302 @@
+[
+  {
+    "input": "NCLAT Judgement Over Mistry's Removal As Tata Sons Chairman On Wednesday\nNCLAT 关于 Mistry 被任命为 Tata Sons 董事长职务的裁决于周三发布。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ITW - Illinois Tool Works Inc. 2019 Q4 - Results - Earnings Call Presentation. https://t.co/qjlLB9578y #business #stockmarket #trading}\n\n以下是该句子的中文翻译：\n{$ITW - 伊利诺伊工具公司2019年第4季度 - 业绩 - 盈利电话会议报告。https://t.co/qjlLB9578y #business #stockmarket #trading}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AbbVie 在 Q4 和指引方面超出预期，因此其股价在盘前上涨了 4%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据...的报道，感恩节假期期间，美国航空公司将有创纪录的3160万名乘客出行。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ahlstrom's share is quoted on the NASDAQ OMX Helsinki. \n\n直译为：Ahlstrom的股份在NASDAQ OMX赫尔辛基上市。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"冠状病毒'不是借口'-房地产CEO说有能力的人应该支付租金 https://t.co/Ovk8uTCcmk\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices (AMD) unveils Ryzen 7000 Series desktop processors that are powered by the new Zen 4 architecture.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla (TSLA) (+4.6% pre) Longer range China-made Model 3",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TeliaSonera在2010年第二季度获得了4G调制解调器的交付，这些调制解调器支持3G和2G。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The soapstone deposits in the Medvezhyegorsk area are expected to significantly increase Tulikivi's current reserves.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：\n\n{3 Top Dividend Stocks to Buy in February}\n翻译：\n\"二月应该买入的3只高股息股票\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Western Union Q4 2019 Earnings Preview: https://t.co/peFQmNJdnG",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stocks rose today, building on strong gains from the previous session. We spoke with 3 experts - here's what they had to say...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We've been feeling quite positive about the region as a whole\" 翻译为中文是：“我们对这个地区整体感觉非常积极。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{利润率（EBIT%）为13.6%，与2009年Q2的14.3%相比有所下降。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n\"IWM 购买程序会弹出 $iwm 以关闭打印便宜的货币意味着更高的股票价格 $spy 机器人购买\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"STM vs. TXN: Which Stock Is the Better Value Option?\" 的中文翻译为：\"STM vs. TXN：哪个股票是更好的价值选择？\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天，我们以新的、不同的方式连接人们——将先进的移动技术与个性化服务融合，使人们能够保持与他们关心的事情的紧密联系。\n\nEnglish translation: Today, we are connecting people in new and different ways - fusing advanced mobile technology with personalized services to enable people to stay close to what matters to them.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Spirit AeroSystems宣布每股派发$0.01股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The trailing 12 months operating cash flow of $AMZN rose 48% to $4.98 billion, and the free cash flow decreased 63% to $388 million. (http://stks.co/c06zG)",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股市更新：优步领跑盈利增长者，而动视暴雪下跌。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dixons Carphone 公司将关闭 134 家英国商店，因为销售额飙升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided translates to: \"Bullish with MACD crossover with RSI and STO going up - above 73.4$ MA50 res. could run http://stks.co/gGCq.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fortum is now considering taking part in nuclear energy projects outside of Finland.\n\nFortum正在考虑参与芬兰以外的核能项目。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Verizon CEO Hans Vestberg Talks About Melding 5G and the Cloud: 维珍移动首席执行官汉斯·韦斯特伯格谈到了将5G和云计算融合的话题。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "到目前为止，与该系统相关的合同总额为3600万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Altria to Host Webcast From the Consumer Analyst Group of New York Conference\n\n美国烟草公司Altria集团将主办纽约消费者分析师小组会议的网络直播。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel director acquires $5M in shares\n英特尔董事以5百万美元购入股份。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "与其他利益相关者一样，COMPTEL参与了研讨会、会议，并在我们行业竞争性领域最重要的议题上提交了书面评论。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{UPDATE 5-SABMiller Rejects AB InBev's $104 Billion Takeover Approach}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"高风险：阿斯利康心脏病药面临激烈竞争\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国消费者债务在2月份以7个月以来的最大幅度增长。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Longbow Research 的三星分析师 Joe Wittine 重申了对 $NTAP 的持有评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Motors recalls 2,700 Model X SUVs $TSLA\n\n特斯拉汽车召回2,700辆Model X SUV $TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"工业物流地产信托（ILPT）是否值得购买？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP boosts sales despite cautious clients\n\n威望腾达（WPP）尽管面对谨慎的客户，仍然能够提升销售额。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Ultra Clean downgraded to hold from buy at Stifel Nicolaus\" 的中文翻译为：“Ultra Clean从Stifel Nicolaus的买入评级下调至持有评级”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在 #FEDDAY 寻找股票的急剧上涨，$AAPL $HD $LOW $FB 正在上涨，尽管市场正在下跌，$UVXY $TVIX 正在受到重创。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The contract traded at an all-time high of $50,200 a ton on April 24. 翻译为：“该合约在4月24日达到了每吨50,200美元的历史最高交易价格。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lululemon Athletica Inc (NASDAQ:LULU) 的股票在最新查看时下跌了 1.7%，至 $397.75，抹去了早盘涨幅。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp (NASDAQ: MSFT) 的股票周五早上略微下跌。该股票在3月份上涨了大约7%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Zurich Insurance Considering Offer for UK Rival RSA Insurance 的中文翻译为：“苏黎世保险公司考虑对英国竞争对手 RSA 保险公司的收购要约”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"WH Smith: Circular regarding the proposed acquisition of Marshall Retail #WHSmith #Stock #MarketScreener\" 翻译为中文是 \"WH Smith: 关于提议收购Marshall Retail的公告 #WHSmith #股票 #市场筛选器\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix and Meta的损失对纳斯达克的下跌起到了推波助澜的作用，使其更接近另一个熊市。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Recovery has been evident in the liquid handling business, particularly in areas outside Europe and primarily in North America and Asia. \n\n中文翻译：液体处理业务已经明显复苏，特别是在欧洲以外的地区，尤其是北美和亚洲。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "销售，这将在2010年第二季度为Oriola-KD带来大约6000万欧元的收益，支持了芬兰公司专注于药品批发和零售业务的战略。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Long Position on $GOL, ...Updating http://stks.co/fdmm\"\n\n翻译成中文：\n\n\"在$GOL上持有多头仓位，...更新http://stks.co/fdmm\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Schroders books solid earnings growth, several board changes.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AMD的股票在周二收盘上涨了近9.0%，因为派珀·桑德勒对这家跨国半导体公司持乐观态度。分析师哈什·库马尔认为AMD的股票还有上涨空间，他将该公司的股票评级提升至“超配”，并给出了140美元的股票价格目标，这代表了从当前价位上涨40%的潜力。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit for the 12-month period decreased from EUR5.4 m while net sales increased from EUR62.0 m, as compared to the financial year 2004. \n\n中文翻译：营业利润在12个月内从5.4百万欧元下降，而同期净销售额从62.0百万欧元上升，与2004年财务年度相比。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

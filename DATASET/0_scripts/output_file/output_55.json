@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Adobe (ADBE) enriches its customer data platform to help global brands provide personalized experiences to their customers in real time. \n\nAdobe (ADBE) 丰富其客户数据平台，以帮助全球品牌为其客户实时提供个性化体验。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lee reports Q4 results\" 翻译成中文是 \"李报告第四季度的结果\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Q2 of 2009, profit before taxes amounted to EUR 13.6 mn, down from EUR 26.8 mn in Q2 of 2008.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Tecnomen Convergent Charging solution includes functionality for prepaid and post-paid billing, charging and rating of voice calls, video calls, raw data traffic and any type of content services in both mobile and fixed networks.\" \n\n翻译为中文：\n\"Tecnomen 聚合计费解决方案包括预付费和后付费计费、语音通话、视频通话、原始数据流量和任何类型的服务内容的计费和评级功能，支持移动网络和固定网络。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ramirent is a leading company in machinery and equipment rentals for construction and industry.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{预期 $SPY 收盘价超过 205.20 $AAPL}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alma Media Corporation PRESS RELEASE March 25, 2010 TYRVÄÄN SANOMAT PURCHASE CONFIRMED The business operations of Tyrvään Sanomat Oy will be transferred to Suomen Paikallissanomat Oy.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stellantis汽车制造商与高通公司签署了多年协议，将使用高通下一代车载连接技术，以满足其车辆系列的需求。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Splunk: Full Steam Ahead. Follow this and any other stock on Seeking Alpha!\" 翻译为中文是：\"Splunk: 全速前进。在Seeking Alpha上关注这个和其他任何股票！\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence translates to: \"While $vxx is starting to creep up, $spy is sitting near the hod.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB slight green... May be runner later\"} 的中文翻译为：{\"FB 稍显绿色... 可能稍后会有跑步者出现\"}。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "合作涉及Arena Partners购买新合资公司35%的股份，该公司在Alma Media的住宅销售、车辆和消费者广告市场业务中运营。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale\n\n翻译：\n特易购在出售Blinkbox时放弃视频流媒体业务。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "标准人寿股价：保险公司购买咨询公司Pearson Jones。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"如果公牛足够幸运地获得一个向上缺口填充，最好接受它。不会在这里追逐它。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company website is www.ahlstrom.com.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The evidentiary hearing in the Investigation is scheduled for April 21 - May 1, 2008.\n\n这句英文句子翻译成中文是：\n\n调查中的证据听证会定于2008年4月21日至5月1日举行。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"HSC - Harsco Q1 adjusted EBITDA to be above expectations https://t.co/OWUUn34GRf\"\n\nThe translation to Chinese is: \"HSC - 哈斯科 Q1 调整后的 EBITDA 高于预期 https://t.co/OWUUn34GRf\"\n\n(Note: EBITDA is a financial term that stands for Earnings Before Interest, Taxes, Depreciation, and Amortization.)",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析人士对2022年的S&P 500股票持乐观态度，尽管由于今年开局波动，一些乐观情绪有所缓和。在关于即将到来的更高利率和“居家交易”的讨论中，该交易在2021年推动了回报，投资者重新定位自己，为华尔街可能出现截然不同的年份做好准备。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "安海斯-布希公司（AB InBev）信号表明，它不会对SABMiller采取敌对行动。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"$GPRO\": \"GPRO\"} since Tue morning.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "At the seminar, a memorandum of understanding on co-operation was signed between the Finnish Kemira Company and Vietnam National Chemical Corporation.\n\n在研讨会上，芬兰凯米拉公司和越南国家化学公司签署了合作谅解备忘录。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Take-Two Interactive Software, Inc.（纳斯达克股票代码：TTWO）昨晚在忏悔室中宣布，他们在财政第三季度实现了盈利。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子 \"RIMM SPX NYA COMPQ DJIA all going down\" 的中文翻译：\n\nRIMM (RIMM: Research In Motion Ltd.) 股票下跌，SPX (SPX: S&P 500 Index) 指数下跌，NYA (NYA: New York Stock Exchange Composite Index) 指数下跌，COMPQ (COMPQ: NASDAQ Composite Index) 指数下跌，以及 DJIA (DJIA: Dow Jones Industrial Average) 指数下跌。\n\n翻译为：RIMM、SPX、NYA、COMPQ 和 DJIA 都在下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo 股票已上涨至 $36.46，随着公司争夺战的加剧。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Central Europe is an important market area for Honka. （中欧是Honka的重要市场区域。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jared Woodard, from Bank of America Securities, joins 'Power Lunch' to discuss why stock splits are generally bullish for the company's share price. For access to live and exclusive video from CNBC, subscribe to CNBC PRO: https://cnb.cx/2NGeIvi » Subscribe to CNBC TV: https://cnb.cx/SubscribeCNBCtelevision » Subscribe to CNBC: https://cnb.cx/SubscribeCNBC Turn to CNBC TV for the latest stock market news and analysis.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "You can often find tops and bottoms when shorts start rejoicing or bulls start rejoicing. Currently, it is the shorts rejoicing.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 在盈利能力和盈利方面，2007 年是我们历史上最好的一年，'' 首席执行官 Veli-Matti Mattila 说。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish security and privacy software solutions developer Stonesoft Oyj said on January 7, 2008 that the preliminary sales of its StoneGate products grew by 59% year-on-year to 3.6 million euro ($5.3 million) for the fourth quarter of 2007.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso has also had meetings with the labor authorities, Employment and Economic Development Centres and representatives of the government in order to find solutions. \n\n中文翻译：斯多拉恩索还与劳工部门、就业和经济发展中心以及政府代表进行了会面，以寻找解决方案。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"eBay接近达成一项交易，将以大约40亿美元的价格将StubHub出售给Viagogo。#eBay #Stock #MarketScreener…\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$GALE Breakout Coming Soon!} 翻译为中文是：“{$GALE 突破即将到来！}”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"NASDboy I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings\"} 翻译成中文为：{\"NASDboy 我认为DNF团队可以在接下来的30天内将这个$NFLX的短期空头头寸带到即将到来的盈利报告中。\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Who's sending the right message? 翻译成中文是：“谁在发送正确的信息？”",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This week, all markets have been hit hard under the same conditions that sent them tumbling.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP, the world's largest ad agency, reports strong 2015 growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kylie Jenner Just Got Even Richer 可以翻译成中文：“凯莉·肯纳刚刚变得更富有了。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"优先股为投资者提供了债券的另一种选择。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"寻找致命的电子烟受到大麻合法化混杂情况的阻碍。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alibaba will raise up to $12.9 bln in Hong Kong listing -sources.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "January Chicago PMI 42.9 vs 48.7 consensus; December 48.9",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Let's look at the five biotech/drug companies, slated to release quarterly results on May 5.\n\n翻译成中文：\n\n让我们看看这五家生物技术/制药公司，它们定于5月5日发布季度业绩。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The lay-offs will affect 240 people out of the total 320 Okmetic employees in Finland.\n= 裁员将影响芬兰Okmetic总员工320人中的240人。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Michael Terrell与CNBC气候记者Cat Clifford坐下来讨论谷歌所说的其去碳化旅程的最后一步，即使用24/7无碳能源的目标。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance Live examines several trending stocks from today's leading industry stories, including DocuSign's Q1 earnings miss and intent to slow down hiring, a UK antitrust group probing Apple's App Store restrictions, and Spirit Airlines' shareholders voting on the proposed merger with Frontier.\n\n翻译：\nYahoo Finance Live 检查了今天来自领先行业故事的一些热门股票，包括 DocuSign 的 Q1 盈利低于预期以及放慢招聘的意图，英国反垄断组织正在调查苹果应用商店的限制，以及 Spirit Airlines 的股东对与 Frontier 合并的提议进行投票。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The impact of Cableway on Teleste's net sales in 2009 is estimated to be EUR 4 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\nWGO's BoD 拒绝这个提议是正确的。该公司因为经济原因而处于低迷状态，不是因为任何类型的管理不善或其他原因。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nScalpTrader's recent monster Preferred plays $DCPprB $NGLSprA $TWOprB took off for an average gain of +105% overnight… https://t.co/71rIsHnOfW\n\n翻译成中文为：\nScalpTrader 最近的大型 Preferred 交易 $DCPprB $NGLSprA $TWOprB 平均获得了 105% 的收益。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊（纳斯达克：AMZN）股票在周二获得了提振，因为最近的通胀数据让投资者对零售商感到乐观。这得益于10月份生产者价格指数（PPI）达到了8%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

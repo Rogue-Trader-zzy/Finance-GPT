@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Angola agrees to hand over management of a national park in the Namib desert to a not-for-profit organization that...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$HRL ready to pop! http://stks.co/s0Ny4} 翻译成中文是：{\"准备就绪，即将爆发！http://stks.co/s0Ny4\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FB 不错的买入时机，日内下跌机会就在眼前。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fidelity National to buy FGL Holdings in diversification play\n忠诚国家将购买FGL控股以实现多元化投资。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国消费者因冠状病毒而担心失业和债务支付：纽约联邦储备银行调查。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The First Oil Company Bailout of 2020 is happening in Canada: Select Shares Soar.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司今年最大的活动于周三拉开帷幕，首席执行官蒂姆·库克表示，这家消费电子巨头将专注于其iPhone、Apple Watch和AirPod产品线，并推出更新。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\"亚马逊公司（NASDAQ: AMZN）周一股价略低，周五的看跌行情导致该股下跌4.77%。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$AAPL 620 resistance area} 翻译为中文是：苹果公司在620美元面临的阻力区域。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政因更改送货服务而被指控违反竞争法，Ofcom声称。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n\"Caterpillar: 3 lessons from an iconic brand about digital competition https://t.co/asZKxgDksp\"\n\n翻译：\n\n卡特彼勒：一个标志性品牌的数字竞争的3个教训 https://t.co/asZKxgDksp\n\n请注意，该翻译是基于原文中的链接，但链接的实际内容可能与翻译的句子不完全相同。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The RNN day traders have been flushed out, it should start going up slowly from now on.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 收盘动作表明 AAPL 可能触及短期高点。 巨大的上涨后动力减弱。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, I can help with that. However, I need the English sentence you want me to translate into Chinese. Please provide the sentence and I will translate it for you.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Inflation is the driver behind recent market declines. Now that the Fed is fully committed to fight it, stocks should get a boost.\n\n翻译为中文：\n\n通货膨胀是导致近期市场下跌的推动力。现在美联储已经完全承诺对抗它，股票应该会得到提振。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Western Digital is 'flashing' green, adding to the hope that the flash market is improving (WDC) https://t.co/9moaLxySqN $WDC\" 的中文翻译为：\n\n\"西数（Western Digital）正在显示绿色，这增加了对闪存市场的希望，认为市场正在改善。（WDC）https://t.co/9moaLxySqN $WDC\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nThe House committee investigating the January 6th attack on the Capitol issued subpoenas to four major tech companies, including Alphabet, Meta, Reddit and Twitter, for documents related to the spread of election disinformation on social media and the use of platforms by violent extremists. Bennie Thompson, the chairman of the committee, said they were examining...",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Peigs www.peigs.se will become part of Sardus Latta Maltider Light Meals unit. 翻译为：Peigs www.peigs.se将成为Sardus Latta Maltider Light Meals单元的一部分。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HIG continues busy fundraising year by closing $3.1bn mid-market buyout vehicle.\n翻译为中文：\nHIG 继续繁忙的募资年份，关闭价值 31 亿美元的中端市场收购工具。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "US Android app developers will be able to claim money from a new $90 million fund Google will establish as part of a wider settlement with app makers over the tech giant's app store practices, the company said Thursday.\n\n美国安卓应用开发者将能够从谷歌建立的新90亿美元基金中获得资金，作为与应用程序制作者就科技巨头应用商店实践达成的更广泛和解协议的一部分，该公司周四表示。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊的两位高管离职，电子商务巨头周二确认了这一消息，就在首席执行官安迪·贾西（Andy Jassy）任命该公司陷入困境的零售业务新负责人几个小时后。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The bridge is part of the highway 14 development project.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰家居装饰和手工艺品零售商Tiimari Plc（OMX Helsinki: TII1V）于2008年1月至6月期间报告了净销售额为33.9亿欧元的操作亏损3.3亿欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"Ingenious, HSBC, UBS and Coutts are being sued by 'tax avoidance' clients.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chinese state media increased criticism of the U.S. and accused it of interfering in its domestic affairs.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "These share transactions are part of the company's strategy of relinquishing assets that are not part of its core business.\n\n翻译成中文：\n这些股份交易是公司放弃非核心业务资产策略的一部分。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury's says to outperform rivals in tough market\n\n这句英文句子的中文翻译为：“赛恩斯伯里表示，在艰难的市场中，他们将超越竞争对手。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果他不幸去世，那么他去世了。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Merck将提高每股股息11%至61美分。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock splits are more effective when investors are eager to buy stocks than when they aren't. \n= 当投资者热衷于购买股票时，股票分割更加有效，反之则不然。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Raytheon Shows Its Strength Heading Into United Technologies Deal\n\n雷神公司进入联合技术公司交易时展现其力量。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"RT @robbieLOLZ $NFLX A close above here is looking good for the bulls. Will hold my positions to see where we close at. Keep buying here.\"\n- 我将在股价在此处以上收盘时继续持有我的头寸，看看我们最终会在哪里收盘。在此处继续买入。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股票指数期货在失业救济申请和生产者价格数据公布后进一步扩大亏损。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语：{\"i-Grid shows $DIA capped for the long term at range of 123.40- 124.77;any rally beyond today's levels or into this range leads to meltdown.\" 翻译为中文是：\"i-Grid 显示 $DIA 长期被限制在 123.40-124.77 的范围内，任何超过今天水平或进入此范围的反弹都会导致崩盘。\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cramer gave his take on why investors shouldn't sell their shares of Apple on Monday. = 克劳默解释了为什么投资者不应该在周一出售他们持有的苹果股票。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The identity of the buyer is not yet known.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Twitter用户应该检查谁在关注他们，并且谨慎地点击URL和tinyurls。''",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OVA Press has a 60% stake in the joint venture, while IMSM holds a 40% stake.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Swedbank's shares have been hardest hit of the Swedish banks by the ongoing international financial crisis. \n\n瑞典银行的股票是受国际金融危机影响最严重的瑞典银行之一。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"美国对中国出口将在'完全达成'贸易协议中几乎翻倍：莱特希泽\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I'm loading $SPY and $AAPL puts. I think they're toppy IMHO. \n\n（翻译）：我正在加载$SPY和$AAPL的看跌期权。我认为它们处于高位，个人观点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sanoma，一家芬兰报纸出版商，是媒体集团SanomaWSOY的一部分，自2008年9月中旬起，将合并其免费报纸Uutislehti 100和Metro，以形成一份名为Metro的新免费报纸。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UBS 因为对药物发布成本的担忧而下调了诺和诺德 (Novo Nordisk) 的评级。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Healthpeak Properties Q4 Earnings Preview} 的中文翻译是：\"健康峰地产Q4盈利预览\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Brazilian food delivery app iFood aims to expand in retail in 2020}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 下跌正在被迅速买入。确实有更高的低点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish waste management and recycling company Lassila & Tikanoja expands its operations in Russia by introducing its recently completed recycling plant in the city of Dubna near Moscow.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Saputo Canadian Closures Show How Much Dairy Industry Is Hurting\n翻译：\n萨普托加拿大关闭显示了乳制品行业受到的损失程度。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"第一阶段贸易协议是进步，这是希尔公司首席执行官的观点。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"为什么亚马逊云计算业务的利润可能即将大幅上涨。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

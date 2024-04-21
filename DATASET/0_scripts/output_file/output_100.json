@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{STM vs. NVDA: Which Stock Is the Better Value Option?}\n翻译成中文为：\n{STM vs. NVDA：哪只股票是更好的价值选择？}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Severn Trent share price rises as first half profit inches up as customer ...",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron Technology Inc #NASDAQ: $MU down 2.3% today and down 8.9% since being put on \"The Short\" https://t.co/EQQLTfUiOU\n\n翻译为中文：\n美光科技公司 #纳斯达克：$MU 今天下跌2.3%，自被列入“做空”名单以来已经下跌了8.9%。https://t.co/EQQLTfUiOU",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Consolidated net sales increased 16% to reach EUR74.8m, while operating profit amounted to EUR0.9m compared to a loss of EUR0.7m in the prior year period.} 可以翻译为：\n\n{合并后的销售额增长了16%，达到7,480万欧元，而经营利润为900万欧元，相比上一年同期亏损了700万欧元。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Impending End Of A Mania 即将结束的狂热",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"An appeal concerning the project has been lodged at the Czech Ministry of the Environment.\" 翻译为中文是：\"关于该项目的一个申诉已提交给捷克环境保护部。\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sales of mid-strength beer decreased by 40%.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Have Never Been More Bullish On MGE Energy, Inc. (MGEE) 翻译为：对 MGE 能源公司（MGEE）的信心从未如此强烈。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "On January 29, 2009, the largest Nordic bank Nordea and Finnish retail chain Stockmann launched a regionally unique cooperation project: they are the first to introduce a common MasterCard credit card enabling payments in different states and stores.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Facebook went green on day.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Randgold的利润受到金价下跌的影响，但股息仍然增加。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating loss amounted to EUR 0.8 mn, compared to a profit of EUR 3.9 mn a year earlier. \n\n中文翻译：\n营业亏损达到0.8百万欧元，而一年前则实现了0.9百万欧元的利润。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Why Honeywell International's Guidance Looks Conservative\n翻译：为什么霍尼韦尔国际的指引看起来保守？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我看到从这里起，FB股票有20%的上涨空间。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Salesforce.com的波动性是否会持续到下一年？}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CNBC's Kate Rooney reports on news about Amazon and payment service Venmo.\" 翻译为： \"CNBC的Kate Rooney报道了关于亚马逊和支付服务Venmo的新闻。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AstraZeneca acquires ZS Pharma for $2.7 billion, outbids Actelion\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft 在最新季度报告了 49.4 亿美元的收入，远超华尔街的预期。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Market Morning: Chinese Army in Hong Kong, Boeing Walks Back Comments, Kraft Heinz Cheese Problems\n\n市场早报：中国军队在香港，波音撤回评论，卡夫亨氏芝士问题。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"通过实施该软件，芬兰陆军旨在统一和改进其在这些应用领域的操作，QPR软件表示。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft's results could benefit from sales of Office 365 productivity software subscriptions from customers wanting to avoid getting hit with price increases.\n翻译为：\n微软的业绩可能受益于客户想要避免涨价而购买 Office 365 生产力软件订阅的情况。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The negotiations concern personnel of Cencorp Corporation and Singulase Oy as a whole in Finland and in Sweden, the company said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“{UPDATE 1-Canadian Competition Bureau clears Pembina's Kinder Morgan buy}”的中文翻译：\n\n加拿大竞争局批准彭宾纳公司收购金德摩根公司。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果新闻再次变得非常看涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The acquisition sum has not been disclosed.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Euroseas EPS 盈利超过预期 $0.02，收入也超出预期。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{AB InBev will sell more SAB assets as it seeks EU deal approval}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jensen, Njastein and Mike Critch, the head of Dovre North America business unit, will report to Toivola.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P 500 down 0.2%; Nasdaq Composite down 0.3% 可以翻译为：“标普500指数下跌0.2%；纳斯达克综合指数下跌0.3%”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "That was quick, out $FIO 21.35, market tanking, scaling down longs now. \n\n中文翻译：\n速度很快，卖出 $FIO 21.35，市场暴跌，现在正在缩减多头头寸。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"摩根士丹利分析师估计，如果亚马逊将JFK8员工的每小时工资提高到29美元，它可能会增加2023年的运营费用至约2.03亿美元。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company expects its net sales for the whole 2009 to be at previous year levels.\n\n翻译：该公司预计其2009年的净销售额将与去年持平。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Children's Place downgraded as e-commerce puts margins at risk.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translated sentence in Chinese is: \"仍有128,538股可以订阅，可以使用系列E股票选项，最大值。\" \n\nThe English translation of the sentence is: \"128,538 shares can still be subscribed for with Series E share options, maximum.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊指控其在史坦顿岛的仓库新成立工会威胁员工，除非他们投票决定组织，这一说法，工会律师称其为“非常荒谬”。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco打破其下跌趋势，将销售下滑幅度减半。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BlackBox Team has been called by LK.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix is laying off around 150 employees across the company, CNBC confirmed Tuesday.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC的Steve Kovach报告了苹果的盈利情况，交易员们讨论了如何交易它。与CNBC的Melissa Lee以及Fast Money交易员Guy Adami、Bonawyn Eison、Dan Nathan和Courtney Garcia一起。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As Costco expands its presence in Taiwan, the best mutual funds add shares of COST stock to their carts, pushing it toward a breakout. The post Retail Giant Shops For Breakout As Top Funds Scoop Up Shares appeared first on Investor's Business Daily.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "短期游戏许可证的费用低至3美元，而直接购买游戏可能需要花费10美元或15美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"禁令在86年前结束。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"投资者可能希望考虑以下列出的股票，因为它们符合以下价值标准：\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{您是否应该密切关注这些顶级消费科技股票？}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence is already in English, so I will provide its translation in Chinese.\n\n英文句子：{$vxx starting to creep up while $spy sits near hod ...}\n\n中文翻译：{$vxx 开始缓慢上升，而 $spy 靠近 hod ...}\n\n解释：在这个句子中，$vxx 和 $spy 是代表股票或资产的市场代码，而 \"creep up\" 意味着它们的价格或价值逐渐上涨，\"hod\" 可能指的是某种特定的市场指标或水平。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The PMI Survey Comments Signal Calmer Waters Before Possible Coronavirus Storm.\n\n翻译：\nPMI调查评论在可能的冠状病毒风暴之前预示着更平静的水域。\n\n英文翻译：The PMI Survey Comments Signal Calmer Waters Before Possible Coronavirus Storm.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新兴市场-股票、货币因对美国-中国贸易协定的希望而小幅上涨\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GlaxoSmithKline 股票价格下跌，因为 FDA 仅批准哮喘治疗仅适用于成人。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"苹果股价反弹至支撑位，似乎如此。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司梅格蒂特利润受到能源和军事市场疲软的影响。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

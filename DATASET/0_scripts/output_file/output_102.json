@@ -1,0 +1,302 @@
+[
+  {
+    "input": "AAPL weekly still under the 50 moving average and creating a lower high.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nScandinavian lenders Sampo Bank (HEL: SAMAS), Pohjola Bank (HEL: POH1S), and Svenska Handelsbanken (STO: SHB A) have provided a EUR160m (USD213m) line of credit to Lemminkainen Oyj (HEL: LEM1S), the Finnish construction firm said on Friday.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Scanfil on 10 April 2006 issued a profit warning.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "These are the funds most exposed to Thursday's panic sale. 直译为：“这些基金是周四恐慌抛售中受影响最大的。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The 15 cities with the most billionaires: 全球拥有亿万富翁最多的15个城市。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Diageo 的销售业绩令人失望，因为货币和比较数据留下了苦涩的滋味。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Intel CEO Patrick Gelsinger主张，在半导体芯片制造全球短缺之前，国会“必须采取行动”以提高半导体芯片制造。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Among the Scandinavian companies present in St. Petersburg, is also named the Swedish concern NCC, which implements projects in the field of asphalt production, road and housing construction (project Swedish Krona).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"As a result of the merger, the largest professional electronics and telecommunications technology contract manufacturing center in Finland will be formed in Sievi.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "金价下跌，因为贸易协议的乐观情绪使风险资产受益。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company reported today an operating loss of EUR0.1m on net sales of EUR4.5m for the first quarter 2008. \n\n公司今天报告称，2008年第一季度净销售额为EUR4.5m，经营亏损为EUR0.1m。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The N+1 Group will pay EUR16.5m of the transaction price upon closing, and the remaining sum in 2012.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft's $70 billion bid for Activision may be reviewed by the Federal Trade Commission (FTC) in what will become its first test to show its new approach to mergers since the joint consultation with the Justice Department's Antitrust Division (DOJ) to review the merger guidelines, according to Bloomberg. Read more: FTC, DOJ Launch Consultation To […]\n\nMicrosoft 70 亿美元收购 Activision 可能会受到联邦贸易委员会 (FTC) 的审查，这将成为其自与司法部反垄断局 (DOJ) 联合审查合并准则以来首次展示其新合并方法。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Renzo Piano's building design will be a wonderful addition to London's skyline,\" says Noud Veeger, EVP and Area Director for Central and North Europe at KONE.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mondelez International (MDLZ) is focused on solidifying its portfolio through buyouts. Also, strength in emerging markets and pricing have been aiding it amid inflated costs.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{购买了一些额外的 $CELG，因为它即将反弹。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"PyPL great vol flow trade here.. Love this company long time.\" 的中文翻译为：\"在这里，PyPL 的大成交量流动交易很棒，我已经长期热爱这家公司了。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"限制密码共享可以显著提高Netflix的收入。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国证券交易委员会周五表示，由于它称之为“不充分的披露”，涉及加密挖矿对公司游戏业务的影响，已与科技公司英伟达公司解决了指控。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kylie Jenner Just Got Even Richer.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Top Executive Calls on Government to Help Hong Kong Hotels\" 的中文翻译是：“高层呼吁政府帮助香港酒店”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stonesoft is a global provider of proven, next-generation solutions that simplify network security management.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国联邦政府在这个问题上明确了立场，供应商及其客户都专注于在截止日期前达成一致。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Also, BMO had just initiated $incy with an outperform yesterday, while several other firms all reiterated buy ratings.\" 翻译成中文为：\"此外，BMO 昨天刚刚推出了 $incy，并给出了优于市场表现的评级，而其他几家公司也都重申了买入评级。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"通过将现有的解决方案整合到一个单一平台上，Comptel表示它已经降低了部署成本。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nFed launches unprecedented range of credit support\nhttps://t.co/3WQX0rnURD\nhttps://t.co/YAnONEz11p",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The end-to-end delivery combines the competencies and services from TietoEnators Telecom & Media, Processing & Network and Digital Innovations Business Areas. \n\n翻译：端到端的交付结合了 TietoEnators 电信与媒体、处理与网络以及数字创新业务领域的专业能力和服务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance娱乐记者Allie Canal加入Live Show，解读Netflix裁员的决定以及Bank of America对流媒体平台股票的定价目标削减。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据法律，大学现在可以获得私人资金。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"巴克莱集团（Barclays PLC）和劳埃德银行集团（Lloyds Banking Group PLC）是今天我会购买的2家银行。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "稀释每股亏损为0.15欧元，与0.26欧元相比有所下降。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Edited Transcript of NE earnings conference call or presentation 31-Oct-19 1:00pm GMT\"\n\n中文翻译：\n\"编辑后的财务报告会议记录或演示文稿，时间：2019年10月31日下午1:00 GMT\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ENDP is being sued by the FTC...nobody will buy them with that hanging over their heads.}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：CNP Sell Short Position on CNP,...Closed for Profit $59,367.00 (7.75%) http://stks.co/ghjc\n\n中文翻译：卖出CNP的做空头头寸，以获利$59,367.00（7.75%），网址为http://stks.co/ghjc。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ADP News - Nov 18, 2008 - Finnish AC drives manufacturer Vacon Oyj OMX: VAC1V said today that it had set up new representative offices in Romania and Ukraine to serve the growing markets in eastern and southeastern Europe.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"美国股市周二录得强劲涨幅，投资者情绪因一批强劲企业盈利而得到提振。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The currency effect had a 3.0 pct, or 20 mln euro ($31.3 mln), negative impact on the revenue. 翻译为：货币效应对收入产生了3.0%，或2000万欧元（3,130万美元）的负面影响。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The production situation has now improved.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{long $AAPL} 的中文翻译为：{长持苹果股票}。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Reebok 加入植物基潮流，推出素食运动鞋。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Electric vehicle stocks have been crushed, just as most growth stocks have been. But is there an opportunity in EV stocks now?\n翻译为中文：\n电动汽车股票已经被压垮，就像大多数成长股一样。但现在电动汽车股票中是否有机会呢？",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GeoSolutions technology will utilize Benefon's GPS solutions by offering Location Based Search Technology, a Communities Platform, location-relevant multimedia content, and a new and powerful commercial model.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"All Lam does is promise to listen, then ignores critical voices. These last six months have made it clear we need…\" 翻译为中文是：“兰的所有行为都是承诺倾听，然后忽视批评的声音。这过去的六个月已经表明我们需要……”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Boeing Company (NYSE:BA) Bearish Trader bets $550K that Stock Will Sell Off 9.79% by July Expiry $BA\n\nBoeing 公司 (NYSE:BA) 空头交易员下注 550,000 美元，预计该股将在 7 月到期时下跌 9.79%。$BA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{Highlight: '地球上最健康的人' @mathewfras 谈论投资：https://t.co/tBc8uSnphc}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FTC 将在未来几周内决定是否对亚马逊计划与 MGM 合并提起反垄断诉讼。今日，The Information 报道称，美国监管机构正在考虑包括聘请专家证人在内的行动。这笔价值 84.5 亿美元的交易于去年五月宣布，当时正值华纳媒体和发现公司宣布合并的同期。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This Biotech Deal Is a $10 Billion Leap of Faith\n这句英文句子的中文翻译为：“这笔生物科技交易是一次价值100亿美元的信仰飞跃。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit totaled EUR 825mn, up from EUR 763mn in 2004.\n\n中文翻译：\n经营利润总计为8250万欧元，比2004年的7630万欧元有所增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix has acquired Spry Fox, a Seattle-based independent gaming studio focused on cozy games, the streaming giant announced on Monday. The financial terms of the deal were not disclosed.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"这家公司总部位于这座城市，已有近75年的历史，专注于基于科学的创新和技术，用于环境测量。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

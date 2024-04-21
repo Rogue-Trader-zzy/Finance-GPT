@@ -1,0 +1,302 @@
+[
+  {
+    "input": "以下是英文翻译：\n\n\"自我们上次建议卖出以来，美光科技（Micron）在标普500指数中表现明显低于预期，但目前它变得更有吸引力了。该公司面临的挑战是每年其业务资本义务占其市场资本化的15%。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沃尔玛因一名因冠状病毒去世的员工的家属提起的过失致人死亡诉讼而受到指控。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沙特阿拉伯和其他国家抵制墨西哥计划进行小幅石油产量削减的提议 - 消息来源。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Many people don't even realize the fintech momentum of this business. 翻译为中文是：许多人甚至没有意识到这个行业的金融科技动力。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Old Mutual Q1 gross sales beat forecasts, up 18 pct\n\n旧金山实验室",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies https://t.co/6NKWEcrBA5 $AAPL $AXP $BAC $BLUE $FXE\n\n隔离主义？另一个卖出评级，卖出评级在SPY，QQQ，IWM和几家公司的股票。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "乙醇将由大麦制成，生产可能于2008年开始。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Nord Stream 2 已过‘无法挽回’的点\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ulta Beauty's (ULTA) 2021年第四季度的业绩反映出更高的收益和销售，这得益于所有主要类别和差异化模型的增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish insurance company Fennia and Kesko Group are ending their loyal customer cooperation.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{你应该瞄准那些具有强大特许经营权和持久竞争优势的公司，并在下一次市场崩盘中购买它们。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "九月是今年苹果股票表现最弱的一个月。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司：狂飙突进的上涨行情才刚刚开始！(AAPL) | 投资者之家 $AAPL https://t.co/jrcFC8XlY9",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的FTSE指数保持稳定，得益于迪克森斯卡朋的支撑。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2019年就业增长略有下修，至209万个工作岗位。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc (NASDAQ: AAPL) 据报道正在准备今年稍晚发布搭载 M2 芯片的几款新 Mac。以下是详情。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "铜市场可能会受到格伦柯关闭带来的2003年式的供应冲击。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "U.S. Treasury lifts Iran sanctions on Dalian unit of Chinese shipper COSCO.\n\n美国财政部取消了中国航运公司COSCO大连分公司的伊朗制裁。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n“4 家可能成为收购目标的互联网公司：#Twitter $TWTR - #LinkedIn $LNKD - #Yahoo! $YHOO - #Groupon $GRPN”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在4月，Netflix透露，自十年前以来首次出现了流失订阅用户的情况。现在，公司因增长缓慢而裁员。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Looks like it's booking a one-way ticket to its 40-week MA near 50. Losing 10 weeks here $LULU\" 可以翻译为 \"看起来它正在预订一张单程票，前往其 40 周移动平均线附近的 50 美元。在这里失去了 10 周 $LULU\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We are very excited working with Maxis on this first commercial deployment of `Master of Maya', said Joe Doering, Head of the Asia South region at Nokia Siemens Networks.\" 翻译成中文为：“诺基亚西门子网络亚太南部地区负责人Joe Doering表示，我们非常兴奋能与Maxis合作，进行首次商业部署的`Maya大师'项目。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "However, the suspect stole his burgundy Nissan Altima.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "They can be used to control the speed of electric motors used by industry and municipal engineering, and in power generation using renewable energy.\n\n翻译成中文为：\n它们可以用于控制工业和市政工程中使用的电动机速度，以及在可再生能源发电方面。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hargreaves Lansdown在市场疲软的情况下，资产上升2.6%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是爱沙尼亚按市场份额计算的第二大肉类加工公司（根据AC Nielsen 2008年的数据，13%）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton share price: Brazil to sue Samarco for £3.5bn\n翻译：\n必和必拓股价：巴西将对萨马科索赔35亿英镑。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lemminkainen Infra Oy 的子公司 Lemminkainen Sverige AB 将负责施工工作，预计将于 2011 年初开始，并在 2013 年夏季完成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FTSE 从三个月低点反弹，受到 StanChart 和 Sainsbury 的提振。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大多数原材料来自欧洲和美国，并以欧元或美元支付，而销售则以卢布进行。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$REN bottoming out again.. Good time to buy} 的中文翻译是：“REN 再次触底... 买入的好时机。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "请记住... $DIS $AMZN $TSLA 截止本周结束达到20k，截止本月底达到25k。免费试用今天和明天开放，点击林...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "5家获得Merrill Lynch买入评级的科技股，它们支付大额股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Excel's board of directors will propose a dividend of 0.2 euro per share for 2006 at the annual general meeting on April 19, 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着消费者支出放缓，燃料成本上升，以及经济衰退的可能性仍然很高，JP摩根科技分析师在周三下调了他们所覆盖的所有公司的财务预期。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "升级对Nvidia的评级从持有到买入，因为以太坊合并的影响比预期要小。原因#1：GeForce RTX 4090的成功发布。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "iPhone 14何时到达？以下是苹果公司的历史和一些当前谣言告诉我们的内容。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo Finance's Julie Hyman and Brian Sozzi talk about noteworthy stocks during early trading on Wednesday.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Citi's equity research managing director Jim Suva, specializing in technology, joins Yahoo Finance Live anchors to discuss Apple's earnings, supply chain concerns for the tech giant, the iPhone upgrade cycle, and Tim Cook's leadership.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EUR/USD 在 1.10 附近找到支撑 {EUR/USD Finding Support Near 1.10 Level} 美元指数（$UUP）上涨 {ERO} 美元指数期货（$UUP）上涨 {UUP} 美元指数期货（$UDN）下跌 {UDN} 欧元兑美元期货（$FXE） {FXE} 链接：{http://stks.co/b29eU}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{耐心对美国的老年投资者来说是值得的。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "航空系统维护公司总部位于堪萨斯州，2008年净销售额为260万美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CIB, Legal & General Sell Egyptian Life Joint Venture To AXA 翻译为：“中信银行、法律及通用保险出售埃及人寿合资企业给AXA”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Whitbread's Profit Up As Sales Continue To Rise, Looking For New CEO\n\n惠特布莱德公司的利润随着销售额的持续增长而上升，同时寻找新的首席执行官。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB\" 股票在 IPO 价格下高成交量地交易，许多卖家试图在此抛售。可能在这里需要一段时间来巩固，然后才能上涨。}\n\n英文翻译：Facebook is trading at high volume at its IPO price, with lots of sellers trying to get out. It might take some time here to consolidate before moving higher.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA: You have to love these types of articles. SS interest rose on 12/15 on the day before we hit our lows. http://stks.co/c1QKr\n\n翻译：\n特斯拉：你一定喜欢这类文章。12月15日，在股价触底前一天，SS兴趣有所上升。http://stks.co/c1QKr",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "华尔街策略师对俄罗斯-沙特“舞步”持怀疑态度，称投资者应该等待。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "《星球大战》导演J.J.阿布拉姆斯谈如何导致《天行者崛起》剧本出现在eBay上。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{随着容量减少1.4%，载客因子下降了7.8个百分点。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva Investors to move 34 billion euros in assets from AXA fund arm.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

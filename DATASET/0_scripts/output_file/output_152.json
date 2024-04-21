@@ -1,0 +1,302 @@
+[
+  {
+    "input": "好的，以下是您的英文句子的中文翻译：{\"mugatushair 现在可以卖出 $TSLA\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"Tesla's recall is not a big deal... the problem now is that they will have an excuse to guide prices way lower.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "产品研发投资额为600万欧元（8800万美元）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barclays从JP Morgan Chase挖来了新首席运营官Paul Compton。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Crude heads for weekly advance as coronavirus worries recede\" 可以翻译成中文为 \"原油价格周线上涨，随着冠状病毒担忧情绪的消退\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在亚洲早些时候，日本的日经指数下跌了0.62%，而香港恒生指数上涨了0.56%。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康的股价上涨3%，因为制药商上调了利润预测。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果病毒情况恶化，中国是否会宣布不可抗力？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据最新信息，贝非恩将于2006年9月20日推出其Twig设备。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"正在申请一张新的信用卡去购物黑色星期五？你可能需要再三考虑。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"YELP\": \"Yelp\"} is a review site for local businesses, and \"This goes green and so many shorts are toast!\" seems to be a quote from a movie or TV show. Here's a possible translation:\n\n\"This goes green and so many shorts are toast!\" → \"这变成了绿色，而许多短裤都被烤焦了！\"\n\nNote that this translation is a direct translation and may not be entirely accurate in terms of idiomatic expressions or cultural context.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Standard & Poor's 确认美国州水公司和黄金州水公司的 'A+' 信用评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong 翻译为：\n中国工商银行将收购巴克莱财富管理部门在新加坡和香港的分支机构。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Twitter CEO Jack Dorsey is funding a small team to chase his idealistic vision for social media.\n\n翻译：\nTwitter CEO Jack Dorsey 正在资助一个小团队，以追逐他在社交媒体上的理想主义愿景。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The weakness of the dish continues again. Resistance in the 49.43 area after last week.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "有多少机构持有中国蒙牛乳业股份有限公司（HK:2319）的股票？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \n\n请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{JEOL : Form 8.5 (EPT/RI)- Just Eat plc AMENDMENT #JEOL #Stock #MarketScreener https://t.co/EzlnPgve80 https://t.co/Ymcgw5V8l8}\n\nTranslation: \n\nHelp me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {JEOL : Form 8.5 (EPT/RI)- Just Eat plc AMENDMENT #JEOL #Stock #MarketScreener https://t.co/EzlnPgve80 https://t.co/Ymcgw5V8l8}\n\nPlease note that the URL links in the original sentence are not translated, as they are not part of the sentence content.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "西班牙的CaixaBank预计将完成对Banco BPI的收购。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 在第三季度增加了 2.41 万名订阅者。在连续两个季度缩减订阅者增长后，订阅者增长对于华尔街来说至关重要。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Insurance policies should be simple. 保险政策应该简单。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是短裤无法显现的原因...长、稳定、小爬坡。积累价值的最佳方式。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "个人电脑销售疲软与数据中心销售强劲混合在一起，使AMD公司的业绩成为了“外面有点脆，但中心部分仍然味道不错的零食。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"AAPL\" now beaten down, hated, etc. / hhhmm opposite of 700> what happens next?}\n\n苹果公司现在被打败了，被憎恨，等等。/ hhhmm 与 700 相反的，接下来会发生什么？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alnylam Pharmaceuticals Reports Fourth Quarter and Full Year 2019 Financial Results and Highlights Recent Period Activity\n\n“Alnylam Pharmaceuticals 发布第四季度和2019年全年财务业绩，并强调近期活动亮点。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Berkshire Hathaway is seeking to increase its stake in Wells Fargo above 10 percent.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这篇文章讨论了在2022年可以获得丰厚回报的七只沃伦·巴菲特股票。这些是现在投资的最佳沃伦·巴菲特股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva, M&G suspend property funds as investors panic.\n\n中文翻译：\n英杰华、M&G暂停房地产基金，因为投资者恐慌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"In 2008, the deal is likely to bring savings of EUR 20mn-25mn.\"\n\nThe Chinese translation is: \"在2008年，这笔交易可能带来2000万欧元至2500万欧元的节省。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In China, Finnish Kone, which provides elevators, escalators, and solutions for modernization and maintenance, will build 342 escalators that will be installed in a high-speed railway section between Beijing and Shanghai within a 1.5-year time frame.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This lays a foundation for sustainable business development for the long term.\n\n翻译成中文为：这为长期可持续的企业发展奠定了基础。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是我作为投资者学到的最早的一课之一：远离债务。远离那些有很多债务的公司，也远离个人债务。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新的协议，扩大了两家公司之间长期存在的合作，涉及将某些工程和文档功能从Larox转移到Etteplan。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"赫尔辛基，芬兰，2009年9月18日（环球新闻电讯）--Ixonos Plc扩大了公司的智能手机研发服务，并与Ixonos位于Jyväskylä的地点合作，建立了一个新的下一代智能手机设计部门。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stonesoft is a global provider of proven, next generation solutions that simplify network security management. \n\n翻译为中文：Stonesoft是一家全球领先的供应商，提供经过验证的、下一代解决方案，以简化网络安全管理。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval 翻译为：AB InBev 的最新出价被认为不太可能获得 SABMiller 的批准。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AGN and PYPL are under pressure along with the market, however, there were bullish options trades in both this morning.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's grocery deal with Morrisons is only the beginning. 翻译成中文为：“亚马逊与莫里森的杂货交易只是开始。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The second mouse gets the cheese @JeffCooperLive https://t.co/kRVjlFDpgq 翻译成中文为：\n\n第二个鼠标得到奶酪 @JeffCooperLive https://t.co/kRVjlFDpgq",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SFL Corporation Ltd. (NYSE:SFL)的8.2% ROE是否低于平均水平？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gulfport Energy to stop share buybacks, cut jobs; Houston to leave board. \n\n翻译成中文为：Gulfport Energy停止股票回购，裁员；Houston将离开董事会。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.\n现在我很高兴我在当时被止损了。我会在下周一开始重新入场，因为会迎来#盈利上涨期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Children's Place price target cut to $80 from $105 at Monness Crespi Hardt\" 翻译为中文为 \"Monness Crespi Hardt 将 Children's Place 的目标价格从 $105 削减至 $80\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是该英文句子的中文翻译：\n\n“为什么 $TWTR 在一张图表中注定失败，与 $FB $GOOG 比较，https://t.co/MpyLiReQjh https://t.co/nlcZawDoHP”\n\n该句子的英文翻译为：\n\n\"Why is $TWTR doomed in 1 chart compared to $FB $GOOG, https://t.co/MpyLiReQjh https://t.co/nlcZawDoHP\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD预计PC营收业务将损失近11亿美元。尽管PC营收出现偏差，AMD整体仍预计将实现近29%的年增长率。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Trans Mountain expansion costs soars to C$12.6B - report\n翻译成中文：\nTrans Mountain 扩建成本飙升至 12.6 亿加元 - 报告",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet Inc (NASDAQ: GOOGL) (NASDAQ: GOOG) shares are trading lower by 3.87% to $2,110.35 Thursday afternoon in sympathy with the overall market. Companies in the broader technology sector are experiencing marked weakness after the Federal Reserve Wednesday afternoon raised its target.",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：{$BWLD bearish engulfing candle}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The CAT is hanging on a thread. 1 click away from a cliff drop. Needs follow-through (or snap-back on the VIX).",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"特朗普提议出售1500万桶美国紧急储备原油，作为其2021财年预算的一部分……\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"While Costo Wholesale Corporation (NASDAQ:COST) saw a mostly upbeat fiscal second-quarter report, posting earnings and revenue that topped analysts' estimates, a drop in same-store sales growth is hurting the shares this morning.\" 翻译为中文是：“尽管科斯托批发公司（纳斯达克证券交易所：COST）在第二财季的业绩报告中表现出了积极的态势，收入和收益都超过了分析师的预期，但同店销售增长下降正在影响今天股票的表现。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

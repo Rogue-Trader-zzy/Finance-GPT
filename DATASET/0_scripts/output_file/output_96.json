@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"VRTX vs. TECH: Which Stock Is the Better Value Option?\" 的中文翻译为：\"VRTX vs. TECH: 哪只股票是更好的价值选择？\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\n- 结束反转。11X 3K 股 = $330 - 现在是多头 - 没有跟随通过，价格行动的任何一方。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Growing investor interest in space 翻译成中文是：太空投资的日益增长。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oppenheimer downgrades to Perform.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stan C. Moss is CEO at the investment management firm Polen Capital, one of the largest hedge funds based on assets under management.\n\n翻译：斯坦·C·莫斯是资产管理公司波伦资本的CEO，这家公司是资产管理规模最大的对冲基金之一。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Novartis 将以 CHF0.50（注册）收购 The。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Maglan Capital Up +20.84% In February, Long Fairpoint  http://stks.co/s1eQc $$ $FRP\" 可以翻译为：\n\n\"Maglan Capital 在 2 月份上涨了 20.84%，长期看好 Fairpoint。http://stks.co/s1eQc $$ $FRP\"\n\n这里，\"Maglan Capital\" 指的是一个资本公司或基金，\"Fairpoint\" 可能是一个公司或股票，而 \"2 月份上涨了 20.84%\" 则表示该公司在这一月份的股价上涨了 20.84%。最后的链接 \"http://stks.co/s1eQc $$ $FRP\" 可能是相关新闻、报告或数据的链接。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天对支持进行了平稳的累积。Purdy。$AGU",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nevertheless, Fitch notes that the business fundamentals of the three banks currently remain sound.\n\n然而，菲奇指出，这三家银行目前的业务基础仍然稳固。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英明神武的HSBC、UBS和Coutts被“避税”客户起诉。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n{$GLD http://stks.co/44ow On closer inspection.  Resistance 10 points north at 200d and downward trendline. Chart 2 of 2.} \n\n$GLD http://stks.co/44ow 在更仔细的检查下。 10 点北方的阻力，以及 200d 和向下趋势线。图表 2 中的 2。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The agreement, which will cover monitoring, maintenance, server capacity service and backups, has a one-year extension option.\" 翻译成中文是：\"这份协议将涵盖监控、维护、服务器容量服务和备份，并有为期一年的延长选项。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 周二公布的季度收益主题可能是尽量减少坏消息，而不是展示好消息。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"CXCY looks like an ascending channel on Finfiz http://stks.co/f26r4\"\n\nIn Chinese, it translates to: \"CXCY看起来像Finfiz上的一个上升通道 http://stks.co/f26r4\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon is opening its first-ever Amazon Style physical clothing store with the promise of a high-tech shopping experience, confirming a rumor from last year. \n\n翻译成中文：\n亚马逊正在开设其第一家实体服装店，这是亚马逊风格的，承诺提供高科技的购物体验，证实了去年的传闻。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "哪个国家在肥胖问题上花费最多？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰轮胎制造商Nokian Tyres计划于2011年在俄罗斯列宁格勒地区的Vsevolozhsk市扩建轮胎工厂，投资约5000万欧元，该公司总裁Kim Gran周四告诉记者。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Svyturys-Utenos Alus，由北欧集团Baltic Beverages Holding（BBH）控制，在1月至9月的啤酒销售额增长了6.1％，达到1,011.99万升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MillerCoors实现2014年2.9%的净利润增长。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国驻联合国大使凯利·克拉夫特（Kelly Craft）表示，联合国安全理事会对重复的导弹测试深感担忧。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The shopping center will have a prime location right next to the Myllypuro metro station. \n\n中文翻译：购物中心的位置非常优越，毗邻Myllypuro地铁站。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca to Buy ZS Pharma for $2.7 Billion 翻译为：阿斯利康将以27亿美元收购ZS Pharma。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Entertainment One dispels ITV takeover rumours. \n\n翻译：娱乐壹号驳斥了ITV收购的传言。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"一周内，Netflix的股票已经能经受住Disney+的冲击\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This would be a huge process. = 这将是一个巨大的过程。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish energy company Fortum Oyj HEL: FUM1V announced today that it and its partners have begun negotiations to establish a new operating model for energy supply in the Turku region of western Finland.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rajvindra Gill, the managing director of semiconductor research at Needham, joins 'Closing Bell' to discuss the Nvidia and Arm acquisition that has fallen apart.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Thus the group's balance sheet will have about EUR 25.8 million of goodwill, the company added. \n\n直接翻译为：“因此，该集团的资产负债表将有约2580万欧元的商誉，该公司补充道。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是 2019 年最好的 5 支太阳能股票。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Should You Buy Jumbo Yielders British American Tobacco plc, Centrica PLC & John Wood Group PLC?\"}\n翻译为：\n{\"您应该购买大收益股英国美国烟草公司、中英石油公司和大英集团吗？\"}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The situation of coated magazine printing paper will continue to be weak. 翻译为：覆膜杂志印刷纸的情况将继续处于弱势。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"His resignation will take effect immediately.\" 翻译成中文是：\"他的辞职立即生效。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For decades, the U.S. was the unquestioned leader in space travel. Now, the private space industry is taking off and making significant strides in space exploration and technology.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Delta Air Lines and United Airlines both raised revenue forecasts for the current quarter Tuesday on stronger demand but flagged higher expected fuel prices.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LexinFintech +3.3% after loan origination view improves. 翻译为：“乐信科技 +3.3%，由于贷款发放的观点得到改善。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The planned A-class business center will be located on the top two floors of the complex.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating loss was EUR 179mn, compared to a loss of EUR 188mn in the second quarter of 2009.\n\n中文翻译：经营亏损为1.79亿欧元，相比2009年第二季度亏损1.88亿欧元有所减少。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司的利润总计为 Ls 134,700。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The alliance aims to tap pocketable mobile computers, netbooks, tablets, mediaphones, connected TVs and in-vehicle infotainment systems.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n\n{Erik Woodring, Morgan Stanley, joins 'TechCheck' to discuss the opportunity for Apple's advertising business, the risks associated with that business and his outlook for Apple's services growth.}\n\n中文翻译：\n\n艾瑞克·伍德林格（Erik Woodring），摩根士丹利（Morgan Stanley），将参加“TechCheck”，讨论苹果广告业务的机遇，该业务相关的风险以及他对苹果服务增长前景的看法。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cencorp, headquartered in Virkkala, Finland, develops and supplies automation solutions to the electronics and semiconductor industry that enhance productivity.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"VLRX volume pop\"} 的中文翻译是 \"音量弹出\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The lay-offs will start gradually and will last from one to six weeks.\n翻译：裁员将逐步开始，并持续一到六周。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence is already in English. Here is the direct translation:\n\n\"Long $ENDP @ $26.23 on $AGN b/o rumor\" translates to \"长空$ENDP在$AGN上的$26.23美元，因为传闻\" in Chinese.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ASML already has difficulties fulfilling orders to China, but further restrictions might be in the works.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$IBM staying strong} 翻译成中文为：{\"IBM保持强大\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Balfour Beatty plc 准备恢复股息（并将再次与 National Grid plc 和 Centrica PLC 竞争？）",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft's recent Q3 earnings revealed several key trends that will boost its Dynamics software products and LinkedIn revenue. Microsoft's business process automation and productivity software usage is anticipated to increase during periods of high inflation and supply chain disruptions.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天最活跃的股票是哪些？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n{4 Bond ETFs That Earned Morningstar's Gold Rating}\n\n英文翻译：4只获得Morningstar金级评级的债券ETF。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

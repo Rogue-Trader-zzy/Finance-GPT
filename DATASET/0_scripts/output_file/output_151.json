@@ -1,0 +1,302 @@
+[
+  {
+    "input": "“中场报告”交易员们对沃尔夫对联合航空的熊市预测进行了辩论。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new B shares carry the right to dividend and other shareholder rights with effect from today.\n\n从今天起，新B股享有股息和其他股东权利。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Trump is warming to doing a China trade deal soon ahead of a key meeting.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco share price jumps as Q3 sales top estimates.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Finnish food concern Atria is about to acquire two Estonian meat processing companies, Woro Kommerts and Vastse-Kuuste Lihatoostus, reported the Official website www.investinestonia.com.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Randgold's profit was hit by poor gold price but dividend still increases.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The move indicates that Apple is making changes to attract and retain hourly workers for its retail stores in a tight labor market. \n\n翻译为：此举表明苹果正在做出改变，以吸引并留住其在紧张的劳动力市场中为零售店提供的小时工。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "感染担忧促使监管部门对吉利德白血病药物进行审查。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "与其他利益相关者一样，COMPTEL参与了研讨会、会议，并对我们行业竞争性部门最重要的问题提出了书面意见。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Shell将以69.7亿美元的价格收购BG Group\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是今日最大的分析师推荐：Netflix, Nvidia, Lyft, Molson Coors, Snap 等等。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The new agreement is a continuation to the agreement signed earlier this year with the Lemminkainen Group, whereby Cramo acquired the entire construction machine fleet of Lemminkainen Talo Oy Ita - ja Pohjois Suomo, and signed a similar agreement,\" said Tatu Hauhio, managing director of Cramo Finland.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca Acquires ZS Pharma in $2.7 Billion Deal\n翻译：阿斯利康以27亿美元收购ZS Pharma。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Virgin Galactic 再次起飞；上涨 11%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "期权交易者认为Lululemon的平均后财报波动可能会在周末翻倍。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft's purchase of Activision Blizzard simply feels like the final push into a new era for the video game industry: consolidation. Get More Engadget: • Like us on Facebook: http://www.facebook.com/engadget • Follow us on Twitter: http://www.twitter.com/engadget • Follow us on Instagram: http://www.instagram.com/engadget • Read more: http://www.engadget.com\n\n微软收购动视暴雪只是视频游戏行业进入新时代的最终推动：整合。获取更多资讯：• 喜欢我们请点击Facebook: http://www.facebook.com/engadget • 关注我们请点击Twitter: http://www.twitter.com/engadget • 关注我们请点击Instagram: http://www.instagram.com/engadget • 阅读更多：http://www.engadget.com",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The risk of recession returns to Germany.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Spence Mullis Named Community Banker of the Year",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The deal strengthens Ramirent's position especially in the industrial sector and in large investment projects. \n\n翻译：这笔交易尤其加强了拉米伦特在工业部门和大型投资项目中的地位。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Western Digital's (WDC) Q3 results reflect continued demand from cloud customers. However, pandemic-induced supply chain disruptions and the impact of fab contamination acted as headwinds. \n\n西数（WDC）第三季度的业绩反映了云计算客户持续的需求。然而，疫情导致的供应链中断和工厂污染的影响起到了阻碍作用。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dana (DAN) 在巴克莱全球汽车会议上发表演讲 - 幻灯片。了解更多：https://t.co/Qjy5FqzFQy… https://t.co/pYliENEAnG",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The unit prices for straddle carriers range between EUR700,000 and EUR900,000, the company added.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Investors are nervous about the retail market.\n投资者对零售市场感到紧张。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Beyond Air EPS 每股盈利低于预期 0.09 美元，收入也低于预期。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This game-changing company has been mauled by 2022's bear market, but it's setting the stage for a massive rebound.\n- 这家颠覆性的公司被2022年的熊市蹂躏，但它正在为一次大规模反弹做准备。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天我的$DWA上涨了6%，但我仍然持怀疑态度。我会获利了结。这不是一个令人振奋的时间。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UPDATE 1-Saudi airline flynas in talks to exercise Airbus A320neo options\" 的中文翻译为：\n\n\"UPDATE 1-沙特航空公司飞纳斯正在洽谈行使空客A320neo选项\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译为中文为：“请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{amrn Full bull call spread ranging July to Jan 15. Lets see what this baby does,}”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market's largest companies by market cap could look vastly different in 18 years. = 市值最大的公司可能会在18年后大不相同。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Finland, snowstorms brought trees down on power lines, cutting off electricity for some 2,000 households.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Process Products orders are for the installation of separation-filtration equipment at three natural gas pipeline projects in China, South America, and Saudi Arabia.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$NEON oversold}\" 的中文翻译是 \"NEON 超卖\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Management was surprised by a negative development in the most recent quarter.\n翻译：管理层对最近一个季度的负面发展感到惊讶。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The ending joint filing would lead to a 15.5 percentage point jump in women's labor-force participation, the IMF found.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天$ACAD低于$2？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walt Disney has a lot to teach Netflix about franchises.\n翻译：\n沃尔特·迪士尼有很多东西可以教网飞关于特许经营权。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corporation (NASDAQ: MSFT) shares are trading higher by 0.99% to $249.68 during Tuesday's trading session in anticipation of the company's first-quarter earnings report.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This morning's Microsoft rumor had them spinning off the Xbox unit, with the stock grinding up all day to close on highs.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Renzo Piano's building design will be a wonderful addition to London's skyline,\" says Noud Veeger, EVP and Area Director for Central and North Europe at KONE.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lulu #Outlook #Q1 2013 lost revenue in the range of $12 million to $17 million - not good\" 可以翻译为 \"Lulu #Q1 2013 展望的收入损失在1200万美元到1700万美元之间 - 不太好\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "许多投资者会忽视异常的期权交易活动，但有些人喜欢“跟随潮流”。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "董事们拥有 Ocado Group plc (LON:OCDO) 的股份吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva, M&G suspend property funds as investors panic\n- 英伦航空，M&G暂停房地产基金，投资者恐慌",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"At the open (2/6/2020)\" can be translated to Chinese as \"在开放（2020年2月6日）\" (Zài kāi fāng (2020 nián èr liù rì zhōu)。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The six breweries recorded a 5.2 percent growth in domestic beer sales last year to 270.21 million liters, from 256.88 million liters sold in 2005. \n\n翻译为中文：\n\n去年，这六家啤酒厂的国内啤酒销售额增长了5.2%，达到270.21百万升，而2005年售出了256.88百万升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果你对购买Nvidia（NVDA）股票感兴趣，那么首先一定要看看这些分析师怎么说！这篇文章是关于“NVDA股票是否值得购买？”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Fancy Dans on the move FAB Glasgow gift and interiors store Fancy Dans is moving!\" 可以翻译为：“Fancy Dans移动，FAB格拉斯哥礼品和室内装饰店Fancy Dans正在搬家！”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The primary goal of the CHIPS Act passed by congress last is to make the U.S. less dependent on semiconductor chips made in China and Taiwan. Admittedly, the full impact won't be felt several years down the road.\n\n翻译：\n美国国会通过的芯片法案的主要目标是使美国减少对中国和台湾制造的半导体芯片的依赖。坦率地说，其全部影响将在未来几年内显现出来。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish software solutions provider Basware ( HEL : BAS1V ) said yesterday it adjusted its strategy and goals for the next four years with focus on international growth mainly via acquisitions.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RPM International's stock price target raised to $79 vs. $75 at BofA Merrill Lynch.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

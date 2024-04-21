@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Amazon.com Inc 可能很快会面临来自美国劳工委员会的指控，称其在纽约仓库的一次组织运动期间非法解雇了一位大声支持工会的成员。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "最强劲的增长出现在俄罗斯、捷克共和国和斯洛伐克的新市场中。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's What to Like About Lannett's Q2 Earnings Results 翻译为中文为：“关于兰内特的Q2业绩结果值得喜欢的几点”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Genworth +4.0% after sale on Genworth MI Canada closes\" 翻译成中文是 \"Genworth 在 Genworth MI Canada 关闭后上涨了 4.0%\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Estonia's beer market overall grew three percent last year to 130 million liters.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Mobile TeleSystems EPS miss by RUB7.49, beats on revenue\" 的中文翻译是：\n\n\"MTS EPS 每股收益低于预期 7.49 卢布，但营收超预期。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Association Community Management Corporation Hires Pamela A. Wiles as Executive Vice President.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您请求的英文翻译：\nNvidia (NVDA) and Taiwan Semiconductor (TSM) continue to hold the top positions in the semiconductor industry in terms of diversity. Let's explore which of these semiconductor leaders could be the better investment going into 2023.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Nokian tyre proves its high safety excellently in the important driving qualities stability with mark 1.4, handling 1.5, and braking on wet road with 1.9.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Transurban Group reports 1H results. 翻译成中文为：“Transurban Group公布上半年业绩。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This chart shows that the U.S.-China trade war has dominated discussions since August.\n\nhttps://t.co/gBlWLR2pXc https://t.co/7hJf0UA7sW\n\n这句英文句子的中文翻译为：\n\n此图表显示，自八月以来，美国与中国之间的贸易战一直是讨论的主要话题。\n\nhttps://t.co/gBlWLR2pXc https://t.co/7hJf0UA7sW",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "城市精神沉沦，帝亚吉欧销售下滑。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This cold will put a dent in the massive horizontal rig production. Who knows?",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据协议，益丰即将推出的TWIG集成GPS导航和移动电话设备将使用联合开发的网络定位技术，在消费者和商业应用中均适用。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司Meggitt的利润受到能源和军事市场疲软的影响。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Motors 召回了 2,700 辆 Model X SUV。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Battelle To Develop Coal-to-Foam Program\" 的中文翻译为 \"百特莱将开发煤炭泡沫项目\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Web 3.0 将影响我们的工作方式、沟通方式和我们消费的内容。以下是七只将从过渡中受益的科技股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Satama recently acquired Fimentor Oy and earned Data Management Solutions competency with Business Intelligence specialization as a result.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Germanwings disaster will not affect image of budget air travel - easyJet\n\n德翼航空灾难不会影响廉价航空旅行的形象 - 易捷航空",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stratasys board chairman steps down. \n\n翻译：Stratasys董事会主席辞职。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Defensive sectors -- aside from the tech boost from the Twitter news today -- continue to outperform the market. （除了今天推特新闻带来的科技板块的提升之外，防御性板块继续跑赢大盘。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp 周二表示，将停止销售基于面部图像猜测他人情绪的技术，并且将不再提供不受限制的面部识别技术访问权限。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司的iPhone发货量有望超过预期 - 市场观察（MarketWatch）https://t.co/2CXahJIX7d",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wall Street Breakfast: This Week's Market Movers. Get more updates here: https://t.co/venuKDjdjl #economy #stocks #stockmarket",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hargreaves Lansdown defies weak markets and sees assets rise by 2.6 percent.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "全球体育器材制造商Amer Sports Corp.，旗下品牌包括Atomic、Salomon和Wilson，第三季度净利润增长64％，达到4740万欧元（6500万美元），主要得益于强劲的销售和成本削减。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉股价上涨，因为马斯克在推特上提到了赛博卡车预购。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "How do Costco Wholesale and Amazon.com compare at the end of the year, and does this information affect their moderate buy ratings?\nCostco Wholesale 和 Amazon.com 在年底的业绩如何比较，并且这些信息是否会影响他们的适度购买评级？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BAE Systems的销售额因欧洲台风和货币升值而上涨。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉召回2,700辆Model X汽车：https://t.co/8Z7BkVsTl9 $TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{胡将对选定的书籍提供进一步的折扣，折扣幅度在25%至50%之间。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A big reason why technology-heavy Nasdaq Composite COMP, -1.47% is dropping 1.5% in afternoon trading Thursday while the Dow Jones Industrial Average DJIA, +0.89% is rallying 292 points, or 0.9%, is the bad performance of the shares of the four biggest tech names. Of the four U.S. companies with market capitalizations of over $1 trillion, shares of Apple Inc. AAPL, -3.14% dropped 3.1%, Microsoft Corp. MSFT, -1.98% slid 1.9%, Alphabet Inc. GOOGL, -2.80% GOOG, -2.37% sank 2.9% and Amazon.com Inc. AMZN, -3.73% slid 4.1%.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The training modules aim at strengthening the public accounting abilities and fulfilling communal project management.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market share is 6 percent according to AC Nielsen's 2008 data.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "为了展示我们在Mobile World Congress上的端到端能力，我们安排了一场内部MeeGo应用程序开发竞赛，以吸引开发人员创建新的应用程序。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"交通运输部IG将对FAA飞行员培训要求进行审计，以回应波音737 MAX坠毁事件......\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"雷诺：新款雷诺Espace - 新闻包 EN #雷诺 #库存 #市场筛选器 https://t.co/LJGDhIY4Wq https://t.co/bqpAjq0NCk\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是关于合法大麻产业的一年，充满了失望和挫折。以下是今年最大的罪魁祸首（是的，加拿大）。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Several of the largest technology companies made headlines in 2021 for hitting significant market capitalization milestones. Microsoft Corp (NASDAQ: MSFT) hit a $2-trillion market cap in 2021 and Meta Platforms (NASDAQ: FB) hit $1 trillion in market cap for the first time in 2021.\n\n多家最大的科技公司在2021年因为达到了重大的市场资本化里程碑而成为头条新闻。微软公司（纳斯达克股票代码：MSFT）在2021年达到了2万亿美元的市场资本化，而脸书母公司（纳斯达克股票代码：FB）在2021年首次达到了1万亿美元的市场资本化。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesla had a bad day to short\" 的中文翻译是 \"特斯拉做空的一天\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"美国股市在过去两周中表现最佳，收盘时接近当日的最高点，这是由于对新冠病毒传播速度减慢的乐观情绪所致。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish plastic pipe maker Uponor is selling its Irish and UK infrastructure businesses to private equity company 3i. \n\n芬兰塑料管制造商Uponor正在将其爱尔兰和英国基础设施业务出售给私人股权公司3i。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft (NASDAQ: MSFT) and Apple (NASDAQ: AAPL) are considered the top picks in the technology sector, according to Dan Ives of Wedbush Securities. These are the details.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "手机销售预期给手臂带来的压力。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It is TechCrunch tradition to look at Apple's stock price during, and after its major events. Why? Because we enjoy it, and we're always curious what impact the company's news has on its actual financial worth.\n\n= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Standard Life share price: Insurer buys advice firm Pearson Jones\" 的中文翻译为：\"标准人寿股价：保险公司收购顾问公司Pearson Jones\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UPDATE 2-昂贵的啤酒提振了SABMiller的季度基本销售额\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons 揭晓哪些商店将关闭，900 个工作岗位面临裁员。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "抱歉，您提供的句子不完整，我无法准确翻译。如果您能提供完整的句子，我将很乐意为您提供帮助。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

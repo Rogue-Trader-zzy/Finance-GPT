@@ -1,0 +1,302 @@
+[
+  {
+    "input": "苹果公司突破下降通道......它将保持吗？\n\n英文翻译: AAPL broke descending channel...will it hold?",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康糖尿病药物组合因FDA拒绝而面临延迟。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit decreased to nearly EUR 1.7 mn, however.\n\n翻译：经营利润下降至约1,700万欧元，然而。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$AAPL 收盘动作表明 $AAPL 可能已经接近短期高点。 动量在巨大的上涨后放缓。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tyrv+ñinen believes that the airline has been doing this for some time already, however.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Positive inflation news bodes well for the e-commerce leader.\n中文翻译：积极的通货膨胀消息对电商巨头有好处。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore is considering an initial public offering (IPO) for its agricultural trading business.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UK's FTSE has worst day so far in 2015 as BG and Prudential fall\" 的中文翻译是：“英国的FTSE指数在2015年迄今为止表现最差，由于BG和普鲁登斯下跌。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The exchange of Editors-in-Chief is a part of the publisher's goal to enhance job circulation in all personnel groups.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Curators have divided their material into eight themes. \n\n翻译：策展人已经将他们的材料分成了八个主题。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Printed fabrics and related design expertise have always been the core of Marimekko's business and brand.\n翻译为中文：\n\"印花布料及相关设计专长一直是Marimekko业务和品牌的关键。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Macerich FFO in-line, beats on revenue 翻译为中文是：“Macerich 的 FFO 与同行业平均水平持平，在收入方面超过平均水平。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"10 Dividend Growth Stocks For February 2022\" 翻译成中文是 \"2022年2月的10只股息增长股票\"。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish company Stockmann has signed the contract with the company Technopolis. \n\n翻译：\n芬兰公司 Stockmann 已与公司 Technopolis 签订合同。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ike Boruchow, Wells Fargo senior retail analyst, joins 'Squawk on the Street' to discuss what it'll take for Boruchow to get more constructive on Lululemon's rating, how the holidays will fare for Lululemon, and more.\n\n翻译：\nIke Boruchow，Wells Fargo资深零售分析师，加入“Squawk on the Street”，讨论Boruchow如何对Lululemon的评级变得更加建设性，以及假日期间Lululemon的表现如何，等等。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The ascending triangle gives a bullish bias to this chart. A breakout above 84 will be positive.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC表示，该单位将因和解支付5.85亿美元的罚款。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Zynga（纳斯达克代码：ZNGA）的股价已经上涨了200%，那么为什么我们不应该关注一下它呢？\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elastic NV (ESTC, Financial) is one of the industry leaders when it comes to software tools and services that center around \"search.\" The company's portfolio of technology includes Elasticsearch, Kibana, Beats and Logstash, previously known as the ELK Stack, which offers solutions for enterprise search, observability and security.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple has 'deep concerns' Chinese-born ex-employees could flee country with trade secrets https://t.co/lybSDAYibb v… https://t.co/quM3HRynDB\n\n苹果公司对一些中国出生的前员工可能会带着贸易机密逃离国家表示了“深切关注”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{在2009年1月至9月期间，该集团的净利息收入从2008年1月至9月的7,430万欧元增加到11,240万欧元。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Let's see some higher highs and higher lows rest of the day, slow and steady.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国学术联盟规定成员可以“认同”为“黑人”和“残疾人士”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家荷兰壳牌公司将以近700亿美元的价格收购BG集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Protalix has $42 million in cash and no sales. \n\n中文翻译：Protalix拥有4200万美元的现金，但没有销售额。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kingfisher 股价因实施新战略的成本而下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{最佳蓝筹股购买 - 我们最喜欢的是一家波兰公司 Asseco Poland}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这句英文句子的中文翻译是：“由于第一季度的警告，思科股价下跌；同时，JNPR和CSCO股价也下跌。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result of the merger, the largest professional electronics and telecommunications technology contract manufacturing center in Finland will be formed in Sievi.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "俄罗斯储蓄银行：宣布资本管理部门的人员变动。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "France reported a continued leveling-off of cases on Monday.\n\n翻译：法国周一报告了病例数量的持续平稳。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton share price: Brazil to sue Samarco for £3.5bn\nBHP Billiton 股票价格：巴西将对 Samarco 索赔 35 亿英镑。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Benzinga's weekly Stock Wars matches up two leaders in a major industry sector with the goal of determining which company is the better investment. This week, the duel is between two powerhouse rivals in the beverage space: Coca-Cola Co (NYSE: KO) and PepsiCo, Inc. (NASDAQ: PEP).\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple sent out invitations to the media for a launch event where it's expected to announce a new low-cost iPhone model. \n\n苹果向媒体发出了邀请，参加一个发布会，预计将宣布一款新低成本的 iPhone 型号。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lemminkäinen began the manufacture of roofing felt in 1920 and the production of asphalt in the 1930s.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"LNT 将年度股息目标从每股 1.70 美元上调至每股 1.80 美元。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is:\n\n\"Order intake grew by 40% year-on-year and 30% year-on-year, respectively, to EUR 576 million and EUR 1.7 billion for the respective January-September and July-September 2010 periods.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cencorp, headquartered in Virkkala, Finland, develops and supplies automation solutions to the electronics and semiconductor industry that enhance productivity.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Howard Schultz, taking over the reins of the coffee giant once again, told employees that he would suspend the coffee giant's stock repurchasing program in order to refocus its capital on employees. \n\n翻译成中文：\n霍华德·舒尔茨，再次接管咖啡巨头，告诉员工他将暂停咖啡巨头的股票回购计划，以便重新将资本集中在员工身上。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Daniel Loeb 第三季度的 Top 5 买入。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CommScope is redeeming $100M in 5% notes.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company may at any time have in its possession one tenth of all its shares at the maximum.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在过去十年中，它逐渐剥离了非核心资产，并收购了几个体育器材制造商，包括加利福尼亚州的Fitness Products International和Sparks，以及内华达州的ATEC，这是棒球和垒球投球机的主要制造商。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oriola-KD expects its invoicing in 2008 to be higher than the comparable invoicing of 2007. \n\n翻译为：Oriola-KD预计2008年的开票金额将高于2007年可比的开票金额。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Quaker Houghton (NYSE: $KWR) 庆祝与 Houghton International 的合并。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The \"Mad Money\" host said poor 2021 performers such as Penn National and Global Payments are likely to keep struggling this year.\" 翻译为：\n\n\"《疯狂资金》的主持人说，像彭国家庭娱乐和环球支付这样的2021年表现不佳的公司今年可能会继续陷入困境。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "交易预计于2009年12月完成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VettaFi 研究部主管 Todd Rosenbluth 与 Yahoo Finance Live 主播 Brad Smith 和 Brian Sozzi 一起讨论科技公司的盈利预期、投资者应该如何看待它们、ETF 投资、美元以及大型科技公司的前景。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "However, Biohit estimates its total net sales will continue to grow in 2009, and that favorable trends in net sales will lead to a profit in 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Getty Images Holdings Inc. (GETY, -8.47%) 的股票在周三的盘前交易中上涨了13.4%，此前该公司表示与亚马逊公司（AMZN, -1.10%）签署了“多年期”的续约协议。该协议的财务条款未披露。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

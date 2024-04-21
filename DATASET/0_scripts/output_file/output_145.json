@@ -1,0 +1,302 @@
+[
+  {
+    "input": "周四，一名美国官员拒绝了亚马逊试图推翻纽约仓库的一次工会投票的决定，称零售商的选举投诉毫无根据。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "尽管全球股市似乎从年初的下跌中反弹，但它们距离建立稳定的上升趋势仍然很远。标普500指数在过去两周内上涨了近9%，但仍比1月4日的高点高出5%以上。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资未披露。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"对西南能源公司（SWN）的押注从未如此不看好。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "福特公司正面临着卡车和SUV销量放缓以及大量急需的最新车型供应的困境。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "消费者在这个节日季节寻找苹果公司最新版本的iPhone可能会失望。CNBC的Seema Mody加入'鸣叫盒子'来解释细节。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix struggles to reclaim its pandemic-era growth, with Q3 expected to add just one million net new subscribers. \n\n翻译：Netflix 在疫情时期的增长方面遇到困难，预计 Q3 只会增加一百万个净新订阅者。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {bot $AMZN 600 weekly calls here @ 5.93}\" can be translated to Chinese as \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译：{bot $AMZN 600 每周呼叫此处 @ 5.93}\".\n\nThe translation process involved understanding the context and meaning of the original English sentence and then accurately converting it into Chinese while maintaining the original intent and information. In this case, the sentence is a request for translation assistance and the desired output is an English translation of the translated sentence.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据CEO Kevin Johnson的说法，中国星巴克同店销售受到国际旅行减少和办公楼交通量低的影响。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国竞争监管机构于周三宣布，对微软拟以670亿美元收购视频游戏巨头动视暴雪展开反垄断调查。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FDA批准阿斯利康的易瑞沙作为肺癌治疗药物。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers\n\n英译中：英国赢家与输家：阿维瓦和友邦人寿领先FTSE 100指数上涨者。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CTRP在这里突破了，伴随着良好的成交量，并出现了解析器买入信号......在Bob Lang的评论中注意到了这一点，他在寻找48的快速增长。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Benchmark says this roof supplier is a Buy. \n\n直译为：Benchmark认为这个屋顶供应商是一个买入。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"{$WFT closing higher from here}\"\n\nThe Chinese translation is: \"WFT 从这里开始收盘价更高\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Allstate CEO: 由于冠状病毒，驾驶量大幅下降，我们不知道这种趋势是否会持续下去。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"苹果公司周四宣布，它将购买第一批工业规模的碳中和铝材，用于其低成本的iPhone SE，这是它加大力度减少产品外壳中使用的金属带来的碳足迹的举措。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国11月份的总建筑支出上升了0.6%，达到了季节性调整后的年化1.324万亿美元水平。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Componenta increased its stake in Turkish steel company Doktas Dokumculuk Ticaret ve Sanayi A.S. to 92.6 pct stake in March 2007. \n\n中文翻译：Componenta在2007年3月将其在土耳其钢铁公司Doktas Dokumculuk Ticaret ve Sanayi A.S.的股份增加到92.6%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"经过几个小时的等待没有得到任何消息后，我感到有些困倦。虽然诱惑很大，但我必须检查它是否有待执行的命令，并且要确保股权结构清晰。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康股价上涨3%，因为制药公司上调利润预测。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Johnson Matthey 加速推进清洁空气行动。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "At present, Nokian tires have the contract for tire production in China.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It combines a perfect price performance with sophisticated management facilities, the company said.\n翻译成中文为：该公司表示，它将完美的价格性能与先进的管理设施相结合。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：SABMiller's quarterly underlying sales boosted by costly beers.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "He answers questions on how many visitors Conversations gets, how big the team is, and what the problems are when setting up social media channels.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Earlier, the company has decided to establish a company for electric vehicle (EV) business in China.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "(ADP News) - Dec 11, 2008 - Finnish power-supply solutions provider Efore Oyj (OMX: EFO1V) said yesterday it opened a technology research and development (R&D) laboratory at Helsinki University of Technology.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"AMD's Navi shows strong adoption - BofA\" \n\nHere is the Chinese translation: \"AMD的Navi显示出了强劲的采用度 - BofA\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Cargotec's Kalmar has received a significant order from the US Department of Defense.\n\n芬兰 Cargotec 的 Kalmar 已从美国国防部获得了重大订单。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回几乎所有 Model X 车型，CNN 的股票交易员甚至在工作时间也跳入金钱交易。\n\n英文翻译：TSLA recalling pretty much every single model X @cnnbrk got to short that even at work you jump in money trade.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Where The World Is Going\" 翻译成中文为 \"世界将走向何方\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sterling Organization宣布收购了一处244,917平方英尺的以超市为中心的物业，位于Colleyville。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca buys ZS Pharma for $2.7 billion, pips Actelion.\n\n阿斯利康以27亿美元收购ZS Pharma，超越阿克泰伦。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "That's a bad day to short.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "期望 $SPY 收盘高于 205.20 $AAPL。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finland-based international machinery rental company, Ramirent Plc (OMX Helsinki: RMR1V), announced on Friday (May 9) that its president and CEO, Kari Kallio, has informed the board of his intention to retire in 2009.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kep breaking out when the market pulls back\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n{$KEP breaking out when the market pulls back  http://stks.co/r0cet}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Viking will pay EUR 130 million for the new ship, which will be completed in January 2008. \n\n翻译为：维京公司将支付1.3亿欧元购买这艘新船，该船将于2008年1月完成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nordea Group's operating profit increased by 18 percent year-on-year to 3.64 billion euros and total revenue by 3 percent to 9.33 billion euros in 2010.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Preparing for a Breakout Trade in Netflix $NFLX\" 翻译为中文是 \"准备进行 Netflix 的突破交易\"。\n\n完整的翻译句子是：\"准备进行 Netflix 的突破交易，查看更多详情：https://t.co/CzHIX3tuAG，$$ https://t.co/z1qb9xa4LD\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wall Street expects Advanced Micro Devices to grow revenues in 2022, providing tailwinds for AMD stock.\nAMD Stock Gives Investors Plenty of Ways to Play It\n",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple unveils the Apple Watch Ultra. It has completely new design, a flat screen and bigger digital crown -- it's more rugged and capable, with a bigger and brighter display.\n- 苹果发布了Apple Watch Ultra。它拥有全新的设计，一块平面屏幕和更大的数字旋钮——它更加坚固和强大，具有更大和更明亮的显示屏。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish stationary and gift retailer Tiimari HEL: TII1V reported today that its net sales increased by 2% year-on-year to EUR5.7m in August 2010, mainly due to growth in Finland, while demand in the Baltic countries remained weak.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Weir滑坡导致FTSE从历史最高点下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Her work at NetApp included strategically repositioning the brand in the category and a major global relaunch .} = {她在NetApp的工作包括战略性地重新定位品牌在类别中，并进行了一次重大的全球重新推出。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ramirent's Danish subsidiary Ramirent A-S has today signed an agreement to acquire the business assets of the machinery rental company Jydsk Materiel Udlejning located in West Jutland.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The board of directors also proposed that a dividend of EUR0.20 per outstanding share be paid.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"More than 50,000 tonnes of asphalt mix will be used in the contract.\" 的中文翻译是：“合同中将会使用超过50,000吨的沥青混合料。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The devices would be launched in the Chinese market in late 2006, the company said. 翻译为：该公司表示，这些设备将于2006年底在中国市场推出。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

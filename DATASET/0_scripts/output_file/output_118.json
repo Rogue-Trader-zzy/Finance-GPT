@@ -1,0 +1,302 @@
+[
+  {
+    "input": "以下是英文句子翻译成中文：\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !}\n\n英文翻译：\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !}\n\n中文翻译：\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$ROST Nov 90 calls 2.08 .. Go Long until exp imo ! Unless europeans keeps F'ing around !}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FreightWaves Oil Report: So Where Is The Impact From IMO 2020?\" 翻译成中文为 \"弗列特威思石油报告：那么 IMO 2020 的影响在哪里？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Kemira's net sales EUR decreased to EUR 1,259.6 million in January-June 2009 from EUR 1,425.1 million in January-June 2008.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Brad Smith and Brian Sozzi explain some notes from JPMorgan and Pivotal Research, contributing to the discussion about Netflix's upcoming ad service.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“{$tpco ... watch list for profit taking”的中文翻译：\n\n\"{$tpco ... 利润收割的观察名单\"\n\n请提供英文句子“https://t.co/nQVmlJwe3v”的中文翻译：\n\n\"https://t.co/nQVmlJwe3v\" 是一个 Twitter 链接，无法直接翻译成中文。如果这是某个具体内容的链接，可以提供链接的中文描述。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The service is intended to allow the people of thirteen Mediterranean countries to reach the Baltic more rapidly, with a single carrier.\n\n这句英文句子的中文翻译是：“这项服务旨在让地中海沿岸的13个国家的民众更快速地到达波罗的海，并且仅需一个承运人。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"同行标致汽车的销量仅比去年同期增长6.3%，导致其股价下跌了0.81%。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This new representation extends Comptel's global presence to a total of 18 countries, serving over 250 customers in over 80 countries worldwide. \n\n中文翻译：\n\n这一新的表述将Comptel的全球存在扩展到了总共18个国家，为全球超过80个国家的250多个客户提供服务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"由于苹果掌握了他们的供应链，尤其是在控制NAND方面，苹果已经掌握了所有人的供应链！\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cramo's pretax loss was EUR 6.7 million, compared to a pretax profit of EUR 58.9 million.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tilray Launches Canadian Cannabis 2.0 Products, Completes First Export Of Medical Cannabis Extract To Switzerland 可以翻译为：\n泰利瑞（Tilray）推出加拿大大麻2.0产品，完成首次出口医疗大麻提取物至瑞士。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "长期投资者不应该害怕像AMD这样的深度周期性股票。它的深度周期性提供了一些最好的购买机会（以及当我们到达隧道另一端时，它也提供了卖出机会）。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MercadoLibre's (MELI) second-quarter results reflect benefits from the growing commerce and fintech revenues. \n\n翻译为中文：\nMercadoLibre（MELI）第二季度的业绩反映了来自日益增长的商业和金融科技收入的好处。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"欧盟国家和欧盟立法者于周四就限制谷歌、亚马逊、苹果、脸书和微软等公司的权力方面达成了具有里程碑意义的规定。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"like $T for a breakout long as well. getting through the 100 and 200 MA could see it run.\" 翻译为： \"也喜欢 $T 的突破式长线，如果能突破 100 和 200 均线，那么它可能会继续上涨。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The changes will take effect on 1 January 2010, and they are not estimated to have an impact on the number of employees.\n\n翻译为中文：\n变化将于2010年1月1日生效，并且预计不会对员工人数产生影响。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"专家的警告是在星期二发出的。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "JUST IN: The S&P 500 rallies 7% to its highest since March 13\n\n直译：即时更新：标普500指数上涨7%至3月13日以来的最高水平。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊股价在中等偏上区间交易。目前还没有突破，无论向上还是向下。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Command\": \"Translate\",\n\"Arguments\": {\"text\": \"it is on my radar for a buy over 200\", \"from\": \"en\", \"to\": \"zh\"}}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Coca-Cola Company and Coca-Cola FEMSA to Acquire AdeS Soy-Based Beverage Business From Unilever\n\n可口可乐公司和可口可乐FEMSA将从联合利华收购基于大豆的饮料业务AdeS。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$RES - RPC (RES) Presents At Southwest Ideas Investor Conference - Slideshow. Follow this and any other stock on Se… https://t.co/xKaSMZtqMp} \nThe translation of the given sentence in English is: \"RES (RPC) presents at the Southwest Ideas Investor Conference - Slideshow. Follow this and any other stock on Se… https://t.co/xKaSMZtqMp\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann 和 购物中心业主于 1998 年签署了十年租约，该租约可按现有条件延长。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊股价在中等偏高区间交易，尚未出现突破，无论向上还是向下。\n\n英文翻译: Amazon trades in mid to upper range. No break out yet, either direction.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Endonovo's stock price increased by 35% following evaluations of SofPulse in orthopedic surgeries.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ISRG Break out confirmed. Bought Leaps. Good trading!} 的中文翻译为：{$ISRG 突破确认。买入 Leaps。交易愉快！}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UNC Charlotte would also deploy SSH Tectia Connector to enable secure application connectivity.\n\n翻译：北卡罗来纳大学夏洛特分校也将部署 SSH Tectia Connector 以启用安全应用程序连接。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA宣布召回，股价并未下跌。这只股票是特氟龙。不会永远持续下去。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ECB last week dived into the fight to save the economy with 34 billion euros of bond purchases.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天早上关于微软的传闻是他们将拆分 Xbox 部门，股价全天上涨，最终收于高点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天早上用了一些时间，以加权平均价作为指导。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$tsla bad day to short 的中文翻译为：特斯拉（Tesla）股票出现糟糕的一天，不适合做空。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Computer- Mini Computers industry is suffering from massive supply chain and logistical issues as well as geopolitical challenges. However, strong demand for laptops and tablets bodes well for Apple (AAPL) and HP (HPQ).\n\n电脑-迷你计算机行业正面临着大规模供应链和物流问题以及地缘政治挑战。然而，对笔记本电脑和平板电脑的强劲需求预示着苹果（AAPL）和惠普（HPQ）的前景良好。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels Denies Reports of Starwood Merger Talks\n\n国际连续酒店否认与斯塔德合并谈判的报道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Viking Line has also been forced to alter its timetable so that ferries traveling from Stockholm to Helsinki, Finland, only depart at night.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Dojiknows the SP and the potential of QNX BES10 and BBM cross-platform will bring good news in time $bbry\" can be translated to Chinese as \"Dojiknows the SP and the potential of QNX BES10 and BBM cross-platform will bring good news in time $bbry\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "北溪2号“过了无回头的点”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国商业的顶级监管机构也是华盛顿最活跃的华尔街投资者之一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊、谷歌、脸书和色拉布在财报上均出现了重大失误。共同的主题是什么？",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Saarioinen的总经理Ilkka Mäkinen的说法，食品工业部门的生产机械存在显著过剩。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"What's Next for the Proteostasis Cystic Fibrosis Pipeline\" 翻译为中文是：“蛋白稳态囊性纤维化管道的下一步是什么？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC's Jim Cramer spoke with AMD CEO Lisa Su on Friday's episode of \"Mad Money.\" 翻译为：“CNBC的吉姆·克拉默与AMD首席执行官苏丽萨在周五的《疯狂金钱》节目中进行了交谈。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The proportion of Estonian and Lithuanian passengers on the Tallinn-Helsinki route also grew in July. 翻译为：\n\n七月份，塔林-赫尔辛基路线上爱沙尼亚人和立陶宛人的比例也增长了。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ayako Yoshioka, Wealth Enhancement Group senior portfolio manager, joins 'Closing Bell: Overtime' to discuss her take on Alphabet and Nike. \n\n翻译成中文：\nAyako Yoshioka，财富增强集团高级投资组合经理，将参加“闭市铃：加时赛”，讨论她对Alphabet和Nike的看法。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ZAGG正在准备...目标为$15以上，收盘价超过$13.50，平均每日交易量比平均水平更好。\n\n英文翻译：ZAGG is getting ready...Target $15 plus on a close over $13.50 on better than avg daily Volume http://chart.ly/lha44tn",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"如果公牛足够幸运能够获得一个向上缺口回补，那么最好抓住它。我不会在这里追逐它。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "However, sales returned to growth in April-June 2010, CEO Pekka Eloholma said.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple: Not Washed Out Yet\n\n苹果：尚未被洗白。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是卡拉拉世界级赤铁矿矿床开发的一部分，该矿床已知的潜在年处理能力超过3000万吨，预计寿命为30年。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们最近在看CNBC，分析师提到了几乎没有人（除了我们）说过的话。她称亚马逊（AMZN，金融）进入杂货业是一个“失败的实验”。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

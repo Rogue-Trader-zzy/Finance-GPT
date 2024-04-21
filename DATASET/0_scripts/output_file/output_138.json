@@ -1,0 +1,302 @@
+[
+  {
+    "input": "TECHnalysis Research's President and Chief Analyst Bob O'Donnell joins Yahoo Finance Live anchors Julie Hyman and Brian Sozzi to discuss earnings expectations for major technology companies such as Apple, amid concerns about the supply chain.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺华公司以高达10亿美元的交易买下了葛兰素史克治疗的剩余权益。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP提升销售额，尽管客户持谨慎态度。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The return on investment was 5.0%, compared to a negative 4.1% in 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Neste Oil's board proposed a 1.00 EUR dividend for the full-year 2007, compared with 0.90 EUR a year ago.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$PKX - POSCO: Considering Patent Dynamics. Continue reading: https://t.co/edHOSGnhH8 #markets #economy #finance}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Germanwings disaster will not affect image of budget air travel - easyJet\n翻译：德国之翼航空事故不会影响廉价航空旅行的形象 - easyJet",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walgreens Boots Alliance, based in the U.K., is leveraging robots to fill orders at micro-fulfillment centers across the U.S. as pharmacists at retail stores are forced to pivot in changing roles, CNBC reported on Wednesday (March 30). The global drugstore chain plans to open 22 Walgreens Boots Alliance facilities across the U.S., according to the […]",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CNBC的Kate Rogers与Shep Smith合作，报道星巴克计划在未来几年逐步淘汰一次性纸杯。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德意志银行下调星巴克公司评级。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca experiences a setback after the drug fails to treat eye cancer.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"喜欢这个公司很久了，在这里交易感觉很棒。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The recent market sell-off has encouraged me to focus on blue-chip companies that have a strong track record of delivering shareholder value regardless of the conditions. Amgen fits the description.\n\n最近市场抛售促使我专注于那些在不论什么条件下都能持续创造股东价值的蓝筹公司。Amgen符合这个描述。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新任瑞士信贷总裁在亚洲面临严峻挑战\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fidelity National Financial to buy FGL Holdings in a deal valued at $2.7 bln 翻译为 “Fidelity National Financial将以27亿美元的交易价格收购FGL Holdings。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia will deliver a WCDMA 3G-HSPA radio network, including the modular, high capacity Nokia Flexi WCDMA base station to Indosat.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YIT Home的公寓可以在俄罗斯五个地区购买，这些地区是YIT子公司开展业务的地方：莫斯科和莫斯科地区，圣彼得堡，叶卡捷琳堡，喀山和罗斯托夫顿。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Altimeter Capital's Brad Gerstner has announced a new position in Tesla Inc (NASDAQ: TSLA).",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Group's turnover in 2006 was EUR 39.2 million, and operating profit was EUR 3.9 million. 翻译为：\n该集团2006年的营业额为3920万欧元，经营利润为390万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nielsen will track viewership of Amazon's Thursday Night Football streams, the first time the company will include streaming service ratings in its national report. \n\n翻译成中文：尼尔森将追踪亚马逊星期四晚间足球流的观众观看率，这是该公司第一次将流媒体服务评级纳入其全国报告。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meggitt reiterates annual outlook after tough 2014.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你希望诺基亚在下次尝试中看到哪些改变？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel's margins have dropped as it invests in growth opportunities.\n= 英特尔的利润率因投资于增长机会而下降。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tieto was looking for an energy solution which would best support the idea of sustainable development, and we were happy to be able to provide such a solution, says Jouni Haikarainen, Vice President, Fortum.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Anheuser-Busch InBev Increases Offer for Rival SABMiller\n\n安海斯-布希英博威向竞争对手萨贝米尔增发要约。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sheryl Sandberg 出售了 109,000 股 Facebook Inc. $FB 股票。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"$PLUG bear raid\" cannot be translated into Chinese as it appears to be a term or phrase used in a specific context, possibly related to a game or a programming concept. Without more context, it is difficult to provide an accurate translation.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The production is to be liquidated before June 2009 and 325 employees lose their jobs.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The equity ratio was 60.9% compared to 54.2% in the third quarter of 2007. Net sales of the Frozen Foods Business totaled EUR 11.0, up by about 5% from the third quarter of 2006.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{SFL publiceert recordresultaten voor 2019} translates to {SFL releases record results for 2019} in English.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla: 自愿召回2700辆Model X车辆，由于后排座椅问题。$TSLA https://t.co/NPAkc3U6GS",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Royal Dutch Shell plc 股份回购交易 #RoyalDutchShell #股票 #市场筛选器 https://t.co/DNVHVucNPD https://t.co/M7c24H5Rts",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC's Scott Cohn joins Shep Smith to report on Intel's decision to delay building chip factories in Ohio as Congress fights over funding.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"Amazon workers at a UK depot have voted to strike for the first time.\" can be translated into Chinese as \"英国一个仓储中心的亚马逊员工首次投票决定罢工。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet will continue to be a great business while a number of companies of similar caliber are in trouble post-COVID. Google Search continues to dominate the space with an unbreakable moat.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些公司将能够保持其市场地位。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo宣布派发0.955美元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子的中文翻译如下：\n\nFB下跌了7.5%，从这种熊市模式来看。考虑到这种牛市情绪，这是一个令人印象深刻的熊市动向。\n\n英文翻译：\nFB down 7.5% from this bearish pattern. Considering the bullish sentiment - That's an impressive bearish move https://t.co/TaJF0cH2qh",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish security and privacy software solutions developer Stonesoft Oyj announced on January 7, 2008, that the preliminary sales of its StoneGate products increased by 59% year-on-year to 3.6 million euros ($5.3 million) for the fourth quarter of 2007.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The recent market volatility has exposed risks at many former high-flyers. But these safe retirement stocks are resistant to the current troubles.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子到中文的翻译：\n\n英文句子：{NWC ANALYSIS :}\n中文翻译：{NWC分析：}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KKR Income Opportunities Fund宣布派发0.125美元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese: \n\n{$vxx 在这里增加位置！}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton cut its dividend, posted a $5.67 billion net loss.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc (NASDAQ: NFLX) 股票周一下午下跌 3.46% 至 180.50 美元，原因是整体市场疲软，而上周股票表现强劲之后，股市下跌。本周 CPI 报告之前的美国更广泛的经济担忧对市场情绪产生了影响。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OneMain plans to boost dividend, pay special dividends. \n\n中文翻译：OneMain计划增加股息，支付特别股息。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英镑下跌，因为鲍里斯·约翰逊被送往重症监护室接受COVID-19治疗。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oriola-KD expects its invoicing in 2008 to be higher than the comparable invoicing of 2007.\n\n\"Oriola-KD预计2008年的开票金额将高于2007年的可比开票金额。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Artificial intelligence powers everything from robots to insurance companies. = 人工智能驱动了从机器人到保险公司的一切。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"德意志银行下调星巴克公司股票评级至$SBUX https://t.co/QqlEvVwPMV https://t.co/f2PdQjuTHa\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

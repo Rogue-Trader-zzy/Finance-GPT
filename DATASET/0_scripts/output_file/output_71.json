@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The equity failed to post a single post-earnings win in the last two years. = 该股票在过去两年内没有一次发布盈利报告后获得胜利。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "到目前为止，本周几只股票已经出现了头条新闻驱动的催化剂。我们将涵盖5只新闻中正在走强的股票。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Centrica extends gas deals with Gazprom, Statoil.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For 2009, net profit was EUR3m and the company paid a dividend of EUR1.30 apiece.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司仍然预计2010年的营业额将略微超过2009年的水平，同时表示“市场预测性仍然太差，无法对合同制造业务在本年度的发展做出可信的预测”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Autoliv -2% after setting new targets\n\n中文翻译：\n奥托立夫 -2% 设定新目标后",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB\" is getting into the buy zone soon;)} 的中文翻译为：“Facebook 很快就要进入买入区域了；）”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UPDATE 3: Stifel to buy former Lehman brokerage from Barclays\" 翻译成中文为 \"更新3：Stifel将从Barclays手中收购前Lehman经纪业务\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Commission is to be applauded for applying a fact-based and data-driven approach and for providing clarity for future petitions.\n\n“委员会应该受到赞扬，因为他们采用了基于事实和数据驱动的方法，并为未来的请愿提供了清晰度。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Many big-name retailers are expected to report this week, including Macy's (M), Best Buy (BBY) and others.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "销售额达到2.41亿欧元，相比之下为2.114亿欧元，并且也超过了预期预测的2.35亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"尽管其高市盈率，L E Lundbergföretagen AB (publ) (STO:LUND B) 是否仍然被低估？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺基亚一定会不同意高通关于专利状况的观点。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Are Betting On Aduro BioTech Inc (ADRO) 翻译为：对冲基金正在押注Aduro BioTech Inc（ADRO）。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The talks involved the Food and Ingredients Divisions, as well as group service functions, the company said.\" 可以翻译为：“该公司表示，讨论涉及食品和原料部门，以及集团服务功能。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子的中文翻译为：“寻找继续上涨的成交量。”\n\n英文翻译：Looking for continuation with volume increase.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是很长一段时间以来技术公司表现最糟糕的季度之一。大多数公司在多个方面都低于预期，或者勉强达到降低的预期。一个值得特别关注的领域就是云计算，因为它近期表现非常强劲。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第三季度盈利季最大的一周也可能会是最令人焦虑的一周，因为一些曾经的科技巨头准备在裁员和数字广告、电子商务和智能手机销售需求放缓的迹象中报告业绩。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the building and home improvement trade, sales decreased by 22.5% to EUR 201.4 mn. \n\n建筑和家居装修贸易中，销售额减少了22.5%至2.014亿欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "云计算正在全球范围内迅速发展，是现代技术的亮点之一。它让企业和消费者能够实现以前被认为不可能的数字壮举。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence in English is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {$PACD easy to see, easy to trade !!!! Don't forget $CETX looks primed for a run to $1}\"\n\nThe translated sentence in Chinese is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{$PACD 易于看到，易于交易！!!! 别忘了 $CETX 看起来即将冲向 $1}\"\n\nPlease note that the translation provided above is a direct translation of the given sentence, and it may not be entirely accurate or idiomatic in Chinese.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"短空头兴趣再次增加，$SPY\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The policy was also aimed at making the companies more profitable and competitive. \n\n翻译成中文：政策的目标之一也是让公司更加有利可图和具有竞争力。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Department of Justice has been investigating the search giant's advertising business. 翻译成中文为：“美国司法部一直在调查这家搜索巨头的广告业务。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Are Still Crazy About Avid Technology, Inc. (AVID) 可以翻译为：“对Avid Technology, Inc.（AVID）的套利基金仍然疯狂。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Silver Lining in Ford's Struggling Chinese Market\n福特在中国市场挣扎中的银色亮点",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ADPnews - 2010年5月4日 - 芬兰餐具和手工具制造商Fiskars Oyj Abp（HEL：FISAS）今天表示，其2010年第一季度净利下降至1290万欧元（1700万美元），而2009年同期为1700万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The expansion aims to attract new customers both in Finland and abroad.\" 翻译为中文是：\"扩张旨在吸引新客户，无论是在芬兰还是在国外。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Capitex Kalmar will continue to be responsible for the maintenance and technical development of the services.\n\n{Capitex Kalmar将继续负责服务的维护和技术发展。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是对 Power Integrations Inc (POWI) 的看法：\n- 对冲基金的观点：\n  - 对 Power Integrations Inc (POWI) 的前景和股价的看法。\n  - 对 POWI 的财务状况和业绩的评估。\n  - 对 POWI 行业地位和竞争优势的分析。\n  - 对 POWI 未来发展战略和投资机会的预测。\n- 对冲基金对 POWI 的推荐评级：\n  - 买入 (Buy)：对 POWI 的股价有积极看法，建议投资者购买。\n  - 持有 (Hold)：对 POWI 的股价没有明显看好或看空，建议投资者保持现有头寸。\n  - 卖出 (Sell)：对 POWI 的股价有负面看法，建议投资者卖出。\n- 对冲基金对 POWI 的风险提示：\n  - 行业风险：对 POWI 所处行业的潜在风险进行评估。\n  - 财务风险：对 POWI 的财务状况和业绩进行风险分析。\n  - 市场风险：对 POWI 股价可能受到的市场因素进行分析。\n  - 其他风险：对 POWI 可能面临的其他风险进行提示。\n\n请注意，以上只是对可能涉及的内容进行概述，实际内容可能会根据具体情况而有所不同。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The markets expect Heineken to sell Hartwall as a whole or in parts.\n\n这句话的中文翻译是：“市场预计喜力公司会将哈特华尔整体或分部分出售。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司的iPhone 14发布并没有让人失望太多。投资者仍然无需担忧。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The announcement pushed Freenet shares down 6.3 % , or EUR0 .71 , in Frankfurt trade to EUR10 .65 as investors gave up hope United Internet AG and Drillisch would pursue their own takeover and breakup of Freenet.\n\n公告导致Freenet股价在法兰克福交易中下跌6.3%，或下跌0.71欧元，至10.65欧元，因为投资者放弃了希望，认为联合互联网公司和Drillisch将继续他们的收购和拆解Freenet。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "巴克莱银行从摩根大通聘请新任首席运营官保罗·康普顿。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The metaverse is here to stay. Luckily for investors, there's still plenty of time to capitalize on the fast-growing market.\" 翻译成中文为：“元宇宙已经到来，并且将会长期存在。对于投资者来说，这是一个幸运的事情，因为仍然有足够的时间来利用这个快速增长的市场。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "寻找强劲反弹 $SPY - 午间反弹即将到来。 $DIA $IWM $QQQ $AA $FB",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普仍在研究如何打压中国股票的方法。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glaston's share GLA1V is listed on the NASDAQ OMX Helsinki, Mid Cap List.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finland-based company says it will move into an existing 260,000-square-foot facility in September. \n\n芬兰的这家公司表示，他们将在九月搬进一座现有的26万平方米的设施。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"A group of workers who handle planes and packages at Amazon's national air hub at Cincinnati/Northern Kentucky International Airport (CVG) are trying to unionize the facility, demanding $30 per hour in starting wages and other benefits. The organizing committee says it is looking to affiliate with one of the national unions trying to organize workers at the giant online retailer, which has a history of aggressively combating efforts to form unions at its fulfillment centers.\"}",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "After registration, the share capital of Biotie is EUR 52,556,678.10.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Chinese\": \"CNBC的Kate Rogers报道，第二家星巴克店已经投票决定成立工会。欲获取CNBC的实时和独家视频，请订阅CNBC PRO: https://cnb.cx/2NGeIvi  » 订阅CNBC TV: https://cnb.cx/SubscribeCNBCtelevision » 订阅CNBC: https://cnb.cx/SubscribeCNBC 转至CNBC TV以获取最新的股市新闻和分析。\"}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"When shares carry a steep price tag, the barrier of entry for potential investors is sometimes too steep, causing them to steer away and look elsewhere to park their hard-earned cash.\" 可以翻译为：“当股票价格过高时，潜在投资者进入的门槛有时过高，导致他们转向其他地方来存放他们辛苦赚来的现金。”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Corticeira Amorim S.G.P.S (ELI:COR) Share Price Has Gained 224%, So Why Not Pay It Some Attention?\n\n葡萄牙软木公司Corticeira Amorim S.G.P.S. (ELI:COR)的股票价格已上涨224%，为什么不给予它一些关注呢？",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish publishing and printing group Ilkka-Yhtymä will introduce a staff smoking ban at the beginning of 2007 for the company's three newspapers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果CEO蒂姆·库克表示，公司“不断创新的努力”帮助它在第二季度保持了稳定，尽管存在通货膨胀和其他经济挑战。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "购买Eukor Car Carriers 50%股权后，Grimaldi Group现在是瑞典Roll-on, Roll-off港口Wallhamn的唯一所有者。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子的中文翻译为：“看起来它正在预订一张单程票，前往其40周移动平均线附近的50美元。在这里损失了10周，$LULU”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AGN and PYPL are under pressure along with the market, however there were bullish options trades in both this morning.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "F-Secure Online Backup 自动保护计算机或智能手机中存储的所有内容，通过将内容复制到在线位置来创建副本。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

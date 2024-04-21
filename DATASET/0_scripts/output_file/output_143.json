@@ -1,0 +1,302 @@
+[
+  {
+    "input": "尽管销售额增长，但英国的Tesco警告称，复苏将是坎坷的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The parties have also agreed that L+ñnnen Tehtaat has the right to sell the remaining shares in Suomen Rehu to Hankkija-Maatalous 15 months after the purchase of the majority holding, at the earliest.\n\n翻译：双方还同意，L+ñnnen Tehtaat有权在购买多数股权后15个月内，最早向Hankkija-Maatalous出售剩余股份。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Growth is expected to continue in 2008.\n\n增长预计将在2008年继续。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit was EUR 11.07 mn, up from EUR 8.65 mn. 可以翻译为：营业利润为11.07百万欧元，较8.65百万欧元有所上升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对，这句话的中文翻译是：“对冲基金从未像现在这样看好奥普拉娱乐有限公司（OPRA）。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "早上对 $AAPL 进行获利了结？ 这一定是股票的压力。 我仍然看好 $AAPL。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司有着长期的颠覆历史。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果从周一开始每月增加订阅费用1至2美元。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Recession talk is dominating the airwaves as surging prices are hitting almost every sector of the economy with rising interest.",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Helsinki-based company, which also owns the Salomon, Atomic and Suunto brands, said net profit rose 15 percent in the three months through Dec. 31 to (€47) million ($61US million), from (€40.8) million a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦任命卡拉·雷格尔斯领导通用再保险公司部门。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德银将Lyft股票价格目标从70美元下调至58美元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The share issue, derogating from the pre-emptive right of the shareholders and comprising some six million new shares at market price, will be offered for subscription by shareholders, holders of capital notes and by professional clients.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Supreme Court Upholds $236 Million Jury Award Against ExxonMobil 翻译成中文是：最高法院维持了美国石油公司（ExxonMobil）的236亿美元陪审团裁决。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是我为您翻译的英文句子：\n\n原文：Both dividend paying stocks MSFT and AAPL have fallen the least among the MAMAA group year-to-date. The duo have appreciated the most on a 1-year and 5-year basis. Consequently, it's not surprising that MSFT and AAPL have higher valuation multiples over the other MAMAA stocks.\n\n翻译：股息支付股票 MSFT 和 AAPL 在 MAMAA 组中迄今为止下跌幅度最小。这对股票在 1 年和 5 年时间范围内增值最多。因此，MSFT 和 AAPL 的估值倍数高于其他 MAMAA 股票也就不足为奇了。\n\n希望这个翻译能够满足您的需求。如果您还有其他问题或需要帮助，请随时告诉我。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pivotal Research upgraded $GOOGL to a buy.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"The TZA is a rocket ship!!!\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天关注的关键支撑位是 $FB 的 25.53 - 观察它是否能够保持支撑。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The 8 steps I took to make my first million, according to a millennial millionaire.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Square's Breakout May Send Shares Sharply Higher - Seeking Alpha\n翻译为：\nSquare的突破可能会让股票价格大幅上涨 - Seeking Alpha",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Based in Helsinki, Finland, Ramirent has branches in 13 Nordic, central and Eastern European countries.\n\n翻译成中文：\n总部位于芬兰赫尔辛基的Ramirent在北欧、中欧和东欧的13个国家设有分支机构。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "These stocks haven't been the hottest performers, but they could have very bright futures. \n\n翻译成中文：这些股票并非表现最出色的，但它们可能有非常光明的未来。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nJPMorgan's Jamie Dimon said he expects to see a phase-one trade deal between the U.S. and China.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Also in Latvia, we act as a partner for bakery customers in both production and product development.\n\n在拉脱维亚，我们作为面包客户在生产和产品开发方面的合作伙伴。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The pine oil project is related to the upgrade of the chemical recovery plant of UPM at its pulp mill in Kymi, southern Finland.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The service is available in more than 10 US cities. （该服务在10个以上的美国城市提供。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Neste Shipping is the most likely to remain Finnish as the oil sector and its transports are significant for emergency supply.\"} 翻译为中文是：\n\n\"Neste Shipping 最有可能保持芬兰语，因为石油行业及其运输对紧急供应非常重要。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "为了抵消商品和物流服务成本的增加，亚马逊表示计划在五个欧洲国家将Prime会员年费提高20%至43%。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "看来E71即将被诺基亚（纽约证券交易所：NOK）的顶级商务智能手机所取代。在埃斯波（Espoo）的某人刚刚在企业YouTube账户上发布了这款E72的宣传视频。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company has an annual turnover of EUR32.8 m.\n\n公司年营业额为32.8百万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Quantum computer startup QuEra, born from researchers at Harvard University and the Massachusetts Institute of Technology, said on Tuesday its computer is now accessible to the public through Amazon.com cloud's quantum computer service Braket.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{芬兰Rautaruukki公司的工程部门Ruukki Engineering将重新组织挪威Mo i Rana工厂的运营。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ireland Brings New Twist to Populism\n直译为：爱尔兰为民粹主义带来了新的转折。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nancy Tengler, CEO and CIO at Laffer Tengler Investments, joins CNBC's 'Squawk Box' to break down potential investment opportunities ahead of the market open. Tengler explains why she has been buying higher-risk stocks despite the market volatility.\n\n翻译：\nNancy Tengler，拉弗·腾勒投资公司的CEO和CIO，将加入CNBC的“Squawk Box”，在市场开盘前分析潜在的投资机会。Tengler解释了为什么她在市场波动时仍然在购买更高风险的股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vivaldi Opp Shs Opportunities Fund宣布派发0.11642美元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{iShares International Dividend ETF: A Global Winner - Seeking Alpha}\n翻译成中文为：\niShares国际股息ETF：全球赢家 - Seeking Alpha",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The number of bodily injury cases quadrupled in 2000-2006. \n\n直译为：2000年至2006年期间，身体伤害案件数量增加了四倍。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大部分原材料来自欧洲和美国，并以欧元或美元支付，而销售则以卢布进行。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco 的股价表现不如预期，但它维持了 50 天移动平均线。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Model S 交付量在德国增长了 35% - 3 月份创下交付量记录 [图表] https://t.co/yCnClcBImV $TSLA",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IWM buy programs popping $iwm for close print cheap money means higher stock prices $spy robot buying\" 可以翻译为 \"IWM 买入程序弹出 $iwm 以获取廉价打印，意味着更高的股票价格，$spy 机器人正在买入。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating profit for the six-month period decreased from EUR21m, while net sales increased from EUR436.9m, as compared to the corresponding period in 2007.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Livongo 宣布 2020 年第一季度初步收入; 超过之前公布的指导 -... https://t.co/XD54XBBrdz\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The bond, with a maturity of five years, is part of the bank's domestic bond program.} 的中文翻译为：\n\n{五年期债券是银行国内债券计划的一部分。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"@Dasan @TMTanalyst ... since $AAPL mastered their supply chain // in cornering NAND, Apple mastered EVERYONE'S supply chain!\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Washington DC, Texas, Washington state, and Indiana announced the latest lawsuit against Big Tech on Monday, alleging that Google deceived users by collecting their location data even when they believed that kind of tracking was disabled. \"Google falsely led consumers to believe that changing their account and device settings would allow customers to protect their privacy […]\"",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google is facing key price support. Weekly and daily charts suggest a bounce is coming. \n\n谷歌面临着关键的股价支撑。周线和日线的图表表明反弹即将到来。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Deutsche Bank cuts to Hold: https://t.co/7Fv1ZiFZBS\n\n德国银行将评级降至“持有”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hoxton Ventures ups goal for sophomore fundraise after powering towards initial target\n翻译：\nHoxton Ventures 在达到初始目标后提高了其第二个基金筹资的目标。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Swiss franc surged to record 1.42 euros after it reported sharpest gain in manufacturing in March.\n瑞士法郎在3月报告了制造业最大涨幅后，升至纪录1.42欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The profit for the period increased from EUR 2.9 million to EUR 10.5 million.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2012年的预测为3.3%。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The workforce will be reduced also in the Amsterdam office, in the Netherlands. \n\n中文翻译：荷兰阿姆斯特丹办公室的员工人数也将减少。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hawkish FOMC sends dollar lower. 翻译成中文为：鹰派FOMC导致美元下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "On Wednesday, Apple unveiled a new design of iCloud.com featuring customizable widgets.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"S&P downgrades Barclays and RBS on government bailout fears\" 的中文翻译是：\"标准普尔因担心政府救助而下调巴克莱和苏格兰皇家银行评级\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国停止偿还抵押贷款的房主数量激增。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金正在出售 Axos Financial, Inc. (AX)。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是一个糟糕的日子，适合做空。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hong Kong House Prices Stay Stubbornly High in Face of Unrest\n\n香港房价在面对动荡时依然坚挺。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据今天发布的临时报告，该季度的销售额从38.3万欧元下降到30.6万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RBC Capital Markets分析师Brad Erickson重复了人们对数字广告放缓的担忧。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The author of this opinion piece retired at age 44, so you should probably listen to him.\n中文翻译：这篇文章的作者在44岁时退休，所以你应该认真倾听他的观点。\n\n英文翻译：The author of this opinion piece retired at age 44, so you should probably listen to him.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"更新2-主要FirstGroup股东呼吁出售美国资产\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish company Stockmann has signed the contract with the company Technopolis. 翻译为：“芬兰公司 Stockmann 已经与公司 Technopolis 签署了合同。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple (AAPL) 股票周四出现波动，因为投资者对该公司股票的正面分析师价格目标做出反应。文章《苹果股票价格目标：为什么一位分析师认为 AAPL 在未来 12 个月内达到 200 美元》首先发表于 InvestorPlace。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n{玩具、游戏和爱好行业的Zacks公司继续从体育玩具、时尚娃娃和配件以及STEM玩具的强劲需求中受益。EA、MAT、TTWO和JAKK等股票处于有利位置，可以抓住需求的爆发。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "百度的核心业务预计将增长。出售流媒体平台爱奇艺可能会推动百度股票的重新评估。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{PURE Bioscience 2020 财年 Q1 财务业绩报告}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc (NASDAQ: NFLX) 最近宣布任命 Marian Lee Dicus 为公司的首席营销官。以下是详情。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nomura, RBS must pay $806 mln in mortgage bond case-US judge.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Entering the third year of the pandemic, tech stocks are at crossroads. The pandemic presented them with both adversities and opportunities. \n\n翻译为中文：\n进入疫情的第三年，科技股正处于十字路口。疫情既给它们带来了挑战，也带来了机遇。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"中央银行的行动将有助于缓解疫情对经济的影响 - 副行长加布里埃尔... https://t.co/UhzEj1icQ3\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ATSG Companies 的员工为慈善事业筹集了超过 380,000 美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：Timberrrr $TSLA https://t.co/MRBgfDHHVa\n\n中文翻译：木材 $TSLA https://t.co/MRBgfDHHVa",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国财政部合作伙伴理查德·萨普斯坦(Richard Saperstein)发布了2023年最优秀的三个想法。尽管市场正朝着自2008年以来最糟糕的一年迈进，但他精选的两个投资标的今年迄今为止已经上涨了超过30%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ELY - Callaway Golf EPS 每股收益低于预期$0.03，但收入超预期。https://t.co/WWcCPLqZK5}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政在英国艰难的市场中证明周转成本很高。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊的股票AMZN在试错阶段吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bunzl Lifts Dividend Again As Acquisitions Continue To Boost Profits\n- 宝洁再次提高股息，因为收购继续提升利润。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sara Fischer, Axios media reporter, and Rich Greenfield, co-founder and partner at LightShed Partners, join CNBC's 'Squawk Box' to react to Netflix's disappointing quarterly earnings report.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 2009年的首要任务是加强公司的资产负债表和增加现金流量，'' CEO Hannu Krook 说。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will publish its financial statement for 2008 on February 25, 2009. \n\n翻译成中文：公司将于2009年2月25日发布2008年的财务报表。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MTS Systems宣布支付0.30美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The money will be spent \"on strengthening the company's competitiveness in the sphere of sawmill products and increasing the volume of wood delivered for processing in Russia,\" the release says.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"S&P 500 and Nasdaq notch records to end the week as market weighs merits of limited China trade-deal.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I'm trying to deal with slavery from a different perspective to balance the story,\" says DeRamus, formerly a writer at the Detroit Free Press and the Detroit News.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dynex Capital 的收入表现强劲。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stacy Rasgon, a senior semis analyst at Bernstein, joins 'TechCheck' to discuss what's driving Nvidia's rising stock price, what industries are the ones to focus on, and if Nvidia will be overtaken by visionary companies like Tesla.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Corbus Pharma 在定价股权发行前下跌了 13%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德国银行与英伟达合作，加速金融服务中人工智能的使用。这一合作关系，于12月7日周三宣布，旨在促进符合监管要求的人工智能驱动服务的开发，德意志银行在一份新闻稿中表示。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stocks rebounded to a record territory.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple decided to increase prices in Europe, but not in the U.S. or China, which should stimulate sales in both countries, according to analysts.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今年只有一种主要的加密货币超越了行业风向标比特币——而且是一种你可能没有听过的……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Jobs fuel economic momentum for Trump ahead of election.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intuitive Surgical acquires Orpheus Medical.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Boise, Idaho, Feb. 28, 2022 (GLOBE NEWSWIRE) -- Micron Technology, Inc. (Nasdaq: MU), announced today that it will hold its fiscal second quarter earnings conference call on Tuesday, March 29, 2022, at 2:30 p.m. Mountain time.}\n\n翻译成中文为：\n\n{波伊西，爱达荷州，2022年2月28日（GLOBE NEWSWIRE）--美光科技公司（纳斯达克：MU）今天宣布，它将于2022年3月29日星期二下午2:30（山时）举行第二财季业绩电话会议。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在经过多年的酝酿后，在7月5日星期二，欧盟议会全体会议批准了一项具有里程碑意义的立法，该立法将为数字空间的全面监管设定综合标准。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"什么对'新基督徒宏观牛'很重要。遵循这个和其他在Seeking Alpha上的任何股票！…https://t.co/kzzahcB8Ue\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n- MercadoLibre, Inc. (MELI) Management on Q4 2021 Results - Earnings Call Transcript\n\n中文翻译：\n\nMercadoLibre, Inc.（MELI）2021年第四季度业绩管理层会议记录 - 业绩电话会议实录\n\n注：此翻译是基于您提供的英文句子的字面意思，如果您需要更准确或更详细的翻译，请提供更多的上下文信息。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

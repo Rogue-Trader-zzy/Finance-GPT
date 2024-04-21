@@ -73,9 +73,9 @@ import json
 #     return response['output']['choices'][0]['message']['content']
 def translate_text(text):
     headers = {'Content-Type': 'application/json'}
-    data = {"prompt": "帮我翻译为中文：" + text}
-    response = requests.post(url='http://127.0.0.1:23333/', headers=headers, data=json.dumps(data))
-    print("response: ", response)
+    data = {"prompt": "请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{" + text + "}"}
+    response = requests.post(url='http://127.0.0.1:6006/', headers=headers, data=json.dumps(data))
+    print("response: ", response.json()['response'])
     return response.json()['response']
 
 # 定义一个函数用于翻译文本
@@ -95,35 +95,41 @@ def translate_text(text):
 def translate_entry(entry):
     translated_entry = {}
     for key, value in entry.items():
-        print("value: ", value)
+        # print("value: ", value)
         if isinstance(value, str) and key == "input":
             translated_entry[key] = translate_text(value)
-            print("input: ", translate_text(value))
+            # print("input: ", translate_text(value))
         elif isinstance(value, str) and key == "instruction":
-            problem = value.split("?")[0].strip() + "?"
-            option = value.split("?")[1].strip()
-            # 原始句子
-            original_sentence = option
-            # 将句子按照分隔符 '{}' 分割成两部分
-            prefix, options_text = original_sentence.split("{")
-            options_text, suffix = options_text.split("}")
-            # options_text = options_text.replace("}", "")  # 去除末尾的 '}'
-            print("options_text: ", options_text)
+            if "news" in value:
+                translated_value = "这个新闻的情绪是什么？"
+            elif "tweet" in value:
+                translated_value = "这个推文的情绪是什么？"
+            else:
+                problem = value.split("?")[0].strip() + "?"
+                option = value.split("?")[1].strip()
+                # 原始句子
+                original_sentence = option
+                # 将句子按照分隔符 '{}' 分割成两部分
+                prefix, options_text = original_sentence.split("{")
+                options_text, suffix = options_text.split("}")
+                # options_text = options_text.replace("}", "")  # 去除末尾的 '}'
+                # print("options_text: ", options_text)
 
-            # 将选项文本按照分隔符 '/' 分割成列表
-            options_list = options_text.split("/")
+                # 将选项文本按照分隔符 '/' 分割成列表
+                options_list = options_text.split("/")
 
-            # 将原始句子中的选项用字典对应的值替换
-            mapped_options = [options.get(option.strip(), "Unknown") for option in options_list]
+                # 将原始句子中的选项用字典对应的值替换
+                mapped_options = [options.get(option.strip(), "Unknown") for option in options_list]
 
-            # 生成替换后的句子
-            replaced_sentence = "{" + "/".join(mapped_options) + "}"
-            option_sentence = "请从" + replaced_sentence + "中选择答案。"
-            translated_entry[key] = translate_text(problem) + option_sentence
-            print("instruction: ", translate_text(problem) + option_sentence)
+                # 生成替换后的句子
+                replaced_sentence = "{" + "/".join(mapped_options) + "}"
+                option_sentence = "请从" + replaced_sentence + "中选择答案。"
+                translated_value = translate_text(problem) + option_sentence
+                # print("instruction: ", translate_text(problem) + option_sentence)
+            translated_entry[key] = translated_value
         elif isinstance(value, str) and key == "output":
             translated_entry[key] = options.get(value)
-            print("output: ", options.get(value))
+            # print("output: ", options.get(value))
         else:
             translated_entry[key] = value
         print("translated_entry: ", translated_entry)
@@ -144,22 +150,22 @@ def translate_json_multithreaded(data_chunk):
     return translated_data
 
 # 用法示例：
-input_file = 'C:\\Users\\zzy\\Documents\\5_FinGPT\\Finance-GPT\\DATASET\\0_scripts\\output_file_1.json'
-output_file = 'C:\\Users\\zzy\\Documents\\5_FinGPT\\Finance-GPT\\DATASET\\0_scripts\\output_file\\'
+input_file = '/home/zzy/Documents/InternLM_API/Finance-GPT/Finance-GPT/DATASET/0_scripts/output_file_3.json'
+output_file = '/home/zzy/Documents/InternLM_API/Finance-GPT/Finance-GPT/DATASET/0_scripts/output_file/'
 # api_key = 'sk-e846980f5fd54e55bf2ed6483ae853b1'
 with open(input_file, 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 # 按照每2000个entry划分数据
-chunk_size = 10
-for i in range(0, len(data), chunk_size):
+chunk_size = 50
+for i in range(0, int(len(data)/6), chunk_size):
     data_chunk = data[i:i + chunk_size]
     translated_chunk = translate_json_multithreaded(data_chunk)
     if i // 10 == 0:
         print(i)
 
     # 存储每个chunk的翻译结果
-    with open(f'{output_file}output_{i // chunk_size}.json', 'w', encoding='utf-8') as f:
+    with open(f'{output_file}output_{104 + i // chunk_size}.json', 'w', encoding='utf-8') as f:
         json.dump(translated_chunk, f, ensure_ascii=False, indent=2)
 
 # translated_df = df.applymap(translate_text)

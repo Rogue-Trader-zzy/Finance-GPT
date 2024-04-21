@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"Sanoma also has an Executive Committee, in accordance with the Company's Articles of Association, that prepares proposals for matters to be decided or noted by the Board of Directors.\" \n\n中文翻译为：\"三一重工也依据公司章程设立了董事会，负责准备董事会需要决策或记录的事项。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Royal Dutch Shell's profit increases; dividend up 4%.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence you provided translates to: \"The SPY looks like bear traps are being laid faster than Cadbury Creme Eggs by the Easter Bunny.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann成立于1862年，芬兰，并在1989年成为第一家进入俄罗斯零售贸易市场的国外公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq SE Stock Exchange Announcement February 4 , 2009 at 10.00 am ( EET ) Elcoteq will publish its financial statements bulletin 2008 on Wednesday , February 11 , at 9.00 am ( EET ) .\n\n翻译为：\n艾尔科泰克SE股票交易所公告2009年2月4日10:00 (EET) 艾尔科泰克将于2009年2月11日星期三9:00 (EET) 发布其2008年财务报告。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit was EUR 139.7 mn, up 23% from EUR 113.8 mn. \n\n翻译为中文：\n营业利润为 1.397 亿欧元，比 1.138 亿欧元增长 23%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{在华尔街混杂的一天中，渠道检查揭示了一些对苹果投资者有利的积极发展。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BP, Statoil to Withdraw Staff From Algeria Following Rocket Attack\n\nBP, Statoil 将因火箭袭击而从阿尔及利亚撤出员工。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kesko's car import and retailing business, VV-Auto, saw sales grow by 17.1 percent.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"eBay had a nice breakout of the recent consolidation. Congrats to those who had it.\" 翻译成中文为 \"eBay 最近在整合后取得了不错的突破。祝贺那些拥有它的人。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "和其他市场新闻。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This English sentence translates to: \"The Vanguard Group, Inc.: Just Eat plc #JEOL #Stock #MarketScreener https://t.co/8L1jtGW1Jo https://t.co/4MYhJInOKz\"\n\nHere's the translation in Chinese: \"先锋集团，Inc.：Just Eat plc #JEOL #股票 #市场筛选器 https://t.co/8L1jtGW1Jo https://t.co/4MYhJInOKz\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc.的股票周一上涨，与更广泛的股市下跌形成鲜明对比，这是由于Oppenheimer的新分析师覆盖了这家流媒体巨头，阐述了为什么现在是投资者重新进入的时候。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kershaw将立即从她之前的角色——Sankey Home & Garden Products的市场营销经理职位上转任。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉：Model X召回增加了可靠性问题。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"微软公司（NASDAQ: MSFT）股票周二与多家软件公司一起下跌。由于彭博社报道称，该公司作为结构调整的一部分裁减了部分员工，因此该股面临卖出压力。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This week's 48-hour Prime Day shopping spree was fueled by an increased volume of budget-conscious consumers looking to extend their purchasing power amid soaring inflation.\n\n本周的48小时Prime Day购物狂欢节是由大量预算意识强的消费者推动的，他们试图在通货膨胀高涨之际扩大自己的购买力。\n\nThe results suggest inflation has encouraged a deal-hunting mindset across consumers who are becoming increasingly sensitive to price changes, which makes favorable trends for Amazon Prime.\n\n结果表明，通货膨胀鼓励了消费者寻找优惠的心态，而消费者对价格变化的敏感度越来越高，这对亚马逊Prime来说是有利的趋势。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司 (AAPL) 股价上涨 1.3%，接近五周来的最高点，有望连续第八次上涨。这将是自 2021 年 11 月 24 日结束的九天连续上涨以来的最长连涨记录。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The deliveries have begun and the network will be ready for a launch soon.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S Group's loyal customer magazine Yhteishyvän tied for second place with 1,629,000 readers, and Sanoma Corporation's daily newspaper Helsingin Sanomat came in third with 1,097,000 readers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's stock split will take place on June 3, but don't expect to wake up to riches overnight.\n\n亚马逊的股票分割将于6月3日进行，但不要期望一夜之间醒来就能变得富有。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当然，你将直接访问诺基亚的Ovi商店，因此你将会有很多乐趣下载你最喜欢的媒体。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"历史可以帮助缓和投资者的担忧。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel Corporation (NASDAQ:INTC) 在第三季度实现了超出预期的利润，但在收入方面未能达到预期，因为其两大业务部门拖累了利润线。该公司报告的每股收益（EPS）为 0.59 美元，而非 GAAP 基础上的预期为 0.34 美元。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Owens & Minor will Report Fourth Quarter & Full Year 2019 Financial Results on Wednesday, March 4, 2020.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Biden previously endorsed union drives happening nationwide, but he stopped short of naming Amazon, which was in the middle of a unionization effort in Alabama.\n\n拜登此前曾支持全国范围内发生的工会运动，但他没有点名亚马逊，而亚马逊正处于阿拉巴马州工会化的努力之中。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"AAPL iPhone shipments on track to exceed forecasts - MarketWatch.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo即将在5分钟内突破。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RSI 指标超过 50，目前为 56.1，预示着股价将有上涨趋势。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国12月份批发库存下降0.2%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Today there is some upside. This thing is severely low float. If there is a catalyst for this guy, it can run.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AbbVie 将发布其实验性囊性纤维化 (CF) 药物的二期数据，这些数据可能与 Vertex 的药物竞争。VRTX 股票可能会上涨或下跌，与 AbbVie 的数据集成反比。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Amazon.com, Inc. (NASDAQ: AMZN), Apple Inc (NASDAQ: AAPL) and Microsoft Corporation (NASDAQ: MSFT) are all trading lower.\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Niam offers financial investors a high return via investments in funds that in turn invest in all types of properties.\n\nNiam为金融投资者提供高回报，通过投资于基金，这些基金进而投资于各种类型的物业。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CF Industries stock price target raised to $56 vs. $52 at BofA Merrill Lynch\n翻译成中文：\nCF Industries 股票价格目标提高至 $56，而 BofA Merrill Lynch 将其定为 $52。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "(路透社) - 周四，莫斯科法院裁定，俄罗斯的反垄断监管机构在App Store支付纠纷中针对苹果公司提起反垄断案件是合法的，驳回了美国公司提出的案件，俄罗斯新闻社报道。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Raute Corporation has received orders worth over EUR 12 million from OOO Ilim Bratsk DOK in Russia. \n\n中文翻译：拉玛公司从俄罗斯的OOO Ilim Bratsk DOK那里收到了价值超过1200万欧元的订单。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence is: \"@barronsonline sees #Apple at $150/share in a year (+36% from today) on growing services business. $AAPL https://t.co/3BDNEKN7l1\"\n\nTranslation in Chinese: \"@barronsonline 认为苹果公司在一年内股价将达到每股 $150，较当前股价上涨 36%，原因是其服务业务正在增长。$AAPL https://t.co/3BDNEKN7l1\"\n\nIn this translation, the following key points are covered:\n\n1. \"@barronsonline\" is a Twitter handle referring to a financial publication or analyst.\n2. \"#Apple\" refers to the technology company Apple Inc.\n3. \"$150/share\" represents the predicted future share price of Apple Inc.\n4. \"in a year\" indicates the time frame for the prediction.\n5. \"+36% from today\" shows the percentage increase from the current share price.\n6. \"on growing services business\" explains the reason behind the predicted increase in share price, which is due to the growth of Apple's services business.\n7. \"$AAPL\" is the stock symbol for Apple Inc.\n8. \"https://t.co/3BDNEKN7l1\" is a link to the original source of the information.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD 预计将在未来几天内完成对 Xilinx 的收购。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是很有趣的，回到过去看看沃伦·巴菲特（交易，投资组合）在伯克希尔·哈撒韦（BRK.A，金融）（BRK.B，金融）的股票投资组合中的一些小头寸。我喜欢看这些头寸，因为它们不像大仓位那样受到那么多关注。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Check out these defensive stocks amid slowing retail sales.\"} 翻译为中文为：“在零售销售放缓之际，看看这些防御性股票。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你可以多次找到顶和底，当空头开始欢呼或多头开始欢呼时。目前，空头正在欢呼。\n\n英文翻译：You can find tops and bottoms many times when shorts start rejoicing or bulls start rejoicing. Currently, it is the shorts rejoicing.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Tom Forte, senior research analyst at D.A. Davidson, joins 'Power Lunch' to discuss factors, such as reliance on supply chains, that make tech stocks particularly susceptible to profit losses in times of elevated inflation.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Activision has a lot of popular games that fit into Microsoft's plans to build a vast library of titles that can be played on all sorts of devices. The metaverse can wait.} 翻译为中文：\n{动视暴雪有很多受欢迎的游戏，这些游戏符合微软的计划，即建立一个可以跨各种设备进行播放的庞大游戏库。元宇宙可以稍后再说。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca 通过 5.75 亿美元的交易增强了其呼吸系统部门。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Lithuania, operating profit increased to EUR 190,000 from EUR 70,000 during the same period in 2005.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Amazon.com, Inc. (NASDAQ: AMZN) was trading about 1.3% lower on Friday in consolidation after soaring up over 18% between July 28 and Thursday, which was in response to the company printing a second-quarter revenue beat.\" 可以翻译为：\n\n\"亚马逊公司（纳斯达克代码：AMZN）周五的股价下跌了大约1.3%，这是在经历了7月28日和周四之间股价上涨超过18%之后进行整理。这一涨势是对该公司第二季度收入超过预期的回应。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Keep your eyes on the long-term prize.\" 可以翻译成中文：\"保持对长期目标的关注。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "- 该集团在此期间的销售额为3750万欧元（2008年1月至9月为4820万欧元），税前利润为-350万欧元（+120万欧元）。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"曾经被批评为给特朗普免费播放时间的社交网络现在正在削减，因为他的集会无法吸引与之前相同数量的观众。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

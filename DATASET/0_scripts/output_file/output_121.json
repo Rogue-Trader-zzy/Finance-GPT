@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Finnish forest machinery manufacturer Ponsse has agreed with Volvo on the start of cooperation in Latin America. \n\n芬兰森林机械设备制造商 Ponsse 已与 Volvo 就拉丁美洲的合作启动达成一致。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In addition, the company will reduce a maximum of ten jobs. \n\n翻译为中文：\n此外，该公司将最多减少十名员工。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple says it has staff at the Zhengzhou site where clashes broke out between factory workers and police, amid a staff shortage and a Covid outbreak at the iPhone manufacturing compound.\n\n苹果表示，在郑州的工厂，苹果员工与警方发生了冲突，这一事件发生在工厂员工短缺和iPhone制造工厂爆发疫情之际。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alexandria, Va. 10月23日--芬兰埃斯波的Hans-Otto Scheck开发了一种识别通信系统中远程无线电单元的方法。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FB bot has broken out from the consolidation zone at 78.47.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Water is life. Too little, and we cannot survive. Too much could be deadly. Climate change is increasing droughts...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Molson Coors said to be weighing sale of European business\n\n翻译成中文为：\n“莫尔森·科尔斯被报道正在考虑出售其欧洲业务。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"In accordance with the terms and conditions of Alma Media's 2006 option program, the share subscription price for the 2006A option rights was EUR 4.88 per share and the book countervalue EUR 0.60 per share.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finland's dominant rail company VR is planning to set the infected passengers for long-distance trip in a separate carriage.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons faces festive sales test. \n\n翻译：莫里森超市面临节日销售测试。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您请求的英文翻译：\n\"Stocks making the biggest moves premarket: Target, Lowe's, Boeing, Alibaba, J&J & more\"\n\n中文翻译：\n\"盘前交易中表现最活跃的股票：Target, Lowe's, Boeing, Alibaba, J&J 等等。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "报告将在订单后的2个工作日以内通过电子邮件发送。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2016年的反转交易：必和必拓有限公司和Home Retail Group Plc。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The odds are in investors' favor with these stocks.\n= 这些股票对投资者有利。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "整个造纸厂可能会建立起来，特别是在新的欧盟成员国。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yum Brands Q4 Taco Bell 同店销售额增长 4%; FactSet 共识增长 3.2%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Edited Transcript of RLGT earnings conference call or presentation 12-Nov-19 9:30pm GMT\" 的中文翻译为：\"RLGT 盈利电话会议或演示的编辑记录 12-Nov-19 9:30pm GMT\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Impinj COO stepping down: 英飞凌首席运营官辞职。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n“在这次下跌中，Twitter上最看涨的股票。$YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY更多：https://t.co/iuZJelfwt3”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{短期游戏许可证的费用低至3美元，而直接购买游戏可能需要支付10美元或15美元。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "音乐由所有主要国际和地区唱片公司提供，包括环球音乐集团、索尼音乐娱乐、华纳音乐、百代唱片、罗塔纳、玛奇卡、旋律音乐、白金唱片以及领先的聚合内容供应商The Orchard，以及数千家独立唱片公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In November 2021, Qualcomm announced that its new Snapdragon Ride compute platform for advanced driver assist systems (ADS) and partially automated driving (ADS) had been selected for future BMW vehicles.\n翻译：\n2021年11月，高通宣布其新的骁龙Ride计算平台，用于高级驾驶辅助系统（ADS）和部分自动化驾驶（ADS），已被选为未来宝马车辆的选择。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "关于MidnightTrader：MidnightTrader是零售和机构投资社区的首要来源，提供美国股票期货交易分析、新闻和预测。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cerberus Capital Management LP 支持的印刷纸制造商 NewPage Corp. 发布了一份混杂的第二季度业绩报告，为该公司计划中的首次公开募股蒙上了一层阴影。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PNC和Goldman Sachs收到股息增长绿灯（但请不要行动）：http://stks.co/2pa7 $PNC $GS",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第四季度的指导严重偏离了目标。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Celanese stock price target raised to $120 vs. $111 at BofA Merrill Lynch.\n\n翻译：Celanese股票价格目标被提高至120美元，相比之下，高盛美林证券的目标价格为111美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国主导的牛肉消费增长可能很快就会结束，@davidfickling 显示（via @bopinion）https://t.co/HU4iT9k1bQ",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "财政部合作伙伴的理查德·萨普斯坦解释了为什么他仍然在科技股上过度投资，尽管最近出现了下跌。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Brookfield被视为Trans Mountain的'黑马'买家，在股权融资后。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft股票显示出世俗增长的迹象，这意味着在2022年的熊市中购买它是有利可图的。关键指标证实了这一前提。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon (NASDAQ: AMZN) Prime Day has arrived, which is the top savings event for Amazon Prime members for products across.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"苹果股价突破下降通道......它会维持住吗？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lam Research (LRCX) has solid growth attributes, which could help it outperform the market easily.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德国之翼航空灾难不会影响廉价航空旅行的形象 - 易捷航空。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon reported upbeat results in an otherwise gloomy earnings season for most of the technology sector. 亚马逊在科技行业大多数部分业绩低迷的季节中报告了乐观的结果。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barclays 任命 JPMorgan 的 Paul Compton 为新任首席运营官。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ISR- @IsoRay Up 6% and high on volume http://stks.co/iFpo #biotech}\n\n$ISR- @IsoRay 上涨 6%，并且交易量很高。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chesapeake Energy's stock drops toward 25-year closing low as oil pulls back.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Rentals, Inc. (URI) CEO Matthew Flannery on Q4 2021 Results - Earnings Call Transcript\n\nUnited Rentals, Inc. (URI) CEO 马修·弗拉尼 (Matthew Flannery) 关于 2021 年第四季度业绩 - 盈利电话会议记录。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Today, Global Research & Data Services is going to publish several market analyses about the markets for water treatment products in some selected countries, including the USA, Canada, Mexico, Australia, and Brazil.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The IWM relative weakness is quite apparent, but the short boat is filling up on this one. I prefer the boat closer to empty.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Trump's Dec. 15 China tariffs threaten a long list of Christmas favorites\" 的英文翻译是：\"特朗普于12月15日对中国的关税威胁到了一系列圣诞节的喜爱之物。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Supported Nokia phones include: N96, N95-8GB, N95, N93-N931, N92, N85, N82, N81, N80, N79, N78, N77, N76, N75, N73, N72, N71, E90, E71, E70, E66, E65, E62, E61-E61i, E60, E51, E50, Touch Xpress 5800, 6220 Classic, 6210 Navigator, 6120 Classic, 6110 Navigator, 5700, 5500, 5320XM.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "销售部门百货公司分部及玩具厅的销售均增加了7%，而服装店子公司Seppala的销售则下降了4%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Broadcom +2% after Street-high target\" 可以翻译为 \"博通（Broadcom）上涨2%，超出华尔街预期目标\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Why Now Is a Great Time to Buy Pinterest Stock\n\n- 为什么现在购买Pinterest股票是一个非常好的时机。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish stationery and gift retailer Tiimari HEL: TII1V announced yesterday that it will eliminate a total of 28 jobs in its units Tiimari Retail Ltd and Gallerix Finland Ltd as a result of the closure of stores.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\"YAYO here is the chart, sometimes I have problems to upload the charts on stocktwits. https://t.co/MNPZoAjtIv\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net cash flow from operations is expected to remain positive.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

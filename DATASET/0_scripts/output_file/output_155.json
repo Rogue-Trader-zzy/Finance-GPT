@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Pharmaceutical market in Poland: Global Research & Data Services recently published a market analysis about the pharmaceutical markets in Poland.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "An audio webcast will be available live and archived on Cerner's website at www.cerner.com.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The order also covers design services, hardware, software licenses, as well as maintenance services over six years.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett defends Berkshire Hathaway's conglomerate structure.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Buy Alphabet Now Before Everyone Else Does\" 的中文翻译为 \"在其他人之前现在就购买 Alphabet\"。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "虽然过去一周大部分注意力都集中在乌克兰和俄罗斯之间可能发生的冲突上，但真正对投资者构成威胁的是不断增长的通货膨胀压力，现在这些压力已经达到了40多年来的最高水平。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Her present position is the director of Stockmann's international department stores.} 翻译成中文为：{她目前的职位是斯德哥尔摩百货公司国际百货的总经理。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rapid7 EPS 以 0.04 美元的优势击败，收入方面也胜出。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia Corp on Tuesday unveiled its latest new graphic chip (GPU), dubbed the H100, saying it will increase the computing speed of artificial intelligence algorithms that increasingly require more power to execute. \n\n翻译：\n英伟达公司于星期二推出了其最新的图形芯片（GPU），名为H100，称其将增加人工智能算法的计算速度，这些算法越来越需要更多的电力来执行。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jeff Bezos and Andy Jassy, the founder and CEO of Amazon respectively, have no choice but to testify before the Federal Trade Commission (FTC) in the agency's ongoing investigation following a ruling on Wednesday (Sept. 22) that did not go their way.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Just Eat, a Netherlands-based food delivery app, is still looking for a buyer as it struggles to keep pace with delivery rivals.\" 的中文翻译为：\"Just Eat，一家荷兰基地的外卖应用，仍在寻找买家，因为它在配送竞争对手面前难以跟上步伐。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"这是一个潜在的看跌鲨鱼模式，如果点B $226被突破。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Latin American e-commerce giant is still growing rapidly.\n- 拉丁美洲的电子商务巨头仍在迅速增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Micron (MU) 在 30 天前报告了收益。这只股票接下来会怎样？\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SABMiller收购Meantime以满足对精酿啤酒的渴求。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"阿赛洛·米塔尔首席执行官拉克什米·米塔尔已经在一些熔炉中削减产量。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Severn Trent share price rises as first half profit inches up as customer...\"\n\n翻译为中文：\n\n\"Severn Trent股票价格上涨，上半年利润略有上升，因为...\"\n\n英文翻译：\n\n\"Severn Trent share price rises as first half profit inches up as customer...\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"另一方面，蒙得维的亚表示，在地区内运作这两家工厂将会创造就业机会。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The BIOC RSI is extremely in favor of long's looking at BIOC historically.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The buyer is real estate owner Propertos Oy, but the companies have agreed not to disclose financial details of the deal.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Casteca表示，市政厅将与对区域感兴趣的其它投资者进行交流。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "让我们看看今天剩下的时间里更高和高点，缓慢而稳定。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks 股票下跌幅度最高可达 ~4.2%，$SBUX https://t.co/JlgrprR54k",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "福特因火灾风险召回超过50万辆皮卡。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YNDX and the price of some stocks was 2 times lower then annual earnings, I could not resist, I was buying when everyone was selling.\n\n翻译成中文：\n\"YNDX和一些股票的价格是年度收益的两倍，我无法抗拒，当大家都在卖出时，我却在买入。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tech Takes the Leadership Role Again as Chip and Cloud Names Move Higher - I See a Pattern - Seeking Alpha",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new union affects only a small group of workers — 28 quality assurance workers at Activision's Raven studio. 翻译成中文为：新的工会仅影响到一小部分工人——Activision的Raven工作室的28名质量保证工人。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Ansys股票价格目标从235美元上调至265美元，根据Benchmark。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"希望我的期权能回来，但看看我们是否能找到243.39附近的支撑，然后反弹，这样我就可以再进去了。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"MXWL\" Oh snap. Just went long again. LT} 翻译成中文为：{\"MXWL\" 哦，我的天。又长多了。LT}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加利福尼亚告诉财产保险公司不要取消位于易受山火影响的房屋的保险政策。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"财政部长新闻发布会实况：财政部长西他拉曼表示，中产阶级股东将按照较低的税率缴纳股息税。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家荷兰壳牌将以近700亿美元收购BG集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the second quarter of 2009, net sales through operator business partners represented 47% of the Group's total net sales. \n\n翻译成中文为：\n2009年第二季度的网销通过运营商业务伙伴所占集团总网销的比例为47%。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"页岩油形势的突然逆转预示着石油价格的根本重置。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Xcel Energy 将以 6.8 亿美元的价格出售 Mankato Energy Center。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它也在不断增长的环保和回收技术领域拥有潜在客户。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GPU leader has not increased its dividend in over two years.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这家资产达2.8亿欧元的公司的五位最大股东包括芬兰保险公司Ilmarinen，持股4.34%；Varma，持股0.70%；以及芬兰国家养老金基金VER，持股0.61%。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"In Q1 2010 18 May 2010 - Finnish electrical components maker Salcomp Oy ( HEL : SAL1V ) said today it turned to a net profit of EUR1.6m in the first quarter of 2010 versus a loss of EUR2m in the corresponding period last year.\" \n\n翻译为：\n\"在2010年第一季度，2010年5月18日，芬兰电子元件制造商Salcomp Oy（HEL：SAL1V）表示，其在2010年第一季度实现了净收入1.6万欧元，而去年同期则为亏损2万欧元。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The core of Solidium's investment strategy is proper, value enhancing asset management of the current holdings. \n\n翻译为中文：Solidium的投资策略的核心是对现有持仓进行适当的、增值资产管理。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UPM's aim is to secure Botnia's strategic development and investments. \n\n翻译：UPM 的目标是确保 Botnia 的战略发展和投资。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nomura, RBS must pay $806 mln in mortgage bond case-US judge 翻译为中文是：「野村证券和苏格兰皇家银行在抵押债券案中必须支付8.06亿美元——美国法官裁定」。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"芯片巨头的复苏可能会因为这次举动而得到提升。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alma Media的2009年净销售额总计为307.8百万欧元，营业利润率为13.5%。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "法国奢侈品公司LVMH同意以160亿美元的价格收购美国珠宝商蒂芙尼，这是其最大的收购……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Negative Interest Rates And The Perpetuity Paradox. Follow this and any other stock on Seeking Alpha!… https://t.co/0OqvQisRJf}\n\n中文翻译：\n请帮我将下面的英文句子翻译成中文，答案中将直接给出英文翻译！{负利率和永续悖论。在Seeking Alpha上关注此股以及任何其他股票！…https://t.co/0OqvQisRJf}\n\n英文翻译：\nPlease help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Negative Interest Rates And The Perpetuity Paradox. Follow this and any other stock on Seeking Alpha!… https://t.co/0OqvQisRJf}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I've been dead on so far. Such a bloated valuation.\" 翻译为中文是 \"到目前为止我一直很准确。估值真是庞大得夸张。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bilfinger Industrial Services has won a £100m contract extension with BP.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Travis Perkins Hikes Dividend 20% As Profit And Revenue Rise 翻译为中文是：“特瑞斯·派金斯公司因利润和营收上涨而将股息上调20%”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The construction is expected to be completed in the summer of 2011.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在价格图表上，CLOV股票正在朝着更好的明天前进，与最近的模因驱动的新闻关联度较低。文章标题是：《CLOV股票现在值得购买吗？》",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq SE is a leading electronics manufacturing services (EMS) company in the communications technology field.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 重新回到... - 由CNBC带来的下跌购买机会。哈哈。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lululemon (NASDAQ: LULU) 股票周二下跌，原因是 Jefferies 分析师 Randal J. Konik 下调了股价。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel 的股票在周一上涨，因为该公司正准备拆分其自动驾驶技术公司 Mobileye，后者可能会筹集 8.2 亿美元。Mobileye IPO 将价值自动驾驶汽车公司 160 亿美元。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Andaman Islands feel the tides of change.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Buffett's Company Reports 37 Percent Drop in 2Q Earnings\n\n巴菲特的公司的第二季度收入下降了37%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "此外，Konecranes和Kito计划将Konecranes日本合资企业MHS Konecranes的吊装分销业务转让给Kito。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$CAMT Looks like might break down. I'm out} 的中文翻译是：{\"$CAMT 看起来可能会崩溃。我出去了。\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "JVC will stop producing DVD players in Brazil: JVC do Brazil, a subsidiary of Japan's JVC group announced it will stop the production of DVD players in Brazil.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Patrizia 将此次收购添加到已经价值 3 亿欧元（EUR3bn）的组合中。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$GALE Breakout Coming Soon!} 翻译为中文为：“{$GALE 突破即将到来！}”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"NFL重新回到政治争议的中心，因为Kaepernick的试训，以及可能的Trump超级碗广告。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲股票徘徊在3周低点附近，迪伦和必和必拓股价下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla has announced it is recalling 2700 Model X SUVs. $TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kudlow: 没有任意期限的美国-中国贸易谈判，12月15日很重要。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司周四公布的盈利报告可能显示今年iPhone的季度销售额增长最好，但中国需求放缓和通胀达到几十年来高点仍可能预示着一个艰难的假日季节。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The weakest sector this year and possible false breakout.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "- 又一天，又创下新高。标准普尔500指数收盘上涨0.6%，纳斯达克指数收盘上涨1%，两者都达到了......",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"当沃伦·巴菲特（交易，投资组合）在20世纪50年代末首次开始投资时，他专注于利用市场上的独特机会。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"工会和公司官员昨天没有回复电话。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish company Okmetic, which manufactures and processes silicon wafers for the semiconductor and sensor industries, and Norwegian solar wafer company NorSun have signed a contract under which Okmetic will supply NorSun with mono silicon crystals for use in solar cell manufacturing.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Transurban Group reports 1H results: https://t.co/H5ULsdHRGr\n\n翻译：Transurban Group报告上半年业绩：https://t.co/H5ULsdHRGr",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：\n\n\"Broker tips: RBS, Croda, Sage\"\n\n翻译成中文为：\n\n\"经纪人提示：RBS, Croda, Sage\"\n\n在这句话中，\"Broker tips\"指的是经纪人的提示或建议，而\"RBS, Croda, Sage\"则是三个公司的名称，分别是Royal Bank of Scotland（苏格兰皇家银行）、Croda International PLC（克罗达国际股份有限公司）和Sage Group PLC（萨格集团股份有限公司）。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Steve Weiss from Short Hills Capital has been holding cash for most of the year, as he has held a bearish view on the market and has been largely correct.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sugar's Short-Term Support Is Eroding\" 的中文翻译为 \"糖的短期支持正在减弱\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股东姓名及身份证号：- Petri Ailus，1966年9月15日出生。如需更多信息，请联系CEO Isto Hantila，电话：+358 9 591 8342。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alexandria, Va. ，3月15日 -- 芬兰图尔库的Jaakko Vilo开发了一种面板压机。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meggitt reiterates annual outlook after tough 2014.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "土耳其里拉跌破关键6美元关口。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Glencore 在债务担忧下的反击提高了股票价格。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nyrstar还同意在锌精炼期间向Talvivaara供应高达15万吨/年的硫酸，用于Talvivaara的浸出过程。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "哪一家通信技术公司有更大的发展空间？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$AAPL 重新回到…… - 由CNBC带来的购买下跌的机会。LOL",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"不要因为成长型股票最近的抛售而让你放弃这些优质企业的持有。\"",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons 揭露哪些商店将关闭，900 个工作岗位面临裁员。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FOMC dot plot indicates a long pause.\n\n美国联邦公开市场委员会（FOMC）的图表显示，利率政策将保持一段时间的停滞。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Adobe Systems Incorporated (NASDAQ: ADBE) is plummeting today, last seen down 13.2% to trade at $322.57. \n\n翻译成中文：Adobe Systems Incorporated（纳斯达克股票代码：ADBE）今天大跌，最后被看到下跌了13.2%，交易价格为每股$322.57。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{你们州有多少儿童生活在贫困中}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``住宅建设，特别是几个市场，已经有所回升。``",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ABN Amro Capital has agreed to sell its Helsinki-based designer homeware producer, Iittala Oyj, to crosstown consumer products group Fiskars Corp. for EUR230 million to EUR235 million ($310 million to $316 million).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Cybertruck: 5 important questions about the polarizing EV\n\n特斯拉 Cybertruck：关于这款极富争议的电动汽车的 5 个重要问题",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Alphabet's (GOOGL) Google displays images of the new wired Nest Doorbell, which it will launch on October 6th.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's strength is its Apetit brand.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc was sued on Monday by French app developers that accused the iPhone maker of violating U.S. antitrust law by overcharging them to use its app store. \n\n中文翻译：苹果公司周一被法国应用开发者起诉，他们指控苹果公司违反了美国的反垄断法，通过对其应用商店收取过高的费用。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kingfisher 股票因实施新策略的成本而下跌。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "税前利润总计为900万欧元，比2007年的3630万欧元下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Anyone who owns Costco knows you don't buy COST stock for dividend. Nonetheless, its capital allocation is top-notch.\" 翻译为中文为：\"任何持有Costco的人都知道你不会购买COST股票来获取股息。尽管如此，它的资本配置是顶级的。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"LiveXLive Media : Up 29%; In Content Deal With Samsung\" 可以翻译为 \"LiveXLive Media：上涨29%；与三星签署内容合作协议\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

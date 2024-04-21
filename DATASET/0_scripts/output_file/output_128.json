@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Walgreens Boots Alliance将于2022年第一财季（Q1）的财务报告定于2022年1月6日星期四发布。我们预计该公司可能会略微超出市场预期，主要原因是所有部门以及持续的COVID-19疫苗接种的疫情后恢复。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ruukki continues to be listed in two Dow Jones Sustainability Indexes: DJSI World and DJSI STOXX.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The expanded company will continue to be called NewPage.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "他休息得很好，期待着回到工作岗位。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Big Picture: No fundamental reason for 2019 holiday sales to disappoint $SPY-- https://t.co/w4dAzYCmAz… https://t.co/CNY9CEJica\n\n翻译：大局观：2019年假日销售没有根本原因失望 $SPY-- https://t.co/w4dAzYCmAz… https://t.co/CNY9CEJica",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "喜欢 $T 在突破长线后。突破 100 和 200 移动平均线可能会推动它继续上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"自年初以来，Netflix（NFLX，金融）一直在努力增加动力。宏观经济压力，如通货膨胀和高利率，正在影响其估值，同时，净订阅者的减少也在影响其估值。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"也许我今天早上关闭所有的$AAPL看涨期权是个坏主意，错失了留在桌上的钱……\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the sentence \"Two analysts have become notably less excited about the coffee king.\" in Chinese is: \"两位分析师对咖啡之王变得明显地不那么兴奋了。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是Twitter上最看涨的股票之一。$YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY更多信息：https://t.co/iuZJelfwt3",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n{2010年5月18日 - 芬兰电子制造商Elcoteq SE HEL: ELQAV今天宣布，已与日本的Sharp TYO: 6753签署了广泛的合作协议，涵盖了工业化、制造、分销和手机后市场服务。}\n\nPlease note that the translation provided is in simplified Chinese characters. If you prefer traditional Chinese characters or have any other specific requirements, please let me know.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The use case dramatically narrows if you go only with the hot s Ltd. 可以翻译为：“如果你只选择热s有限公司，那么使用场景会显著缩小。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc.: 狂飙猛进的牛市才刚刚开始！ (AAPL) | InvestorPlace $AAPL https://t.co/jrcFC8XlY9",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NFLX 股票已经连续几周保持在 200 美元以上，但 200 天移动平均线可能构成潜在的阻力水平。有关 NFLX 股票、特斯拉等 Q3 财报日历以及 IBM、Lam Research 和 Schlumberger 等其他公司也将公布财报的帖子首先出现在 Investor's Business Daily。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon reported solid results in the first quarter of 2022, but was particularly disappointing with its revenue outlook for the coming quarter. The bears see this as a sign that the company's dominance in e-commerce is starting to end due to increasing competition.\n\n亚马逊在2022年第一季度报告了稳健的业绩，但在即将到来的季度收入展望方面表现得令人失望。熊市认为，这预示着由于竞争加剧，该公司在电子商务领域的统治地位正在开始结束。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The rewards to be paid on the basis of the earning period 2011 will correspond to the value of a maximum total of 364,000 Componenta Corporation shares including also the proportion to be paid in cash.\n\n2011年度的收益将对应于价值最大为364,000股Componenta公司股份的总额，包括现金支付的比例。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的富时100指数受到阿什泰德（Ashtead）和商品压力的影响而下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Activision Blizzard Inc. (ATVI, -1.09%) 首席执行官 Bobby Kotick 在周五给员工们发了一封信，这是在子公司 Raven Software 的多数质量保证 (QA) 员工选择工会化之后。Kotick 表示，这家视频游戏制造商将与代表 Raven Software 员工的美国通信工人联合会 (Communications Workers of America) 进行“善意谈判”，以达成集体谈判协议。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在由城市管理部门授权的集会上，一名领事馆官员走近工人，与他们交谈并接过一封信。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net sales of Finnish forest machinery manufacturer Ponsse increased to EUR 51.3 million in the first quarter of 2010, compared to EUR 37.5 million in the same period of 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "矿工们面临着全球性的挑战。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "报告中列出了614家公司，包括全球范围内的许多重要和利基市场的参与者，如Black & Decker Corporation、Fiskars Corporation、Fiskars Brands, Inc.、Husqvarna Outdoor Products Inc.、K+S Group、Ryobi Technologies, Inc.、The Scotts Miracle-Gro Company和Van Group, Inc.。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "西班牙的Caixabank启动了对Banco BPI的新收购要约。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mr. Doring has been with Eaton since 1989 and acted as the Business Unit Manager for Eaton's Power Controls Business Unit since January 2007. \n\n中文翻译：\n多尔林先生自1989年以来一直与伊顿公司合作，自2007年1月起担任伊顿电力控制业务部门的业务单位经理。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's (AMZN) AWS makes Graviton3 processor-backed Amazon EC2 C7g instances generally available. \n\n翻译：亚马逊（AMZN）的AWS发布了搭载Graviton3处理器的Amazon EC2 C7g实例，使其普遍可用。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沃尔玛的繁荣会员制批发业务正在展示其定价能力。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$UMRX 今日早晨的良好交易量。确认可能短期底部。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "俄罗斯降息？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's stock price has been brought down by the market's decline, and its recent iPhone launch wasn't as successful as anticipated.\n\n公司股价因市场下跌而下跌，最近推出的 iPhone 并没有像预期那样成功。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"12个月的营业利润和净销售额分别从2005年的2150万欧元和19.61亿欧元增加。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish investment group Norvestia Oyj announced that its net profit decreased from 33.5 million euros ($43.6 million) in 2005 to 23.5 million euros ($30.6 million) in 2006.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks表示，他们将开始为符合条件的员工支付寻求堕胎或性别确认手术的旅行费用。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"SONC Amazing run since middle of March - obvious that the quality/tastiness of their burgers is not being factored into this price advance\"} 翻译为中文为：\n\n\"自三月份中旬以来，SONC的运营令人惊叹，明显的是，他们的汉堡质量/美味程度并没有被考虑到这个价格上涨的因素中。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel's datacenter graphics lead Jeff McVeigh discussed launching in the GPU glut, cloud gaming, and graphics for the metaverse.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ARM Holdings plc Partners With International Business Machines Corp. To Drive ... \n\n英译中：\nARM Holdings plc 与 IBM 公司合作，共同推动 ...",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mr. Koistinen joins from Nokia Siemens Networks where he has held various senior sales management and business development positions since 1997.\n\n翻译：\n\n科伊斯特宁先生从诺基亚西门子网络公司加入，自1997年以来，他在那里担任过各种高级销售管理和业务发展职位。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The webcast may be followed online on the company website at www.ruukki.com/investors. 可以翻译为： “可以在公司网站 www.ruukki.com/investors 上在线观看网络直播。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"MTD (Mettler-Toledo) ready for a breakout\"} 的中文翻译是 \"梅特勒-托利多 (Mettler-Toledo) 准备好突破\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "为了展示我们在移动世界大会上的端到端能力，我们安排了一场内部MeeGo应用程序开发竞赛，以吸引开发者创建新的应用程序。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lake Street starts at Buy.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在鲍里斯·约翰逊的大胜之后，英国脱欧下一步将何去何从？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚历山大，弗吉尼亚州，3月15日——图尔库，芬兰的Jakko Vilo开发了一种面板压。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "税前亏损总额为1.62亿欧元，相比2007年的2.53亿欧元利润有所下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google推出了两款配备新型数据安全功能的新Pixel智能手机——通过内置的免费虚拟专用网络发送通信。此文首先出现在投资者商业日报上。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple is expected to launch new iPhone, iPad today. $AAPL\n苹果公司今天预计将推出新款 iPhone 和 iPad。$AAPL",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ICE 据说开始为 LSE 竞购战安排融资。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple has announced that it will be expanding its Today at Apple Creative Studios initiative to seven new cities, including Berlin, Miami, Milan, Nashville, Sydney, Taipei, and Tokyo. It will also return for the second time in Bangkok, Beijing, Chicago, London, New York City, Paris, and Washington, D.C.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Comparing the Dow Dogs performance to the DJIA Index, the largest detractor to the strategy's performance was the 412 basis point underperformance in the Health Care sector. Energy and Information Technology sectors were both positive contributors to performance, +221 and + 147 basis points respectively.\n\n翻译成中文：\n\n比较道琼斯犬的表现与道琼斯工业平均指数，对策略表现影响最大的因素是健康保健行业的412个基点的欠佳表现。能源和信息技术行业都是表现正面的贡献者，分别贡献了221个和147个基点。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks (SBUX) 在 2022 年 3 月季度内实现了每股收益和营收的负 1.67% 和 0.39% 的惊喜，这些数字是否预示着股票未来的走向？",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"经纪人贴士：RBS，克罗达，萨格\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

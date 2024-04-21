@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Levi Strauss +4% after earnings topper, update on China: https://t.co/OPiFbkjYwV",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Fed's Daly says U.S. economy well placed to weather storms\" 的中文翻译为 \"美联储的达利表示，美国经济能够应对风暴。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Publix 承诺捐赠 4 亿美元的食品，以缓解饥饿问题。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊过去12个月的运营现金流增长了48%至49.8亿美元，自由现金流下降了63%至3.88亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vir Biotechnology reports Q3 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Brexit Bulletin: The Cliff Edge is Back\" 的中文翻译为 \"脱欧通讯：悬崖边缘再次出现\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Biden Adviser Raises Questions About Iowa Caucus Over App Problems\n\n翻译成中文：拜登顾问对因应用程序问题而引发的爱荷华州党团会议提出疑问。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "默克尔政府被报道支持德意志交易所与伦敦证券交易所的合并。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "市场快照：加拿大原油主要出口到美国两个地区。#股票#市场筛选器… https://t.co/OpUcd7ByDT",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This week, the impact of rising costs took investors by surprise.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnair's passenger load factor, which measures the number of sold seats as a share of all available seats, dropped by 1.3 percentage points to 76.7% in September.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"RECAP: $MSFT 今天的谣言是他们拆分 Xbox 部门，股价全天上涨至收盘时创下新高。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BP下游总裁Erginbilgic将于下个月离职。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Following the demerger, the vice president of the group's pharmaceutical trade in Finland, Jukka Niemi, will be appointed managing director of Oriola in addition to his current responsibilities. \n\n中文翻译：\n拆分后，芬兰该集团制药贸易副总裁 Jukka Niemi 将被任命为 Oriola 的总经理，同时保留他现有的职责。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The phones are targeted at first time users in growth markets. \n\n翻译：这些手机是面向初次用户和成长市场的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons records a second consecutive quarter of sales growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dick's Sporting Goods +2% after BAML upgrade.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Workday reveals Products exec shuffle: https://t.co/XgnLyfDU04\n\n工作日程揭示产品高管变动：https://t.co/XgnLyfDU04",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rubin says he expects Capman to announce 1-2 additional transactions in 2009. 鲁宾表示，他预计卡普曼将在2009年宣布1-2项额外的交易。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BIOC RSI is extremely in the long's favor looking at BIOC historically.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Market Report: Eight-day rally ends for FTSE 100 and Standard Chartered\n翻译：市场报告：FTSE 100和标准查特银行八天的涨势结束。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I agree.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev 计划出售更多 SAB 资产，以寻求欧盟交易批准。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft SQL Server收入增长两位数，其中SQL Server Premium收入增长超过30%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"It is planned to set up the A class business center on the two top floors of the complex.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla has announced it is recalling 2700 Model X SUVs.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们分析了全球晶圆厂的业务和扩大产能计划，以增加其新加坡、美国和德国设施的晶圆产能。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Macerich被KeyBanc Capital从部门权重下调至超配。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Mexican stocks rose as pledges by U.S. lawmakers to swiftly approve a new trade deal between the U.S., Mexico and Canada.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$GEVO 暴跌！ 回到 $3.55。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rubin says he expects Capman to announce 1-2 additional transactions in 2009.\n\n鲁宾表示，他预计卡普曼将在2009年宣布1-2笔额外的交易。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊表示，它正在减少仓库内的伤害。但如果该公司没有记录所有伤害，那么这些说法可能难以衡量。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro (AMD) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.\n\nAMD 最近在 Zacks.com 用户中受到了相当多的关注。因此，了解可能影响股票前景的事实是明智的。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"美光科技股价因担忧失去苹果业务而受到重创；Stifel为$AAPL $MU辩护。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Twitter now allows users to hide unwanted replies to their tweets as part of a broader effort to improve the platform.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market has miscalculated their growth potential.\n市场低估了他们的增长潜力。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "营业额从47.6亿欧元增至61.8亿欧元，主要是由于服务需求的增加，尤其是在第三季度，以及公司整体业务增长的影响。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Patient Engagement Solutions Market is expected to reach USD 30.36 billion by 2026, according to a report and data source.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Once an afterthought, the company's digital goods arm is quickly becoming a workhorse.\n\n曾是一个可有可无的想法，但该公司数字商品部门正迅速成为一个主力军。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Embracer: A Business Growing At Over 90%, Trading At A Discount} 的中文翻译是：\n\"艾玛贝尔：一家增长率超过90%，以折扣价交易的业务\"。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish cargo handling solutions company Cargotec Oyj announced on June 17, 2008 that it will acquire the New Zealand tailgate distributor Zepro Tailgate (1987) Limited for an undisclosed amount.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ICE 被传开始安排为 LSE 竞购战筹集资金。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Previously,\" the company also delivered about 70% of the steel used in Oasis of the Seas, Allure of the Seas' sister ship completed last year.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Autodesk 被 JPMorgan 下调至“减持”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是该英文句子的中文翻译：\n\n冠状病毒、气候变化和OPEC将继续影响原油价格。\n\n英文翻译：\n\nHow coronavirus, climate change and OPEC will continue to move crude oil prices\n\nhttps://t.co/diuQxqdKma by… https://t.co/kWzOCcm8Tq",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SABMiller的收入受到较弱的EM货币影响。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron Technology, Inc. (MU) CEO Sanjay Mehrotra on Q2 2022 Results - Earnings Call Transcript\n\n翻译为中文：\n\n美光科技公司（MU）首席执行官 Sanjay Mehrotra 在 Q2 2022 财报电话会议上的讲话记录。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$NVDA sideways} translates to {$NVDA 倾斜} in Chinese.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Exclamation point? Yes. Question mark?\"} 的中文翻译为：“感叹号？是的。问号？”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$SAVE} 突破了其下跌趋势线，伴随着成交量的增加。如果突破20.57，可能会看到更多的上涨。http://stks.co/l8y4\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Long setup. Closed above the 20MA. MACD cross. November catalyst. 翻译为：长线布局。收盘价高于20日移动平均线。MACD金叉。11月催化剂。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Group appoints new CEO one month early.\n\nBG集团提前一个月任命新CEO。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国在知识产权方面的举措是对贸易谈判的一个有希望的迹象。开放小组讨论...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Outokumpu Technology business will begin trading on the Nordic Exchange in Helsinki starting Oct. 10, becoming the sixth company to list on that exchange this year, the company said Friday.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron Technology Inc. 的股票在周二延长交易时间上涨，因为内存芯片制造商的季度业绩和前景超过了华尔街的预期。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金正在出售 Covanta Holding Corporation (CVA)。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$KEP} 在市场回调时突破。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$PCLN 日内反转接连出现，注意下方！空头正在行动！",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"纽约市史坦顿岛的亚马逊公司设施的工会支持者在工会形成竞赛中领先，而美国监管机构则在周五继续计算选票。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pretax loss totalled EUR 162.3 mn compared to a profit of EUR 253.5 mn in 2007. \n\n税前亏损总额为1.623亿欧元，而2007年则为2.535亿欧元的利润。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"$SPY\": \"标普500指数\", \"Long\": \"多头\", \"1/2 position\": \"一半仓位\", \"137.89\": \"137.89\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$VER - VEREIT: Holding The Common But Avoiding The Preferred Class F For Now. Get more info on Seeking Alpha:… https://t.co/gy4MlGFBWU}\" 翻译为中文是：\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{$VER - VEREIT: 目前持有普通股但避免首选股F类。获取更多信息在Seeking Alpha:… https://t.co/gy4MlGFBWU}\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The resignation will be in effect immediately. = 辞职立即生效。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca 糖尿病药物组合面临 FDA 拒绝后的延迟。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net profit of Finnish metal industry solutions supplier Outotec Oyj increased to 50.4 million euros (72.5 million U.S. dollars) for the first nine months of 2007 from 20.1 million euros (28.9 million U.S. dollars) for the same period of 2006.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"The spy, vxx, and aapl parties are overloaded on uvxy volatility is back.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "零售销售增长放缓。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The solid fuel is heated before sludge is mixed therein.} 的中文翻译为：{\"固体燃料在混合污泥之前被加热。\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Petrofac books further £30m cost for Shetland gas terminal delays\n\n翻译成中文为：\nPetrofac 对设得兰群岛天然气终端延迟的额外费用再增加了 3000 万英镑。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{BPI称卡塔尔银行和伊莎贝尔·多斯桑托斯已就安哥拉风险达成协议}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Colliers International Group Inc (CIGI) 是否会烧掉这些对冲基金？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Interlink Plus, Inc. and Loop Media, Inc. 完成合并。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"十年前的大衰退（Great Recession）是今年你的圣诞树价格更高的原因之一。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coty would acquire a 51% ownership of the partnership for $600 million.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每年大约需要4000亿美元来逆转下降的人口。@OfficialZSL正在鼓励可持续的...。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TJX EPS 每股盈利超出 $0.02，收入方面也超出预期。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco PLC's Recovery Continues With A £250m Cash Infusion 的中文翻译为：“特易购的复苏继续，获得2.5亿英镑的现金注入。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{那很快，卖出$FIO 21.35，市场崩溃，现在缩小多头头寸}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chesapeake Energy's stock drops toward 25-year closing low as oil pulls back.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CN Rail Strike Begins in Threat to Canadian Oil, Grain Cargo\n直译为：\n中国国家铁路罢工开始，威胁加拿大石油和谷物货物。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"CIEN appears to have broken out of a major horizontal resistance. Targets $14.35.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Archer Aviation has the potential to fly higher.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish construction and engineering company Outotec Oyj HEL: OTE1V reported today that it incurred a net loss of EUR7.3 million in the first quarter of 2010, compared to a net profit of EUR12.5 million in the corresponding period last year.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``The Government has had a very professional approach in assessing the offer.\" 翻译成中文为：“政府在评估该提议时采取了非常专业的态度。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc. 今年将不再增加其最新 iPhone 的生产量，这是由于需求低于预期，根据一份新报告所述。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Now may be a good opportunity to buy these two tech stocks as they are seeing earnings estimate revisions trending up while the broader market and economy are expecting slower growth.\n\n现在可能是购买这两只科技股的好时机，因为它们的盈利预测修订趋势正在上升，而更广泛的市",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple could face additional scrutiny by the European Union. 翻译为：苹果可能面临欧盟的额外审查。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CDC专家：“抗生素耐药性比我们之前认为的要严重。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company expects to open its first online shop in the US in the summer in 2011.\n\n公司预计在2011年夏季在美国开设第一家在线商店。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for £90m.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Mark White，Locatrix Communications的CEO的说法，该公司的Web服务界面允许设备所有者、朋友和家人通过任何Web浏览器跟踪和定位TWIG用户。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "After the transaction, Tikkurila has no powder coatings related operations. \n\n翻译：交易完成后，Tikkurila 不再有任何粉末涂层相关的业务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Ahold Delhaize share buyback update\" 的中文翻译是 \"Ahold Delhaize 股份回购更新\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc. (NFLX, -1.99%) 于周五表示，其首席财务官 Ken Barker 已提交辞职，将于 10 月 7 日生效。在一份监管文件中，这家流媒体巨头表示，这一举动是个人决定，“并非因任何与公司财务、运营、政策或实践相关的分歧而做出的。”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Panostaja treats its negotiating partners, such as entrepreneurs selling their life's work and newcomer entrepreneurs seeking a career, fairly, justly, and according to the law.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Merging the two free sheets will clarify the market situation. \n\n翻译为中文：合并这两张免费的纸可以澄清市场情况。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cruise ship life hit by the coronavirus.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"介绍 Cogent Communications Holdings (纳斯达克股票代码：CCOI)，一家在过去五年中股价上涨了 78% 的股票。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股票市场抛售使得这些科技巨头现在变得极具吸引力。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康糖尿病药物组合因FDA拒绝而面临延迟。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

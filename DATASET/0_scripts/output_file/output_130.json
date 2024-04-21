@@ -1,0 +1,302 @@
+[
+  {
+    "input": "大量资金从四面八方涌入Facebook。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The historic vote by employees of a Maryland Apple store to unionize is a significant step in a lengthy process that labor experts say is heavily stacked against workers in favor of their employers. \n\n翻译：\n马里兰州苹果商店员工的工会投票是劳动专家所说的对工人有利的长期过程中的一个重要步骤。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Saracen Mineral: Super pit acquisition now unconditional, hedging update #SaracenMineral #Stock #MarketScreener…\n\n翻译：\nSaracen矿物：超级矿坑收购现已无条件，对冲更新 #Saracen矿物 #股票 #市场筛选器…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil.\n\n\"格伦科将位于的黎波里的国家石油公司视为利比亚石油的唯一合法卖家。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "澳大利亚联邦银行：资本、边际在焦点——盈利预览 #CommonwealthBankofAustralia #Stock…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly: {long $AAPL 107 calls @ .40}\"\n\nThe Chinese translation of the sentence is: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译：{long $AAPL 107 calls @ .40}\"\n\nIn the context of stock market trading, the phrase \"{long $AAPL 107 calls @ .40}\" can be translated as follows:\n\nTranslation: \"做多苹果公司（AAPL）的107美元看涨期权，价格为0.40美元。\"\n\nThis phrase indicates that the trader is buying a call option on Apple Inc. (AAPL) stock with a strike price of $107 and a purchase price of $0.40 per share. The \"long\" position suggests that the trader expects the stock price to rise, hence they are betting on a potential profit by exercising the option to buy the stock at the lower strike price if the market price exceeds it.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Banca Monte dei Paschi di Siena S.p.A. 公布全年业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$POLA $OSS - 石基信息和 i3 Verticals 在科技股中领涨；VirnetX 和 Pure Storage 在科技股中领跌。}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "然而，在2009年3月，圣彼得堡市政府将建筑面积为1900平方米的前部建筑和一块价值1000-1500万美元的土地转让给Delta公司，用于建造一家酒店。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n\"{$BABA可能要花几天几周甚至几个月来观察$FB $TWTR在IPO后发生了什么。市场需要清洗。为了狩猎得更好，我们需要等待和跟踪。}\"\n\n请注意，您提供的句子包含了一些特殊的符号和代码，这些可能代表特定的股票或市场数据。如果您需要更具体的解释或帮助，请提供更多的上下文信息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Peroni and Grolsch are being put up for sale as AB InBev plans the acquisition of SABMiller.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company did not disclose the price of the acquisition.\n（公司没有披露收购的价格。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当前正在进行的新闻发布会，美联储主席鲍威尔出席并回答了相关问题。以下是英文翻译：\n\n- LIVE NOW: Press conference with #FOMC Chair Powell: https://t.co/sh1FXgYlwr and https://t.co/FJa6TbkDMt\n- 正在进行的新闻发布会，美联储主席鲍威尔出席并回答了相关问题：https://t.co/sh1FXgYlwr 和 https://t.co/FJa6TbkDMt",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{近期的逆风持续笼罩着科技巨头的长期增长前景。}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating profit and turnover for the nine-month period increased respectively from EUR2.4m and EUR43.8m, compared to the corresponding period a year ago.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CBD MD's CBD PM and CBD Freeze Awarded 2020 Product of the Year.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2019年第四季度最佳和最差：中盘混合ETF和共同基金。在Seeking Alpha上注册以获取更新！...https://t.co/pjEo1ACbaH\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish software developer Done Solutions Oyj said its net profit increased to 3.5 mln euro ( $ 4.6 mln ) in 2006 from 2.3 mln euro ( $ 3.0 mln ) in 2005.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo! is making new HOD.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"被低估的道琼斯股票可能很难找到，但本文正在考虑投资者应该立即购买的七个股票。文章《在华尔街注意到之前应该购买的7个严重被低估的道琼斯股票》首先在InvestorPlace发布。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sepp+ñl+ñ's clothing零售链的销售额增加了8%，达到1.55亿欧元，而营业利润从2004年的0.71亿欧元增长至1.11亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 的中文翻译是：\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your answer!\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "What Kind Of Shareholders Own Public Joint Stock Company Gazprom (MCX:GAZP)? \n（谁拥有公共股份公司Gazprom（MCX:GAZP）的股东？）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果的表现比FAANG股票要好，但这并不意味着它不可战胜。对于AAPL股票，现在有一个关键的事情要知道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The software giant filed court documents opposing claims that the $75 billion transaction would harm competition in the videogame industry. 软件巨头提交了法庭文件，反对声称价值750亿美元的交易将损害电子游戏行业的竞争。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in Chinese would be: \"根据高德纳（Gartner）的数据，第三季度个人电脑出货量急剧下降，主要是由于消费者对个人电脑的温吞需求，高库存水平以及地缘政治挑战。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann Oyj Abp, a Finnish department store chain, reported a net profit of 39.8 million euros ($56.8 million) for the first nine months of 2007, compared to 37.4 million euros ($53.4 million) for the same period in 2006.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia Corp on Tuesday announced new flagship chips for video gamers that use artificial intelligence (AI) to enhance graphics, saying it has tapped Taiwan Semiconductor Manufacturing Co to make the processors.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "菲律宾的San Miguel表示，如果它对SABMiller的竞标，将与Kirin合作。\n\n{San Miguel Corporation of the Philippines says it will partner with Kirin if it bids for SABMiller's...}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell to buy BG Group in $69.7 billion takeover\n\n壳牌将以697亿美元收购BG集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些电子商务游戏看起来像是短期逆风中的买入。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` Neste Oil 正在与欧洲、美洲、非洲、亚洲和澳大利亚的超过 20 个研究社群合作，开发并推出新原料。``",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The first quarter underlying operating profit increased to 41 million euros from 33 million euros a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish high technology provider Vaahto Group reports net sales of EUR 41.8 mn in the accounting period September 2007 - February 2008, an increase of 11.2 % from a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Exel Composites' long-term growth prospects remain favourable, however. \n\n中文翻译：然而，Exel Composites 的长期增长前景仍然有利。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corporation (MSFT) helped Ukraine in detecting a \"wiper malware\" aimed at the country's ministries and financial institutions.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft 于周三推出了其年度产品活动，并揭晓了 Surface 设备及其配件的新型号。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它预计收入将在80.4亿美元至87.7亿美元之间，与分析师估计的86.7亿美元相比。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国制裁威胁到天然气巨头俄罗斯天然气工业股份公司（Gazprom）与壳牌公司（Shell）的联盟计划。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Whitbread 老板 Andy Harrison 为销售额下降辩护，称其为“只是一个短暂的现象”。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$HITK  Resuming advance into new historical highs.}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "巴西石油公司：巴西石油公司在坎波斯盆地发现新油田 #股票 #市场筛选器…",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司目前不持有任何自己的股票。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "So far Norwegian Norske Skog has reduced the staff levels by 1,000 people and plans to reduce production by 200,000 tons in 2008, while Finnish-Swedish Stora Enso is to cut staff by 1,700 people and production by 500,000 tons.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ISRG Break out confirmed. Bought Leaps. Good trading!} 的中文翻译为：{$ISRG 突破确认。买入杠杆。交易愉快！}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BofA is the latest on Wall Street to suggest the Apple could rake in billions in ad dollars from Maps and video. 翻译为：BofA是华尔街最新提出苹果公司可以从地图和视频中赚取数十亿美元广告费用的机构。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cadence (CDNS) 通过其 Omnis CFD 解决方案最大化 Rodelta Pumps International 的效率。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天关注的关键支撑位是$FB的25.53美元，看看它是否能保持支撑。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "We offer our customers solutions based on renewable raw materials.\n\n我们向客户提供基于可再生原材料的解决方案。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者正在忽视几个月前就会引发市场动荡的疲软数据和贸易问题。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

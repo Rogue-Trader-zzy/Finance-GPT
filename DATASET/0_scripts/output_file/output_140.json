@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{\"ARKR - Ark Restaurants reports Q1 results https://t.co/pA5RttZp4Y\"} 的中文翻译为：{\"ARKR - Ark Restaurants 发布 Q1 财报 https://t.co/pA5RttZp4Y\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The acquisition sum has not been disclosed.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aspo serves demanding business-to-business customers.\n\n{Aspo为苛刻的B2B客户提供服务。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第二次支付测试，21.20-30区域内。仍未突破。已将止损上移至20.80。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "同时，另一项合并计划已签署，根据该计划，VTM-Rakennuskonevuokraamo Oy的子公司Suomen Projektivuokraus Oy将与VTM-Rakennuskonevuokraamo Oy合并。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "谷歌母公司Alphabet报告了第三季度业绩平平，营业收入和每股收益同比下降。该公司面临着多项风险——YouTube业务疲软、监管压力以及即将到来的经济衰退——但受益于广阔的经济护城河。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett regrets not buying Google Inc. and the key reasons for his regret are still valid now: its toll status, broad-based growth in the double-digits, and extreme capital allocation flexibility.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Niklas Skogster has been employed by the ABB Group in various positions concerning the development of operations. \n\n翻译为中文：\nNiklas Skogster在ABB集团的各个职位上工作，涉及运营开发。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hong Kong Airlines to cut 400 jobs, ask employees to take unpaid leave: SCMP",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AAPL 目前反弹没有波动，当它下滑时会有更多波动。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft has agreed to purchase Activision Blizzard for $75 billion in an all-cash deal, The Wall Street Journal (WSJ) reported Tuesday (Jan. 18). Activision CEO Bobby Kotick is expected to step down once the deal is completed, according to sources who spoke to the WSJ.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BlackBerry Ready for Take OFF!",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire to buy Dyax for about $5.9 bln.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new majority owners of Aspocomp Thailand Co., Ltd are certain private persons belonging to the immediate circle of Aspocomp's present Joint Venture partner, Saha Pathana Inter-Holding Plc.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$GALE Breakout Coming Soon!} 的中文翻译是：{$GALE 突围即将到来！}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the sentence: \"来吧，多头们，买入下跌！\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the sentence: \"You are warmly welcome!\" in Chinese: \"欢迎光临！\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普赢得诉讼，要求获得与外国领导人会面记录。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market share is 6 percent according to AC Nielsen's 2008 data.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"更高的真实利率影响经济增长，这是美国银行证券公司说的。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "金价的结算价格上涨，本周上涨幅度超过1%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者在苹果即将宣布的重大消息前感到更加乐观。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Some expect natural gas prices to fall to levels not seen in three years.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DETROIT — Waymo Via 自动驾驶 Freightliner Cascadia 的卡车制造，是长途货运的未来的一部分，位于圣奥宾街上一座百年工业建筑内，这里曾是通用汽车的中期运营场所。但外观标志不会让你知道这一点。\n\n英文翻译： Detroit — The manufacturing of Waymo Via robot-driven Freightliner Cascadias, part of the future of long-haul trucking, resides in a century-old industrial building on St. Aubin Street where Chevrolet Gear & Axle operated in the mid-20th century heyday of General Motors. But you wouldn't know it from the sign outside.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Boris Johnson's Conservatives are proposing to spend an extra 1 pound for every 6 pledged by Jeremy Corbyn's Labour\" can be translated to Chinese as \"鲍里斯·约翰逊的保守党提议每增加6英镑由杰里米·科尔宾的工党承诺，就会额外支出1英镑。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国运通公司为吸引新商家接受其信用卡而提供注册奖励。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Even during tough economic times, a key Nvidia customer is still spending big. \n\n即使是在艰难的经济时期，Nvidia的一个重要客户仍然在大量支出。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total value of the project is about EUR53m, including the plots that will be transferred to Atria.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$NKE 上涨至历史新高，交易想法：http://stks.co/q1jAu，技术分析：http://stks.co/r1j6c。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Model S 交付量在德国上涨了 35% - 3 月份创下交付记录 [图表] https://t.co/yCnClcBImV $TSLA",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The contract traded at an all-time high of $50,200 a ton on April 24. \n\n翻译：该合约在4月24日创下了每吨50,200美元的历史最高交易价格。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据AC Nielsen 2008年的数据，它的市场份额是6%。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 这笔交易加强了我们在设计品牌商品方面的地位...''，Fiskars总裁兼首席执行官Heikki Allonen说道，并指出这两家公司之间的重叠业务相对较少。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"Bullish Engulfing of COCA COLA: http://stks.co/fYCo $KO\"\n\nThe translation in Chinese is: \"可口可乐的看涨吞没：http://stks.co/fYCo $KO\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's goal is to achieve annual savings of EUR 2 million (USD 2.7 million), of which two-thirds are to be realized in 2010.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Streaming giant blames a number of factors including increased competition, war in Ukraine and the large number of people who share their logins.\n\n翻译：\n流媒体巨头将责任归咎于多种因素，包括增加的竞争、乌克兰战争以及大量人共享他们的登录信息。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "项目范围是寻找最经济高效的磷去除方法，并提供储存和计量设备，这些设备可以在工厂连续运行使用。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n- Cutbacks in hiring and capital expenditures aren't going to touch this Amazon segment.\n中文翻译：裁员和资本支出削减不会影响这个亚马逊部门。\n\n英文翻译：\n- The cuts in hiring and capital expenditures will not affect this Amazon segment.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "G20金融官员认为有必要采取联合行动对抗冠状病毒 - 声明 #经济 #MarketScreener...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"AAPL\" long 630.91} 在中文中可以翻译为：苹果公司（AAPL）的长期投资（long）价格为630.91。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result of the negotiations, the company will terminate a total of 5 employment contracts.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "无线技术公司高通已经创建了一支价值1亿美元的基金，用于投资虚拟现实（VR）和增强现实（AR）技术，以促进元宇宙的发展。正如圣地亚哥联合论坛报周一（3月21日）报道的那样，骁龙元宇宙基金补充了高通近年来创建的其他基金，以支持其中的技术。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EA Reng Group 2007年的销售额约为840万克朗。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{纽约—不久的将来，床边的亚马逊设备可能会知道你是否在睡觉——或者没有。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "冠状病毒报告笼罩着游轮业部门。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "There did not seem to be enough hours in a day for Pekkarinen.\n\nPekkarinen似乎一天之内没有足够的时间。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Encana 股东反对迁出加拿大的决定。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit was EUR 139.7 mn, up 23% from EUR 113.8 mn. \n\n中文翻译：\n营业利润为 1.397 亿欧元，较 1.138 亿欧元上涨 23%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 已跌破下降通道......它会保持吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "No financial details were revealed.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

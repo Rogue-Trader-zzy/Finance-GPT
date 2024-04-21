@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The general election could mean for the pound: https://t.co/HrUdau7oNm by @OscarWGrut https://t.co/bqXrwJIoVW\n\n翻译成中文：\n普通选举可能对英镑意味着什么：https://t.co/HrUdau7oNm by @OscarWGrut https://t.co/bqXrwJIoVW",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google's plan to buy a stake in Africa's largest wind farm has ended after delays to the project, Danish wind turbine manufacturer Vestas Wind Systems said on Tuesday.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Looking at Q1 as a whole, total S&P 500 earnings are expected to be up +9.3% on +13.4% higher revenues.\"} 翻译成中文为：“总体来看，第一季度标准普尔500指数的盈利预计将增长9.3%，营收将增加13.4%。”\n\n{\"This is a significant deceleration from what we have been seeing in the preceding quarters.\"} 翻译成中文为：“这与我们之前看到的季度相比，是一个显著的减速。”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for £90m.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国第四季度生产率上升。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{HKScan, 总部位于芬兰图尔库，是北欧领先的食品集团，拥有9个国家的10,000名员工。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Operating profit, excluding non-recurring items, totaled EUR 2.2 mn, down from EUR 2.7 mn in the corresponding period in 2008.\" \n\n直译为：\"剔除非经常性项目后的经营利润总计为2200万欧元，较2008年同期下降了700万欧元。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"AAPL Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The decision means temporary lay-offs of fixed duration at the company's Nastola and Jyvaskyla units, in southern and central Finland, respectively.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "丹佛掘金队网络状告康卡斯特公司涉嫌垄断。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SoftBank's Oyo 揭示超过 3300 万美元的年度亏损; 营收飙升：估值报告",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton slashes dividend, posts $5.67 billion net loss\n- 必和必拓削减股息，净亏损56.7亿美元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The inventors are Bylander Johan, Ponten Fredrik, and Lundberg Jorgen.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Janet Yellen表示第二季度GDP可能下降30%，失业率已经达到12%-13%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Resuming advance into new historical highs.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{ORIC-101 由于两个阶段 Ib 研究计划的初步分析而终止候选管道的 ORIC 下降。}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix is increasing prices in the U.S. and Canada, with its most popular subscription level going from $13.99 a month to $15.49 in the U.S. The lowest level of service increased by $1 to $9.99 and the premium tier is now $19.99, up from $17.99. In Canada, the standard plan (also known as the middle tier) rose to...",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Oxyview Pulse Oximeter is a common device to check patient blood-oxygen saturation level and pulse rate. \n\n中文翻译：Oxyview脉搏氧饱和度计是一种常见的设备，用于检查患者的血氧饱和度和脉搏率。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is what hedge funds think about Companhia Brasileira de Distribuição (CBD).",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$JOUT - Johnson Outdoors Inc. (JOUT) CEO Helen Johnson-Leipold on Q4 2019 Results - Earnings Call Transcript. Follo… https://t.co/zO645AeLXI} \n\nHere is the translation of the given English sentence into Chinese:\n\n{$JOUT - Johnson Outdoors Inc. (JOUT) CEO Helen Johnson-Leipold 在 Q4 2019 业绩 - 盈利电话会议记录。跟随...https://t.co/zO645AeLXI}\n\nIn this translation, I have maintained the original format and kept the company name and CEO's name unchanged, as these are proper nouns and should not be translated. The rest of the sentence is translated into Chinese to convey the same meaning as the original English sentence.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对不起，我无法直接提供翻译服务。不过，我可以告诉你这个句子的中文含义。这句话的意思是：“如果您错过了（ICYMI），维亚康姆CBS现在正在纳斯达克上市，股票代码是$VIAC！” 接下来，这句话是向多个公司账号打招呼，包括Paramount Pictures，MTV，Nickelodeon，Comedy Central和BET。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks Corporation (SBUX) was trading about 3% higher on Tuesday in a possible attempt to reverse course into an uptrend after plummeting over 20% between Jan. 3 and Jan. 28. The stock has since consolidated its sharp decline by trading in a tight horizontal pattern between the low of $93.79 and a high at the $99.15 level for seven trading days.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco share price down as grocer faces SFO investigation outcome 的中文翻译为：“随着零售商面临SFO调查结果，特易购股价下跌。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n俄罗斯官员检查了损坏情况，并在大约凌晨4点30分左右，允许这艘船继续前往塔林。这艘挪威注册的M-T Sten Nordic号船载有11,000吨的汽油油，船员由菲律宾人组成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Operating loss amounted to EUR 0.9 mn in the first half of 2006 compared to a profit of EUR 0.5 mn in the first half of 2005.} 翻译成中文为：\n\n{2006年上半年经营亏损0.9百万欧元，而2005年上半年经营利润为0.5百万欧元。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天 $FB 的关键水平是 25.53，我们正在观察它是否能作为支撑。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "请记住，不要坐在后座。 - $TSLA 翻译成中文为：你知道那个后座吗？不要坐。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Freeport MacMoRan升级，瑞信看到巨大的买入机会。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"NSM ascending base breakout starting to gain traction; strong stock http://stks.co/gBSH\"\n\nThe translation in Chinese is: \"NSM 上升基座突破开始获得牵引力；强劲股票 http://stks.co/gBSH\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lenovo Group: 核心PC业务表现强劲，但未来的增长可能会放缓。了解更多：...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish metal components supplier Componenta applied for approval with the Turkish Capital Markets Board to launch a mandatory offer for the remaining shares in iron and aluminium castings producer Doktas Dokumculuk on December 26, 2006.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chorus Aviation's (TSE:CHR) Share Price Gain of 76% Match Its Business Performance?",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance 科技編輯 Dan Howley 分析了 2023 年科技監管趨勢的展望，以及它可能對像 Meta、Alphabet 和 Microsoft 等巨頭公司產生的影響。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"How Nordstrom Is Benefiting From Direct-to-Consumer Brands\" 的中文翻译是 \"Nordstrom 是如何受益于直接面向消费者的品牌的\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据研究总监的说法，苹果将花费数年时间多元化其中国工厂，而星座研究分析师则对苹果的股票持乐观态度。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tieto Corporation and Pohjola Bank (PINK: POJLF) are to cooperate on SWIFT services.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$MFLX up pre mkt. Looks like GAP has been filled....lookin 4 short opt here\n\n英文翻译：\n美股期货上涨。看起来缺口已经被填补了......在这里寻找做空机会。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Okmetic revised its 2010 financial outlook based on its order book.\n\n翻译：Okmetic根据其订单簿修订了2010年的财务展望。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"TRLPC - CRH supports the acquisition of Lafarge Holcim assets with a 6.5 billion euro bridging loan.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "迪士尼可能很快就会火力全开。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Update: Stock market slows down, jobs report beats expectations.\n\n股市更新：股市放缓，就业报告超出预期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Currently, the plant operates on full capacity. \n\n（翻译）目前，该工厂以满负荷运转。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mandiant is reportedly in talks with Microsoft about an acquisition, and also launching a partnership with a Microsoft rival, SentinelOne. \n\n翻译：据报道，Mandiant正在与微软就收购事宜进行谈判，并且还与微软竞争对手SentinelOne发起了合作。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Arm的利润和销售额增长，随着远离移动的步伐加快。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "法国对 LSE-Deutsche Boerse 提议的交易表示担忧。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲继续推进千兆工厂计划，以与特斯拉和中国竞争。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司目前的历史平均水平被低估了13%，几乎达到了十年来最吸引人的水平。然而，苹果公司的基本面仍然强劲，可以认为是有史以来最强大的产品阵容。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit totalled EUR 9.6 mn, down from EUR 42.0 mn the year before. 翻译成中文是：“营业利润总计为9,600,000欧元，比前一年下降了42,000,000欧元。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Gild Company is expanding its research facilities...keeping up with the pace of innovation.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股票今日高点刚刚被触及。明天再战。\n\n英文翻译: Apple's high of the day just hit. Back at it tomorrow.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

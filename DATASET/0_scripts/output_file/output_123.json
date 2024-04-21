@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Balfour Beatty plc 即将恢复股息 (并再次与 National Grid plc 和 Centrica PLC 竞争？)",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CompaniesKingfisher bid for Mr Bricolage runs into trouble\" 的中文翻译为：“Kingfisher公司收购Bricolage先生的交易遭遇麻烦。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Alphabet Inc.'s GOOGL, -0.41% GOOG, -0.45% Google Cloud on Tuesday said it has acquired cybersecurity specialist Siemplify, a provider of security orchestration, automation, and response technologies. Under the deal, estimated at about $500 million, Siemplify will be folded into the Google Cloud Platform.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你何时应该购买包装公司美国（NYSE:PKG）？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Britain's Lloyds to pay first dividend since rescue",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the Baltic countries, sales fell by 40.2%, and in Russia, by 23.2% in terms of euros, and by 10.7% in terms of local currency.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Asahi可能会在AB InBev出售之前收购更多SABMiller的啤酒。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LSE获香港监管机构批准，允许香港公司成为LSE会员。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Shuweihat 2 project commenced in July 2008 when the contract for desalination and power was awarded to contractors.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是英文翻译：\"Let's see some higher highs and higher lows for the rest of the day, slow and steady.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\n- BJ's Wholesale Q3 total revenue: $3.32 bln vs. $3.22 bln a year ago\n- FactSet consensus: $3.30 bln\n\n中文翻译：\n- BJ's Wholesale 第三季总收入：$3.32亿 vs. 去年同期的$3.22亿\n- FactSet共识：$3.30亿",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "卫星服务公司Globalstar Inc表示，将于周三与苹果公司Apple Inc合作，为公司旗舰iPhone 14系列增加一项功能，该功能将允许用户在紧急情况下呼叫求助。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Long $X 24.62\" 翻译成中文为 \"长 $X 24.62\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"是否应该调查 STERIS plc (NYSE:STE) 在 US$149 美元的价格？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周一牛股出动！股票行情-迈克尔詹姆斯企业其他选择 $SBUX $GVP $NKE。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google 在反垄断调查期间再次收购云服务。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧盟监管机构批准了总额超过100亿美元的AB InBev和SABMiller的交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq expects its net sales for the last quarter of 2010 to be on the level of the third quarter. \n\n中文翻译：Elcoteq预计2010年第四季度的净销售额将与第三季度持平。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bull of the Day: Jazz Pharma (JAZZ) - Nasdaq\n\n翻译成中文为：\n每日热门股：爵士制药（JAZZ） - 纳斯达克",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Exxon Mobil，美国最大的石油生产商，表示今年将削减计划资本支出30％。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fed Aims a Half-Trillion Dollar Liquidity Hose at Year-End Risks\n\n美联储在年底风险上瞄准了半万亿美元的流动性。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Operating loss totaled EUR 0.3 mn compared to a profit of EUR 2.2 mn in the corresponding period in 2007 .} \n\n中译英：\n经营亏损总计为0.3百万欧元，而2007年同期则为盈利2.2百万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司短空了592.49股。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "日本银行：日本证券融资交易统计（2020年1月）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司的降级是带有偏见的。这只股票值得购买。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TransDigm 第四季度业绩混合后股价下跌; 指引 2020 财年低于共识",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"DUG 周线随机指标在长时间整理后终于开始向上翻转。在这里买入。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"它不像任何东西都从悬崖上掉下来，\" Mehrotra 在 \"疯狂金钱\" 采访中说道。}",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Oil's Biggest Bullish Boost Since 2016 Scores on Trade Armistice\" 的中文翻译为 \"自2016年以来油价最大的利好因素来自于贸易停战协议\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Activision Blizzard 游戏将为商店提供一次战斗的机会，微软告诉英国竞争和市场管理局。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the building and home improvement trade, sales decreased by 22.5% to EUR 201.4 mn.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Nordea was also the cheapest for a couple in their 30s with debt.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"每年，个人娱乐在决定健身设施的锻炼体验是否愉快或是一项苦差事方面发挥着越来越重要的作用\"，Precor娱乐与服务部门市场总监Brian Wilson说道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amarin Corporation Plc: Now Compelling On Ex-U.S. Opportunity And Potential Barriers To Generic Competition.… https://t.co/NSLfgDnrDq\n- \"Amarin Corporation Plc: 现对前美国机会和潜在对仿制药竞争的障碍很有吸引力。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Under the CHARGZ brand, quality chargers are sold in selected retail stores and other sales locations worldwide.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UFS - 为什么购买Domtar并不是一个疯狂的想法。继续阅读：https://t.co/ghbluALQhp #economy #trading #investing",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天谷歌的Pixel活动如期而至，带来了我们期待已久的几款新智能手机以及全新的Pixel Watch。此前被暗示的谷歌Pixel 7正式亮相，虽然它看起来与它的前身没有明显的不同，但它包含了许多重要的变化。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish electronics manufacturer PKC Group Oyj (OMX Helsinki: PKC1V) announced on Wednesday (December 31st) that it has completed the acquisition of MAN Nutzfahrzeuge AG's cable harness business from MAN Star Trucks & Buses Spolka zoo in Poland.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n- $MAT - 6%，大交易者3天前添加了10000个4月看跌期权合约。\n\n请注意，这里的“$MAT”可能指的是股票代码，例如“Matterport, Inc.”（MATR），但您提供的上下文并未明确这一点。因此，我假设“$MAT”代表股票代码，并翻译了句子。如果您需要关于特定股票或金融产品的更多信息，建议查阅相关的金融新闻或数据源。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在瑞士，Teleste 长期以来一直是产品的稳定供应商，其主要客户包括电缆和光纤到户（FTTH）运营商。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AutoZone has benefited from a variety of factors such as a healthy U.S. consumer and more older vehicles on the road.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n\n\"NVIDIA 的核心业务在 Q1'23 继续显示出强劲的实力。数据中心收入增长加速，而游戏中心总收入增长放缓。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些股票如果市场以同样的眼光看待它们，那么它们可能会取得很大的收益，就像那些投资银行分析师一样，他们关注这些股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$MARK is back !!! Long and strong here.} 翻译为中文为：{$MARK 回来了！！！这里长且强。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kentucky First Federal Bancorp reports Q1 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"$TZOO a close above 28.64 and we are ready to rock and roll\" can be translated into Chinese as \"价格已经接近28.64，我们准备开始行动了。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本田电机EPS每股收益低于10.43元，但营业收入高于预期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在流媒体巨头的最具争议的商业举措中排名靠前，Netflix（纳斯达克股票代码：NFLX）在宣布广告支持的订阅层时预示着一个新时代的机遇。不幸的是，早期结果表明该企业还有很长的路要走。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子的中文翻译是：“从底部移动，但仍处于熊市。#数据安全 $EMC $SNDK $WDC”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 bring...",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

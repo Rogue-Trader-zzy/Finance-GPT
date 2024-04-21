@@ -1,0 +1,302 @@
+[
+  {
+    "input": "伯克希尔披露了该单位与伊朗的关系，并展开调查。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "经过两个月后，我带着我的月度系列《10 股股息增长股票》回归。我在股息雷达中挑选了一部分股息增长股票，并呈现了排名前十的股票以供参考。\n\n英文翻译：After two months off, I'm back with another edition of my monthly series, 10 Dividend Growth Stocks. I rank a selection of dividend growth stocks in Dividend Radar and present the ten top-ranked stocks for consideration.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Also, Westpac is to issue a benchmark, 18-month FRN deal in Euros.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The customers will have access to integrated propeller and gear packages from one source.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca to Buy ZS Pharma for $2.7 Billion\n\n阿斯利康将以270亿美元收购ZS Pharma。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc. is deepening its involvement in the world of financial services. \n苹果公司正在加深其在金融服务领域的影响力。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国银行表示，他们已经看到了对紧急救援贷款的强烈需求，目前的申请数量已经达到了……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron (NASDAQ: MU) 股票本周下跌了 4%，并且今年迄今为止也下跌了 42%。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Royal Mail chairman Donald Brydon set to step down. 皇家邮政主席唐纳德·布莱登即将离职。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Snowstorm Returning To The Northwest This Weekend\n\n周末西北将再次迎来暴风雪。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"BHP Billiton's credit ratings are fragile in FY16, agencies warn.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Western Digital May Have Trouble Pushing Stock Price Higher. Subscribe to Seeking Alpha for more: https://t.co/dutJc7l7Hq\n\n翻译为中文：西数可能难以将股票价格推高。订阅Seeking Alpha以获取更多信息：https://t.co/dutJc7l7Hq",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"联合国全球契约：发布新报告以帮助公司推进人权……https://t.co/wdhiWiAvpe\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FBR Capital repeated its \"Outperform\" rating on $BRCM with a price target of $45.00 on Friday.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hollywood Knows It Has a Big Carbon Problem on Set: 好莱坞知道他们在片场有一个大碳问题。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC表示，单位将在和解中承担5.85亿美元的费用。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$YHOO 如果突破 $29.83，将构成短期交易者的技术入场点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The smaller molecules improve the grip of the tyre at top-speed driving. 翻译为：\n更小的分子在高速行驶时提高了轮胎的抓地力。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "去年同期为17.82亿美元；FactSet共识为18.45亿美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Nike于周三对Lululemon提起了诉讼，指控其侵犯专利，因为Lululemon未经授权就制造和销售了Mirror Home Gym及其相关移动应用程序。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company distributes Hiab's products as well as other products.\n\n{The company distributes Hiab 's products as well as other products.} = {该公司分销 Hiab 的产品以及其他产品。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A psychologist shares the 5 phrases parents should never say to their kids. (via @CNBCMakeIt) https://t.co/kGa8NQQHgj\n\n心理学专家分享了父母不应该对孩子说的5句话。（来自@CNBCMakeIt）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "白宫顾问：习近平告诉特朗普，尽管有病毒，中国仍将达到贸易目标。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "He is a member of the Board of numerous companies and a shareholder of the Boardman Ltd board specialist network.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish P+Âyry has been awarded an engineering contract by CFR, the national railway company of Romania.\n\n芬兰P+Âyry公司获得了罗马尼亚国家铁路公司CFR的工程合同。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{UPDATE: 巴克莱银行预计与莱曼兄弟破产受托人达成和解后收益增加}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's profit before taxes fell to EUR 21.1 mn in the third quarter of 2008, compared to EUR 35.8 mn in the corresponding period in 2007. \n\n公司2008年第三季度的税前利润降至2,110万欧元，而2007年同期为3,580万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股价现在反弹，但目前没有波动，当它下跌时会有更大的波动。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Outokumpu of Finland, a stainless steel manufacturer, plans to enter into a supply agreement with the Indian Railways.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Because we're a pension insurance company, we're required to diversify and not put too much in one asset class.\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As of August 2008, Glaston's North Asian sales and service region is upgraded to a new market area, North Asia.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rimvesta now is controlled by the Estonian-owned real estate development company ELL Nekilnojamas Turtas, which is a member of Merko, the largest construction group in the Baltic countries.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo宣布支付0.955美元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "半导体股票显示出见底的迹象。但是，在第三季度财报季之前，投资者情绪仍然保持负面。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Stocks rose today, building on strong gains from the previous session. We spoke with 3 experts - here's what they h…\"\n\n英文翻译：\"今天股市上涨，建立在上一交易日的强劲增长基础上。我们采访了3位专家 - 这里是他们分享的内容...\"\n\n(Note: The translation is based on the provided English text, but the actual translation may vary depending on the context and the specific words used in the original text.)",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{英译} 英伟达(NASDAQ: NVDA)的股票周三下跌，与美光科技(NASDAQ: MU)的下跌产生共鸣，后者在宣布其DRAM和NAND晶圆产量减少后下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "台湾半导体制造公司、ASML和德州仪器都是伟大的常青芯片投资。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PriceSmart reports 0.3% gain in comparable sales\n翻译：\n普莱斯马特报告可比销售额增长0.3%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康糖尿病药物组合因FDA拒绝而面临延迟。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rolls-Royce Wins $9.2 Billion Order From Emirates Airline\n\n英译中： 罗尔斯罗伊斯获得来自阿联酋航空公司的92亿美元订单。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fidelity National to buy FGL Holdings in diversification play 的中文翻译为：“Fidelity National将通过多元化战略收购FGL Holdings。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mimecast Limited (NASDAQ: MIME) 的股票价格是否特别波动？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks (SBUX) 正在走向200天移动平均线，如果它不能在那里保持住，那么它将面临巨大的困境。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英明、汇丰银行、瑞银和富达集团因“避税”客户起诉。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The pharmaceutical market in the Netherlands. Global Research & Data Services recently published a market analysis about the pharmaceutical markets in the Netherlands.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dolce & Gabbana has asked the European Union to declare Marimekko Corporation's \"Unikko\" floral pattern trademark invalid, in an ongoing dispute between the two companies.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's (AMZN) AWS宣布推出名为Amazon DataZone的新数据管理服务。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook, 上周接近买入点，今天面临不同的技术考验。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国小型企业的乐观情绪降至历史最低点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The negotiations concern personnel of Cencorp Corporation and Singulase Oy as whole in Finland and in Sweden, the company said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

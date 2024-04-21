@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"Operating profit excluding non-recurring items amounted to EUR 40.6 mn, down from EUR 57.3 mn year-on-year.\" 可以翻译为中文：\"不包括非经常性项目的营业利润为 4060 万欧元，较上年同期的 5730 万欧元下降。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VDW combined with LXE devices enhances productivity, enabling workers to use a single device to perform voice, scanning and keyboard functions. \n\n翻译成中文为：VDW 与 LXE 设备结合使用可提高生产力，让工作人员使用单一设备完成语音、扫描和键盘功能。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$TSLA is now up 57% from its February low. Amazing rebound.}\n\n特斯拉股价目前从2月份的低点上涨了57%。惊人的反弹。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple spent $85.5 billion to repurchase shares in its fiscal 2021, and more than $467 billion since 2012.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nUnited Airlines Holdings Inc  ( NASDAQ:UAL) 的股票在最后检查时上涨了1.6%，交易价格为$46.66，领先于该公司第一季度财务报告，该报告将于今天收盘后发布。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MikMak创始人Rachel Tipograph在亚马逊第三季度收益报告中与Emily Chang交谈。——喜欢这个视频吗？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The \"Squawk Box\" team discusses Netflix second quarter report coming out later today, the company faces strong headwinds including subscriber loss. Johnson & Johnson earnings beat estimates.\" 翻译为：\n\n\"The \"Squawk Box\" 团队讨论了今天晚些时候即将发布的 Netflix 第二季度报告，该公司面临着强劲的逆风，包括订阅者流失。约翰逊&约翰逊的收益超过了预期。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "更多玩家可以无需购买主机就能访问微软的Xbox。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "货币政策：德拉吉的再次登场伴随着风险。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Deutsche Bank将通用汽车股票的股价目标从32美元下调至30美元。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{TN means that the handset supports TeliaSonera's Telia Navigator global positioning system service.} 这句话的中文翻译是：{TN表示该手机支持TeliaSonera的Telia Navigator全球定位系统服务。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EU Poised to Send Warning to China on 5G 可以翻译为 \"欧盟准备向中国发出关于5G的警告\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FTSE 100下跌2.5%，由于Glencore和金属价格担忧。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "My $DWA is up 6% today. I'm still skeptical. Will take profits. Not a time to cheer.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"Last week, {$DOCU} broke out on heavy volume (69.89 std pivot) and closed the week at an all-time high. Missed the classic...\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：GAAP vs non-GAAP https://t.co/MMXLLXMNzn\n\n中文翻译：美国通用会计准则（GAAP）与非通用会计准则（non-GAAP）之间的对比 https://t.co/MMXLLXMNzn",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Previously, Vaahto Pulp has supplied headboxes with rectifier roll and dilution control technology for Stora Enso's mill in Imatra, eastern Finland.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tracking down your enemies on the bustling streets of Amsterdam, along the U.S.-Mexico border, or in a Middle Eastern fishing village is just part of the intense action in the latest Call of Duty video game.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在2月份，长公平点资本上涨了20.84%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2019, Netflix said in a letter to shareholders \"we\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Antti Orkola, the president of Kemira GrowHow's Industrial Solutions unit, told Thomson Financial News that the company has postponed the opening of the mine as the prices of phosphate have been \"quite depressed for a long time.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，这是中文翻译：\n\n请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\n{#FusionIQ NEW Positive Timing Signal on $SBUX Today https://t.co/9ImlXz4YNa Please Retweet #Signals}\n\n中文翻译：\n请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！\n{#FusionIQ NEW Positive Timing Signal on $SBUX Today https://t.co/9ImlXz4YNa Please Retweet #Signals}\n\n英文翻译：\nPlease help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n{#FusionIQ NEW Positive Timing Signal on $SBUX Today https://t.co/9ImlXz4YNa Please Retweet #Signals}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Plumb Funds CIO Tom Plumb解释了他为什么对医疗保健充满信心：https://t.co/UnOSsOci4O",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elisa CEO Sami Seppanen 表示，EMT 的口号 \"Estonia 最佳覆盖范围\" 明显向消费者提供了误导信息。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barclays sells benchmark indices unit to Bloomberg.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在 FedEx 2020 第二季度财报中预计会发生什么\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Keith Skeoch will take over as chief executive of Standard Life following David Nish's resignation.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Greene King's third quarter sales increased due to the festive season.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"连续第三天出现红色？$TSLA\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本季度收入总计27.4亿，比2008年第四季度的28.1亿下降了2%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``We have significant experience in smartphone functionality, in the development of mobile Internet services, and in uniting the two into a smooth user experience.\" \n\n``我们在智能手机的功能性、移动互联网服务的开发以及将两者结合到流畅的用户体验方面有丰富的经验。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Talentum expects that the net sales of its core business will increase in 2008, compared to 2007.\n\n人才公司预计，2008年其核心业务的净销售额将比2007年有所增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Lawson Products, Inc. to Report Fourth Quarter 2019 Financial Results} 可以翻译为：{劳森产品公司将发布2019年第四季度的财务业绩报告}。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Airlines Holdings, Inc. (纳斯达克：UAL) 更新了2022年第二季度的财务展望。该公司表示，在之前的指导基础上，需求环境持续改善，导致Q2的单位收入展望更高。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天早上的微软传言称他们计划拆分XBOX部门，股票全天都在上涨，收盘时创下新高。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In August-October 2010, the company's result before taxes totalled EUR 9.6 mn, up from EUR 0.5 mn in the corresponding period in 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"Eagle Ford producer orders another Capstone C800S\"\n\nThe Chinese translation is: \"Eagle Ford 生产商订购了另一台 Capstone C800S\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The leader in athleisure wear is outperforming its rivals. （运动休闲服装的领导者正在超越其竞争对手。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "We do hope that this will in the future turn out to be a novel method for the prevention of alcohol and tobacco smoking associated oral cancers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "铁轨：辞去董事职务 #铁轨 #股票 #市场筛选器 https://t.co/bwJ4IXyhmm https://t.co/LHvTlEocNR",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的富时100指数上涨，土地证券公司在股息上调后上涨。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo Inc (NASDAQ:PEP) 的股价为 157 美元。由于熊市，股价已经连续三周下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Outotec 的交付将在 30 个月内完成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TJX Q3 TJX International same-store sales up 6%; FactSet consensus up 4.1%. \n\n翻译为：TJX Q3 TJX International 同店销售额增长 6%；FactSet 共识增长 4.1%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{SAN FRANCISCO ( MarketWatch ) -- Nokia Corp , the world 's largest cell-phone maker , is using the Consumer Electronics Show in Las Vegas to introduce a high-end , thin folding phone , according to a media report Monday .}\n\n诺基亚公司，全球最大的手机制造商，正在利用拉斯维加斯的消费电子展来推出一款高端、薄折叠手机，根据周一的一份媒体报道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aho is proud of the company's new product, Lordi-Cola. \n\n翻译：阿霍为公司的新产品，洛迪可乐感到骄傲。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本周的特朗普经济学：“第一阶段”平淡无奇。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Labor organizers and e-commerce giant Amazon are set for a rematch vote to begin next month on whether workers will form a union at a warehouse in Alabama, officials said Tuesday.\n\n组织工会和电商巨头亚马逊将于下个月开始就工人们是否在阿拉巴马州的一家仓库中成立工会进行重新投票，官员们周二表示。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Metso 表示已赢得一份价值约 4000 万欧元的订单，向中国的 Lee & Man Paper Co. 供应一种纸板机。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "4G enables customers to utilize mobile broadband services with speeds up to ten times higher than those available with today's 3G.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

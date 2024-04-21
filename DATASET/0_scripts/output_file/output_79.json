@@ -1,0 +1,302 @@
+[
+  {
+    "input": "这是一个被比较为德银或荷兰合作银行（Rabobank）的坚实信用。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周三，超过80家事实核查组织敦促在线视频平台YouTube更好地应对虚假信息，并提出帮助揭穿虚假声明。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"比特币在经历了两周内最大的单日涨幅后，价格再次超过7000美元。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The aim is to achieve EUR 2.5 mn yearly savings. 的中文翻译是：“目标是每年节省2.5百万欧元。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"历史表明，道琼斯工业平均指数、标普500指数和纳斯达克指数可能在2020年再次迎来大幅上涨。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$TSLA}再次蒸蒸日上，目前这只股票势不可挡。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"{$JNK http://stks.co/2Fcm Does not want to go down... risk appetite still high}\"\n\nThe translation to Chinese is: \"{$JNK http://stks.co/2Fcm 不想下跌...风险偏好依然很高}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EQT has completed its exit from Salcomp, a Finnish company that makes mobile phone chargers, by selling its remaining stake to Swedish investment group Nordstjernan for about (EURO) 35 million ($47 million).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I'm not a professional ANAL-yst but I DO put my money where my mouth is. $AAPL will do $575 before the end of the year. That's another hundred from here. Long LEAPS =^.^=",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "更多高盛高管即将离开。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "然而，Simdax仍将在已经批准上市的市场中保持可用，因为它已在40多个国家获得了上市许可或提交了申请，Orion补充道。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Company operates through four principal divisions: Consumer Packaging; Office Papers; Speciality Papers, as well as Market Pulp and Energy. \n\n翻译：公司通过四个主要部门运作：消费包装、办公纸、特种纸以及市场浆料和能源。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"PepsiCo Inc (NASDAQ:PEP) and The Coca-Cola Company (NYSE:KO) are attractive for the bear market. The companies pay regular dividends, and their prices are relatively less volatile.\" translates to \"百事可乐公司（纳斯达克股票代码：PEP）和可口可乐公司（纽约证券交易所股票代码：KO）对于熊市来说很有吸引力。这些公司会定期支付股息，而且它们的股价相对而言波动较小。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NASDAQ-listed Yahoo Inc has introduced a new service that enables Malaysians to take their favorite Internet content and services with them on their mobile phones.\n\n\"在纳斯达克上市的雅虎公司推出了一项新服务，让马来西亚人能够将他们最喜欢的互联网内容和在线服务带到他们的手机上。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the orders is about EUR 70mn.\n- 订单的价值大约为7000万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A crane will be supplied to Tesoro Corporation's Golden Eagle Refinery in Martinez, California, while a similar crane will be delivered to BP's Castell refinery in Spain.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"VNH generates annual net sales of about 5 mln eur and employs 21 people.\" 翻译为中文是：\"VNH 每年净销售额约为 500 万欧元，并且雇用了 21 名员工。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"UPDATE 1-Engineering firm Smiths Group confirms CEO appointment\"} 的中文翻译为：{\"更新 1-工程公司史密斯集团确认 CEO 任命\"}。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury's, Asda, Tesco and Morrisons will all reduce their petrol prices as oil prices fall.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"LULU http://stks.co/o17i Bounced off support early in week - now indicators turning up (RSI, MACD, SMI) Worth a look\"} 翻译成中文是：\n\n{\"LULU http://stks.co/o17i 本周早些时候反弹至支撑位 - 现在指标开始转向上扬（RSI，MACD，SMI）值得关注\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company said that it has agreed to a EUR160m unsecured credit line from lenders. \n（公司表示，它已经同意从贷款人那里获得1.6亿欧元的不受担保的信用额度。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The dismissed staff members will now take the matter to court unless it can be settled outside. \n\n翻译为中文：被解雇的员工现在可能会将此事诉诸法院，除非能够在法庭外解决。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析师观点在Skyworks Solutions, Inc.（纳斯达克代码：SWKS）发布第二季度业绩后仍保持混合状态。高盛分析师Gary Mobley维持了Skyworks的超配评级，并将目标价从195美元下调至160美元。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Profit after taxes for the period was up to EUR0.9 m, from EUR0.01 m last year.\n\n利润税后税后利润为0.9欧元，比去年增加了0.01欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Demonstrations of the broad capabilities of the Mobility Business Suite will be organized during the 3GSM World Congress in Barcelona, from February 12th to 15th. \n\n翻译为中文：\n\n将会在巴塞罗那的3GSM世界大会上组织展示移动商务套件的广泛能力，时间是从2月12日到2月15日。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The URL you provided contains a transcript of an earnings call by Joseph Bartolacci, CEO of Matthews International Corporation (MATW), discussing the company's Q1 2020 results. Here's a direct translation of the URL:\n\nhttps://www.ceoearningscalls.com/earnings-calls/matthews-international-corporation-matw-ceo-joseph-bartolacci-q1-2020-results-earnings-call-transcript/\n\nNote: The URL you provided seems to be truncated, so I have provided the full URL for reference.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish company sold its UK operation - consisting of 50 staff in offices in London, Birmingham and Manchester - as part of a deal with Hampden in July 2001 for its European-wide property and casualty arm Sampo Industrial. \n\n翻译：芬兰公司将其英国业务出售，其中包括伦敦、伯明翰和曼彻斯特的50名员工，作为2001年7月与汉普登达成的一项交易的一部分，出售其欧洲范围内的财产和意外伤害保险业务Sampo Industrial。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$WFT closing higher from here} 的中文翻译为：{$WFT 从这里开始收盘更高}。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "您好，这是您要求的英文翻译：\"What's the best novel you've read this year? Our favourite authors of 2019 include: @MargaretAtwood @taffyakner… https://t.co/DklppqCBmY\" 翻译为中文为：\"今年你读过的最好的小说是什么？我们2019年的最爱作者包括：@MargaretAtwood @taffyakner… https://t.co/DklppqCBmY\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple delivers another quarter of resilient services revenue growth, strong cash flows, and share repurchases. Services revenues make up around 20% of the overall picture but that figure should increase over time. \n\n苹果公司本季度再次实现了服务收入的强劲增长、现金流的强劲表现以及股票回购。服务收入占整体收入的约20%，但这一比例在未来将会增加。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "他们将被沉降到大约360-380米的深度，并通过真空固定到底部泥中。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The group posted net sales of 35.3 mln euro $ 46.5 mln and an operating profit of 760,000 euro $ 1.0 mln in 2005. \n\n翻译成中文：\n该集团在2005年实现营业收入3530万欧元，折合4650万美元；同时，实现了760,000欧元的运营利润，折合1,000,000美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你闻到贝佐斯在做什么了吗？分析师预测亚马逊可能会收购WWE。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for £90m.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bear-Market Bounce Breaks Despite \"Global Money-Printing Orgy\" 翻译成中文为：“尽管全球货币印刷狂潮，熊市反弹仍在继续。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given sentence: \"You are warmly welcome!\" 😊\n\nChinese translation: 欢迎！😊",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Report: FreightCar America Closing Roanoke Plant\n\n报告：FRA 卡车公司关闭罗阿诺克工厂。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Olvi的说法，该公司已经开始了新的协议谈判。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's (NASDAQ: AAPL) stock price started in 2022 at $182, and as of December 12, the stock was trading at $142.16 before the market opened, with the price decreasing by -20% from the beginning of the year. \n\n苹果公司（纳斯达克代码：AAPL）的股票价格在2022年开始时是182美元，截至12月12日，股票在市场开盘前交易价格为142.16美元，从年初开始价格下降了-20%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "There are several factors for investors to consider before buying this top gaming stock. （投资者在购买这款顶级游戏股之前需要考虑多个因素。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "He found him again, however, after the driver was involved in a two-car accident. \n\n他后来在一场两车相撞的事故中找到了他。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FB (110.20) 开始显示一些相对强度和每日潜在的买进/卖出迹象。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Fed Is Now Buying Investment Grade Bond ETFs Like LQD\" 的中文翻译是 \"美联储现在正在购买类似 LQD 的投资级债券 ETF\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Neste Oil 延续了昨天的涨幅，上涨了 0.49% 至 22.72 欧元，而公用事业公司 Fortum 下跌了 1.14% 至 20.76 欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "流媒体媒体专家正在调整其用户反馈系统。更新的评分真的会带来多大差异吗？",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In addition to the presentations held by President & CEO Kai Telanne and CFO Tuomas Itkonen, participants will have an opportunity to discuss with other members of the company's management. \n\n中文翻译：除了总裁兼首席执行官Kai Telanne和首席财务官Tuomas Itkonen的演讲外，参与者还有机会与公司的其他管理层成员进行讨论。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Some businesses are not only built to last, but built to thrive in any and all environments.\n翻译为中文：\n一些企业不仅是为了持久，更是为了在任何环境中都能繁荣发展而建造的。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oriola-KD, headquartered in Espoo, Finland, is a leading distributor of pharmaceutical and healthcare products with 1,300 employees in the Nordic and Baltic countries.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The cat is hanging on a thread. One click away from a cliff drop. Needs follow-through (or snap-back on the VIX).",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL: 我确信那些做空者正在屏住呼吸，希望出现奇迹。lol",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

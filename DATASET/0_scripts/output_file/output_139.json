@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Norwegian bank Nordea's board chairman Hans Dalborg has informed the nomination committee that he will not be up for re-election at the Annual General Meeting in 2011.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.}\n\n\"李已经准备好退出破产。今天有强劲的交易量。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided translates to: \"Facebook, Apple, Nike, and JWn bearish charts keep getting worse.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Woodside预计随着新项目的推进，储备基础将三倍增长。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire says internal synergy goals from Baxalta deal higher.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"现在股票市场上最好的廉价股票是什么？\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"本季度的收入总计27.4亿美元，比2008年第四季度的28.1亿美元下降了2%。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{英特尔曾经是半导体行业的无可争议的王者，直到芯片巨头在近年失去了对竞争对手Nvidia和AMD的势头。现在，随着新的CEO上任，英特尔正在恢复一些自信。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``交易完成后，Tikkurila将不再有任何粉末涂层相关的业务，''公司表示。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股息增长股票继续宣布强劲的股息增加，并帮助我们增加股息收入。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Gogo, Inc (GOGO), Lululemon Athletica, Inc (LULU), and Twitter, Inc (TWTR) have all formed bullish engulfing candlestick patterns on their daily charts. A bullish engulfing candlestick pattern forms when a small red candlestick is followed by a large green candlestick that has a body that completely engulfs the body of the previous day's candlestick.}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们认为Crocs的股票（纳斯达克代码：CROX）目前比Lululemon的股票（纳斯达克代码：LULU）更有价值。Lululemon当前的价格与息税前利润（EBIT）比率为25倍，远高于CROX的5倍水平。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大型玩家正在出售哪些股票？http://stks.co/t0Vel $CROX $GOGO $INO",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Arena Partners Oy is a development company for electronic business.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ducrozet: Lagarde 比 Draghi 稍微鹰派一些。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{在本周的星期二，钟声响起后，将在甲板上报告的是Netflix（NFLX）。投资者密切关注该公司本季度的业绩，因为该公司已成为市场上广泛关注的名字。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些芯片制造商正走在从半导体行业主要趋势中获利的道路上。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "金条价格在美联储公布支持经济的措施后继续上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia Corp is preparing to abandon its purchase of Arm Ltd from SoftBank Group Corp after offering about $40 bln for the British company in 2020, Bloomberg News reported on Tuesday, citing people familiar with the matter.\n\n翻译：\n据熟悉此事的人士透露，《彭博社》新闻周二报道称，英伟达公司正在准备放弃收购软银集团旗下的Arm公司，此前该公司于2020年向这家英国公司提供了大约40亿美元的收购要约。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury sells unit to LloydsPharmacy\n\n翻译：\n萨姆士伯里将单位出售给劳埃德药房。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"美国股市期货下跌，源于对中国贸易谈判的担忧。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Alma Media的2006期权计划条款和条件，2006A期权权利的股票订阅价格为每股4.88欧元，每股的账面价值为0.60欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Americas represents 25% of Gemalto's billing, and Latin America is one of the fastest-growing regions for the company.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：IWM 30-Minute Chart. Small caps threatening descending triangle breakdown under $110.20.  http://stks.co/r0KKm",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Yahoo Finance's Dan Howley talks about reports that Apple will soon allow third-party app stores on its iOS devices.}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kaman宣布支付0.20美元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Aspo's Group structure and business operations are continually developed without any predefined schedules.} 可以翻译为：\n\n{Aspo集团的结构和业务运营不断地发展，没有任何预设的时间表。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The spy bumping its head on declining daily 8ma as overhead resistance. Then the big brother 50ma just above that.\n\n翻译：间谍的脑袋碰到了下降的每日8毫安，因为上方有阻力。然后，它的大哥就在上方50毫安。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Helsingi AFX - KCI Konecranes said it has won an order for four hot metal ladle cranes from Indian steel producer Bhushan Steel and Strips Ltd. 可以翻译为：\n\n赫尔辛基 AFX - KCI Konecranes 表示，它已经赢得印度钢铁生产商 Bhushan Steel and Strips Ltd. 的四个热金属吊车订单。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这篇文章的目的不是讨论对 GOOG 股票进行股票拆分的优点，而是讨论股票拆分后对股价的展望。我列出了 Alphabet 高管实施股票拆分的可能关键动机。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Update: Nasdaq More Than Doubles Percentage Gains In S&P 500\n\n股票市场更新：纳斯达克指数在标普500指数中的百分比涨幅超过一倍。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Charlot Magayi's Mukuru Clean Stoves helps #SDG1 #SDG3 #SDG8. It recycles waste metal to produce improved, reliable…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "十月建筑账单指数：终于，力量迹象显现。了解更多并获得任何股票的更新！...https://t.co/hchfMOHnZT",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nNetflix Inc. (NFLX, -3.71%) 正在与几位外部候选人进行谈判，以监督其流媒体服务的广告版。据华尔街日报报道。该公司采访了包括康卡斯特公司 (CMCSA, -1.68%) 广告部门首席增长官 Pooja Midha 和 Snap Inc. (SNAP, -5.55%) 美洲地区销售副总裁 Peter Naylor 在内的候选人，后者还是 Hulu 的前高管。据知情人士透露。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "是",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jassy's first year was marked by challenges ranging from the Covid-19 pandemic and record inflation, to unionization efforts and a plunge in the stock price.\n翻译：Jassy的第一年充满了挑战，包括从COVID-19大流行和创纪录的通货膨胀，到工会化努力和股票价格暴跌。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The electricity consumption increases with higher frequencies.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The adventure watch category just got more competitive. \n冒险手表类别现在变得更加竞争激烈。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Actelion公司股价因Shire收购洽谈而创下历史新高。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Juha-Pekka Weckström has been appointed President of telecom group TeliaSonera Finland to succeed Esa Rautalinko.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``小偷从施工现场偷走它们的问题，'' 史密斯先生说。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Christine Idzelis 的 EQT Partners 抛售 Salcomp 瑞典金融投资者 EQT Partners 正在出售其在移动电话充电器制造商 Salcomp Oyj 中的多数股份给北欧投资公司 Nordstjernan AB。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "其他科技公司在招聘方面更加谨慎，包括谷歌、Meta Platforms、Spotify和优步。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政在竞争激烈的英国市场中的周转证明是昂贵的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{MSC Industrial Direct Co., Inc. (NYSE:MSM): 最近收益下降是否应该让您担心？}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"U.S. rig count falls for seventh straight week\"\n\n中文翻译：“美国钻井平台数量连续第七周下降”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc (NASDAQ: NFLX) 的股票在周二的延长交易中下跌了 25%，因为这家流媒体巨头表示，在财政第一季度（FQ1）中，这是它在十年来首次失去订阅者。根据管理层的预测，订阅者的流失预计在当前季度会进一步恶化。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNH Industrial upgraded to Buy at Deutsche Bank on valuation.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ASML Holding N.V.'s (ASML) CEO Peter Wennink on Q4 2021 Results - Earnings Call Transcript\n\n翻译：\nASML Holding N.V.（ASML）的CEO Peter Wennink在2021年第四季度业绩 - 盈利电话会议记录\n\n（注：ASML是一家荷兰半导体设备制造商，而Peter Wennink是该公司的CEO。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Barclays prepared to replace Sir Mike Rake as he approaches the exit\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

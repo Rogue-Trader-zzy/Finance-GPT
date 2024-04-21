@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{A peer's first-quarter results are providing hope for their own immediate futures.} 翻译成中文为：\n{同行的第一季业绩给他们自己的近期未来带来了希望。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The handset also features a Media Bar for quick access to favorite media and applications, including music, photos, YouTube or Ovi Share. \n\n翻译：这款手机还配备了媒体栏，可以快速访问喜欢的媒体和应用程序，包括音乐、照片、YouTube或Ovi Share。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``It won't happen overnight.'' 翻译成中文是：“它不会一夜之间发生。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析师普遍看好新上市的保险公司BRP集团。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Healthcare firms are increasing initiatives as the COVID-19 pandemic progresses.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In addition, YIT has reserved EPI Russia the right to expand the logistics center by about 100,000 m2.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The vessels also have to be environmentally friendly, fast, and have all modern conveniences. \n\n翻译： 这些船舶也必须环保、快速，并且拥有所有现代便利设施。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Estee Lauder 股票价格目标从 202 美元上调至 238 美元，由 Raymond James 提出。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The additional flight linking Mumbai with Helsinki was dictated by the strong traffic demand between Asia and Europe.\" 可以翻译为：\"连接孟买和赫尔辛基的额外航班是由亚洲和欧洲之间强劲的交通需求所决定的。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The venture recently agreed to buy Motorola's wireless networks business for $1.2 billion and to deploy LightSquared's national 4G network.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lloyds to cut 945 jobs as part of three-year restructuring strategy\n\n翻译：劳埃德银行将在三年重组战略的一部分中裁员945人。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Take-Two is buying the creator of FarmVille and Words with Friends for $12.7B. \n\n翻译为：Take-Two以12.7亿美元的价格收购了FarmVille和Words with Friends的创造者。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{ADPnews - Aug 3, 2009 - Finnish media group Ilkka-Yhtyma Oyj HEL: ILK2S said today its net profit fell 45% on the year to EUR 5.9 million USD 8.4 m in the first half of 2009.}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Are you allowed to return gifts you don’t like? Is it ever appropriate to just give cash? An etiquette expert answers... https://t.co/6o2nGHgOJU\n\n是否允许你退回不喜欢或不满意的礼物？ 是否有时只是给现金是合适的？ 礼仪专家解答...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Veracel is preparing an appeal in the issue and has asked the court for clarification of the judgement. \n\n中文翻译：维拉赛尔正在就此事准备上诉，并向法院请求判决的明确解释。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Pay Later 是苹果公司对不断增长的“先买后付”行业的尝试。然而，一些投资者对时机提出了质疑。该行业领先者的逾期率和损失率上升可能意味着苹果公司将面临困难，因为该服务不收取利息或逾期费用。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp is considering a deal to buy cybersecurity firm Mandiant Inc, Bloomberg News reported on Tuesday, citing a person familiar with the matter. 微软公司正在考虑收购网络安全公司曼迪安特公司的交易，据知情人士透露，这一消息来源于彭博新闻社于周二发布的一份报道。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kim Forrest, chief investment officer of Bokeh Capital Partners, joins 'The Exchange' to discuss the economy and markets.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 打破了下降通道......它会保持吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla has announced it is recalling 2700 Model X SUVs. $TSLA\n特斯拉宣布召回2700辆Model X SUV。$TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "您是否应该考虑沃尔特迪士尼公司、Netflix公司和Spotify技术公司的这三个流媒体服务股票？2021年全球视频流媒体市场价值为59.14亿美元，预计将以21.3%的复合年增长率（CAGR）增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$WGO's BoD was right to reject the offer. That company is low because of the economy, not because of any type of mismanagement or anything.}\n\nWGO's 董事会拒绝这个提议是正确的。那家公司因为经济低迷，不是因为任何类型的管理不善或其他原因。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This Invisible Tech Stock Threatens Amazon with 800,000+ Online Stores 翻译成中文为：“这家隐形科技股威胁到了亚马逊，因为它拥有超过 80 万个在线商店。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intuit is in the process of streamlining its structure, especially through divestment of non-core businesses.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们现在正在以更加显著的规模将Marimekko带到那里。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IBM staying strong\" 的中文翻译为 \"IBM 保持强大\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纽约 - 亚马逊似乎正在受到抖音病毒的影响，加入其他寻求通过引入抖音流行社交平台的复制品来保持消费者注意力的公司的行列。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hawaiian Airlines reports January traffic.\n(翻译成中文) 夏威夷航空公司报告一月份的客流量。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：TSLA（特斯拉）被Argus升级为买入，并给出$333的PT（目标价）。几乎会让人认为，在5周内近100点的涨幅后，这将是卖出信号。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "预测“明年会更好”，Expedia Group Inc.周四表示，奥密克戎变种对旅行的影响没有之前COVID-19大流行那么严重。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{赫尔辛基 汤森金融 - 卡格特克公司的股票在下午早些时候的股价下跌严重，原因是这家货代处理集团在四月至六月的利润意外下降，这掩盖了该集团在三个月内收到的众多新订单。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The activities range from the development of natural resources to the retail marketing of finished products.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "瑞士国家银行：瑞士失去对世界最低借贷成本的控制 -- ...",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Breaking 52 week highs timing looks great now $AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV https://t.co/11K8JzuzMU\n\n这句英文句子翻译成中文为：“现在突破52周高点的时间看起来非常好 $AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Solidium now holds 5.0 per cent of the shares Solidium Oy has acquired 5.0 per cent of the shares in Tieto Corporation for approximately EUR 58 million.\"\n\n翻译成中文为：\n\n\"Solidium目前持有5.0%的股份，Solidium Oy已经收购了Tieto Corporation大约5.0%的股份，价值约5800万欧元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Institutional investors have been increasing their positions in Amazon and Suncor, as the focus shifts towards sustainable business models rather than growth.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Etteplan aims to hire at least 20 people in Borl+ñnge.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们的前两名是在这个特定的节日季节的沃尔玛和亚马逊。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The service is intended to allow the people of thirteen Mediterranean countries to reach the Baltic more rapidly, with a single carrier.\n\n此服务旨在让地中海地区的十三国人民更快地抵达波罗的海，只需一个承运人。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们强调了这两种股票之间的一些主要差异。我们涉及了这两种股票的前景。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "能源领域简报：https://t.co/FKDifSy17R",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The big tech companies could face unprecedented restrictions on how they do business as early as next year, European officials said on Tuesday, as EU lawmakers put the final touches on a new law that would impact Google, Meta, Apple and Amazon.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Banks could lose over $100 Million from loan made to China's Luckin Coffee chairman.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国劳埃德银行将自救援以来首次支付股息。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "同时，我很高兴我们能够凭借自己的团队成员完成组织工作。\n（Translation: At the same time, I am delighted by the fact that we were able to accomplish the organization with our own team members.）",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "All my charts are flashing oversold.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MGM正式追求大阪赌场。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Anchiano Therapeutics downgraded to peer perform from outperform at Oppenheimer\" 的中文翻译为：\"Anchiano Therapeutics 在 Oppenheimer 的评级从 outperform 下调至 peer perform\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vahan Janjigian, 格林威治财富管理公司首席投资官，加入《交换》节目，讨论半导体行业中的投资策略。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"为什么我今天会购买ARM Holdings plc和BHP Billiton plc\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

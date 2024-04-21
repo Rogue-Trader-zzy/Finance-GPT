@@ -1,0 +1,302 @@
+[
+  {
+    "input": "AAPL新突破长期IF 110.61，目标位是112.19，119.86和123.82。熊方必须收复102.77。QQQ，NQ_F，NDX：https://t.co/6l3m1wXChw",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Federal Secretary for Transport and Communication of Mexico has awarded Poyry and its Mexican partner Sintra a consulting contract in connection with the Buenavista-Cuautitlan suburban railway.\n\n联邦运输和通信部（墨西哥）已向Poyry及其墨西哥合作伙伴Sintra颁发了关于Buenavista-Cuautitlan市郊铁路的咨询合同。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n(ADP News) - Feb 9, 2009 - Finnish computer services company Proha Oyj (HEL: ART1V) said today its net loss narrowed to EUR 113,000 (USD 146,000) for 2008 from EUR 1.2 million for 2007.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "圣路易斯联储主席吉姆·鲍尔建议宣布一个“国家大流行调整期”，并讨论了...（注：由于信息不完整，翻译无法完成）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "成立于1994年，该公司采用六步制、时间聚焦、协作项目方法来改善金融机构的收入流。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔寻求将其对富国银行的持股比例提高到10%以上。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：{7 Reasons Your Credit Card May Be Declined -- and How to Resolve Them}\n\n以下是中文翻译：\n- 7 个可能导致您的信用卡被拒绝的原因以及如何解决它们。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "保险公司Old Mutual选择了Standard Bank的Hemphill作为新的CEO。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Residential construction in particular has picked up in several markets'' can be translated to Chinese as ``特别是在几个市场中，住宅建设已经有所复苏''。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``We could be there.'' 翻译成中文为：“我们可以在那里。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{@HopeTurock yes, the expectations of a deal are somewhat priced in but we could see a nice pop if bids come in higher than expected... $YHOO}\"\n\nThe direct translation of the sentence into English is: \"Help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {HopeTurock yes, the expectations of a deal are somewhat priced in but we could see a nice pop if bids come in higher than expected... $YHOO}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "印度尼西亚央行：印度尼西亚共和国通过SEC-Registe... #BankIndonesia... https://t.co/P1FoVdlj2k",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple has warned investors and customers that it expects to ship fewer numbers of iPhone 14 Pro and iPhone 14 Pro Max models as it deals with ongoing Covid-19 restrictions in China.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann, a Finnish department store group, is planning to acquire about EUR 141mn through a directed issue and a rights offering.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ohio州长Mike DeWine告诉福克斯新闻数字版，英特尔计划在该州建造半导体制造设施的影响。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cyrus Mewawalla, Head of Thematic Intelligence at GlobalData, and Ben Harburg, Managing Partner at MSA Capital, join Worldwide Exchange to discuss the recent fall in shares of AMD and Nvidia. \n\n中文翻译：\n\n全球数据主题情报负责人赛勒斯·梅瓦瓦拉（Cyrus Mewawalla）和MSA资本管理合伙人本·哈伯格（Ben Harburg）将与Worldwide Exchange讨论AMD和Nvidia股价近期下跌的情况。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "找到 $TSLA 250 的新买家很难。空头继续增加。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据与Talvivaara签订的提货协议，Cameco将提供最高60万美元的前期投资，用于覆盖铀提取电路的建设成本。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "交易预计于2009年12月完成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新闻亮点：每日顶级金融服务新闻 #新闻亮点 #经济 #市场筛选器… https://t.co/GIAbOwySKx\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们为公司带来新的、致力于的领袖力和商业与战略专业知识，这是我们购买的公司。\n\n{We bring a new, committed leadership and business and strategic know-how to the company that we buy.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The investigation isn't going to end.\" https://t.co/HMbZzmpBQ0\n\n调查不会结束。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Upon completion of the deal, Panostaja will establish a new business area within the group to focus on heat treatment of metals.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "#假期#优惠：享受33%的优惠，包括流媒体市场情报、盈利新闻报道、复杂的... https://t.co/Uq9axnEBQT",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finland-based international machinery rental company Ramirent Plc (OMX Helsinki: RMR1V) reported on Friday (August 15) an operating profit of EUR65.0 million on net sales of EUR342.9 million for the period January-June 2008.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kalnapilio-Tauro Grupe (Kalnapilis-Tauras Group), which is owned by Denmark's Royal Unibrew, raised its market share to 25.18 percent from 23.74 percent, as beer sales for the seven months jumped by 14.5 percent to 40.5 million liters.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's (AAPL) third-quarter fiscal 2022 results are expected to reflect expanding Services business, as well as solid Mac sales.\n\n苹果公司（AAPL）第三财季2022的业绩预计将反映出服务业务的发展壮大，以及Mac电脑的稳定销售。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GSMA: 移动技术可以成为应对气候紧急情况的重要手段，因为它有能力大幅减少碳排放。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The streaming service is downsizing its workforce, and it's a move with a lot of layers to consider.\n\n翻译：流媒体服务正在缩小其员工规模，这是一个需要考虑许多方面的举措。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon hires former Sony executive for top video entertainment role\n\n亚马逊聘请前索尼高管担任顶级视频娱乐角色。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit totaled EUR 825mn, up from EUR 763mn in 2004. 翻译为：营业利润总计为8250万欧元，比2004年的7630万欧元有所增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "让我们看一下为什么你会想要拥有这个顶级流媒体股票的股份，以及为什么你会想要出售它们。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft is paying up in areas like cloud computing to avoid losing talent to top rivals such as Amazon and Google.\n\nMicrosoft在云计算等领域投入巨资，以避免顶尖竞争对手如亚马逊和谷歌抢夺人才。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vir Biotechnologies: GlaxoSmithKline (GSK) to make $250 mln equity investment in the company https://t.co/qJxY2yHrb0 可以翻译为：\nVir Biotechnologies: 葛兰素史克 (GSK) 将向该公司投资 2.5 亿美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普表示，他正在“强烈”考虑弹劾证词。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"GPRO\"股票自星期二早上以来下跌了25%。}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft's stock (NASDAQ: MSFT) has lost approximately 16% YTD as compared to the 14% drop in the S&P500 index over the same period.\n\n微软的股票（纳斯达克代码：MSFT）今年迄今为止大约下跌了16%，而同期标准普尔500指数下跌了14%。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "First Bancorp increases dividend, boosts stock buyback program.\n\n翻译为中文：\nFirst Bancorp 增加股息，提升股票回购计划。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market share is anticipated to rise within the next few years.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon is reportedly acquiring the innovative healthcare provider for $3.9 billion (including debt) in an all-cash deal. \n\n亚马逊据报道以39亿美元（包括债务）的全现金交易收购了这家创新型医疗保健提供商。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当前的经济环境中，关注具有坚实价值和增长潜力的蓝筹股非常重要。以下是我们在结束Q4和2022年时将重点考虑的两个股票。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence is a stock market indicator. Here is the translation:\n\n股票代码 $TSLA 在 50 日均线和 200 日均线（197-230）上突破，并面临上档阻力（274-279）。短期挤压正在进行中，长期目标为 310 点。止损点位为 239 点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "《疯狂金钱》主持人吉姆·克拉默和《股市直播》团队在周四芯片制造商英特尔发布令人失望的盈利报告后，分析了英特尔的股票。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Amazon.com has been a holding for four years in the Blue Whale Growth fund, one of the highest-profile U.K. funds that invests in U.S. companies.\" 翻译成中文是：\"亚马逊公司（Amazon.com）已经持有四年了，这是英国最知名的一只投资美国公司的基金——蓝鲸成长基金（Blue Whale Growth fund）的持股。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The money will be spent \"on strengthening the company's competitiveness in the sphere of sawmill products and increasing the volume of wood delivered for processing in Russia,\" the release says.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金押注Aduro BioTech Inc (ADRO)。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lloyds to cut 945 jobs as part of three-year restructuring strategy 翻译成中文是：劳埃德银行将裁员945人，作为三年重组战略的一部分。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tullow Oil 暂停股息分配，因油价下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EBITDA for the year 2009 improved to EUR484m, as compared with EUR472m in 2008.\n\n中文翻译：2009年的EBITDA增长至4.84亿欧元，相比2008年的4.72亿欧元有所提升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Spotify Double Downgrade Reflects Prospect of Slower Revenue Growth\n\n翻译成中文：\nSpotify 双重降级反映了收入增长放缓的前景。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

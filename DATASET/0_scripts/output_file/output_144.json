@@ -1,0 +1,302 @@
+[
+  {
+    "input": "In the latest trading session, Lululemon (LULU) closed at $334.40, marking a +0.66% move from the previous day.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Myomo, Inc. (NYSEMKT:MYO): 它的贝塔值对你的投资组合意味着什么？}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "半导体投资者正在等待Nvidia的盈利报告及其指引。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result, the company has decided it will implement fixed-term temporary lay-offs.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cipla CEO表示，在接下来的几个季度，印度商业将展现出市场领先增长的态势。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "俄罗斯操纵者仍在滥用 Facebook 和其他平台。但政治并不是重点。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Home Depot 的销售未达到预期，股价下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc (NASDAQ:NFLX) 的股票今天早上上涨了 2.3%，达到 228.35 美元，这是由于流媒体服务透露了将新广告支持的流媒体选项的价格从 7 美元到 9 美元每月的计划。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊股票的4周期RSI已降至20，请阅读康纳斯的交易策略书籍。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The order values at EUR 6.9 mn, and it consists of design services and hardware and software licences. \n\n中文翻译：该订单价值为6.9百万欧元，包括设计服务以及硬件和软件许可。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天，{$CSX}股价上涨，报告EPS为$0.37，预期营收为$2,732B。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2007, Marimekko also opened concept stores in Yokohama and Nagoya, central Japan, in Silver Spring in metropolitan Washington DC, USA, in Graz, central Austria, and in Aalborg, northern Denmark.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Arconic Inc. 董事会批准了公司的分离。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jan Kniffen, J. Rogers Kniffen WWE CEO, joins CNBC's 'Squawk Box' on Black Friday to discuss what to expect from the consumer this holiday season.\n\n翻译成中文：\nJan Kniffen, J. Rogers Kniffen WWE CEO, 将在黑色星期五参加 CNBC 的 'Squawk Box' 节目，讨论这个假期消费者可以期待什么。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating loss totalled EUR 5.2 mn, compared to a loss of EUR 3.4 mn in the corresponding period in 2008-2009. \n\n中文翻译：运营亏损总额为5200万欧元，相比2008-2009年同期亏损3400万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AMD股价周四盘后下跌，因为芯片制造商下调了其已经保守的预测，因为疫情驱动的两年销售后，个人电脑销量下降的情况比预期的更糟。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它在全球拥有大约30个办事处，其净销售额的90%以上是在芬兰境外产生的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "International operations accounted for over 80% of net sales.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的富时100指数稳定，受到迪克森斯卡朋的支持。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YIT Construction and the town of Riihimäki have signed a lease contract whereby the town will occupy the Travel Centre office facilities.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Entertainment One dispels ITV takeover rumours. 翻译为：娱乐壹号公司驳斥了ITV收购的传言。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FTSE 从三个月来的低点反弹，受到 StanChart 和 Sainsbury 的提振。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lloyds to cut 945 jobs as part of 3-year restructuring plan.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "半导体制造商因无法跟上汽车制造商和其他买家的需求增长，预计将在2021年投入近1500亿美元用于资本支出项目，以扩大产能。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tornio Works 雇用了 2,300 名员工，其中在 4 月至 10 月的固定期限或临时部分时间解雇范围内的人数超过 1,800 人。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "报告期内，公司的营业利润增长了43.2%至600万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你好，欢迎回来收听《Equity》，一档关于创业公司商业运营的播客。在这里，我们深入剖析数据和新闻背后的细节。这是我们每周一的节目，一个简短的开始，带领我们进入新的一周。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国航空公司集团（AAL，+1.64%）周二盘前交易中股价上涨4.6%，此前该航空公司在提高第一季度营收展望的同时，加入了多家同行，但表示这将“被不断上升的燃料和其他开支所抵消”。该公司现在预计营收将比2019年同期下降17%，而此前预期为下降20%至22%，同时将容量估计下调至10%至12%，相比之前的8%至10%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Randgold的利润因金价疲软而受到打击，但股息仍有所增加。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Honkarakenne Oyj - a world-leading manufacturer of genuine wooden homes - will be sponsoring Finnish crosscountry skier Virpi Kuitunen for the next three years.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在获得具有里程碑意义的奥斯卡奖之后，苹果公司（Apple Inc.）的股票在周一创下了十年来最长的连胜纪录。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回几乎所有 Model X 型号 @cnnbrk 做空了，以至于在工作时你也跳入金钱交易。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The idea of saving electricity in data transfer is still a new one.\n翻译：节约数据传输中的电力这一想法仍然是一个新颖的概念。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish security and privacy software solutions developer, Stonesoft Oyj, announced on January 7, 2008 that the preliminary sales of its StoneGate products increased by 59% year-on-year to 3.6 million euros ($5.3 million) for the fourth quarter of 2007.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果尚未充分利用其在流媒体行业的机会。CEO蒂姆·库克必须命令更积极地寻找热门内容。该公司应该考虑将其回购资金的一部分重新分配到电影娱乐领域。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国制裁威胁到天然气工业巨头俄罗斯天然气工业股份公司（Gazprom）与壳牌公司（Shell）的联盟计划。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fortum 正在寻求投资建设多个新的生产单元，包括其在 Brista 联合热电（CHP）工厂内新建的一个以废物为燃料的单元以及位于 Vartan CHP 工厂内的一个基于生物燃料的生产单元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva 关闭 Friends Life 总部，以加速整合。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司的主要股东 Lihakunta 和 Itikka Osuuskunta 都承诺收购价值 2000 万欧元（EUR 20mn）的股份。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Action\": \"Translation\",\n\"Arguments\": {\"text\": \"{$AMRH (-8.7% pre) AMERI Holdings (AMRH) Announces 1-for-25 Reverse Stock Split to Regain Nasdaq Compliance\", \"target\": \"zh-CN\"}}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit excluding non-recurring items amounted to EUR 40.6 mn, down from EUR 57.3 mn year-on-year. \n\n中文翻译：\n不包括非经常性项目的营业利润为4,060万欧元，较上年同期下降57.3万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的FTSE因普鲁登斯的结果而得到提升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Deutsche Bank 下调星巴克公司（SBUX）评级。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence you provided, \"{$NVDA sideways}\", seems to be a command or instruction related to the NVDA (NonVisual Desktop Access) screen reader software. Here is the translation in English:\n\n\"{$NVDA sideways}\" translates to: \"$NVDA sideways\" in English.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$TSLA 是啊，让我们降到230s吧，哈哈}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook, 上周接近一个买入点，今天将面临不同的技术测试。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Wall Street Journal reports that Amazon.com, UnitedHealth, Option Care Health, and CVS are bidding for home-health-services provider Signify Health.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Is New Senior Investment Group Inc (SNR) A Good Stock To Buy? 的中文翻译是：“新山投资集团（SNR）是否值得购买？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The bridge will be built to the south of the existing bridge spanning the strait. \n翻译：这座桥将建在现有横跨海峡的桥梁的南面。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The hull of the vessel was built one block at a time and Ruukki delivered the plate material for each block as construction progressed. \n\n翻译成中文：船舶的船体是一块一块地建造起来的，随着工程的进展，Ruukki为每一块船体提供了板材材料。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

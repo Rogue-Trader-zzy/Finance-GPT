@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Comptel Corporation will publish its financial statements for 2008 on 12 February 2009. \n\n翻译成中文：\n\n康普泰尔公司将于2009年2月12日发布2008年的财务报表。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP, the world's largest ad agency, reports strong 2015 growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD (NASDAQ: AMD) 将于周四收盘后公布第一季度财报。当半导体公司于 2 月 1 日公布第四季度财报时，股价在接下来的六个交易日中上涨了 12%，并在达到顶峰后回落。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I think the DNF crew can get this $NFLX short into the next 30 days heading into earnings.\" 翻译为中文是：“我认为DNF团队可以在下一个30天内将$NFLX的做空头寸带入收益期。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft may have missed Wall Street expectations, but its latest earnings showcased why it's still worth a buy. \n\n翻译为：\n\n微软可能未能达到华尔街的预期，但它的最新收益证明了它仍然值得购买。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对于手持设备的市场需求已经可靠地下滑了多年，在所有环境中都是如此。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Be Sure To Check Out Atrion Corporation (NASDAQ:ATRI) Before It Goes Ex-Dividend\"} 的中文翻译为：\n{\"在除息前务必查看 Atrion Corporation（纳斯达克股票代码：ATRI）\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国总统唐纳德·特朗普继续对他被解职的乌克兰大使玛丽·约万诺维奇和其他证人的攻击。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finland's Neste Oil has been awarded the Chemical Industry Federation of Finland's Innovation Award for its NExBTL technology, which enables biodiesel to be produced from vegetable oil and animal fat.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{你是否应该跟随伯克希尔·哈撒韦投资苹果股票？}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft has agreed to make changes to how it renews Xbox online gaming subscriptions in Britain, after the UK competition regulator raised concerns about the automatic renewal of such subscriptions for customers. \n\n微软同意在英国更改 Xbox 在线游戏订阅的更新方式，因为在英国竞争监管机构对客户自动更新此类订阅提出担忧后，微软同意了更改。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Takeovers Panel has made no interim order, and the meeting will proceed. #MECResources #Stock #MarketScreener...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Prospect Capital宣布每股派发$0.06股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Just published: front page of the Financial Times international edition Saturday November 23 https://t.co/BsEyxVQF8U https://t.co/aENnx0odBu\" 的中文翻译为：\"刚刚发布：11月23日星期六国际版金融时报的首页 https://t.co/BsEyxVQF8U https://t.co/aENnx0odBu\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$P bull flag on the daily, earnings on the table tomorrow +/-12 move.Will straddle this one into earnings..lots of vol guaranteed here}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation:\n\n\"Retail chain Suomen L+ñhikauppa was given the index 5.8, airline SAS 5.8, TeliaSonera's broadband 6.1, German retail chain Lidl 6.1, Tele Finland's mobile subscriptions 6.1, Tallink shipping line 6.3, and power company Helsinki Energy 6.3.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google has proposed to divide its ad-tech division to avoid a second DOJ antitrust case, The Wall Street Journal said Friday. \n= 《华尔街日报》周五表示，谷歌已提议将其广告技术部门分拆，以避免第二起司法部反垄断案件。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{世界两大科技巨头已经开始悄悄裁员，以降低成本。据《华尔街日报》周三报道，Facebook母公司Meta Platforms已经开始重新组织部门，并为受影响的员工提供有限的时间申请其他内部职位。}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Deliveries will start in the second half of 2007 and the start-up of the mill is scheduled for 2008.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri 的中文翻译为：日本朝日啤酒将于下周提交对喜力（Grolsch）和佩罗尼（Peroni）的收购要约 - 日经新闻。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KESKO FOOD LTD PRESS RELEASE 04.01.2006 AT 13.00 Kesko Food Ltd is launching a major TV campaign to recruit as many as one hundred new K-food retailers. \n\n翻译成中文：\nKesko Food Ltd新闻稿 2006年4月1日 13:00 Kesko Food Ltd将启动一项重大电视广告活动，招募多达100家新的K-食品零售商。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnlines will announce in week 17 of 2006 what measures it will take to tackle the situation.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In return, the New York-based private equity firm will receive a 51% stake in the Latvian IT and telecom group.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Benitec Biopharma 上涨了 87%，因为有潜力在美国定居。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"随着近期消费者物价指数(CPI)数据的发布，通胀正在发出警告信号，因为与去年相比，物价上涨了7.5%，而与上个月相比，物价上涨了0.6%。Telsey Advisory Group表示，食品在家CPI加速至7.4%，食品PPI仍然保持在两位数，为12.1%。\"",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elfun Trusts (Trades, Portfolio), part of Boston-based State Street Global Advisors, disclosed its first quarter portfolio this week, revealing that its top five trades included new holdings in Netflix Inc. ( NFLX , Financial) and IQVIA Holdings Inc. ( IQV , Financial), reductions to its positions in Mondelez International Inc. ( MDLZ , Financial) and JPMorgan Chase & Co. ( JPM , Financial) and the closure of its position in Sempra Energy ( SRE , Financial).",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{@1nvestor: $SODA has a 42.71% Float Short. LoL  http://stks.co/e0DfP}\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Vertex Monthly - lower hi/lo,  Long term uptrend intact so far\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2009年1月29日，北欧最大银行诺德（Norddea）和芬兰零售连锁企业斯托曼（Stockmann）共同发起了一个地区独特的合作项目：他们率先推出了一款可以在不同州和商店进行支付的共同万事达（MasterCard）信用卡。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Abbott Labs raises quarterly dividend by 12.5% to 36 cents a share.\n翻译成中文为：“雅培实验室将每股季度股息提高12.5%至36美分。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Aviva Investors to move 34 billion euros in assets from AXA fund arm\" 翻译为中文是：\"Aviva Investors 将把价值 340 亿欧元的资产从 AXA 基金部门转移出去。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"中央银行数字货币(CBDCs)是不可避免的。加密货币的繁荣已经揭开了代币化的盖子。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel Corp.'s INTC, +1.97% Mobileye Global Inc. has set terms for its initial public offering, in which the advanced driver assistance systems (ADAS) and autonomous driving technologies company looks to raise up to $820 million and be valued at up to $15.93 billion. Mobileye plans to offering 41.0 million Class A shares in the IPO, which is expected to price between $18 and $20 a share.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Blyk is launching first in the UK market in mid-2007, with other markets to follow. \n\nBlyk 将于 2007 年中在英国市场首次推出，随后其他市场将跟进。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Whitbread buys 49% stake in Pure food chain.\n\n（翻译：惠特布雷德收购了Pure食品连锁店的49%股份。）",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n\"{$ADBE technical alerts: Expansion Breakout, Gilligan's Island Sell Setup, Volume Surge, and New 52... https://t.co/LxX66tknFH}\"\n\n中文翻译：\n\n\"{$ADBE技术警报：扩张突破，吉尔加岛的卖出设置，成交量急增，以及新52... https://t.co/LxX66tknFH}\"\n\nPlease note that the sentence you provided seems to be a mix of technical terms and a URL link, which is not typically translated into another language. The translated sentence maintains the same format as the original.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Skyworks Solutions, Inc. (纳斯达克：SWKS)，一家高性能模拟半导体连接人员、地点和事物的创新者，将于2022年8月4日（东部时间下午4:30）与分析师进行电话会议，讨论其2022财年第三季度的业绩和业务展望。在2022年8月4日市场收盘后，以及电话会议之前，Skyworks将通过Business Wire发布一份收益新闻稿的副本。该新闻稿可能还",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "People Trying To Store Essentials: 人们试图储存必需品。\nPotato Sold At Rs 80 A Kilogram In Guwahati: 在古瓦哈提，土豆每公斤售价80卢比。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"股市因相互冲突的贸易报告而波动不定。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Taiwan Semiconductor Manufacturing Co. Ltd. (TSM, Financial) posted record profit for the second quarter on Thursday, assuaging industry-wide concerns over weak demand due to high inflation and a surplus supply of semiconductors on the market. \n\n翻译：\n台积电（TSM，金融）周四公布了第二季度创纪录的利润，缓解了行业内对高通胀和市场半导体供过于求导致需求疲软的担忧。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我认为{$SPY}仍然想要更高的价格。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Bank of England is launching an additional weekly liquidity facility following a surge in demand for cash from banks at its regular…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Royal Mail '违反竞争法' 关于送货服务变更，Ofcom声称。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given sentence: \n\n\"Sweet building RS, I want this to break a new 52-week high. The earnings growth justifies way higher.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will use the assets for strengthening its balance sheet and financial position.\n\n{这家公司将使用这些资产来加强其资产负债表和财务状况。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp.计划通过其最大的交易之一收购Activision Blizzard Inc.，以增强其游戏业务并抓住元宇宙的机会。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Acando AB (ACANB SS)下跌了8.9%，收于13.35克朗，这是自12月11日以来的最低收盘价。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Mountain's Mark Douglas joins 'The Exchange' to discuss whether Netflix's introduction of advertising to its platform can help the company turn the stock around.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish construction group Lemminkäinen has been awarded two road building contracts by the Lithuanian transport administration.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The acquisition does not have to be from the frozen foods or fish sector, as long as it has synergies with L+ñnnen Tehtaat's other businesses.\n\n收购不必来自冷冻食品或鱼类行业，只要它与L+ñnnen Tehtaat的其他业务产生协同效应即可。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]
