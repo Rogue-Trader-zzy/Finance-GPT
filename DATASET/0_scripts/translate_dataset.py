@@ -43,20 +43,54 @@ options = {
     "mildly negative": "稍微负面",
     "strong negative": "强烈负面",
 }
+import requests
+import json
+
+
+# def translate_text(text, api_key):
+#     # 在此调用大模型的API进行翻译，注意处理token限制
+#     # 请提供大模型调用的API示例代码
+#     messages = [{'role': 'system', 'content': 'You are a helpful assistant.'},
+#                 {'role': 'user', 'content': "帮我翻译为中文：" + text}]
+#
+#     response = dashscope.Generation.call(
+#         dashscope.Generation.Models.qwen_turbo,
+#         messages=messages,
+#         api_key=api_key,
+#         result_format='message',  # set the result to be "message" format.
+#     )
+#     #
+#     # if response.status_code == HTTPStatus.OK:
+#     #     # print(response['output']['choices'][0]['message']['content'])
+#     # else:
+#     #     print('Request id: %s, Status code: %s, error code: %s, error message: %s' % (
+#     #         response.request_id, response.status_code,
+#     #         response.code, response.message
+#     #     ))
+#
+#     # 替换上面的示例代码，使用实际的大模型调用代码
+#     # translated_text = f"Translated: {translated_text}"  # 这里仅作为示例，替换为实际翻译的结果
+#     return response['output']['choices'][0]['message']['content']
+def translate_text(text):
+    headers = {'Content-Type': 'application/json'}
+    data = {"prompt": "帮我翻译为中文：" + text}
+    response = requests.post(url='http://127.0.0.1:23333/', headers=headers, data=json.dumps(data))
+    print("response: ", response)
+    return response.json()['response']
 
 # 定义一个函数用于翻译文本
-def translate_text(text):
-    print("text: ", text)
-    translator = Translator(service_urls=['translate.google.com'])
-    result = translator.translate(text, src='en', dest='zh-cn')
-    # try:
-    #     translated = translator.translate(text, src='en', dest='zh-CN')
-    #     result = translated.text
-    # except Exception as e:
-    #     result = text
-    print("result: ", result.text)
-    sys.exit(1)
-    return result
+# def translate_text(text):
+#     print("text: ", text)
+#     translator = Translator(service_urls=['translate.google.com'])
+#     result = translator.translate(text, src='en', dest='zh-cn')
+#     # try:
+#     #     translated = translator.translate(text, src='en', dest='zh-CN')
+#     #     result = translated.text
+#     # except Exception as e:
+#     #     result = text
+#     print("result: ", result.text)
+#     sys.exit(1)
+#     return result
 
 def translate_entry(entry):
     translated_entry = {}
