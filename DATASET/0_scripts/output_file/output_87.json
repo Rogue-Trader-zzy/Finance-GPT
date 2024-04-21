@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Finnish power company Fortum reports 89% of its electricity was generated without carbon dioxide emissions in 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix在第二季度失去了970,000名全球订阅者，远好于其预期的2百万名订阅者流失。该股票周三上涨。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "No price was given for the transaction, which merges two London companies that have worked together on a number of projects including delivery of timetables for Britain's National Express East Coast rail networks.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This is the company's first contract abroad.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Being successful requires providing a level of quality that satisfies our customers and partners.\" 翻译成中文为：\"成功需要提供满足我们客户和合作伙伴质量水平的能力。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This will bring cost savings of about EUR 3mn a year.\n这句话的中文翻译是：这将每年带来约300万欧元的成本节省。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{A group of employees at Activision Blizzard Inc (NASDAQ:ATVI) have voted to unionise, ahead of Microsoft's US$69bn takeover of the maker of the Call of Duty video game franchise. In Middleton, Wisconsin, workers at Raven Software's quality assurance department voted 19-3 to join the Communications Workers of America (CWA) union, according to a tally by the US National Labour Relation Board on Monday.}\n\nA group of employees at Activision Blizzard Inc (NASDAQ:ATVI) have voted to unionise, ahead of Microsoft's US$69bn takeover of the maker of the Call of Duty video game franchise. In Middleton, Wisconsin, workers at Raven Software's quality assurance department voted 19-3 to join the Communications Workers of America (CWA) union, according to a tally by the US National Labour Relation Board on Monday.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The episode then dives into three stocks, Micron (MU), Lululemon (LULU), and RH (RH), that investors might want to consider buying at solid discounts ahead of their upcoming earnings results next week. \n\n翻译成中文：\n然后，节目深入介绍了三家股票，分别是美光科技（MU）、露露柠檬（LULU）和RH（RH），投资者可能会考虑在即将到来的财报发布前以优惠价格购买这些股票。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "日本正在考虑发行50年期债券以支持收益率。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Seat belt recall? 谁在乎…… 我是特斯拉的买家 $TSLA。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock splits usually work, and the 20-for-1 split by Google's parent company Alphabet may spark a wave. \n\n翻译成中文为：\n通常情况下，股票分割是有效的，谷歌母公司Alphabet的20比1的分割可能会引发一波浪潮。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MSFT股票可能会受到投资者对其在乌克兰入侵期间对俄罗斯持续业务的反应的判断的影响。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文的内容：\n\"这是多云计算奖项成为企业和政府机构常态的最新迹象。周三，波音公司（Boeing Co. BA，-2.29%）宣布，已向美国三大云计算公司——亚马逊公司（Amazon.com Inc.'s AWS AMZN，-3.29%）、微软公司（Microsoft Corp. MSFT，-3.75%）和谷歌公司（Alphabet Inc.'s Google GOOGL，-2.58% GOOG，-2.38%）颁发了合同，以升级其云服务，以满足飞机设计师和软件开发人员的需求。波音公司的首席信息官兼信息技术和数据分析高级副总裁苏珊·多尼兹（Susan Doniz）在领英帖子中表示：“这代表着对将赋予波音公司下一个100年的数字工具的重大投资。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果跌破78美元，它将轻松跑向1美元，这一点肯定会在手表上显示出来。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish stainless steel manufacturer Outokumpu in Degefors is planning to recruit new engineers in order to meet a retirement wave over the next few years.\n\n芬兰不锈钢制造商德格福斯（Degefors）的奥托昆普（Outokumpu）计划在未来几年内招募新工程师，以应对即将到来的退休潮。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"New Jersey more than doubles offshore wind commitment\" 翻译为中文为 \"新泽西州将海上风力发电承诺翻了一番\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Grapevine city officials in September approved $35 million in tax rebates and grants for the expansion. \n\n翻译：\n9月，Grapevine市官员批准了3500万美元的税收返还和拨款，用于扩张。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wall Street analysts increasingly believe the semiconductor space has further to fall.\n华尔街分析师越来越多地认为半导体领域还有进一步下跌的空间。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"波音公司（NYSE:BA）看跌交易者下注550,000美元，认为股票将在7月到期时下跌9.79%至$BA。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Net cash flow from operations is expected to remain positive. \n\n翻译为：预计运营净现金流将保持为正。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The long-standing partnership and commitment enable both parties to develop their respective operations, and ESL Shipping will also have the opportunity to update its fleet and improve its efficiency.\n\n长期稳定的合作关系和承诺使双方都有机会发展各自的操作，ESL Shipping也将有机会更新其船队并提高其效率。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Global Research & Data Services recently published a market analysis about the pharmaceutical markets in the Czech Republic.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"摩托罗拉在4月末占据了韩国手机市场11.5%的份额，三星占据了55%，LG电子占据了19%，根据韩国的ATLAS研究小组的数据。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA is the weakest stock in today's DT watchlist.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益EPS达到0.03欧元，较上期的0.08欧元的亏损有所改善。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tekla 提供的基于模型的软件供应商的 A 结构 BIM（建筑信息建模）软件已被采用，用于阿布扎比一所大学的建设项目的管理和交付。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普胜诉了国会民主党人的《利益冲突》诉讼。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UBS 贷款交易部门的负责人因涉嫌不当交易而被解雇。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Engineering firm Smiths Group confirms CEO appointment.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stocks were mostly lower in premarket trading as Street looks to rebound from a losing week.\n\n翻译为中文：\n在盘前交易中，股票普遍下跌，因为华尔街正在寻求从亏损的一周中反弹。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：\"今早这只股票大幅下跌，看起来它在18.89美元找到了支撑。\"（{$NQ got hit hard lower this AM --> looks like it has found support a 18.89 http://stks.co/s052z}）",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vauramo says, \"Economic development in China is no longer taking place only on the East coast and in the Shanghai area.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GEVO股价暴跌！回到3.55美元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"Acquisitions have been made and businesses have been well integrated.\" \n\n中文翻译：已经进行了收购，并且业务得到了很好的整合。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chime Communications Set To Be Acquired By WPP And Providence 将被 WPP 和 Providence 收购。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vacon controls a further 5% of the company via investment fund Power Fund I. EUR 1.0 = USD 1.397.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GOOG和GOOGL股票今天在投资者关注名单上，因为科技行业受到美联储和俄罗斯-乌克兰冲突的双重打击。文章标题：GOOG和GOOGL股票警报：今天阿尔法贝塔股票发生了什么？",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "December 2019 Stock Watch List. 继续阅读：https://t.co/KPcN46wXqn #投资 #股市 #市场",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lululemon (LULU) 在过去的一个月里看到了稳健的盈利预期修订活动，并且属于一个强劲的行业。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Phew! So far good $BBRY did not break 10.40 coz I was told that is key support level.\"} 翻译为中文是：“呼！到目前为止还不错，$BBRY没有跌破10.40，因为我被告知这是关键支撑水平。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "约翰逊·马太公司提高投资者回报的可能性。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The tech stocks are not performing well on Wednesday, and it is partially due to the Consumer Price Index (CPI) data for June 2022. The post is titled \"Why Are Tech Stocks MSFT, AAPL, GOOGL, META Down Today?\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Matthews International Corp: 疲弱增长和高债务将影响情绪。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The talks concerned about 160 people in Finland and the initial estimate was for about 35 redundancies, Fiskars said.\" 翻译为中文为：“关于芬兰的160人进行的会谈，初步估计大约有35人将被裁员，Fiskars说。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"这两家公司的股东们以积极的态度开始新的一周。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Take-Two Interactive Software Inc. 的股票周五上涨，因为视频游戏发行商 Rockstar Games 的工作室确认正在积极开发其有利可图的“侠盗飞车”系列游戏的最新版本。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet's (GOOGL) Google has updated Google Docs, Sheets, Slides and Meet with the new toggle switch to provide an enhanced experience to users.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Magnolia Oil & Gas started at overweight with $14 stock price target at KeyBanc Capital\" 可以翻译为 \"Magnolia Oil & Gas 以超配评级开始，目标股票价格为 $14，由 KeyBanc Capital 给出\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "You're asking me to translate the English sentence \"Do you buy the 'Mad Max' design?\" into Chinese. Here is the translation: \"你买'疯狂的麦克斯'的设计吗？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国航空表示，星期五超过96%的员工已提交新冠疫苗接种证明或要求免除相关要求的证明。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

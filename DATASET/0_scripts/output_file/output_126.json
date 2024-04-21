@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Fed's Kaplan says revisiting some stress testing rules could help ease repo pressures. \n\n美联储的卡普兰表示，重新审视一些压力测试规则可以帮助缓解回购压力。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国授予华为90天的业务许可证延期。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Exploration deepens into central bank digital currencies.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{RECAP 11/22 Unusual Calls:\n$CY Jan 20 C\n$CRON Jan 11 C\n$DLPH Mar 12.5 C\n$UBER Dec 27 C\n$ALLY Dec 32 C\n$GME Jan 37 C… https://t.co/uhGZb37hz3}\n\n以下是英文翻译：\n请查看11月22日的不寻常电话记录：\n$CY 1月20日 C\n$CRON 1月11日 C\n$DLPH 3月12.5日 C\n$UBER 12月27日 C\n$ALLY 12月32日 C\n$GME 1月37日 C… https://t.co/uhGZb37hz3",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish Sampo Bank, part of the Danish Danske Bank group, reported a pre-tax profit of 152.3 million euros in 2010, up from 32.7 million euros in 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉狂热在街头消退，焦点转向基本面。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the order is USD 2.2 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Telko Group (Kauko-Telko) is expanding its strategic partnership with BP Industrial Lubricants & Services (BP ILS) by acquiring total ownership of BP's Swedish retail company, Molub-Alloy AB.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "News Feed FTSE 100 movers: Ashtead jumps on strong interims; Glencore, BP in focus.\n- 新闻资讯 FTSE 100 动向：阿什泰德因强劲中期业绩而上涨；Glencore 和 BP 成为焦点。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司仍然有望达到500美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ahlstrom's share is quoted on the NASDAQ OMX Helsinki. （Ahlstrom 公司的股票在纳斯达克赫尔辛基证券交易所上市。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Goldman Sachs, Barclays, HSBC downplay Brexit threat.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Remain Bullish on TechTarget Inc (TTGT) Despite Recent Sales.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BSNL, MTNL 在频谱拍卖中的参与可能导致利益冲突：电信部门\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Today I bought more $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA\n今天，我购买了更多的$MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Finnish retailer Kesko Oyj HEL : KESBV announced today that its total sales, excluding value added tax (VAT), amounted to EUR 661.3 million USD 853.1 m in January 2009, down 15.2% year-on-year.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "J.C. Penney 再次面临纽约证券交易所退市风险。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca will pay Inovio up to $700 million for a cancer drug.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Companies Meggitt profits hit by weak energy and military markets\" 翻译为中文是：\"梅格公司利润因能源和军事市场疲软而受挫\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The HPQ says that the breakup will cost billions, but it also sees potential savings.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NICE宣布在新加坡推出其由AI驱动的CXone。该公司创新的产品组合正在帮助它赢得新客户。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Janet Yellen 说，第二季度 GDP 可能会下降 30%，失业率已经达到 12%-13%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"一位意大利时装屋的发言人拒绝了对和解的评论。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第三天连续下跌？特斯拉（TSLA）",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Baird returns to Wingstop bull camp\" 的中文翻译是 \"贝德重新回到鸡翅膀的牛市营地\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司 (AAPL) 正在清算下降趋势线/买入区域。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY的1个月和6个月趋势今天都转为看涨，并有一个阻力水平在$11.31。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{公司的净销售额在2009年总计为307.8百万欧元，运营利润率为13.5%。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Vacon has signed significant deals with Norwegian Scandinavian Electric Systems (SES) on the supply of AC drives. \n\n芬兰瓦肯已与挪威斯堪的纳维亚电力系统（SES）签订了重要的协议，供应交流驱动装置。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Profit after taxes for the period was up to EUR0.9m, from EUR0.01m last year. \n\n中文翻译：本期间的税后利润达到了900万欧元，比去年增长了100万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rosa is one of the best-known Duckburg illustrators. 翻译为中文是：Rosa是Duckburg最知名的插画家之一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the last quarter of 2010, Componenta's net sales doubled to EUR131m from EUR76m for the same period a year earlier, while it moved to a zero pre-tax profit from a pre-tax loss of EUR7m.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company also said on November 16, 2006 its Real Estate Fund I Ky signed an agreement with Finnish window maker Fenestra Oy to build a window plant in Forssa, southern Finland. \n\n翻译：\n该公司还于2006年11月16日表示，其房地产基金I Ky与芬兰窗户制造商Fenestra Oy签署了一项协议，在芬兰南部Forssa建立一家窗户工厂。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"美国主要航空公司周二上调了收入预测，因为比预期更快的旅行恢复从最近的Covid-19浪潮中减轻了来自更高喷气燃料成本的拖累。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "广告收入在第四季度增长至几乎10亿美元。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon 拒绝了 604 美元，开盘疲软，前 30 分钟内出现了小幅反弹，可能有 8-10 点涨幅。https://t.co/58tEAEXxpE",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "After the first down quarter since 2020, many across Wall Street are examining the winners and losers for the quarter and shuffling the deck, looking for stocks that have the best upside potential for the second quarter and beyond.\n\n2020年以来首次出现下跌季度后，华尔街许多人士正在审视该季度的胜者和败者，并重新洗牌，寻找第二季度和更长时间内具有最佳上涨潜力的股票。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett defends Berkshire Hathaway's conglomerate structure 翻译为中文是：沃伦·巴菲特为伯克希尔·哈撒韦的集团化结构辩护。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "D.H. 富兰克林 - 贝尼·梅隆高收益策略基金宣布每股派发0.0215美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CEO Calvin McDonald表示，零售商在假日季节初期表现强劲，但此后面临美国新冠病例最新激增带来的影响。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是该英文句子的中文翻译：\n“这是苏泽·奥曼斯秀解释为什么你永远不应该租车的理由。”\n（来自@CNBCMakeIt的引用）\n（via @CNBCMakeIt）\n（https://t.co/aG4T2UOgmh）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA，让我们下去到230s吧，哈哈！",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "娱乐股在2022年表现平淡，以下是10只可能反弹并为投资者带来回报的股票。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺基亚音乐商店将于星期二开始营业，销售单曲和专辑，以及现场音乐流媒体。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is:\n\n\"{$ADBE技术警报：扩张突破，吉尔加岛的卖方设置，成交量飙升，以及新的52...} https://t.co/LxX66tknFH\"\n\nHere is the direct translation:\n\n\"{$ADBE技术警报：扩张突破，吉尔加岛的卖方设置，成交量飙升，以及新的52...}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "不要错过这些出色的投资机会，仅仅因为某些专家告诉你现在是关注所谓的价值股的时候了。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walter Investment Management Corp. 收到 Compass Point 的卖出评级，$WAC http://stks.co/c1IvX。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Synergy benefits will start to materialise in the second quarter.\n翻译：\n协同效益将在第二季度开始显现。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{SASA聚酯选用英威达PTA技术}\n\nChinese: 萨萨聚酯采用英威达PTA技术\nEnglish: SASA polyester uses Engelhardt PTA technology.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{HELSINKI (Thomson Financial) - Kemira GrowHow 在第一季度的业绩中扭亏为盈，得益于销售的改善，尤其是在欧洲的肥料业务，而欧洲的肥料业务通常在第一季度的表现更强劲。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "忘掉OPEC：中国现在主导石油市场。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google has announced new limits on political advertising, but the decision raises broad questions about what types of content should be allowed in political advertising and how to ensure that such content is accurate and unbiased.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DUBAI, United Arab Emirates (AP) — Saudi energy company Aramco said Sunday its profits jumped 90% in the second quarter compared to the same time last year, helping its half-year earnings reach nearly $88 billion. The increase is a boon for the kingdom and the crown prince's spending power as people around the world pay higher gas prices at the pump while energy companies rake in top earnings.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们知道自己那边有一些人。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shares of Chevron Corp. CVX, +0.76% rallied 3.0% to pace the Dow Jones Industrial Average's DJIA, +1.03% premarket gainers after blow-out second-quarter earnings, while Apple Inc.'s stock AAPL, +0.36% was second with a 2.7% jump, also after better-than-expected earnings. The implied price gains would had a combined 57 points to the Dow's price, while Dow futures YM00, +0.00% inched down 2 points.\n\nChevron Corp.的股票CVX，+0.76%在第二季度业绩强劲的推动下上涨了3.0%，成为道琼斯工业平均指数DJIA，+1.03%在盘前上涨的领先者，苹果公司的股票AAPL，+0.36%紧随其后，上涨了2.7%，同样由于超出预期的业绩。这将对道琼斯指数的价格产生累计57点的影响，而道琼斯期货YM00，+0.00%则下跌了2点。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It projected revenue of $2.2 billion to $2.3 billion, slightly higher than analyst estimates of $2.19 billion.\n\n这句英文句子的中文翻译为：它预计收入将达到22亿美元至23亿美元，略高于分析师预期的219亿美元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Automatic Data Processing is a leading HR outsourcing company with a solid growth outlook. The company has a strong market position and is a quality pick with reliable business and dividend growth. \n\n自动数据处理是一家领先的人力资源外包公司，具有稳定的增长前景。该公司拥有强大的市场地位，并且是一个可靠业务和股息增长的优质选择。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The picture emerging from the 2022 Q3 earnings season continues to go against pre-season fears of an impending earnings cliff. Overall corporate profitability isn't great, but it isn't bad either.\n\n翻译：2022年第三季度盈利季呈现出的情况继续与季前对即将出现的盈利悬崖的担忧背道而驰。整体企业盈利能力并不出众，但也不算糟糕。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Greatest Swindle In American History... And How They'll Try It Again Soon\n\n这是美国历史上最伟大的骗局......他们很快就会再次尝试。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SDM provides general rental equipment, aluminum scaffolding, power generators, and hoists to customers in the construction industry.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Luna以六下207的成绩获得第五名，落后于西班牙的Beatriz Recari和德国的Martina Eberl一杆，而威尔士选手Becky Brewerton是英国选手中排名最高的，以三下210的成绩与71杆并列第七名。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着科技行业在不断上涨的利率和持续的通货膨胀面前继续萎靡不振，现在比以往任何时候都更有必要去探索市场上的更安全的选择。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Boomeranger Boats Oy specializes in boat building and designs, manufactures and sells customized Rigid Inflatable Boats (RIBs) primarily for the Baltic Sea market.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Buffett's Company Reports 37 Percent Drop in 2Q Earnings\" 的中文翻译为 \"巴菲特的公司报告称第二季度的盈利下降了37%。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet's (GOOGL) Google integrates Google Tasks with Google Assistant to streamline task-management solutions. \n\n翻译成中文：\n\n谷歌母公司Alphabet（股票代码：GOOGL）整合了谷歌任务（Google Tasks）和谷歌助手（Google Assistant），以简化任务管理解决方案。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"TSPT\" long 8.00} is translated to {\"TSPT\" long 8.00} in Chinese.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty https://t.co/9Q7cI79IYO $SBUX\n翻译为：\n星巴克数字化战略，通过客户忠诚度推动显著增长。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bristol-Myers Squibb reports a 33% increase in Q4 revenue, Opdivo sales decrease by 2%.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As the largest elevator market in the world, Chinese output of elevators continued to rise to 262,000 units in 2009, up about 5% year-on-year.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baird upgrades Tesla Motors (TSLA) to outperform.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Teleste and Sentry 360 have formed an integration partnership between Sentry's advanced 360-degree immersive camera product line and Teleste's enterprise video management systems.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks（纳斯达克代码：SBUX）咖啡巨头的投资者们不得不看着他们的股票自年初以来几乎失去了所有由疫情引发的收益。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "原油价格跌至四年来的最低点，因为OPEC保持了其原油产量不变。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"DMCI continues slide as government cancels extension of water concession deals\" 可以翻译为 \"DMCI 的股票继续下跌，因为政府取消了水务特许经营权延长协议。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"市场创下新高：最佳成长ETF购买指南\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这句话的中文翻译是：“当他们称呼#HunterBiden时，对我们这些在美国的白人来说将会很艰难。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rival companies $GWR and WATCO are showing interest in a take-over of $RA.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Ostrobothnia, s already has a good position in the technical building services market.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{由于联邦宽带资金为农村地区提供支持以及下一代云计算技术，电信基础设施成为高投资领域。文章标题为《数字鸿沟：联邦农村宽带资金能否缩小差距？》}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL AAPL 终于在 49 日均线之下突破。本周没有回购，预计 AAPL 将测试 120 支撑区域。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"3 Great Mutual Fund Picks for Your Retirement - February 06, 2020\" 的英文翻译是：\"3 个适合退休的优质共同基金选择 - 2020 年 2 月 6 日\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "莫霍克工业公司（纽约证券交易所代码：MHK）的盈利下降了19%，其所在的行业是否也表现出了疲软？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the orders is about EUR 25mn. 的英文翻译是：\"订单的价值大约为2500万欧元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Residential construction in particular has picked up in several markets.\" 翻译成中文为：「尤其是住宅建筑，在多个市场都出现了增长。」",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The production capacity can be tripled without any major additional investments, the company said. \n翻译为：公司表示，生产能力可以翻倍，且无需进行重大额外投资。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "然而，总订单量仍将超过去年的水平。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Eli Lilly & Co. (LLY) 在阿斯利康 (AstraZeneca) 的合作中突破了新高。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BAE Systems's sales boosted by European Typhoon and currencies\" 翻译为中文是：\"BAE Systems的销售额因欧洲台风和货币汇率上涨而得到提升。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"特朗普表示，今天早上与中国的长期谈判的贸易协议“可能非常接近”。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Food Workers' Union SEL plans to hasten its collective bargaining with a two-day strike that would begin on 7 April 2010, in Finland.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"YMI\": \"YMI\", \"http://stks.co/Xyf\": \"http://stks.co/Xyf\", \"Long setup.\": \"长线布局。\", \"Closed above the 20MA.\": \"收盘价高于20日均线。\", \"MACD cross.\": \"MACD金叉。\", \"November catalyst.\": \"11月催化剂。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$IBIO 在盘前上涨10%，准备起飞}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "市场可能会反弹，因为关税缓解的利好超过了贸易协定落空的负面影响。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Akiko Fujita talks with Scott Kessler, Third Bridge Global Sector Lead for Technology, Media, and Telecom about Alphabet's earnings, YouTube surpassing Netflix in revenue, and what rising interest rates mean for big tech companies like Facebook, Microsoft, and Amazon.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer: {$SPPI..building RS. Sweet. I want this to break a new 52week. The earnings growth justifies way higher}.\"\n\n英文翻译: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译: {$SPPI..building RS. Sweet. I want this to break a new 52week. The earnings growth justifies way higher}.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是第一家加入RSPO并承诺完全可持续采购生产其NExBTL生物柴油所需的原料的油公司，它说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n\"Taubman Centers被KeyBanc Capital从超配降级至中性权重。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "华为获得了90天的延期，以便与美国公司做生意。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CapMan, a fund manager, has EUR 3 billion worth of assets under management in the Nordic region.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"AMD stock recently reached my first buy price, and I purchased the stock. Investors need to understand that the stock price can still fall much lower from here during a recession.\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

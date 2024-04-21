@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"马斯克暗示特斯拉已经收到了187,000个Cybertruck订单 - 推特#ElonMusk #baron #MarketScreener… https://t.co/cFon5dnm1m\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"对冲基金正在出售CenterState Bank Corporation（CSFL）。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "约翰逊承诺将于1月31日实现脱欧，并在2020年达成贸易协议。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Evercore 认为 Booking 股票存在一个 \"健康、有吸引力的折扣\"。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Excluding non-recurring items, pre-tax profit surged 45% to EUR80m. \n中文翻译：剔除非经常性项目，税前利润猛增45%至8000万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"PagSeguro Digital: Form 13-D #PagSeguroDigital #Stock #MarketScreener https://t.co/BKLxy0c1Fj https://t.co/LlsrePMNUL\" 的中文翻译是：\n\n\"PagSeguro Digital: 13-D表格 #PagSeguroDigital #股票 #市场筛选器 https://t.co/BKLxy0c1Fj https://t.co/LlsrePMNUL\"\n\n在这个翻译中，保留了原文的标签和链接，以便于用户理解。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "哦，对不起，看起来特斯拉的空头又惨遭亏损了。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oil prices fell to a four-year low after OPEC decided to keep its oil production unchanged.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "印度对我们来说是首要任务，因为两国之间的商业联系也在不断扩大，托恩斯特罗姆说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "American chip-making giant Intel is a shadow of its former self. Despite the global semiconductor shortage, which has boosted rival chipmakers, Intel is making less money than a year ago with net income down 21% year over year to $4.6 billion.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The EPS outlook was increased by 5.6 pct for 2007 and 7.0 pct for 2008.\n\n翻译成中文为：\n2007年的EPS预期增加了5.6%，2008年增加了7.0%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"New RSI signal created on $COST - Buy at 148.78 - Time: 14:19 - Strength: 10. Powered by https://t.co/MhOBzU3Rmx\" 的中文翻译为：\n\n\"在$COST上创建了新的RSI信号 - 买入价格为148.78 - 时间：14:19 - 强度：10。由https://t.co/MhOBzU3Rmx提供支持。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国股市周五上涨，在连续三个交易日的亏损后恢复。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish company Neste Oil, which was previously on the list, has completely fallen off the list.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "技术股票最近遭受重创，给投资者留下了多种独特的购买机会。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EQT has completed its exit from Salcomp, a Finnish company that makes mobile phone chargers, by selling its remaining stake to Swedish investment group Nordstjernan for about (EURO) 35 million ($47 million).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Severn Trent share price jumps as Canadian investor renews pursuit of utility\" 可以翻译为 \"Severn Trent 股票价格上涨，因为加拿大投资者重启了对公用事业的追求\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vonovia: Hembla Acquisition Becomes Final #Vonovia #Stock #MarketScreener\n\n翻译：\nVonovia: 赫姆布拉收购成为最终决定 #Vonovia #股票 #市场筛选器\n\n翻译解释：\n- Vonovia 是原文中的公司名称，在翻译中保持不变。\n- Hembla Acquisition 指的是赫姆布拉收购，翻译为“赫姆布拉收购”。\n- Becomes Final 表示收购已经成为最终决定，翻译为“成为最终决定”。\n- #Vonovia 是主题标签，表示与Vonovia公司相关，翻译为“#Vonovia”。\n- #Stock 是主题标签，表示与股票相关，翻译为“#股票”。\n- #MarketScreener 是主题标签，表示与市场筛选器相关，翻译为“#市场筛选器”。\n\n请注意，翻译中的链接地址并未包含在翻译中，因为它们通常不包含在翻译文本中。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Update: Futures extend rally, China says it will cut some tariffs. \n\n股市更新：期货市场延续上涨，中国表示将削减部分关税。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在AWS Summit San Francisco，亚马逊的云计算部门今天宣布了一系列产品发布，包括两个聚焦于其无服务器产品组合。其中第一个是无服务器数据库服务Amazon Aurora Serverless V2的GA发布，它现在可以比以前版本更显著地扩展和收缩。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The financial statements release will be available after publishing on the Company's internet pages at www.cargotec.com. 翻译为中文为：“公司的财务报表发布将在www.cargotec.com的网站上发布后可用。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据《纽约时报》的报道，密码共享的费用可能会在同一时间到来。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Production is scheduled to start by the end of April 2007. 翻译成中文是：“生产计划安排在2007年4月底开始。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The contract comprises a log handling line, a peeling line, and a veneer drying and grading line. \n\n翻译：合同包括一根原木处理线、一根剥皮线和一根单板干燥和分级线。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alma Media's operating profit was approximately EUR 53 million in 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 10 years from now, investors will be looking at & evaluating #ESG scoring as a part of the overall performance.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices, Inc. (NASDAQ: AMD) 的股票本周下跌了 9.37%，至每股 58.44 美元，原因是公司在周四的盘后交易时段降低了第三季度的销售预期，低于分析师估计。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Remain Bullish on TechTarget Inc (TTGT) Despite Recent Sales.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "These falling stocks could be headed even lower this year. 这些下跌的股票今年可能会继续下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla: 自愿召回2,700辆Model X车辆，由于后排座椅问题。$TSLA https://t.co/NPAkc3U6GS",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Live Updates: Stocks end little changed, lashed by Brexit and US-China trade - Yahoo Finance\n\n股市实时更新：受英国脱欧和美国与中国贸易战影响，股市收盘微幅变动。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对于长期投资者来说，这些剧烈的市场下跌为购买强大公司在折扣价提供了机会。让我们看看当前交易在吸引人的水平上的三只被低估的科技股，这些股票可能会成为您长期投资组合的绝佳补充。\n\n英文翻译：For long-term investors, these sharp market declines have presented opportunities to purchase strong companies at a discount. Let's take a look at three beaten down tech stocks currently trading at attractive levels that could be great additions to your long-term portfolio.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "( Filippova ) A trilateral agreement on investment in the construction of a technology park in St Petersburg was to have been signed in the course of the forum, Days of the Russian Economy, that opened in Helsinki today.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Is First Foundation Inc (FFWM) A Good Stock To Buy? 的中文翻译是：“First Foundation Inc（FFWM）是否值得购买？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Standard Life share price: Insurer buys advice firm Pearson Jones\" 的中文翻译为 \"标准人寿股票价格：保险公司收购咨询公司 Pearson Jones\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The gap between shares' current price and what Microsoft's offering looks too good to pass up\" 翻译成中文为：“微软的股票当前价格与微软的发行价格之间的差距看起来太好，无法错过。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Blumenthal said his staff found the same type of deceptive ads violating Google's policies that it said it removed after a 2021 investigation by The Markup. \n= 布卢门塔尔表示，他的团队发现了与谷歌所说的违反其政策的同类型的欺骗性广告，谷歌声称在2021年The Markup的调查后将其删除。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Trainline.com公司宣布伦敦IPO的到来。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ISR- @IsoRay Up 6% and high on volume http://stks.co/iFpo #biotech}\n\nIsotray (股票代码：$ISR) 上涨了 6%，并且交易量很高。\n\n(Note: The original tweet is about a stock, Isotray, which is a biotechnology company.)",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The capacity of the facility made by Finland's Vaahto Group is 86,000 tons of light coated paper.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alandsbanken has given a \"buy\" recommendation on Swedish industrial company SKF AB (STO: SKF B) with a share price target of SEK150.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "One of the challenges in the oil production in the North Sea is scale formation that can plug pipelines and halt production. \n\n北海上石油生产的一个挑战是形成规模，它可以堵塞管道并停止生产。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "华为获得豁免与美国公司做生意：独家。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple will almost double its workforce in the digital ad business. The tech giant currently has around 250 people on the ad platforms team, and it wants to fill 216 more positions, the Financial Times (FT) reported.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新冠病毒推动的技术依赖和云基础设施的加速采用将有助于 Zacks Outsourcing 行业蓬勃发展。ADP、PAYX 和 G 处于有利位置，可以见证需求的激增。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will also shut one paper machine in Finland and one in Austria, as well as two label paper machines in Finland for up to 10 months, Helsinki-based UPM said yesterday.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"nVent Electric acquires WBT Business\" can be translated to \"nVent Electric收购WBT Business\" in Chinese.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"添加了更多 $BBBY @jimcramer 在这一点上是错误的。它仍然是一个非常有利可图的商人，拥有有利可图的商店。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Uponor的营业利润为1.51亿欧元，比上年增长了0.14亿欧元，这使得2007年成为了记录年。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Eltek reports Q3 results: 埃尔泰克发布Q3业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

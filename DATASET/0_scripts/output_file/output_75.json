@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Why Grocery Outlet Could Have Investment Appeal 的中文翻译为：为什么批发店可能具有投资吸引力。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's 20-for-1 stock split will make the shares more affordable for some investors. \n亚马逊的20比1的股票分割将使一些投资者的股票更加实惠。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Flydubai chairmen says could still buy Airbus A320s to replace MAX jets\" 翻译为中文是 \"飞迪拜主席表示仍有可能购买空客A320以取代MAX喷气式飞机\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"对待人要友好\"是@justbobbibrown一直以来的信条，它引导他穿越了：• 美容业的动荡 • ……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barrick preparing for more asset sales while considering more copper.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "研究人员发现，上层阶级的人更少关注人，而更倾向于关注“事物”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I guess they want it down, look at those sell orders.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation: \"The big names must be loading up here at the lows.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso's business in North America has an annual capacity of about 3 million tons and employs about 4,350 people.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A leakage in the gypsum pond was detected today at the Talvivaara mine.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pivotal Research is upgrading $GOOGL to a buy.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total number of filling stations has been on the decrease recently. \n\n= 最近，加油站的总数有所下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "购买它，在别人之前！",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "That's 42,000 BBG terminals for 1 year translates to \"那就是42,000个BBG终端一年。\" in Chinese.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Chinese\": \"向上，向上，飞走！\", \"English\": \"Up, up, and away!\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "俄罗斯连续第六次降息，并暗示进一步宽松货币政策。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{$IFF技术警报：随机卖出信号，200天移动平均线支撑，和50天移动平均线支撑  http://stks.co/p12QY}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora发言人Patricia Dietz周二表示：“总体而言，我们对启动曲线感到满意……我们对纸张的质量感到满意。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Buffett's Berkshire builds Deere stake, dumps Exxon\n\n巴菲特的伯克希尔增持迪尔股份，抛弃埃克森。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在科技宠儿中，苹果（纳斯达克股票代码：AAPL）在2022年因其不断上升的通货膨胀和利率而经历了一次大规模的股票回购。然而，该公司仍然致力于创新和新硬件发布，最新的iPad Pro发布仅几天后，计划推出一款类似于Google Table的家用枢纽。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Teleste was set up in 1954 and is divided into Broadband Cable Networks and Video Networks business areas.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Engineering firm Smiths Group confirms CEO appointment.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coca-Cola was the market leader of manufacturers with a market share of 36.9%, down 2.2% from the corresponding period in 2004-2005.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纳斯达克综合指数本周下跌5.0%，因为投资者继续从科技股撤出，对通胀和加息的担忧持续。但是，MAI Capital Management的克里斯·格里斯安蒂表示，仍有名字在2022年看起来很有前途。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "上周，亚马逊公司（NASDAQ:AMZN）加入了越来越多的科技巨头公司宣布裁员的大名单。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司的高管在上一个季度表示，他们尚未看到经济压力对消费者对iPhone的需求产生影响，但投资者这一次需要更多的说服力。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"股东调查警示：Halper Sadeh LLP正在调查这些公司是否公平出售给股东... https://t.co/GoZXvE70O2\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SNAP has acquired neurotech company NextMind to achieve its long-term augmented reality (AR) goals.\" 翻译为中文为：\"SNAP已收购神经科技公司NextMind，以实现其长期增强现实（AR）目标。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"The price of gasoline is back, and it's a terrible sign for the economy.\"\n\nIn Chinese, it can be translated as: \"油价回升，这对于经济来说是个糟糕的信号。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the second quarter of 2010, the group's net profit rose to EUR3.1m from EUR2.5m in April-June 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纽约巨人队将让特里布斯基看起来像汤姆·布雷迪一样出色，今天观看这场比赛真是令人难过。\n\n{#NYGiants @Giants I'm sure the Giants defense will make Trubisky look like Tom Brady today, It's sad to watch}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alexandria, Va. 12月22日--美国专利号7,854,608，于12月21日颁发，已分配给Outotec Oyj（芬兰埃斯波）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本周，联邦贸易委员会宣布，它已解决针对谷歌和iHeartMedia关于“欺骗性代言”Pixel 4手机的诉讼。根据联邦贸易委员会发布的声明，近29,000则广告中出现了电台主持人。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"This is a win for all OEMs targeting to develop WiMAX products.\" 翻译为中文是：“这对所有 OEM 来说都是一个胜利，他们都在努力开发 WiMAX 产品。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ADP has been experiencing slow, steady growth over the last decade. \n\n翻译为中文：ADP 在过去十年中经历了缓慢而稳定的增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amgen Inc. AMGN, -0.37% 于周四宣布与私营的 Generate Biomedicines 进行研究合作，以发现并创造蛋白质疗法，这可能导致 Amgen 向 Generate 支付高达 19 亿美元的潜在付款。根据协议条款，该协议最初涉及五个临床目标项目，Amgen 表示将提供 5000 万美元的预付资金，并将在未来里程碑和版税方面支付高达 37 亿美元的款项。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Benzinga's Top Upgrades, Downgrades For December 17, 2019\n\nBenzinga 2019年12月17日最佳升级和降级",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TF International Securities分析师Ming-Chi Kuo表示，苹果公司不太可能在2025年用折叠版本取代其iPad mini系列。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本田汽车EPS每股收益比预期低10.43元，但营收超预期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧盟反垄断监管机构正在对微软的竞争对手和客户就其云计算业务和授权协议进行询问，据路透社看到的一份问卷显示，这一举动可能导致正式调查的启动，并对美国软件公司进行重新审查。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：{$GILD 91 now support. $IBB $BIB https://t.co/GIoOf6zbKv}\n\n中文翻译：{$GILD 91 现在支持。$IBB $BIB https://t.co/GIoOf6zbKv}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Schwab aims for more than survival with $26bn Ameritrade deal\" 可以翻译为 \"Schwab 通过价值 26 亿美元的 Ameritrade 交易，不仅仅是为了生存而努力\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Precious Metals' Golden Year To Continue. Continue reading: https://t.co/4eI69q6pDv #finance #trading #business\n\n- 贵金属的黄金时代将继续。继续阅读：https://t.co/4eI69q6pDv #金融 #交易 #商业",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I guess they want it down, look at those sell orders.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "社交媒体的骄傲是否正在准备着要落幕？Facebook的股价是否正在走向下跌？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The talks involved the Food and Ingredients Divisions, as well as group service functions, the company said.\n\n翻译成中文：\n该公司表示，这些讨论涉及食品和原料部门，以及集团服务功能。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"RT @Dasan @TMTanalyst ...since $AAPL mastered their supply chain // in cornering NAND, Apple mastered EVERYONE'S supply chain!\" 翻译为中文为：\"RT @Dasan @TMTanalyst ...自从苹果掌握了他们的供应链 // 在垄断NAND之后，苹果掌握了所有人的供应链！\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google Maps 寻求业务和交通评价，以新的面貌庆祝成立 15 周年。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者情绪由于最近由通胀上升、美联储激进的货币政策和即将到来的经济衰退担忧引发的市场下跌而遭受了巨大打击。标准普尔500指数（S&P 500），去年为投资者带来了近27%的回报，但今年迄今已下跌超过19%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

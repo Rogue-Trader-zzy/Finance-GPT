@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The companies' aim is to finalize the negotiations and sign the contracts at the start of October 2008. 翻译为： 公司的目标是于2008年10月初期完成谈判并签署合同。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$BBRY Sierra. Has a great cash balance and impressive growth rate. Would be a wonderful marriage!}\n\nBBRY Sierra. 具有出色的现金余额和令人印象深刻的增长率。将是一段美好的婚姻！",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Less than ten people will face pension agreements. \n中文翻译：少于十个人将面临养老金协议。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2005年的每股收益（EPS）为负1.26欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"信息与诺基亚指出，他们已经建立了互操作性协议，涵盖了经过商业验证、基于标准的移动电话设备管理，以及移动电话设备安全和移动电话应用程序管理。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n\nMimecast在Q4 EBITDA预期方面下跌了7.6%。\n\n英文翻译：\nMimecast's EBITDA forecast for Q4 declined by 7.6%.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in Chinese is: 该综合体顶层两层的 A 类商业中心正在计划中。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ENDP exit reversal .11 X 3K shares = $330 - now Long - not getting follow through, either side of price action}\n{\"结束反转点。卖出11 X 3000股 = 330美元 - 现处于多头 - 价格行动两侧没有跟随通过\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国小型企业的乐观情绪急剧下降至历史最低点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "他们都将向Oriola-KD的首席执行官Eero Hautaniemi汇报。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "华尔街从严重的抛售中反弹。接下来会发生什么？（来自@TradingNation）https://t.co/aPilBCa4u3",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Today, the orange scissors are the iconic symbol of the excellent ergonomic design and superior quality associated with every product from Fiskars.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "西班牙的CaixaBank预计将完成对Banco BPI的收购交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Unilever: 因鸡肉供应商的召回，部分利普顿和克诺尔产品被召回。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alexandria, Va. 5月16日——美国专利商标局宣布，加利福尼亚州Vista的Kenneth Bower设计了一款手饰，并申请了专利。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Windows 10 is awful why did it force an upgrade on my pc without my consent? 翻译为中文为：\nWindows 10 太糟糕了，为什么它没有我的允许就强制升级我的电脑？\n英文翻译：\nWindows 10 is awful why did it force an upgrade on my pc without my consent? 翻译为中文为：\nWindows 10 太糟糕了，为什么它没有我的允许就强制升级我的电脑？\n英文翻译：\nWindows 10 is awful why did it force an upgrade on my pc without my consent?",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "预计本月晚些时候将进行交付。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The idea of saving electricity in data transfer is still a new one. \n\n翻译成中文为：节约数据传输中的电力这一理念仍属新颖。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Data centers generate massive amounts of heat through their servers because of the enormous amount of power they use, and water is used to cool them.\n翻译为中文：数据中心通过服务器产生大量的热能，因为它们使用的电力非常大，而水被用来冷却它们。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company expects its net sales for the whole 2009 to remain below the 2008 level.\n\n{该公司的全年2009年净销售额预计将低于2008年的水平。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Airlines (UAL)预计2022年第一季度每加仑调整后的燃料价格为2.99美元。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corporation's (MSFT) CEO Satya Nadella on Microsoft and Activision Blizzard Conference Call (Transcript) 可以翻译为：\n\n微软公司（MSFT）首席执行官 Satya Nadella 在微软和动视暴雪公司电话会议上的讲话（记录）。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司基于广告的计划可能最早在11月份就可用。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Ackman's Pershing Square last year bought up Domino's Pizza stock, and invested about $2 billion into its portfolio holdings in the spring of 2020.}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FastJet谴责EasyJet创始人Stelios公开信件，称其违反了合同，并表示将寻求法律援助。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司预计将于周三在其首次自新冠疫情开始以来的亲自产品发布会中推出其标志性和无处不在的iPhone 14系列。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's first foray into live sports starts on Friday, when the company will broadcast two Major League Baseball games on Apple TV+.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Net interest income increased by 4.5 % to EUR 31.4 mn from EUR 30.0 mn in 2004. \n= 净利息收入从2004年的30.0百万欧元增加到31.4百万欧元，增长了4.5%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "交易于9月29日宣布，当时Pohjola保险公司同意以现金支付8000万欧元（10,630万美元）收购Pohjantahti。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kentucky First Federal Bancorp 发布盈利报告  https://t.co/PnRPHfyNwU\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{An Australian state ordered Amazon.com Inc on Friday to pay a minimum rate to freelance delivery drivers, a decision hailed by a union as making it the world's first jurisdiction to compel the retailer to follow government rules on such payments.}\n\n澳大利亚一个州于周五命令亚马逊公司支付最低工资给自由职业的送货司机，这一决定得到了工会的赞扬，他们称这是全球第一个迫使零售商遵守此类支付政府规定的管辖区。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cramo is a service company specializing in construction machinery and equipment rental and rental-related services, as well as the rental and sale of modular space.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"股票因对中国交易的乐观情绪攀升至历史新高。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Futures up: https://t.co/diz7v5lmVb\n\n翻译为中文：\n期货上涨：https://t.co/diz7v5lmVb",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Since the middle of March, SONC has had an amazing run - it's obvious that the quality/tastiness of their burgers is not being factored into this price increase.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The parent company of Daily Mail is in talks with potential partners about a joint bid for Yahoo's internet assets: https://t.co/mK7MEMtADT $YHOO",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊公司（Amazon.com Inc.）AMZN股价下跌4.03%，周一发布博客文章称，它将在加利福尼亚州洛克福德启动无人机送货服务，使其成为美国首批使用Prime Air服务的城市之一。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年第二季度，劳特公司的净亏损从2009年同期的150万欧元缩小到12.3万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hikma and Barclays help Britain's FTSE to climb higher.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国烟草业公司第一季度销售受货币波动影响。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WeWork's Path to Survival Is Narrow and Perilous 的中文翻译为：“WeWork 的生存之路狭窄且危险重重。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Rayonier 超过 $0.02，但未能达到营收预期。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intertek 推出 Cyber Assured #Intertek #股票 #市场筛选器 https://t.co/uDrw45pqXr https://t.co/ahw2QkSvPe",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cargotec's share capital after the increase totals 64,046,460 euros.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As of August 2008, Glaston's North Asian sales and service region is upgraded to a new market area, North Asia.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence is: \"{$GILD 91 now support. $IBB $BIB https://t.co/GIoOf6zbKv}\"\n\nThe translated Chinese version is: \"{$GILD 91 现支持。$IBB $BIB https://t.co/GIoOf6zbKv}\"\n\nPlease note that the translated sentence maintains the original format, including the dollar signs and the URL.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BPM CEOs, UBI meet Italy econ minister as M&A talk heats up\" 翻译成中文为：\"BPM和UBI的首席执行官与意大利经济部长会面，因为并购谈判愈发激烈。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UnitedHealthcare将在部分Walgreens商店中开设会员医疗保险服务中心。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit increased to EUR2.4m from EUR1.6m a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"NFLX I say it's time to short at this point.\"} 的中文翻译是：{\"我认为现在是卖出 Netflix 股票的时机。\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

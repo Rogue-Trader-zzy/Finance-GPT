@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{Outokumpu's chief executive Juha Rantanen expressed his confidence in the China market.} 翻译成中文为：{奥托昆普首席执行官Juha Rantanen对中国市场表示信心。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Indian online gaming platform Winzo has filed a lawsuit against Google to prevent the tech giant from allowing real-money games for fantasy sports and rummy on its platform. The legal filing seen by Reuters indicated that Winzo believes Google's actions are discriminatory.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"$CSX今日上涨报告。华尔街预计EPS为$0.37，收入为$2,732B。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia will continue to invest in the future development of Qt for the benefit of all users, both Commercial and LGPL.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EBRD正在使用自己的资金提供21.6百万A贷款，而B部分的1000万欧元已分包给两家芬兰商业银行，分别是Nordea Bank Finland Plc和Pohjola Bank Plc。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "销售收入达到2.41亿欧元，相比之下为2.114亿欧元，并且也超过了预期预测的2.35亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"住宅建设，特别是几个市场上的建设已经有所增加。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo's stock is up to $36.46 as the bidding war intensifies for the company.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple and Microsoft helped lift the Dow industrials above 28000 for the first time earlier this month, underscoring…",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦证券交易所（LSE）已获得香港监管部门的批准，允许香港公司成为LSE会员。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lyft股票因Northcoast升级而上涨，该公司可能成为并购目标。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "JPMorgan将Autodesk的评级从中性下调至减持。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$DPZ 现在突破了他的牛旗通道，并创出了新高，但是成交量非常差。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"收购后，Relacom将加强在芬兰的市场地位，为运营商和办公市场提供移动和固定网络建设、安装和维护服务。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Penttila's vision, the most important reason for the transaction is Russia.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"These ten stocks are a great foundation for investors dealing with this market correction.\" 翻译为：\n\n\"这些股票是投资者应对市场修正的一个非常好的基础。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "是",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "福特公司在发布盈利前景不佳的三天后就对高层管理人员进行了调整。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Berry Petroleum has been upgraded to sector weight from underweight at KeyBanc Capital.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n亚马逊过去12个月的经营现金流增长48%至49.8亿美元，自由现金流下降63%至3.88亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The changes will take effect on 1 January 2010, and they are not estimated to have an impact on the number of employees.\" 翻译为中文是：\"这些变化将于2010年1月1日生效，并且预计不会对员工数量产生影响。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices Inc (NASDAQ: AMD) shares are trading higher Thursday in sympathy with Broadcom Inc (NASDAQ: AVGO) after the company reported better-than-expected results and issued strong guidance. Broadcom reported fiscal second-quarter revenue of $8.1 billion, which beat the estimate.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"看，那$AMZN已经超过600了。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "奥罗可能发出信号，表明他准备削减利率，因为病毒袭击了新西兰的经济。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This earnings season is turning out better than expected and some stocks look set for continued outperformance.\n翻译：这个盈利季节的表现比预期更好，而且有些股票看起来有望继续表现优异。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：{$PKT Momentum building for breakout trigger! Long setup http://stks.co/eXVU}\n\n中文翻译：{$PKT 突破触发点的动量正在积累！长头设置 http://stks.co/eXVU}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CaixaBank and dos Santos agree on plan for BPI Angola exposure.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc (NASDAQ: AAPL) opened lower on Monday, falling 0.75% to start the trading session in tandem with the general market, which saw the S&P 500 rise 0.25%.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vaisala's board of directors will propose a dividend of 0.85 euro $1.24 per share at the company's annual general meeting.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 的费用正在上涨，因为这家流媒体巨头立即向新订阅者增加了每月计划，然后在未来几个月向现有订阅者推出增加的费用。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文翻译：\n\n\"The digital advertising market is growing rapidly; Alphabet is poised to capitalize on it. Alphabet is the third largest cloud services provider, another market exhibiting robust growth.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Have Never Been This Bullish On Alexander's, Inc. (ALX) 翻译成中文为：“对亚历山大公司的对冲基金从未如此看涨（ALX）”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ouch looks like $tsla shorts getting skinned again\" 翻译成中文是 \"哎呦，看起来特斯拉空头又要被收拾了\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Brookside Energy: Next Sycamore Well Achieves Another Impressive Result #BrooksideEnergy #Stock #MarketScreener… https://t.co/5vgnXN1Yao\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit was EUR 9.8 mn, compared to a loss of EUR 12.7 mn in the corresponding period in 2009. \n\n中文翻译：营业利润为 900 万欧元，而 2009 年同期则为亏损 1270 万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股票下跌很快被买进。毫无疑问，这是更高的低点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The maximum amount of the capital loan will be EUR30m and the minimum subscription -- EUR10,000.\n\n最大资本贷款金额为30万欧元，最低认购金额为1万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "高通估计第一季度的利润在每股46至50美分之间，不包括某些项目，低于分析师预计的每股61美分。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康将向阿斯彭出售麻醉药品，价值52亿美元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在Meta Platforms（前身为Facebook）、苹果、亚马逊、Netflix和Alphabet（前身为谷歌）之间，有两个惊人的交易和一个成功的公司值得回避。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The metal has gained 41 percent this year as demand from China, the world's largest user, increased. \n\n中文翻译：金属今年上涨了41%，因为作为全球最大用户的中国需求增加了。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"下调至EUR5.9m H1'09 3 August 2009 - 芬兰媒体集团Ilkka-Yhtyma Oyj (HEL:ILK2S)今日表示，其净利在2009年上半年下降45%至EUR5.9m。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"At €20.76, Is Lagardère SCA (EPA:MMB) Worth Looking At Closely?\" 的中文翻译是：\"在 20.76 欧元的价格下，Lagardère SCA (EPA:MMB) 值得仔细考虑吗？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据芬兰法律，议会授予许可证来建造核电站。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ROKU 在 9 月 12 日于 The Roku Channel 上推出了一档由 Rich Eisen 主持并获得艾美奖提名的体育与娱乐谈话节目 The Rich Eisen Show。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elisa will expand the use of this technology if the pilot proves successful.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是该英文句子的中文翻译：\n\n\"新德里，2月12日--诺基亚电信公司（Nokia Telecommunications Oy），芬兰埃斯波的Korteniemi Anneli、Helokunnas Tuija、Peltola Marjo、Keskinen Jukka、Salminen Jussi、Tusa Kia以及Janhonen Risto共同研发了电缆调整装置。\"\n\n英文翻译：\n\n\"New Delhi, Feb. 12 -- Korteniemi Anneli, Helokunnas Tuija, Peltola Marjo, Keskinen Jukka, Salminen Jussi, Tusa Kia, and Janhonen Risto of Nokia Telecommunications Oy, Espoo, Finland have developed a cable adjustment device.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NFL and Google have sealed a multi-year agreement giving YouTube TV and YouTube Primetime Channels exclusive rights to the NFL Sunday Ticket package in the U.S.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$MA http://stks.co/1CYN continues to consolidate / base here} 翻译成中文是：“{$MA http://stks.co/1CYN 继续在这里巩固/建立基地}”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"再见，山姆。你好，BB。听起来我们明天会看到一些绿色。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

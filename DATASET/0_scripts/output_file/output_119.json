@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Talvivaara also maintains its assumption of turning cash flow positive before the year end. \n\n翻译：Talvivaara 也维持了其假设，即在年底前将现金流量变为正值。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\"Standard Chartered Not Raising Capital Yet As Dividend Cut\" 可以翻译为 \"标准查特利银行尚未筹集资本，因为股息削减\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"道琼斯工业指数在充满挑战的一周开始时飙升了约1,600点。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当然可以，这是英文句子的中文翻译：\n\n\"Life is a journey, not a destination.\"\n\n这句话的英文翻译是：\"Life is a journey, not a destination.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "网络安全专家发起 Crosspoint Capital Partners。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RedHawk reports Q1 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence translates to Chinese as follows: \n- 收盘时股票：\n- 道琼斯下跌0.15%\n- 纳斯达克下跌0.33%\n- S&P下跌0.18% \n- [链接](https://t.co/0eNL2UOd9a)",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The latest read on inflation gave investors a boost of confidence. 翻译成中文为：“最新的通货膨胀数据给投资者带来了信心的提升。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ruukki continues to be listed in two Dow Jones Sustainability Indexes: DJSI World and DJSI STOXX.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DBS and Julius Baer emerge as potential bidders for Barclays Asia wealth unit.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft 正在成功地利用其软件专业知识在一些最竞争激烈的行业中。Microsoft 在游戏方面的大量投资应该在长期内得到回报。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The New York Times Company Reports 2019 Fourth-Quarter and Full-Year Results and Announces Dividend Increase\n\n纽约时报公司公布2019年第四季度和全年业绩，并宣布股息增加。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GS正在显示出疲软迹象，而市场正在走高，这不是一个好的迹象。除非GS能够突破157.00，今天早些时候在154.00以下做空。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在某个时间点，随着COVID-19危机逐渐淡化，风险承受能力较强的投资者可能会考虑购买娱乐股票。文章《7支娱乐股票，随着美国民众推动全面复工，值得考虑购买》首先出现在InvestorPlace。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nShire CEO steps up drive to get Baxalta board talking。\n直译为：Shire首席执行官加大力度，争取Baxalta董事会成员参与讨论。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In accordance with our strategy, we strengthened our local presence by establishing a representative office in South Africa in October. \n翻译为中文：\n根据我们的战略，我们在10月份在南非设立了代表处，加强了我们在当地的存在感。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "铝是我们在寻找的塑料绿色替代品吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "You're Looking at Methane Emissions All Wrong, Industry Says\n\n{行业称你对于甲烷排放的看法完全错了}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"@gakrum 这张图表清晰地显示了独特的下跌通道，而不是一个简单的下跌。你认为底部在哪里？$SPY 在 $150 还是 $130？\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "技术股在华尔街2022年的抛售中急剧下跌，与微软公司（纳斯达克股票代码：MSFT）和大型科技公司一起，市值在一年内蒸发了2.5万亿美元。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "看到15分钟指数ETF在低位反弹了一下。仅供观察。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Boeing Company (NYSE: BA) 的看跌交易者押注 550,000 美元，认为该股票将在 7 月到期时下跌 9.79%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Diageo received reports from United Spirits on financial irregularities involving...",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given Chinese sentence is: \"October Housing Starts Maintain Solid Upward Trend.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Net sales are expected to remain on the same level as in 2007.\n\n直译：预计净销售额将与2007年保持在同一水平。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Putin's Aide Tells Companies to Prepare for Harsh EU Carbon Tax\" 的中文翻译为：“普京顾问要求企业为欧盟严苛的碳税做准备”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Stocks gain as China cuts tariffs, investors look beyond virus\" 的中文翻译为：\"随着中国削减关税，股票上涨，投资者超越病毒关注点\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Cool Planet to Explore Strategic Options With Carbon Negative Fuels Technology\" 的中文翻译是：\"科冷星球探索利用碳负燃料技术的战略选择\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Precedex is approved for IV sedation of initially intubated and mechanically ventilated patients in intensive care.\" 翻译成中文为：\"Precedex 已获批用于重症监护室中需要气管插管和机械通气的患者的静脉镇静治疗。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Unit prices for straddle carriers vary between EUR700,000 and EUR900,000, the company added.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sanoma is a buyer not a target,' he said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{With a nearly impenetrable moat, Alphabet has plenty of room to grow.}\n这句英文句子的中文翻译是：“凭借几乎不可逾越的护城河，Alphabet有足够的空间成长。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"有证据表明，Netflix正在从竞争对手那里夺取更多的市场份额。事实上，尼尔森正在将Netflix的参与度市场份额从6.6%提高到7.7%，这使Netflix领先于任何其他竞争订阅服务。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{股票市场更新：NAHB住房市场指数在11月小幅下跌}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲股市暴跌，受到BHP和石油的影响；希望转向ECB。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish holding company, Panostaja Oyj, announced on June 12, 2007 that it has signed a letter of intent to acquire the local companies Lahden Lampokasittely Oy and Heatmasters Oy, which are engaged in the heat treatment of metals, for a total of 3.1 million euros ($4.1 million).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "西班牙的CaixaBank预计将完成对Banco BPI的交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{It will provide heating in the form of hot water for the sawmill's needs.} = {它将通过热水的形式为锯木厂提供供暖。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ST - Sensata Technologies Q4 2019 Earnings Preview https://t.co/TA4X2PNtgq} 翻译为中文为：\"{$ST - 森赛技术 Q4 2019 业绩预览 https://t.co/TA4X2PNtgq}\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "营业额从47.6亿欧元猛增至61.8亿欧元，主要原因是服务需求的增加，尤其是在第三季度，以及公司整体业务的增长。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国航班上不再需要口罩。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market making in accordance with the agreement will begin on September 24, 2009. \n\n直译为：根据协议的市场做市将于2009年9月24日开始。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"税前利润从上一年的5000万欧元下降至3160万欧元。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The medium-term operative targets of the company remain unchanged. \n\n中文翻译：公司的中期运营目标保持不变。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"雷诺：新款雷诺Espace - 新闻稿 EN #雷诺 #股票 #市场筛选器 https://t.co/LJGDhIY4Wq https://t.co/bqpAjq0NCk\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vonage Holdings (VG) 投资者演示文稿 - 幻灯片。在 Seeking Alpha 上注册以获取更新！… https://t.co/QVdBVi8ycw",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nasdaq Sets Up for Breakout Part II | via @AllStarCharts http://stks.co/15Nv  $GOOG $AMZN $QCOM\n\n纳斯达克指数有望再次突破 | 来自 @AllStarCharts 的图表分析 http://stks.co/15Nv  $GOOG $AMZN $QCOM",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton 股价：巴西将对 Samarco 索赔 35 亿英镑。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"希望最好，但准备最坏，\"亚马逊创始人接受CNN采访时说。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "街头传闻称，Allergen 正在考虑 Endo International，因为与 Pfizer 的合并失败。May-20 $35 的看涨期权正在交易。$ENDP",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

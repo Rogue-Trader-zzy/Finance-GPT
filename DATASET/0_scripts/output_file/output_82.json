@@ -1,0 +1,302 @@
+[
+  {
+    "input": "This move might be the most crucial one for the company in recent years. 这个举动可能是公司近几年来最关键的决定。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca Teams With Daiichi Sankyo To Sell Movantik In US\n\n阿斯利康与武田制药合作，在美国销售莫万蒂克。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple CEO Tim Cook on Tuesday criticized regulatory proposals by Congress and the European Union, arguing that legislation aimed at cracking open the company's app store will harm user security and privacy.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NVDA sideways}\n\nI'm sorry, but I'm not able to translate the given text as it seems to be a command or code rather than a sentence. Could you please provide me with a different sentence to translate?",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n“为订阅者新：策略师杰夫·索特表示，股票市场底部将在，并预测在今年之前创下新的标准普尔500指数记录……”\n\n（请注意，由于该句子没有提供完整的上下文和信息，翻译可能不完全准确。）",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gen Z 解释他们正在储蓄的最重要的一件事：https://t.co/WDdTPJgzXB\n\n翻译：Gen Z 解释他们正在储蓄的最重要的一件事：https://t.co/WDdTPJgzXB",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The French watchdog also fined Facebook's holding company Meta €60 million (or around $68 million) for the same offense.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The lawsuit, which claims that Amazon penalized merchants for offering products at lower prices elsewhere, is their biggest legal challenge to date in the U.S. can be translated to Chinese as:\n\n“声称亚马逊因在其他地方提供更低价格的产品而惩罚商家的诉讼，是他们迄今为止在美国面临的最大法律挑战。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OPEC Delivers Bigger Cut With ABS Surprising The Market. Get more info on Seeking Alpha: https://t.co/wi5cTW6c7D… https://t.co/m97WCjZsoA\n\n中文翻译：OPEC（石油输出国组织）采取了更大的减产措施，ABS（阿联酋能源部）的意外行动令市场感到惊讶。了解更多信息，请访问Seeking Alpha网站：https://t.co/wi5cTW6c7D… https://t.co/m97WCjZsoA",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{由女性领导的企业，仅占风险投资支持的公司的20％，去年吸收了46.3亿美元的资本。}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Social media companies like Meta and Twitter are experiencing a weak online ad market, but Amazon continues to flourish.\n\n社交媒体公司如Meta和Twitter正在经历一个疲软的在线广告市场，但亚马逊继续蓬勃发展。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The invention carries International Patent Publication No. .",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The beers differ slightly from mainstream beers. 翻译为中文：这些啤酒与主流啤酒略有不同。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"All eyes will be on the FAANG stocks in the next 2 weeks but can they keep their momentum or will they disappoint?\" 翻译成中文为：“接下来的两周里，所有人的目光都将集中在FAANG股票上，但它们能否保持势头，或者是否会令人失望？”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result, the number of personnel in Finland will be reduced by 158.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年1月至6月的每股收益为0.30欧元，同比增长20%，相比2009年的0.25欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Peroni and Grolsch 被摆上货架出售，因为 AB InBev 计划收购 SABMiller。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Kate Rogers reports Starbucks earnings results for 'Closing Bell.'} 翻译为：{凯特·罗杰斯为'闭市钟声'报道星巴克业绩结果。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The cooperation with airBaltic is expected to lead to the transfer of Finncomm to the ownership of airBaltic in time. \n\n翻译为：\n\n与airBaltic的合作预计将导致Finncomm及时转移到airBaltic的所有权之下。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nNvidia's 3D design platform Omniverse could start generating huge revenue this year, so buy NVDA stock while it's discounted. The post The Metaverse Will Take Nvidia to a New All-Time High appeared first on InvestorPlace.\n\n中文翻译：\nNvidia的3D设计平台Omniverse今年可能会开始产生巨额收入，所以现在它打折时购买NVDA股票是个好主意。文章《元宇宙将把Nvidia推向新的历史最高点》首先出现在InvestorPlace上。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Insurer Old Mutual selects Standard Bank's Hemphill as new CEO\" 的中文翻译为 \"保险公司Old Mutual选择Standard Bank的Hemphill为新任CEO\"。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence you provided translates to: \"The total value of the company after crunching numbers is $89. 4G technology is their diamond in the rough.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For the purposes of the possible acquisition, PKC would establish a subsidiary in Poland. \n\n中文翻译：\n为了可能的收购目的，PKC将在波兰建立一家子公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Beyond the big 5 Tech players, total Q2 earnings for the Technology sector as a whole are expected to be down -8.9% from the same period last year on +2.8% higher revenues.\n\n翻译：\n五大科技巨头之外，整个技术行业的第二季度总收入预计将比去年同期下降8.9%，尽管收入增长了2.8%。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coca-Cola was the market leader of manufacturers with a market share of 36.9%, down 2.2% from the corresponding period in 2004-2005.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GS Engineering will install the valves at a liquefied natural gas LNG plant it has built for UAE LNG extraction and gas plants operator GASCO in Ruwais, UAE.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sheryl Sandberg 出售了 Facebook Inc 的 109,000 股 $FB 股票。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "经济衰退的担忧和高利率无法阻止这些有利可图的增长明星。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Eaton Vance Municipal Income Term Trust宣布每股派发0.0709美元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The companies expect the first orders already in 2011. \n\n直译：这些公司预计最早在2011年就能收到订单。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AUD/USD价格预测 - 澳元继续磨蹭。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ulta is a potential, long-term winner for two key reasons.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "交易代码：ELI1V 股票数量：99,483 股价：无偿转让后，伊丽莎白持有总计10,435,023股自己的股票。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"美国政府的一项新的许可要求可能会在当前季度影响Nvidia的收入高达4亿美元。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The CAT is hanging on by a thread. One click away from a cliff drop... Needs follow through (or snap-back on the VIX).\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{没有从一个视角看不到的盲点，允许调查人员以高分辨率看到整个故事的完整视频。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "22世纪公司在FDA胜利后股价上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Group appoints new CEO one month early\nBG 集团提前一个月任命新任首席执行官。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "西蒙地产将以36亿美元的价格收购购物中心运营商塔博曼。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "图表学：雅虎：http://stks.co/1itr $YHOO 这张图表看起来非常疯狂，但它正接近突破阻力线...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Broker tips: RBS, Croda, Sage\" 的中文翻译为 \"经纪商建议：RBS，Croda，Sage\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在新闻发布会上，拉脱维亚电信董事会主席尼尔斯·梅尔尼亚利斯解释说，黑石集团之所以被选中，是因为它在IT行业的经验以及其财务实力。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$NVDA sideways} is already in English and it seems to be a command for NVDA, a free, open source screen reader for Windows. The command instructs NVDA to read the current line sideways. Here's the translation:\n\n{$NVDA sideways} = Read the current line sideways in NVDA.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "An Amazon executive who recently announced his surprising resignation from the e-commerce giant is joining logistics startup Flexport as its new CEO. \n\n翻译为：\n\n一位最近宣布从电商巨头亚马逊离职的高级执行官将加入物流初创公司 Flexport 担任新任首席执行官。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``每个合伙人将被允许购买相当于其在联盟中的份额的电量，以生产成本。''一封意向书说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It won't happen overnight.\" 翻译成中文是：“这不会一夜之间发生。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P 500 and Dow both up by less than 0.1% 的中文翻译为：“标普500指数和道琼斯指数都上涨了不到0.1%。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lyft 股票在 Northcoast 升级后上涨，称该公司可能成为 M&A 目标。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲股市暴跌，受到BHP和石油的影响；希望转向ECB。\n\nEuropean shares plunge, roiled by BHP and oil; hopes turn to ECB.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国股指自2013年以来表现最佳，但大型股票活跃基金预计将自2016年以来最差：高盛",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

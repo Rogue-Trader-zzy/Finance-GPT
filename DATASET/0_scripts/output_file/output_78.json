@@ -1,0 +1,302 @@
+[
+  {
+    "input": "$IBIO 在盘前上涨 10%，准备好起飞。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{我们现在处于能够继续追求新临床候选人的位置。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The company's net sales in 2010 totaled MEUR 311.4 with an operating margin of 13.9 percent.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Sweden, there is an oversupply of pharmacies.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CIB, Legal & General Sell Egyptian Life Joint Venture To AXA\" 的中文翻译为： \"CIB, Legal & General 将埃及人寿合资企业出售给 AXA\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "According to Kesko, the company agreed with the city administration about the lease of the building in 2006, its resettlement, and the construction of a five-star hotel Hilton for 120 rooms.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Valeant CEO Pledges to Heed Critics After `Painful' Experience\n译为：\n瓦莱伦特CEO发誓倾听批评者，在经历了一次“痛苦”的经历后。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tech investors were not happy with the latest inflation data.\n技术投资者对最新的通胀数据并不满意。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "法国对伦敦证券交易所与德国证券交易所的合并计划表示关切。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "瑞士谷物商人Ameropa选择Bunge的执行官为其下一任首席执行官。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Top Insider Buys Highlight for the Week of Dec. 13\n\n翻译成中文：\n本周（12月13日）的顶级内部人士购买亮点",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "墨西哥反对北美贸易协定中的劳工执行条款。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "购买收益可能是一种健康的策略，但当涉及到三只道琼斯股票时，那些看起来像狗的价格图表可能会迅速压倒收入产生。文章《3只道琼斯股票要避免》首先在投资者的地方出现。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"NVDA sideways\"} is not a sentence but rather a command or instruction for the NVDA (Non-Visual Desktop Access) screen reader software. It is used to toggle the reading direction of the screen reader from left-to-right to right-to-left. The English translation would be: \"Toggle NVDA reading direction sideways.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "French regulators have hit Google and Facebook with 210 million euros ($237 million) in fines over their use of \"cookies\", the data used to track users online, authorities said Thursday.\n\n法语翻译：\n法国监管机构因谷歌和脸书滥用\"cookies\"，即用于追踪在线用户的用户数据，对这两家公司处以2.1亿欧元（2.37亿美元）的罚款，周四，当局宣布了这一消息。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pivotal Research is upgrading $GOOGL to buy.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo's strange move. A new party is interested (DailyMail) bounce and retreats. Not short by any means, but the action raises questions about a big upward move. Thoughts?\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new chain has 700 discount stores and 250 supermarkets. 新连锁店有700家折扣店和250家超市。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The source capital declares a $0.25 dividend.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Whitbread Profit Up As Sales Continue To Rise, Looking For New CEO\" 的中文翻译是：\"惠特布雷德利润上升，销售继续增长，正在寻找新CEO。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"That's Not Safe! Somebody's Going To Die!\": 参议员马基在商务委员会听证会上抨击特斯拉自动驾驶。}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Less than ten people will face pension agreements.} 翻译为中文为：“不到十人会面临养老金协议。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{露勒+Ñ市已与YIT签订了为期两年的合同，负责管理该市政府约三分之一的房产，总面积为14万平方米。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It's been fifteen years since Steve Jobs introduced the world to the first iPhone, but Apple Inc (NASDAQ: AAPL) still has a few tricks up its sleeve to increase its revenue from the handset. Apple is working on a hardware subscription bundle The American multinational is expected to launch a hardware subscription bundle this fall […] The post Apple wants to earn recurring revenue from the iPhone: here's how appeared first on Invezz.\" \n\n翻译：“自史蒂夫·乔布斯向世界介绍第一款iPhone已经过去了15年，但苹果公司（纳斯达克：AAPL）仍然有一些办法来增加这款手机的收入。苹果公司正在开发硬件订阅套餐。美国跨国公司预计今年秋天将推出硬件订阅套餐......更多内容请阅读Invezz。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The S&P is now up 30 handles.\n中文翻译：标准普尔指数现在上涨了30点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Take-Two (TTWO) 在 2021 年 12 月季度交付的收益和营收惊喜分别为 29.20% 和 0.69%。这些数字是否为该股票的未来发展提供了线索？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "他们会覆盖芬兰所有林业行业的单位和员工，并关注临时和永久的裁员。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kesko Agro Eesti, a retailer and wholesaler of grain, agricultural and warehousing machinery and accessories, had net sales of 81 million euros in 2007, an increase by one-tenth over the preceding year.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Trevena refers U.S. application for IV oliceridine; shares up 6%: https://t.co/u9sJLOG5ky",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The combined company had pro-forma net sales of 140 mln euro $ 188.9 mln and an operating profit of 13 mln euro $ 17.5 mln for 2006.\n\n翻译成中文为：合并后的公司2006年的预估净销售额为1.4亿欧元，合1.889亿美元，营业利润为1.3亿欧元，合1.750亿美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，下面是英文翻译：\n\n\"AVGO股票表现出色，同时提高了股息。显然，这是一个很好的投资。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"疯狂金钱\"主持人吉姆·克拉默将与\"早间广场\"合作，对周三市场开盘前谷歌母公司Alphabet的最新季度财报做出反应。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是一个混合的波动情况，正如你所预期的那样。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nancy Pelosi, the Democratic speaker of the House of Representatives, says she has agreed a deal with US President.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Last year, UPM cut production, closed mills in Finland, and slashed 700 jobs.\" 翻译为中文为：“去年，UPM 缩减产量，关闭芬兰的工厂，并裁员700人。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"世界最大的广告代理商WPP报告2015年强劲增长\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "到目前为止，二月份的早期日子一切顺利，周三的会议见证了股票继续反弹，这得益于鼓励性的企业盈利。这一天以潜在打击新兴反弹开始：ADP报告称，1月份私人薪资减少了301,000人，这与估计的200,000人相比，差距巨大，也是自2020年12月以来的首次下降。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The measures result from the statutory joint negotiations with employees which started in February and concerned all operations in the country.\n\n这句话的中文翻译为：“这些措施源于二月份开始的与员工的法定联合谈判，这些谈判涉及了全国所有运营。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A Moscow court on Tuesday fined Apple 2 million rubles (about $34,000) for refusing to store the personal data of Russian users on servers in Russia, part of government efforts to control online activity.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The dividend is payable on February 1, 2010 to shareholders of record on January 19, 2010.\n\n分红将于2010年2月1日发放给2010年1月19日的股东记录。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The divested company is part of TietoEnator's business area Government, Manufacturing & Retail. \n\n翻译成中文为：“被剥离的公司是TietoEnator业务领域政府、制造和零售的一部分。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Prothena (PRTA) 投资者展示 - 幻灯片。了解更多并获取任何股票的更新！…https://t.co/sUP1UgLUhE\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲联盟的竞争监管机构表示，将对微软公司（MSFT，+1.36%）计划以750亿美元收购动视暴雪公司（ATVI，+1.45%）进行深入调查，这进一步引发了全球对这笔交易是否会损害电子游戏行业竞争的关注。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The beers differ slightly from mainstream beers.\n这句英文句子的中文翻译是：“这些啤酒与主流啤酒略有不同。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"大人物们必须在这里装载，在低点...\"\n\n英文翻译：\"Biggies must be loading up here at lows...\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco is selling Blinkbox and broadband service to TalkTalk.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The biggest story in tech right now is Google's decision to scale back hiring for the third quarter of 2022. 翻译为：目前科技界最大的新闻是谷歌决定在2022年第三季度缩减招聘规模。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ZSL looks very weak, could be a good short setup.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n- Amazon的第三个季度的业绩显示，尽管当前存在高通胀定价的经济环境，销售额仍有所增加。消费者正在寻找价值，并注重在这个节日购物季的便利性和价格。\n\n英文翻译：\n\nAmazon's third-quarter results showed an increase in sales despite the current economic environment of high inflationary pricing. Consumers are looking for value, convenience with a focus on pricing this holiday season.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国在未来几十年内实现碳中和，不需要牺牲经济增长或繁荣。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

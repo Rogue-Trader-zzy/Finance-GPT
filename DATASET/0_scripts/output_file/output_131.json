@@ -1,0 +1,302 @@
+[
+  {
+    "input": "In 2015, Microsoft bought Christian Reber's to-do list app, Wunderlist, for a sum that was reported to be between $100 million and $200 million. \n\n翻译为：在2015年，微软以据报道在1亿至2亿美元之间的价格收购了克里斯蒂安·雷伯的待办事项应用程序，Wunderlist。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们上周在这笔订单中看到了一个大订单，今天有人也在积累5月和6月35的看涨期权。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RIMM, SPX, NYA, COMPQ, DJIA 全部下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire share price under pressure after $32bn Baxalta deal.\n\n- 沙利文股价在价值320亿美元的巴沙塔交易后受到压力。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n{据摩根大通分析师Doug Anmuth称，对亚马逊公司股票的看法处于多年来的低点，但他认为投资者没有给予这家电子商务巨头足够的信用。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦任命Kara Raiguel领导通用再保险公司部门。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sophos Group plc 更换股票市场筛选器 #Sophos #Stock #MarketScreener https://t.co/hz8AM6PHyY https://t.co/PEDqE4XEWt",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Finally, the multi-top on the $MCD chart leads to a fall in price. The stability of the stock is questioned, but the coming weeks will tell.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In addition, the company will reduce a maximum of ten jobs.\n- 此外，公司将最多减少十名员工。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Panostaja treats its negotiating partners, such as entrepreneurs selling their life's work and newcomer entrepreneurs seeking a career, fairly, justly and according to the law. \n\n翻译：Panostaja对它的谈判伙伴，比如出售他们一生工作的企业家和寻求职业的新来企业家，公平、公正并依法对待。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the meantime the CEO's duties will be assumed by Outotec's Deputy CEO Seppo Rantakari.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Match Group Inc. MTCH, -0.65% on Tuesday said it plans to ask a federal judge in California to issue a temporary restraining order against Alphabet Inc.'s Google GOOGL, +1.67% GOOG, +1.33% to prevent the company from throwing Match off of its Google Play app store on June 1. The filing comes a day after Match sued the search giant for allegedly breaking antitrust laws with billing rules for the Android app store.\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Jumia to Announce Fourth Quarter and Full Year 2019 Results on February 25, 2020\" 翻译为中文为 \"Jumia将于2020年2月25日宣布2019年第四季度和全年业绩\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果几乎把所有的制造资源都放在了中国。这种关系长期以来对AAPL股票有利，但现在形势正在发生变化。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们正在密切关注MOGU的（纽约证券交易所：MOGU）现金消耗率。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "麦当劳解决了集体诉讼案。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{NICE's (NICE) Justice, one of the solutions in the Evidencentral cloud-based platform, is set to be deployed in the Yolo County District Attorney's Office.}\n\n\"NICE's (NICE) Justice, 是Evidencentral云平台的一种解决方案，计划部署在Yolo County地区检察官办公室。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"冠状病毒不是借口\"——房地产CEO表示，有能力的人应该支付房租。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国钻机数量在贝克休斯调查中被削减2台。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Boris Johnson is heading for a clear victory in next week's U.K. general election, according to senior officials in... \n\n鲍里斯·约翰逊在下周的英国大选中获得明显胜利的前景，根据高级官员的意见...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "是",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n{$VRNS - Varonis Systems, Inc. 2019 Q4 - 业绩 - 业绩电话会议报告。https://t.co/nyoAzUyvoP #finance #stockmarket #economy}\n\nPlease note that I have kept the original format of the sentence, including the hashtags and the URL, as they are part of the original content.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Philip Morris Q4 sales $7.713 bln vs. $7.499 bln; FactSet consensus $7.661 bln 翻译为：菲利普·莫里斯第四季度销售额为 76.13 亿美元，高于 74.99 亿美元；FactSet 共识为 76.61 亿美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesla 召回所有 Model X 汽车 ... 详情正在显示 $TSLA\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva and Friends Life top forecasts ahead of 5.6 billion pound merger.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Financial, strategic and operational factors are considered.\n\n翻译成中文：\n金融、战略和运营因素都被考虑。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company closed last year with a turnover of about four million euros.\n\n该公司去年以大约400万欧元的营业额结束。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者们对唐纳德·特朗普总统任期的延续感到非常兴奋：顶级战略家。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The multi-top on the $MCD chart ultimately results in a decline in price. The stability of the stock is being questioned, but the coming weeks will provide answers.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia (NVDA)在2023财年第三季度的业绩令投资者失望，未能达到盈利预期，并且预测本季度收入将疲软。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PriceSmart reports 0.3% gain in comparable sales\n= 普莱斯玛特报告可比销售额增长0.3%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sen. Mike Lee (R-UT) 将在几周内提出一项法案，该法案将禁止谷歌和其他大型科技公司控制在线广告供应链的多项部分。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AUD/USD and NZD/USD Fundamental Daily Forecast – Aussie, Kiwi Rebound Amid Increasing Demand for Higher Yields\n\n澳元兑美元和纽元兑美元基本每日预测 - 澳元和纽元在日益增长的更高收益率需求中反弹。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple shares flex muscles as Trump, Cook tour facilities.\n\n翻译成中文：苹果股票展现肌肉，特朗普和库克参观工厂。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FREE Ha Heeeeeere comes the pump! So glad I picked up 9K end of day! Get ready for the bull ride!}\n\n英文翻译：\n免费！泵来了！很高兴我收盘时买了9K！准备好迎接公牛行情！",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果将推出自己的“买后付款”服务，将任何Apple Pay账单分成几期付款的消息，对金融科技借贷行业造成了巨大的冲击，就像一道霹雳。但是，这个新功能，虽然对消费者来说很简单，却需要在苹果公司内部进行一些重大的调整，包括创建一个全新的子公司来运营[…]。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "工程公司史密斯集团确认CEO任命。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The number of customers is one of the most important parameters in determining the price of electricity networks. \n\n客户数量是确定电力网络价格最重要的参数之一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Zacks.com 用户最近一直在密切关注英特尔（INTC）。因此，了解可能影响该股票前景的事实是值得的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在科技抛售潮中，谷歌母公司Alphabet的廉价股票看起来像一块未经过打磨的钻石。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司在3月的财报中创下了非节假日销售和收益的新纪录，尽管消费放缓和持续的供应限制。然而，由于宏观挑战，包括收紧的金融条件，整个市场的波动对股票表现产生了压力，这对成长型股票来说并不乐观。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Investors seem to be latching on to its Prime Day sale news as if it's something they didn't expect. 翻译成中文为：“投资者似乎对它的Prime Day促销新闻产生了强烈的反应，仿佛这是他们没有预料到的事情。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "瑞士信贷的首席投资者希望董事长跟随CEO辞职。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Square's Breakout May Send Shares Sharply Higher - Seeking Alpha\n翻译为：\nSquare的突破可能会使股票价格急剧上涨 - Seeking Alpha",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CTRP 刚刚突破阻力位，明天早上开盘时可能会出现红色转绿色的突破行情。 #股票",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "增加的股份数量基于2006年股票期权计划中向公司管理层授予的期权权利。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon 刚刚宣布了一项 20-1 股票拆细，并授权了价值 100 亿美元的股票回购。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CNBC's Kayla Tausche and Julia Boorstin join 'Closing Bell: Overtime' to report on the FTC suit to block Microsoft's acquisition of Activision Blizzard.\" 翻译为中文为：\"CNBC的Kayla Tausche和Julia Boorstin加入'闭市钟：加班'来报道FTC对微软收购动视暴雪的诉讼。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Novartis $NVS 将以 97 亿美元收购 The Medicines Company。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FB 拒绝 HIGHS 可卖空... 109 美元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "在今天的商业中，你必须预测消费者想要什么，Mohammed Zainalabedin，Zain Bahrain的总经理说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The performance in 2006 was affected by the consolidation trend in the telecommunications sector and the overall and structural changes in the contract manufacturing market for telecommunications technology and industrial electronics.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit increased to EUR2.4m from EUR1.6m a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Singing Machine reports Q2 results\" 的中文翻译是 \"Singing Machine 报告第二季度业绩\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meta today announced a partnership with Microsoft to bring new content, including Windows apps and Teams integrations, to Meta's various metaverse hardware efforts.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "What would you like to see changed on Nokia's next attempt?",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔正在寻求增加其在富国银行的持股比例超过10%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Joanna Stern, WSJ senior personal tech columnist, joins 'TechCheck' to discuss Apple and Snap.\n\n乔安娜·斯腾，《华尔街日报》高级个人科技专栏作家，加入“科技检查”，讨论苹果和Snap。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The rains bring drought relief and hope to Australian farmers.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Northern Star Resources reports 1H results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vertex collaborates with Molecular Templates in HSCT conditioning regimens.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Panostaja, 总部位于芬兰坦佩雷，是一家专注于传统产业中小型芬兰公司的投资公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是英文翻译：{$TSLA yeah lets go down to 230s lol}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DeepMind has evolved from a small startup into a promising part of Alphabet. \n翻译为：DeepMind从小型初创企业发展成为Alphabet的一个有前途的部分。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据高盛的分析，微软现在已成为对冲基金的最爱股票，超过了亚马逊。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"End of day reversal. 11 X 3K shares = $330 - now Long - not getting follow through, either side of price action.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"一家公司能否在另一家公司衰落的同时继续成长？\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"What we think?\" 的中文翻译是 \"我们认为的？\"。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康糖尿病药物组合因FDA拒绝而面临延误。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：{$vxx is starting to creep up while $spy is sitting near hod ...}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 短了一些 592.49。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The effort to unionize Starbucks workers is one of the country's most closely-watched labor organizing drives in years. And on Wednesday it takes another important, though admittedly small, next step.\" \n\n翻译成中文为：“星巴克员工工会化的努力是近年来该国最密切关注的劳工组织活动之一。而周三，它将采取另一个重要，尽管确实是小规模的，下一步。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"按照我们的战略，我们在10月份建立了南非代表处，以增强我们在当地的存在感。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：\n\n{Jobs Fuels Economic Momentum for Trump Ahead of Election}\n\n中文翻译：\n\n{就业推动特朗普经济动力，选举前加力}\n\n解释：\n\n在这个句子中，“Jobs”指的是“就业”，“Fuels”表示“推动”或“增强”，“Economic Momentum”指的是“经济动力”或“经济增长”，“for Trump”表明这些经济动力是为了特朗普，“Ahead of”表示“在……之前”，“Election”指的是“选举”。\n\n因此，整个句子的中文翻译是“就业推动特朗普经济动力，选举前加力”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“{3 Dividend Stocks For A Bear Grip Or Bull Run}”的中文翻译：\n\n- 3只股息股票，适用于熊市或牛市。\n\n请注意，由于原文中没有提供具体的股票名称，因此我无法提供更详细的翻译。如果您需要了解特定的股票信息，请提供更多上下文或具体细节。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Petrofac share price rises despite £30m costs on North Sea project\n\n翻译：\nPetrofac 股票价格上涨，尽管北海项目花费了 30 百万英镑。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"Not Referred Telecom Tariffs Floor Price Issue To TRAI: DoT Source\"\n\nThe translation in Chinese is: \"电信资费底价问题未向TRAI引荐：DoT消息来源\"\n\nNote: TRAI is the Telecom Regulatory Authority of India, and DoT stands for Department of Telecommunications.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "裁员将逐步开始，持续时间为1至6周。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY has a nice bounce.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周一公牛已经出来！股票代码- Michael James Enterprise 其他选择 $SBUX $GVP $NKE",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$MPWR CEO sells 450k april 15th..meh} can be translated to Chinese as: 「{$MPWR CEO 在 4 月 15 日卖出 450,000 股...... 啊」。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"添加了$POAI用于加班......这是非常好的消息！！！很容易就能赚到+$2。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Avantor misses on revenue\" 的中文翻译为 \"Avantor 未达到收入目标\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The PRLB is hanging tough in the down market due to analyst upgrades last week. It has increased almost 3%.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit fell to EUR 23.26 mn from EUR 32.86 mn. \n\n翻译成中文：\n营业利润从3286万欧元降至23.26万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EA Launches Origin Online Game Distribution for Mac\n{EA Launches Origin Online Game Distribution for Mac http://stks.co/aKTU via MacRumors $EA}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KonaTel reports Q3 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For the fiscal year ending September 30, 2009, the revenue from these customers was $10.012 million or around 11.0% of the transportation group's revenue.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva被英国监管机构因手续费失败罚款2700万美元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The soapstone deposits in the Medvezhyegorsk area are expected to significantly increase Tulikivi's current reserves.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {$WYNN big bounce}.\"\n\n中文翻译：\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{$WYNN big bounce}。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tech giant Apple Inc (NASDAQ:AAPL) was flying high last month, The company just shared an impressive fiscal third-quarter earnings turnout, and its stock logged an 18.9% win in July, marking its best month since August 2020.\" 可以翻译为：\"上个月，科技巨头苹果公司（纳斯达克股票代码：AAPL）表现出色，公司刚刚公布了令人印象深刻的第三财季业绩，股票在7月份获得了18.9%的涨幅，这是自2020年8月以来的最佳表现月份。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aurora Cannabis 股票在盘前下跌了 16%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kone在法庭文件中表示，工会的行动推迟了联邦法院大楼和Saltonstall州立办公楼电梯的维修工作，分别是在1月21日和1月23日。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev公司发出信号，表示不会对SABMiller采取敌对行动。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company expects sales revenue of RMB8.0 billion in 2009. 公司预计2009年的销售额为8亿元人民币。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AI experts question whether discussing whether LaMDA should be treated as a Google employee indicates that we have reached \"peak AI hype.\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Google uses 15.5 terawatts of energy a year, the majority of it going to data centers. Also, the company aims to operate on carbon free energy 24 hours a day.\" 可以翻译为中文：\"谷歌每年使用15.5万亿瓦时的能源，其中大部分用于数据中心。此外，该公司还计划每天24小时使用无碳能源。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政股价小幅走低，因为公司提高了邮票价格。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet的股票周三下跌，前一天公司发布了第三季度财报，该财报在营收和利润方面都低于预期。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

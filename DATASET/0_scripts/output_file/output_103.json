@@ -1,0 +1,302 @@
+[
+  {
+    "input": "音乐就是生命，音乐对我来说就是一切。说唱歌手@fatjoe在与@jonfortt的对话中坦诚地谈到了……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NexOptic Shareholders Support all Resolutions at its Annual and Extraordinary General Meeting\n\nNexOptic 股东支持其在年度和非常规股东大会上通过的所有决议。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "液体处理部分提供实验室设备和附件，包括机械和电子移液器以及用于研究机构、大学和医院的可重复使用的移液器尖头，以及Biohit品牌下制药、食品和其他行业使用的其他行业。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "One of the headboxes will be equipped with a modern consistency control system to ensure cross machine profile of the plasterboard, the company said in a statement received by Lesprom Network.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "营业利润从106,000欧元猛增至2,100万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Virgin Galactic takes off again; +11%",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore Cuts 2015 Budget, Plans To Divest From Lonmin\n\n格力资源2015年预算削减，计划从隆明矿业撤资。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"药企 Shire 将在6个月的追求后，以 320 亿美元的价格收购 Baxalta。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "If the employee leaves the company within the duration of the cover, the money invested to ensure commitment is returned to the company. \n\n翻译为中文：如果员工在保障期间离开公司，公司将返还用于确保承诺的投资。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年1月11日，EPHC董事会批准将每股季度股息从0.03美元增加到0.05美元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RK Group, headquartered in Vantaa, Finland, is one of Europe's leading machinery rental services.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"周度市场更新：等待游戏在贸易中继续进行。#周度市场更新#市场筛选器#市场筛选器……https://t.co/77sw5i2a8t\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Neste Oil表示，它将在荷兰鹿特丹建造一家生物柴油生产设施，预计成本为6.7亿欧元，并任命法国的Technip为该项目的主要承包商。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果在欧洲联盟面临另一项反垄断指控，因为音乐订阅服务Spotify对其做法提出投诉。据路透社报道，欧洲委员会去年指责这家科技巨头在流媒体音乐领域阻碍竞争，通过在其应用商店强加规则，迫使开发者[…]。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FB is watching for a rebound tomorrow.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是5张图表，展示了#COVID-19大流行对经济的早期影响。阅读我们的最新#IMFBlog… https://t.co/LBAdFrt0Tm",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish log house builder Honkarakenne is planning to use pine from Russian Karelia.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish diversified holding company Aspo Oyj announced on September 8, 2008, that it will sell the Finnish tape business of its Kaukomarkkinat unit to the local Oy Telpak Ab.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这里是我们在弹劾过程中的位置以及接下来会发生什么：https://t.co/5xb30d9RIE https://t.co/Q6rrrDV2Xz\n\n英文翻译：This is where we are in the impeachment process and what comes next: https://t.co/5xb30d9RIE https://t.co/Q6rrrDV2Xz",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "现在该是时候卖出 $TSLA 了。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kemira's R&D organization comprises approximately 750 people,\" the company said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google shares are down more than 30% this year and sit near their 52-week low. However, the risk factors (especially the challenging macroeconomic backdrop) are real.\n\n谷歌股价今年下跌超过30%，并接近其52周低点。然而，风险因素（特别是宏观经济背景的挑战）是真实的。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC准备替换投资银行首席 - FT",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel 将于 4 月 28 日公布第一季度财报。今年迄今为止，Intel 在半导体行业及其同行业公司中表现优异，在熊市中表现出色。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Descending triangle, but I am liking it for an upside break.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Admiral Insurance Company Ltd. 波动不定，而Aviva Plc在Friends Life Group plc合并前表现强劲。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "There have been 15 initial public offerings announced in Sweden this year, compared with two during the same period a year earlier, Bloomberg data shows.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "华尔街徘徊在创纪录水平附近；波音拖累道琼斯指数。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EU regulator supports approval for GSK injectable asthma drug.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company has exported into about twenty European countries as well as to Africa. \n翻译：该公司已出口至大约二十个欧洲国家以及非洲。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Did Hedge Funds Drop The Ball On Editas Medicine, Inc. (EDIT)?\" 的中文翻译为 \"对Editas Medicine, Inc.（EDIT），对冲基金是否掉球了？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Royal Mail share price edges lower as group raises stamp price.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit rose to EUR 26.7 mn from EUR 14.9 mn in the corresponding period in 2006. \n\n中文翻译：该公司在2006年同期相比，经营利润从14.9百万欧元上升到26.7百万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "所以，加尔万先生自行进行了储蓄调整，购买更少的酒，并控制了分量的大小。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intuitive Surgical Expands Into Hospital Informatics With Orpheus Medical Acquisition\n- 直觉手术通过收购奥菲斯医疗公司，扩展到医院信息学领域。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\n\"亚马逊报告了一季度的混合结果，但给出的指引非常令人失望。疫情带来的利好因素已转变为显著的阻力。尽管在公布业绩后出现了抛售，但亚马逊股票仍在增长溢价下交易。此外，它还失去了一个关键的支撑位。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "科技股票正在下跌，但投资者应该保持长期视角。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Stocks were generally higher even before the streaming video giant announced its latest financial results.\" 的中文翻译为：\"即使在流媒体巨头宣布最新财务业绩之前，股票通常也处于较高的水平。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baltic Pearl CJSC, a subsidiary of Shanghai Foreign Joint Investment Company, is developing a project in St Petersburg, comprising about a million square meters of residential space, two hospitals and several schools and nurseries.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "此图表设置预示着黄金和白银将迎来一次重大的反弹（来自@TradingNation）https://t.co/VHHVxcDvPI",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aspocomp plans to establish a factory to produce printed circuit boards with an investment of Rs310 crore.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Teva: FDA 批准了阿斯利康的心灼药的仿制药版本。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Adobe 在与小型股部门一起经历了艰难时期。现在，ADBE 股票在图表上获得了技术上的帮助，以支持其基本面的成功。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market could continue to have a cautious view on shares. Fortunately, if you're looking to enter a buy-and-hold position in AAPL stock, this works to your advantage, by providing a favorable entry point.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple供应商富士康计划在未来两年内将印度iPhone工厂的员工人数增加四倍，两名知情政府官员表示，这反映了富士康在中国面临干扰时所做的生产调整。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KBR 赢得价值 23.7 百万美元的合同。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Uponor 的营业利润为 1.51 亿欧元，比 1.437 亿欧元有所增加，这使得 2007 年成为了创纪录的一年。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$IESC - IES Holdings +8% post Q4 results}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"税前利润从2005年同期1.007亿欧元上升至1.019亿欧元。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WestRock 升级为 BofA Merrill Lynch 的买入，由中性转为买入。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

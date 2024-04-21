@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The moment is that Valio is not worried, but if the ban continues for a long time, it may become quite a problem.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "More bleeding Monday.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It's not necessarily a game over.\" 翻译成中文是：“这不一定是游戏结束。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Finland, Finnish pharmaceutical company Orion Corporation (OMX Helsinki: ORNAV) announced on Wednesday, January 7th that it has completed its personnel negotiations in Finland and will reduce the number of employees by 205.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vanguard Global ex-U.S. Real Estate ETF宣布每季度分配3.6471美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Government has had a very professional approach in assessing the offer.\n\n政府在评估这个提议方面采取了非常专业的态度。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Solidium now holds 5.0 per cent of the shares Solidium Oy has acquired 5.0 per cent of the shares in Tieto Corporation for approximately EUR 58 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The company operates worldwide and employs in total approximately 47,000 persons .}\n\n公司在全球范围内运营，总共约有47,000名员工。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦 AFX - Fortum 表示已同意将其工业维护服务运营出售给 CapMan 管理的基金，交易金额未公开。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这两只股票大幅下跌，为长期投资者提供了吸引人的机会。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Timo Penttila has been appointed new manager responsible for the asset management of Nordea's institutional customers in Finland.\n\n中文翻译：蒂莫·彭蒂拉被任命为芬兰诺德亚公司机构客户资产管理的新任经理。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish newspaper publisher Sanoma, of media group SanomaWSOY, is merging its free sheets Uutislehti 100 and Metro as of mid-September 2008 to form a new free sheet to be named Metro.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Motorola Inc. of the United States came second with shipments of 217.4 million units for a 21.3 percent market share, followed by South Korea's Samsung Electronics Co. with shipments of 118.0 million units for an 11.6 percent share.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Two streamers, two different strategies.} = {两个流媒体，两种不同策略。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lattice Semiconductor Q4 Earnings Preview\" 的中文翻译为 \"Lattice 半导体 Q4 营收预测\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "南韩的个人信息保护委员会周三表示，该国已对谷歌母公司Alphabet和Meta Platforms处以罚款，原因是这两家公司涉嫌违反隐私法。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "D. E. Shaw & Co., INC. 持有 Blue Apron 5.2% 的股份 - SI",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vecima Networks reports Q2 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev to Sell SABMiller Stake in China's Snow Beer 翻译成中文是：“百威英博将出售其在中国雪啤酒中的SABMiller股份。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jessica Ramirez, a Senior Research Analyst at Jane Hali & Associates, joins Worldwide Exchange to discuss Lululemon's Q1 results, which outperformed in revenue and EPS expectations.\n\n翻译成中文：\n杰西卡·拉米雷斯，简·哈利&关联公司的高级研究分析师，与世界交易所讨论了乐乐蒙的Q1业绩，其收入和每股收益预期超出了预期。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"尽管美联储无限量QE，3Y拍卖尾盘仍因抑制买家需求而下跌\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lyft has 99 problems, but this ain't one.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Weber 说服了他的朋友 Ray Ostrom，后者拥有一家 Lake Street 运动用品商店，出售诱饵。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gideon Rachman: 相较于让德国的生活变得更简单，脱欧正在让事情变得更加复杂。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish handling systems company Cargotec Oyj ( HEL : CGCBV ) said today that it won a EUR 13 million ( USD 16.6 m ) contract to deliver MacGregor hatch covers for ships ordered by Norwegian shipowner Grieg Shipping.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Capital base and capital adequacy measurement is based on approaches under Basel II. \n\n资本金基础和资本充足度测量是基于巴塞尔协议II的方法。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2019年新增就业人数略有下修至209万。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "L&G完成英国最大规模的医疗保险承保团体养老金风险交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{书生·浦语} is developing cooperation in keyword advertising with Microsoft.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"比毫无意义更糟糕。所有的电视证词显然在他们的目标上失败了。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "That operation took place before some key events.\n这句话的中文翻译是：“在那之前，一些关键事件已经发生了。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据合同，Cramo Sverige 及其分包商 Brinkab AB 将在位于瑞典北部 Kiruna 的 LKAB 新球团厂提供所有脚手架安装。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国官员正在暗示，欧洲联盟可能比英国更容易成为快速实现目标的更容易的目标。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RBS将任命霍华德·戴维斯为其下一任主席。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The most significant challengers in the market are Logset and Sampo-Rosenlew.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据世界知识产权组织发布的帖子，\"本发明涉及烃类物质，尤其是涉及制造适合作航空燃料或喷气燃料以及适合作航空燃料的混合物的烃类成分。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LNT将年度股息目标从每股1.70美元上调至1.80美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果（纳斯达克股票代码：AAPL）是众多交易所交易基金（ETFs）中的一颗明星，如果非最大的持仓的话，包括跟踪纳斯达克100指数（NDX）或广泛跟随的基准指数的衍生品的多个ETF。Invesco ESG纳斯达克100ETF（QQMG）是其中的一个。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊出售的监控摄像头被感染了恶意软件。$AMZN #Amazon\nhttps://t.co/TohLEQ8FK6\nhttps://t.co/5PR4cBtVVy",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Surviving The Late Cycle, But Still Earning Something.\" 可以翻译为 \"在经济周期的后期生存下来，仍然能获得一些收益。\" 完整的句子包括：\"在经济周期的后期生存下来，仍然能获得一些收益。订阅 Seeking Alpha 获取更多内容: https://t.co/yv0EYfK3OZ… https://t.co/MDUXlx9Plj\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "T-Mobile's outgoing CEO John Legere says he 'was never having discussions to run WeWork'. \n\n翻译成中文：\nT-Mobile即将离职的CEO John Legere表示，他“从未有过讨论要接管WeWork”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq在电子制造服务（EMS）方面拥有可靠的业绩记录，并拥有一个全球工厂网络，配备现代化的制造设备和一致的系统与流程。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Storengy is the GDF SUEZ company that is dedicated to the underground storage of natural gas.\n\n翻译为中文：\n\n斯泰朗吉是苏伊士公司旗下的致力于地下天然气储存的公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "一个新型的YouTube服务可能会看到Alphabet加入流媒体的竞争。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"寻找2020年的新工作？\"\n\"在100家最佳工作场所中，有31家是科技公司，但前5名会带来惊喜......\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "已经平仓了我的小额 $MWW 空头头寸，以 7.99 美元的价格平仓，损失了 0.16 美元。当天没有持仓。现在全部是现金。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In China, Finnish Kone, which provides elevators, escalators, and solutions for modernization and maintenance, will build 342 escalators that will be installed in a high-speed railway section between Beijing and Shanghai in a 1.5-year time.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SoftBank支持的Paytm在新的融资中筹集了10亿美元。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"特斯拉股票因上海工厂的乐观情绪而上涨 - 现在要关注什么？$TSLA（来自@TradingNation）https://t.co/CENYtEsk81\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "商品通道指数指标显示Facebook（$FB）股票处于超卖状态。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

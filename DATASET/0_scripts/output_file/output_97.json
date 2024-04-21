@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The English translation of the given sentence is: \"NSSC - NAPCO reports preliminary Q3 revenue slightly below estimates https://t.co/WI5LhsZPN8\".",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Strand Associates，成立于1946年，是一家提供土木工程、环境工程、交通工程、电气工程和机械工程服务的公司，在威斯康星州、阿拉巴马州、伊利诺伊州、印第安纳州、肯塔基州和俄亥俄州设有10个办事处，共有350名员工。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普政府正在改变美国贸易救济法的一项关键豁免，以便更容易对……进行惩罚。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Winter is coming, so book your next meeting in the Game Of Thrones conference room.\n翻译：冬将至，所以请预订您的下一次会议在权力的游戏中会议室。\n\nWalk This Way for a tour of the…\n翻译：跟着这条路去参观……\n\nhttps://t.co/UchpdZTnxV\n翻译：https://t.co/UchpdZTnxV\n\n注意：原文中的“Walk This Way”和链接是独立的部分，没有直接翻译成中文。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ARM Holdings plc Partners With International Business Machines Corp. To Drive ... \n\n翻译成中文：ARM Holdings plc 与国际商业机器公司合作，推动...",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FB 拒绝 HIGHS 可卖空...在 109}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "半导体股票在美联储最新政策会议纪要比预期更鹰派后进一步走低。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "“不必在意加拿大的银行股票，交易员正在下注于人寿保险公司。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Five Biggest Enemies Of Oil & Gas\" 翻译为中文是 \"石油和天然气最大的敌人\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊表示，超过99.9%的客户页面浏览量不会收到专利侵权索赔。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国就业数据，德国经济衰退风险，英格兰银行之谜：经济日。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司将从本月开始提高美国零售员工的工资，彭博新闻社周五报道。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Do Hedge Funds Love Kimco Realty Corporation (KIM)?} 的中文翻译是：“对冲基金是否喜欢 Kimco Realty Corporation（KIM）？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Deutsche Bank下调了Starbucks Co.（股票代码：$SBUX）的评级。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``那些不确定性模糊了长期展望。''",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "消费者科技巨头在当前股票下跌期间需要考虑的问题。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I See A Window For Fast Money Trading On The Long Side Today, Here's The Plan. https://t.co/2i2b3py70P #trading #economy #stockmarket\n\n今天在长线方向上看到快速赚钱交易的一个窗口，以下是计划。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Over the last year, Williams has been one of the public faces of the company's efforts to curb unionization efforts by its baristas. \n\n翻译：\n在过去的这一年里，威廉姆斯一直是公司遏制其咖啡师工会化努力之一的公共面孔。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Smart Beta ETFs: A Marriage Between Active and Passive\n智能贝塔ETFs：积极和被动投资的结合",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baltic Dry Index drops 5%.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着传闻中苹果 iPhone 14 Pro Max 几月内即将推出，以下是专家报告的十大特性。InvestorPlace 上的一篇文章《关于苹果 iPhone 14 Pro Max 我们知道的前十件事》。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者显然对第二季度收益不抱乐观态度。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Honka's subsidiaries in France and Germany will also benefit, for example, by arranging customer events in conjunction with World Cup skiing competitions.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Anheuser-Busch InBev Increases Offer for Rival SABMiller\n\n安海斯-布希英博维公司对竞争对手SABMiller公司的报价增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The HSC Receives a 7-Year, $50M Contract at New Saudi Arabian Steel Mill.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kemira shares closed at €16.66 ($22US.71).\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The company cannot give up palm oil completely, however.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "电子商务巨头可能正准备迎来一次强大的反弹。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{无论元宇宙是什么样子，苹果都会是赢家。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VMarkets 仍然表现疲软。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Atlas Air +9% after Wolfe Research lift\n\n翻译：Atlas Air 在 Wolfe Research 的提升后上涨了 9%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者在第二季度因为对更高利率的担忧而转向经济中更安全和增长更缓慢的部分，特斯拉股价下跌了37%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This 1 Common Thing Could Devastate Your Finances\n\n这句话的中文翻译是：“这一常见的事物可能会摧毁你的财务状况。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{书生·浦语} 请不要过早地戴上你的牛市帽子。下周，我们有望在量化宽松3（QE3）的希望下反弹，这得益于美联储为期两天的会议。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The earnings season has started on a firmer footing. The percentage of S&P 500 companies reporting a positive earnings surprise is above the five-year average, but the magnitude of upside surprise is below the average for the same timeframe, FactSet said in its weekly earnings insight.\" 可以翻译为：“财报季以更稳固的姿态开始。标普500公司报告正面财报惊喜的比例高于五年平均水平，但同期的惊喜幅度低于平均水平，FactSet在其每周财报洞察中表示。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "利用 GF 的 22FDX 设计流程和 Cadence 的（CDNS）数字解决方案的成功经验，此次合作使客户能够实现云扩展性、效率和生产力。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Buffett's Company Reports 37 Percent Drop in 2Q Earnings\" 的中文翻译为 \"巴菲特的公司报告称第二季度盈利下降了37%。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco 股票表现不佳，但仍然保持了 50 日移动平均线。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "At 1411 CET, ArcelorMittal had lost 7.26% to EUR 17.38 on Euronext Paris, coming at the lead of the blue-chip fallers. \n\n在格林尼治标准时间1411点，阿赛洛米塔尔在巴黎欧洲证券交易所（Euronext Paris）上失去了7.26%，达到蓝筹股下跌榜首位。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Teleste BK Optiflex amplifier products will be used in the ongoing capacity upgrade of KDG's network to bidirectional functionality.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RYB Education EPS missed by $0.01.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The BoD of WGO was right to reject the offer. The company is struggling due to the economy, not due to any type of mismanagement or anything.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The machines will cease production by the end of February 2007.\n\n翻译为中文：机器将在2007年2月底停止生产。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "选择二者之间的最终目标是找到风险和可靠回报之间的正确平衡。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In a note to clients published, the Dutch broker described the company's third quarter results as 'soft', although it also noted that Elcoteq retained its guidance, dealers said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The total investment in the Vantaa plant extension will amount to around 10 million euro, and Okmetic's share of the investments will be worth around 2.7 million.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA was upgraded to Buy at Argus with $333 PT - you'd almost think after ~100pt run in 5 weeks this would be the sell signal.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL Right back in ... - Buy the dips brought to you by CNBC. LOL\n\nAAPL 重新回到... - CNBC 为您带来的下跌买入机会。哈哈。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNP 卖出空头头寸，已获利 $59,367.00 (7.75%)，已关闭。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Long setup. Watch for continuation and volume expansion here. Hot sector. \n\n长线设置。注意这里延续和量能扩张。热门领域。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

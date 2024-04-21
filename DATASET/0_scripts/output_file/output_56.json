@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Pandemic isn't a boon for meal delivery firms #economy #MarketScreener\n\n疫情对送餐公司来说并非利好 #经济 #市场筛查",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ADP News - 2009年2月12日 - 芬兰IT解决方案提供商Affecto Oyj（HEL：AFE1V）今天表示，其2008年的净利润从2007年的700万欧元（1100万美元）上升至850万欧元（1100万美元）。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IWM's relative weakness is quite apparent, but the short boat is getting full on this one. I prefer the boat closer to empty.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "消费者周期性股票可能在2022年看到显著的上涨空间。文章《2022年最好的10种消费者周期性股票》首次出现在投资者的地方。更多来自投资者的地方。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Something to warm your frozen heart - $DIS had quite the weekend at the box office: https://t.co/NzvIR5n7Sn\" 的中文翻译是：“让你冻僵的心温暖起来的东西 - $DIS 这个周末在票房上取得了相当不错的成绩：https://t.co/NzvIR5n7Sn”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMTD (+1.3% pre) Charles Schwab $SCHW to buy TD Ameritrade in $26 billion all-stock deal - Reuters\n\nAMTD (+1.3% pre) 查尔斯·施瓦布（Charles Schwab）将以260亿美元的全股票交易收购TD Ameritrade。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Hayward, Calif.-based target designs active, casual, and dress footwear, as well as boots and sandals.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Cencorp, located in Virkkala, Finland, develops and supplies automation solutions to the electronics and semiconductor industry that enhance productivity.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It said Comptel delivers reliable provisioning and activation solutions which improve fulfilment processes for operators.\n\n它表示，Comptel 提供可靠的安装和激活解决方案，这些解决方案可提高运营商的履行流程。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Asahi可能会在AB InBev出售之前收购更多SABMiller的啤酒。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The shares of several stocks in the broader technology sector, including Advanced Micro Devices, Inc. (NASDAQ: AMD), ASML Holding NV (NASDAQ: ASML) and Micron Technology, Inc. (NASDAQ: MU), are all trading lower as stocks pull back on continued volatility amid Russian military aggression in Ukraine.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Exel wants to serve its industrial customers with individual products. \n\n= 伊克斯尔希望为它的工业客户提供个性化的产品。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The new SEPA cards will replace Finnish bank cards.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "金矿产量自2008年以来首次下降。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "L Brands 在报告战略审查后股价上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dividends are an important source of income for investors of all types but especially those that rely on their investments in retirement. My ideal dividend payer accomplishes four goals: maximize total return, deliver a meaningful yield, experience strong growth, and provide a margin of safety.\n\n翻译：\n股息对于各种类型的投资者来说都是重要的收入来源，特别是那些在退休时依靠投资收入的投资者。我的理想股息支付者可以实现四个目标：最大化总回报，提供有意义的收益率，经历强劲增长，并提供安全边际。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wynnchurch完成令人印象深刻的2.27亿美元基金关闭，并聘请行业资深人士Bob Linscott。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"报告显示巴西瓦莱大坝存在‘裂缝’\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cambium Networks EPS 超预期 $0.04，收入不及预期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale\n",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lockheed received $3.3B to support satcom network.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Strange Thing About Trump's Anti-Semitism Order\" 的英文翻译为 \"特朗普的反犹太主义命令的怪异之处\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该合同包含了一种会聚计费评级解决方案，适用于语音和数据，包括互联网、GPRS、短信、彩信和WAP。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barron's 53 RoundTable 2022 Picks Show 34 Pay Dividends And 4 Of Those Are Buys 的中文翻译为：\n\n《巴伦周刊》2022年53人圆桌会议预测显示，34家公司支付股息，其中4家值得买入。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "鲁迪·朱利安尼说，如果我不见了，将会发布关于乔·拜登的文件。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CoolSys Opens New Southern California Training Center for Its Technicians\n\n翻译成中文为：\n\n酷思斯在加利福尼亚州南部开设新的技术培训中心，为技术人员提供培训。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"XLI\" 60'-15'-4' 图表上的潜在中间顶部在上升趋势中}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "专家表示，识别国家媒体机构可能非常困难且耗费资源——他们正在呼吁……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA gyrating @ S1 above gap. keeping an eye on S2.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices (AMD) 第三季度的业绩反映了低于预期的客户细分收入，因为由于低于预期的 PC 市场导致的处理器发货量减少。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据公司的说法，市场情况的变化和更激烈的价格竞争已显著减少了对Kauhava工厂生产的面包包装的需求。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Also the development of online businesses will continue. 也，在线商业的发展将继续。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益（EPS）为0.38欧元的损失。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"Holiday Season In Jeopardy As Consumers Rein In Spending Amid Economic Downturn.\"\n\nThe Chinese translation of the sentence is: \"在经济低迷期间，消费者节制支出，假期购物季岌岌可危。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Big Money is pouring into Facebook from all directions.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺基亚将向Indosat交付WCDMA 3G-HSPA无线局域网，包括模块化、高容量的诺基亚Flexi WCDMA基站。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我在寻找一个长期的入口，但今天的价格行动并没有吸引力。\n\nEnglish translation: I was looking for a long entry but today's price action wasn't appealing.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了进入新市场，Pit-Produkt还将进入新的细分市场。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FB (110.20) 开始显示出一些相对强度和每日潜在的 B/O 迹象。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DealerSocket completes acquisition of Auto/Mate.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FB股票在巩固区域出现突破：D",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "乌克兰驻美国大使馆的官员得知美国在7月冻结了军事援助——但那将需要几周时间才能生效...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The business development initiatives in North America are headed by Lynn Shanahan. \n\n翻译：北美的业务发展举措由Lynn Shanahan领导。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sensus Recognized for Innovation at Smart Utility Summit\" 的中文翻译为：\"Sensus 在智能公用事业峰会上因其创新而受到认可\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The second company acquired is Sweden's Reftele Maskinservice AB, whose business is mainly field services and spare parts manufacturing, with 10 employees and 1.2 million euros in sales per year.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊推出了“亚马逊接入”，这是一个资源中心，旨在帮助购物者，包括那些寻求有关资格政府援助受益人的亚马逊折扣会员计划信息的人。这个中心在10月3日的新闻稿中宣布，提供有关支付选项的信息，如补充营养援助计划（SNAP）电子福利转移（EBT）和亚马逊分期付款。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aurora Cannabis 扩大早盘亏损，现在下跌 5%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon.com Inc. 在 2022 年第一季度报告了近 40 亿美元的亏损，因为其对 Rivian Automotive Inc. 的投资消耗了所有利润，并且周四发布了令人失望的预测，导致股价在收盘交易中下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\n$P�旗形在日线图上，明天表上会有收益，±12移动。我将在这个期权上等到收益，这里保证会有大量的波动。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"追踪杰弗里·乌本的ValueAct投资组合 - Q3 2019更新。订阅Seeking Alpha以获取更多内容：... https://t.co/tDMAsSJSir\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

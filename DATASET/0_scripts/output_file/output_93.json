@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"The maritime administration said the ships had ignored warnings about the icy conditions.\" 翻译为中文为 \"海事管理部门表示，这些船只忽略了关于冰封状况的警告。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司提供薪资服务，包括薪资处理、薪资税管理以及员工支付服务，包括直接存款、支票签署和Readychex。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesco 通过将销售下降幅度减半来打破其下跌趋势。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The CVs of the proposed members are available for viewing from 12 March 2008 onwards on the Internet at www.sampo.com/ir. \n\n中文翻译：\n\n从2008年3月12日起，您可以在互联网上通过www.sampo.com/ir查看提议成员的简历。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google (GOOGL) 在最近的交易日收盘价为 $2,899.83，相较于前一交易日的价格上涨了 +0.1%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``他们不仅会在物理基础设施上投资，还会提供管理和发展科学和技术园区的专业知识，'' 太阳谷董事安德鲁斯·巴格多纳斯说道。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\n1月天然气以每百万英热单位2.289美元的价格交易，上涨了4.7美分，或2.1%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift. \n\n翻译为中文：突然对 iPhone 销量的乐观预期（即，情况没有预想中的糟糕）为苹果公司（$AAPL）提供了支持。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Finland, Sampo Bank, now part of the Danske Bank group, will lay off staff from the administrative and support functions.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gundlach，他在2016年预测了特朗普的选举结果，表示如果经济保持稳定，他将会再次获胜。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As part of the agreement, 10 employees from the John Deere Forestry documentation functions will transfer to DokuMentori Oy.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The talks concerned about 160 people in Finland and the initial estimate was for about 35 redundancies, Fiskars said. 翻译为： “费斯托尔公司表示，此次讨论涉及芬兰的160人，初步估计将裁员约35人。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新型的滚装/纯汽车运输船的成本比现有的船只低30%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新发行的股票将给予股东完全的股东权利。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence you provided translates to: \"Kraft, Cadbury's, and Britvic in Total Recall: how pulling a product affects profit.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Diageo公司对印度董事会动荡保持中立。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"At 1411 CET , ArcelorMittal had lost 7.26 % to EUR 17.38 on Euronext Paris , coming at the lead of the blue-chip fallers .\"} 翻译成中文为：{\"在1411 CET时，阿赛勒米塔尔在欧洲证券交易所巴黎失去了7.26％，达到了蓝筹股下跌的领导地位。\"}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2006, the company intends to invest significantly in expanding its distribution and maintenance network.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet's shares increased by 5% after the Q2 results on Tuesday evening, but they are still 27% below their peak and have a P/E ratio of 17.7x. In the second quarter, revenues grew by 16% in local currencies, after increasing by 57% last year, which shows Alphabet's resilience in an uncertain world.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aktia predicts Finland's inflation at 1.1% in 2010.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook在过去一周接近一个买入点，今天将面临不同的技术测试。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Amazon.com Inc. has announced plans to launch larger-format Go stores in suburban areas, starting with Mill Creek, Wash. in the coming months.\" 翻译成中文为：\"亚马逊公司宣布计划在接下来的几个月内，首先在华盛顿州的米尔克里克开设更大规模的Go商店，并在郊区地区开设更多。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"There will be return flights from Stuttgart every morning, as well as evening departures on Thursdays, Fridays and Sundays.\" 翻译为中文是： \"从斯图加特每天都有返回航班，并且每周四、周五和周日晚上也有出发航班。\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fed's Rosengren says he is 'optimistic' on economy\n美联储的罗森格伦表示他对经济充满乐观。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Weak Harvey Weinstein appears in New York court for bail hearing.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Beverages - Soft Drinks industry faces headwinds from supply-chain disruptions and higher input costs. Innovative product introductions are likely to help companies such as KO, PEP, KDP and MNST.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We are delighted to announce our support for Intel based handheld platforms, the capabilities of which have made our development easier and faster.\" 翻译成中文是：“我们很高兴地宣布我们支持基于Intel的手持平台，这些平台的能力使我们的开发更轻松、更快速。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vertex Pharmaceuticals Incorporated (NASDAQ: VRTX) 是上漲 1.6% 至 240.25 美元，最後檢查時。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司（纳斯达克：AAPL）股价下跌3.03%至138.78美元。其他几家科技公司也在持续抛售股票的情况下股价下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Total: Fourth Quarter and Full-year 2019 Results} 的中文翻译为：{总计：2019年第四季度和全年业绩}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YANG Double bottom 5.2 is a technical pattern used in the analysis of financial markets. It is a chart pattern that appears when a price chart forms a double bottom, which is a pattern consisting of two low points followed by a rise in price. The pattern is often used to identify potential entry points for buying a security. The \"5.2\" in the pattern name may refer to the distance between the two low points, which is typically measured as 5% and 2% of the price range.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Short more $FAZ for all who don't know that means markets will tank now :-p\" 的中文翻译是：\n\n\"为所有不知道这意味着市场现在会崩溃的人加仓$FAZ :-p\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We look forward to helping the company develop its operational services and further digitalize its services for its customers.\" 可以翻译为：\n\n\"我们期待帮助公司发展其运营服务，并进一步数字化其服务，以满足客户需求。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Baker Hughes announce artificial intelligence partnership for oil and gas industry.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Were Hedge Funds Right About Piling Into PlayAGS, Inc. (AGS)? 的中文翻译是：“对冲基金是否正确地大量买入 PlayAGS，Inc. (AGS)？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"通过Satlan收购，Teleste计划进一步扩大其作为有线电视运营商、广播公司和IPTV服务提供商的视频服务合作伙伴的市场影响力。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Insight 雇佣了 Aviva 的 David Hillier 加入其多资产团队。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon.com Inc. 正在推出一项计划，将燃料购买的双倍现金返还奖励增加到 Amazon Flex 借记卡持有者最多可达 12%，以帮助 Flex 配送伙伴应对燃料价格上涨。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n{vTv Therapeutics leads healthcare gainers; Myomo and Biohaven Pharmaceutical among losers}\n\n中文翻译：\n\n{vTv Therapeutics 领跑医疗保健板块的赢家；Myomo 和 Biohaven Pharmaceutical 是输家之一}\n\n请注意，由于您提供的句子中包含了一些特定公司名称和行业术语，因此我的翻译可能并不完美。如果您需要更准确或详细的翻译，请提供更多的上下文信息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n{$NFLX +3% of the lows}\n\n中文翻译：\n{\"NFLX\"股票价格下跌了3%。}\n\n请注意，由于缺少上下文，这个翻译可能并不准确。如果有更多的上下文信息，可能需要调整翻译。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"New Credit Suisse boss faces stiff challenge in Asia\" 的中文翻译为：\"瑞士信贷新任总裁在亚洲面临巨大挑战\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{( ADP News ) - Feb 6 , 2009 - 芬兰渔具公司 Rapala VMC Corp ( HEL : RAP1V ) 今日表示，其 2008 年净利润增至 1920 万欧元（2460 万美元），比 2007 年的 1750 万欧元有所上升。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "商品，包括原油和铜，下跌，因为担心冠状病毒将削减中国对原材料的…",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "许多人很快就会称科技股被高估了——但如果相反的情况是真的呢？",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish IT services provider TietoEnator Oyj的几位主要股东周五拒绝了收购店Nordic Capital提出的敌意收购1.08亿欧元的1.67亿美元的报价，为可能来自Blackstone Group LP和挪威电信Telenor ASA的反击报价注入了新的活力。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "J.B. Hunt (JBHT), Archer-Daniels (ADM), NVIDIA (NVDA), Tractor Supply (TSCO) and AmerisourceBergen (ABC) could be compelling picks for investors seeking safe and consistent income. \n\n翻译：J.B.亨特（JBHT），阿彻丹尼尔斯（ADM），英伟达（NVDA），拖拉机供应（TSCO）和AmerisourceBergen（ABC）可能对寻求稳定和一致收入的投资者来说是有吸引力的选择。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Merged LSE and Deutsche Börse would be led by Germany's Kengeter. \n\n翻译成中文为：合并后的 LSE 和 Deutsche Börse 将由德国的 Kengeter 领导。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"He announced a 'solutions unit' to speed up co-operation in August, and shifted Simonson from finance chief to low-end phones in October.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"股市更新：股市滑落到交易低点。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia investors should be aware of these upcoming events. \n\n翻译为中文：Nvidia投资者应该关注这些即将发生的事件。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

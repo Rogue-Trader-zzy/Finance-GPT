@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The net sales decreased to EUR 49.8 million from EUR 59.9 million. \n\n中文翻译：净销售额从59.9百万欧元下降到49.8百万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Daseke 任命 Chris Easter 为 CEO。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Asian Markets Close: Nikkei -0.6%, Hang Seng -0.6%, Shanghai +0.5% \n\n亚洲市场收盘：日经指数-0.6%，恒生指数-0.6%，上证指数+0.5%",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire CEO 加大力度，促使 Baxalta 董事会开始讨论。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "尽管其高市盈率，L E Lundbergföretagen AB (publ) (STO:LUND B) 是否仍然被低估？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stifel 将从 Barclays 手中收购前 Lehman 经纪业务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ITV 股票价格：集团考虑收购加拿大的娱乐公司 One。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "日本日经新闻以13亿美元的价格收购了英国《金融时报》。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The device offers multimedia performance along with a host of productivity applications, including live stock prices.\n\n设备提供多媒体性能，以及一系列生产力应用程序，包括实时股票价格。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"After piloting, the instrument will be further developed according to the experiences gained.\"\n\nIn Chinese, it translates to: \"试点之后，仪器将根据获得的经验进一步开发。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is as follows: \n\nNetflix 轻松涨到 500 美元，到二月底结束。然后保持稳定，第二份盈利报告时涨到 600 美元。年底无论如何都能涨到 800 美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence you provided translates to: \"Please help me translate the following English sentence into Chinese. Here is the English translation: {loading $SPY and $AAPL puts. think were toppy IMHO.}\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sales fell abroad but increased in Finland.\n= 海外销售额下降，但芬兰销售额增加。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"周一，股票市场表现强劲！股票代码：SBUX, GVP, NKE\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I believe that the SPY still wants to go higher.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VIX 警告即将到来的市场修正。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The OMX Nordic 40 (OMXN40) index, which includes the 40 most traded Nordic stocks on the Nasdaq OMX exchange, closed up 0.43% at 1,138.84 points on Wednesday.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"U.S. job openings remained elevated in February, prior to the unprecedented surge in layoffs.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "All five of these companies have made patient investors millionaires (or much more). Here's what you can learn from them.\n= 这五家公司让耐心投资者成为了百万富翁（或者更多）。以下是你可以从他们身上学到的东西。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rival companies GWR and WATCO have take-over interest in $RA.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"PNC, Goldman Sachs 收到股息上调绿灯 (但别行动)：http://stks.co/2pa7 $PNC $GS\" 翻译成中文为 \"PNC, 高盛收到股息上涨许可 (但别行动)：http://stks.co/2pa7 $PNC $GS\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：The operating profit and turnover for the nine-month period increased respectively from EUR2.4m and EUR43.8m, as compared to the corresponding period a year ago.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"胡将对选定的书籍提供折扣，折扣幅度在25%至50%之间。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"为什么Pinterest的股票刚刚上涨了12.5%？\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It will use the proceeds from the transaction to achieve its target.\" 的中文翻译为：“它将使用交易的收益来实现其目标。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "South Africa could fall deeper into junk territory after S&P cut the outlook on its assessment of the nation’s debt... https://t.co/ej4julbme6\n\n南非可能在标准普尔下调对国家债务评估的展望后进一步陷入垃圾级领域。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{欧盟将壳牌、英国石油和斯塔托尔从乙醇基准调查中删除}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "(路透社) - 星巴克公司于周四任命拉克斯曼·纳拉辛汉为新任首席执行官，自10月1日起生效。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The e-commerce services company's latest sell-off probably doesn't have anything to do with its business. \n\n直译为：电子商务服务公司的最新出售行为可能与其业务无关。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The United States has been reclaiming its industrial preeminence in sector after sector after sector,\" the \"Mad Money\" host said.\n翻译为中文为：\n“美国在各个领域都重新确立了其在工业方面的领先地位，”《疯狂金钱》的主持人说。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊公司（NASDAQ: AMZN）股价周三下午下跌2.17%至119.54美元，市场对美联储加息75个基点的决定作出反应。此外，美联储还发布了对通胀、失业率和经济增长的预期。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL的行动在收盘时表明，AAPL可能触及了短期高点。在巨大的跑动之后，动量正在减缓。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉召回所有Model X车型...详情正在显示...$TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva关闭Friends Life总部，进行快速整合。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aurora Cannabis 股票在盘前下跌 16%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加利福尼亚州部门将拒绝Sezzle的贷款执照申请。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google has agreed to a $391.5 million settlement with 40 states in connection with an investigation into how the company tracked users' locations, state attorneys general announced Monday, calling it the largest multistate privacy settlement in U.S history.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WGO的董事会正确地拒绝了该提议。该公司因为经济环境而处于低迷状态，并不是由于任何类型的管理不善或其他原因。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The figure includes the change in the fair value of the property portfolio, EUR 26.2 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 1.60 $NYMT on news 6000 shares. Stock fell 80% and now can run big.\n\n这句话翻译成中文是：“在1.60美元的NYMT新闻中，有6000股。股票下跌了80%，现在可以跑大。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"SOULLOR the regular scrappy Q $SWY usually presents. Sales weak, margins down, debt still way up.\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "目前，预计美联储在3月15日至16日举行的会议上，当资产购买计划结束时，将加息50个基点。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "印度的反垄断监管机构于周四因与安卓移动设备相关的“多个市场”中的反竞争行为，对谷歌处以1.61亿美元的罚款。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Kohl's EPS 每股盈利不及预期 0.12 美元，但收入超预期。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The corrected chapter is in its entirety below.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Today's Free Feature: Strategy Meeting Key Points: Bullish Close to 2019 But Risks Remain $FDX, $FSLR, $CLDR, $CLF,…\n\n今天的免费功能：策略会议要点：对2019年的牛市抱有信心，但风险仍然存在。$FDX，$FSLR，$CLDR，$CLF，…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "高风还掀翻了 I-15 北部的巴斯托以北的三辆半挂车。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2006, performance was affected by the consolidation trend in the telecom sector and overall and structural changes in the contract manufacturing market in telecommunications technology and industrial electronics.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"COMPTEL CORPORATION Sami Ervio President and CEO Distribution: NASDAQ OMX Helsinki Major media Comptel Dynamic OSS solutions enable telecom service providers to deliver services flexibly and charge them effectively.\"\n\n翻译为中文为：\n\n\"COMPTEL公司总裁兼首席执行官Sami Ervio，在纳斯达克赫尔辛基上市。主要媒体：Comptel动态OSS解决方案使电信服务提供商能够灵活地提供服务，并有效地收费。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

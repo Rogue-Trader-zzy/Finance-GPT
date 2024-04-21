@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Activision Blizzard Inc. 的股价被卷入了微软公司是否会获得 6900 亿美元收购游戏发行商的监管批准的猜测中，但韦尔斯法戈分析师布莱恩·菲茨杰拉德认为，无论合并是否发生，该股票看起来都很吸引人。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advantego reports Q3 results: 优势科技发布第三季度业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Odell has not contacted the State of Finland in this issue. \n\n翻译：奥德利尔在这件事情上没有联系芬兰国家。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell offers a 50 percent premium to buy BG for $70 billion.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"俄罗斯支持OPEC+石油产量削减\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company has had two troubled product launches in the last couple of months. 公司最近几个月内已经两次遭遇产品发布问题。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca遭遇挫折，药物未能治疗眼癌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ETN UPGRADE today by MS to overweight.  Excellent company and leadership} 的中文翻译是：\n\n\"今天由 MS 升级的 {ETN} 被增持至超配。公司及领导力优秀。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The insurer anticipates its share in Nordea's net profit to be significant. \n\n保险公司在诺德亚的净利润中所占份额将非常可观。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些阀板的正面朝向彼此。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些公司拥有一座面积为20,000平方米的办公和商业建筑，以及在斯德哥尔摩Liljeholmen地区新建购物中心的大笔土地权利。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "尽管没有数据显示外科口罩可以预防冠状病毒，但人们仍然在抢购外科口罩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Twilio Inc. 全年业绩刚刚出炉：分析师对明年的预测如下。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the second quarter of 2010, the group's net profit rose to EUR 3.1 million from EUR 2.5 million in April-June 2009. \n\n翻译成中文为：在2010年第二季度，该集团的净利润从2009年4月至6月的250万欧元增长到310万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政从Ofcom邮政监管报告中收到了混合反馈。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NVIDIA Corp (NASDAQ: NVDA) 的股票周四收盘持平，原因是该公司报告了财务业绩参差不齐。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如何寻找便宜的买进排名股票，交易价格低于10美元 - 纳斯达克。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RK Group, headquartered in Vantaa, Finland, is one of Europe's leading machinery rental services.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Howard Schultz's first act on his return as Starbucks CEO is to pause the company's share buyback program.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国商务部对中国芯片制造商实施的出口管制可能会进一步扰乱半导体行业。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company needs to focus on more specific genres. \n\n翻译：公司需要聚焦于更具体的类型。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple fans looking to buy the iPhone 14 Pro should expect delays as Apple's factories in China face labor protests and Covid-related lockdowns. \n\n苹果粉丝购买 iPhone 14 Pro 时应该预期延迟，因为苹果位于中国工厂的劳动力抗议和与新冠病毒相关的封锁。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The plant is currently operating at full capacity.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YouTube正在准备启动Shorts的稳定货币化，这是它的短格式视频产品，根据纽约时报的一份新报告。YouTube计划在YouTube Shorts上推出广告，并为创作者提供收入分成，根据纽约时报获得的YouTube全体会议的音频。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "An analyst from BMO Capital Markets downgrades shares of Adobe on concerns for the future of the company's Creative Cloud business.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VIVUS up 8% premarket on positive Qsymia effect in binge-eating disorder. \n\n翻译成中文：VIVUS 在早盘上涨了 8%，原因是 Qsymia 在暴食症方面的积极效果。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given sentence: \"Pypl great vol flow trade here.. Love this company long time.\" in Chinese: \"这里有着巨大的交易量，良好的流动性和交易，我长期以来一直喜欢这家公司。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$WX Decent pull back . .} 的中文翻译是：“{$WX 体面地撤回...}”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Ponsse has signed an agreement with Babcock Africa for the distribution and support of Ponsse forest machines, harvester heads, and information systems in South Africa. \n\n芬兰 Ponsse 已经与 Babcock Africa 签署了一项协议，负责在南非分销和支持 Ponsse 森林机器、采伐头以及信息系统。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Netflix, Inc. (NASDAQ: NFLX) shares increased by 7.1% on Wednesday following the company's report of better-than-anticipated subscriber losses in the second quarter and the unveiling of plans to introduce a new, low-cost, ad-supported subscription level. On Tuesday, Netflix announced its second-quarter adjusted EPS of $3.20.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是国会可能在年底前批准的一些商业税收抵免：https://t.co/u1I1EA143V",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SiriusXM在2016年第一季度新增了465,000名净新订阅者。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NBC表示，2020年夏季奥运会的国家广告销售已超过10亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n\"Top Instant Pot Black Friday Deals 2019: Instant Pot Ultra, DUO & LUX Multi-Cooker Savings Rated by Consumer Articles\"\n\n中文翻译：\n\n\"2019年黑五最佳Instant Pot促销：Instant Pot Ultra、DUO & LUX多功能锅优惠，消费者文章评价\"\n\n在这个句子中，\"Top\"表示\"最佳\"或\"顶级\"，\"Instant Pot\"是压力锅品牌，\"Black Friday Deals\"指的是\"黑五促销\"，即美国感恩节后的购物狂欢，\"2019\"表示年份，\"Instant Pot Ultra\"、\"DUO\"和\"LUX Multi-Cooker\"是Instant Pot的产品型号，\"Savings\"表示\"优惠\"，\"Rated\"表示\"评价\"或\"评分\"，\"Consumer Articles\"表示\"消费者文章\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ISEE IVERIC bio Appoints Guangping Gao, PhD, Internationally Recognized Gene Therapy Pioneer as Chief...… https://t.co/DHRFmCemmg}\n\nISEE IVERIC bio任命了国际公认的基因治疗先驱、博士，光平高为首席...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BAE Systems would provide intelligence analysis for the Defense Intelligence Agency.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "指标RSI超过50，目前为56.1，预示着有上涨的趋势。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EnerBank Scholarship Helps Build the HVAC Future with Qualified Workers\n\n翻译成中文：EnerBank奖学金助力培养合格的HVAC人才，助力构建HVAC未来。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 开始限制跨家庭密码共享，成为第一家这么做的流媒体公司。我们预计客户将重新评估他们的订阅价值，尤其是随着价格上涨，他们已经开始这么做了。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "明天是熊市派对时间！$GOOG和$MSFT下跌了5.5%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance tech reporter Dan Howley explains what to know about Take-Two Interactive's planned acquisition of Farmville creator Zynga. Don't Miss: Valley of Hype: The Culture That Built Elizabeth Holmes WATCH HERE: https://youtu.be/Sb179GLPNYE Watch the 2021 Berkshire Hathaway Annual Shareholders Meeting on YouTube: https://youtu.be/gx-OzwHpM9k\n- 雅虎财经科技记者丹·豪利解释了关于动视暴雪计划收购《农场物语》创作者Zynga的信息。不要错过：炒作之谷：造就伊丽莎白·霍姆斯的文化。观看这里：https://youtu.be/Sb179GLPNYE 在YouTube上观看2021年伯克希尔·哈撒韦年度股东大会：https://youtu.be/gx-OzwHpM9k",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SoftBank打算继续进行WeWork股票要约收购：路透社",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \n\n{$CVX - Chevron Corporation 2019 Q4 - Results - Earnings Call Presentation. https://t.co/KnX6FK9iql #trading #stockmarket #finance} \n\nChevron Corporation 2019 Q4 财报 - 收益电话会议报告。\n\nThe URL is not translated because it is a link and does not need to be translated. The hashtags are also not translated as they are specific to the English language.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RusHydro has an agreement to transfer its stakes in OESK and the five ERCs into the trust management of Inter RAO.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"谢泼德·史密斯在上个月突然离开福克斯新闻后首次公开露面，谈论新闻自由……\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司的市值超过了整个标准普尔500能源指数的总和，包括行业巨头如埃克森和雪弗龙。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年9月29日，芬兰废物管理和回收公司Lassila & Tikanoja在莫斯科附近的城市Dubna扩展其业务，引入其最近完成的回收工厂。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ridley: 管理层致股东的信 #Ridley #股票 #市场筛选器 https://t.co/fjoLUsOYUK https://t.co/UXVKthM3qK",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"随着美联储提高借贷利率，投资者对于高飞科技股的情绪发生了显著的变化。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Have Never Been This Bullish On Cathay General Bancorp (CATY)\n\n对渣打银行（CATY）的押注从未如此乐观。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

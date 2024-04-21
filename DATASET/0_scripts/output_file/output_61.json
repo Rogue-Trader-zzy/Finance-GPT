@@ -1,0 +1,302 @@
+[
+  {
+    "input": "在美国日益增长的监管审查下，亚马逊的海外努力变得越来越重要。但是，国际增长一直是一个挑战，特别是在印度。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon表示，今年的感恩节购物周末是其历史上规模最大的。这家零售巨头于11月30日星期三表示，感恩节和网络星期一之间的“火鸡五”周末期间，客户购买了“数亿件商品”，但未提供更多细节。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{您是否应该跟随伯克希尔·哈撒韦进入苹果股票？}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Famur S.A. : TDJ Equity I Sp. z o.o. 收购了 Famur Famak S.A. 的控股股权。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CDP was established on the initiative of institutional investors; however, the annually published results also interest an increasing number of customers and other interest groups of the reporting companies.\n\n中文翻译：碳排放披露项目（CDP）是在机构投资者的推动下成立的；然而，每年发布的成果也引起了越来越多的客户和其他利益相关方对报告公司的兴趣。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Some employees in Amazon's human resources department will clock out for the last time on Dec. 23, part of a broad push by the Seattle-based company to shrink its corporate workforce by 3% in coming months. \n\n翻译成中文为：亚马逊人力资源部门的一些员工将于12月23日最后一次打卡下班，这是该公司基于西雅图总部，在未来几个月内缩减企业劳动力3%的广泛努力的一部分。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Adam Parker, Trivariate Research, CIC Wealth's Malcolm Ethridge and OptionsPlay's Jessica Inskip join 'Closing Bell: Overtime' to discuss the markets heading into midterms and year end.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n\n\"在周五收盘时添加了$SPY $LABU $BLUE $AMZN\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Just Eat 建议股东不要接受 Prosus 的报价。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"中国石油天然气集团公司（CNPC）将揭晓石油联盟——消息来源\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "4月20日早间，QQQ期权4月204合约的持仓量增加至32,443，原因是昨日早间有2万手以0.94美元的价格买入，之后又有1万手以……（由于链接不完整，无法提供完整翻译）。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new majority owners of Aspocomp Thailand Co., Ltd are certain private persons belonging to immediate circle of Aspocomp's present Joint Venture partner, Saha Pathana Inter-Holding Plc. \n\n新的大多数所有者，即Aspocomp泰国有限公司的新大股东，是Aspocomp当前合资伙伴Saha Pathana Inter-Holding Plc的亲密圈内人士。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些是2019年最好的5支太阳能股票。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "收到的订单同比增长了55%，达到7.32亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EasyJet 预计坚韧的需求能够抵御安全担忧。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"书生·浦语，这里令人印象深刻的一步... https://t.co/xZ5MaEJPdG\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The warehouse club keeps it simple—limited selection, low prices, and good execution—without major e-commerce exposure. Its membership and sales are soaring, and it's even good at controlling shoplifting.\n\n直译：仓库俱乐部保持简单——有限的选择，低价格，良好的执行——没有主要的电子商务曝光。其会员和销售正在飙升，甚至在控制盗窃方面也很擅长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The winner does not have to be present to win. 翻译成中文是：获奖者不必亲自到场就能获奖。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "零售商Kingfisher和Sports Direct在英国股票指数中上升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是该英文句子的中文翻译：\n\"美元指数与$SPY之间的相关性真是令人惊叹。美元指数找到支撑，$SPY像时钟一样规律地撤退。\"\n\n英文翻译：\n\"The correlation between the dollar index and $SPY is simply amazing. $DX finds support, $SPY retreats like clockwork.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Maybe closing all those $AAPL calls I had this morning was a bad idea, money left on the table...\" can be translated to Chinese as: \"也许我今天早上关闭所有的$AAPL认购期权是一个糟糕的决定，错失了赚钱的机会...\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Norsk Hydro (OB:NHY) Share Price Is Down 21% So Some Shareholders Are Getting Worried 翻译为：挪威海德鲁（OB:NHY）股价下跌21%，因此部分股东感到担忧。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence to Chinese is: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$XLI Potential intermediate top in an Uptrend on a 60'-15'-4' charts http://stks.co/j1TdF} \n\nHowever, since the sentence is already in English, I can provide the translation directly: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {$XLI Potential intermediate top in an Uptrend on a 60'-15'-4' charts http://stks.co/j1TdF}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence is: \"股权的支付将在认购时完成。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given text is:\n\nBulls have some advantages, but don't disregard the infamous big short in AAPL stock, and consider collaring an Apple purchase. The post Apple Stock Is a Buy Despite Its Flaws appeared first on InvestorPlace. More From InvestorPlace Stock Prodigy Who Found NIO at $2… Says Buy THIS It doesn't matter if you have $500 in savings or $5 million.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook will soon be in the buying zone.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{JAB Weighs IPO for Coffee Business Including Peet's Brand}\nJAB 正在考虑为其咖啡业务，包括 Peet's 品牌进行 IPO。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Is Hess Stock a Buy? 翻译成中文为：“赫斯股票是否值得购买？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The engine has an electrical output of 18,321 kW, making it the largest gas powered generating set in the world.\" 翻译为中文为：“这台发动机具有18,321千瓦的电力输出，使其成为世界上最大的燃气发电设备。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧盟监管机构支持批准葛兰素史克可注射性哮喘药物。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GrubHub 股票价格目标从 Oppenheimer 的 $34 上调至 $40。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"是否在它派息前购买TJX公司（纽约证券交易所：TJX）是明智之举？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the latest trading session, Alphabet Inc. (GOOG) closed at $2,545.57, marking a +0.64% move from the previous day.\n\n翻译成中文：\n在最近的交易时段，Alphabet Inc.（GOOG）以$2,545.57收盘，相较于前一天上涨了0.64%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"One reason Telecom stocks like CFLD stock are attractive is because they are less susceptible to consumer spending trends than tech stocks. The post 7 Telecom Stocks to Buy for March appeared first on InvestorPlace.\" 翻译成中文是：\"电信股如CFLD股吸引人的一个原因是它们比科技股更少受到消费者支出趋势的影响。《三月值得购买的7只电信股》这篇文章首先出现在投资者场所。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fortis Inc. (FTS) 是否会烧掉这些对冲基金？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Based on the long term picture of crude oil… it’s all pointing to a very bearish picture,\" @spyjared sa… https://t.co/Gr2SNNpCOz\n\n基于长期的原油走势图……所有迹象都指向非常疲软的走势。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "由于取消，基于可转换债券的Citycon股份资本的最大增幅从23,383,927.80欧元降至22,901,784.75欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Z. Bavelloni's long-standing MD, Dino Bavelloni, has retired at the end of 2005. 翻译为：Z. Bavelloni 长期以来的 MD，Dino Bavelloni，在 2005 年底退休。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Maharashtra Chief Minister Devendra Fadnavis Announces Rs 5.3-Lakh Crore Relief For Farmers\n\n马哈拉施特拉邦首席部长德文德拉·法德纳维斯宣布向农民提供5.3万亿卢比的救济。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL Right back in... - 买回CNBC带来的下跌。LOL",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bilfinger Industrial Services 赢得 1 亿英镑的 BP 合同延期。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Global X SuperDividend U.S. ETF (DIV) 目前是一个强劲的 ETF 吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Macy's, Inc.'s (NYSE:M) CEO's pay relative to peers?\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alandsbanken has given a \"buy\" recommendation on Swedish industrial company SKF AB (STO: SKF B) with a share price target of SEK150.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia is a pioneer in mobile telecommunications and the world's leading maker of mobile devices.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "买家的名字未被披露。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BMO 昨天刚刚将 $INCY 的评级调整为超配，而其他几家公司也纷纷重申了买入评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Hasbro (HAS) establishes a strategic partnership with Creative Kids to develop and market the latter's Play-Doh branded product line.\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "QPR 8 集成管理系统是全球组织最快速、最简单、最高效地掌控以人为中心业务流程的方式。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司表示，全年净销售额预计将增长约10%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

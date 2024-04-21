@@ -1,0 +1,302 @@
+[
+  {
+    "input": "BG AD is Bulgaria's leading Internet company.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The parent company of India's ShareChat has raised nearly $300 million in fresh funding from Alphabet Inc's Google, media giant Times Group and Singapore's Temasek Holdings, valuing the social media firm at nearly $5 billion, two sources involved in the deal discussions told Reuters.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The delivery is expected to take place later this month.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company has decided to stop the operations of Ruukki Construction Division in Latvia and Lithuania, and concentrate the production and logistics in Parnu, Estonia in 2009.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon reported revenue that topped estimates and gave a strong sales forecast for the current quarter. Bloomberg Intelligence's Poonam Goyal breaks down the numbers on \"Bloomberg Markets: The Close.\"\n\n中文翻译：\n亚马逊的营收超过了预期，并给出了本季度强劲的销售预测。彭博智能的Poonam Goyal在“彭博市场：收盘”中分析了这些数字。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"前沿技术遇见传统医疗。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在过去几周的总体恢复努力之后，苹果公司（纳斯达克：AAPL）周三早上面临了一些问题。AAPL股票在当天的交易一开始就处于亏损状态，随后略有回升。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Insight 雇佣了 Aviva 的 David Hillier 加入多资产团队。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Roku already has a massive opportunity to grow its ad revenue, and it could soon get a significant boost.\n直译：Roku已经有一个巨大的机会来增加广告收入，它不久可能会得到显著的提升。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"投资债券：为什么2%的收益率并不疯狂。继续阅读：https://t.co/3BjS4R7fUo #经济 #市场 #金融\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FB 拒绝 HIGHS 可卖空...在 109。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们认为，在考虑到其更好的前景后，亚马逊股票目前是优于联合包裹服务（UPS）股票的选择。AMZN股票的估值略高于1.8倍，而UPS为1.5倍。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sophos aims to raise $100m in London IPO.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VMarkets 仍在表现疲软。\n(Translation: VMarkets are still acting weak.)",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Peroni and Grolsch 被摆上货架，因为 AB InBev 计划收购 SABMiller。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Shire to buy NPS for $5.2 billion to boost rare disease drugs\" 翻译成中文为：\"Shire以52亿美元收购NPS，以增强罕见疾病药物。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Aviva, Friends Life top forecasts ahead of 5.6 billion pound merger\" 的中文翻译是：\n\n\"Aviva, Friends Life 领先于 56 亿英镑的合并\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Zee Entertainment's Subhash Chandra Resigns As Chairman\n\nZee Entertainment Enterprises Ltd. 的 Subhash Chandra 辞去董事长职务。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Big changes may be coming to Netflix Inc. a lot sooner than expected.\"} 的中文翻译为：“Netflix Inc. 可能会有比预期更早的大规模变化。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY 周线，倒头肩形态形成，触发点超过 18.50，支撑位至少 30.80，关注 http://stks.co/iPVJ",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alma Media Corporation Press Release 15 March 2010 TYRVAAN SANOMAT AND PAIKALLISSANOMAT BEING BOUGHT BY SUOMEN PAIKALLISSANOMAT Two local papers, Tyrvaan Sanomat and Paikallissanomat, appearing in Sastamala and its neighbouring municipalities, are to be bought by Suomen Paikallissanomat Oy. \n\n中文翻译：\n2010年3月15日阿尔玛媒体公司新闻稿：《Tyrvaan Sanomat》和《Paikallissanomat》将被苏门帕伊克兰萨诺马特公司收购。这两份当地报纸，分别在萨斯塔马拉及其周边地区发行，将被苏门帕伊克兰萨诺马特公司收购。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We hope to increase traffic volumes with the opening of Freight One Scandinavia.\" 翻译成中文是：“我们希望通过开通Freight One Scandinavia来增加交通量。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple wants to become cash neutral. To do so, it is returning excess cash through buybacks and dividends. \n\n苹果公司希望实现现金中性。为此，它通过回购和股息返还多余现金。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "G4S slides on balance sheet worries\n\n翻译：G4S因资产负债表担忧而滑坡。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "原文：As analysts and investors pored over Google's record fourth-quarter results Tuesday (Feb. 1), which were led by strength in its burgeoning cloud computing business and legacy search and advertising empire, the company's evolving eCommerce and retail story would not be denied its chance to also be in the limelight. “I've said it before and I'll […]\n\n翻译：当分析师和投资者周二（2月1日）仔细研究谷歌创纪录的第四季度业绩时，其业绩由其蓬勃发展的云计算业务和遗留的搜索和广告帝国领衔，这家公司的不断发展的电子商务和零售故事也不会被忽视，有机会也站在聚光灯下。“我之前说过，我也会[…]”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nIntel Corp (NASDAQ: INTC) 的股票周四上涨，因为多份报道称该公司正在与 NVIDIA Corp (NASDAQ: NVDA) 进行洽谈，以协助芯片制造。根据一篇报道，Intel CEO Pat Gelsinger 确认了该公司正在与 Nvidia 进行讨论。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{随着Netflix考虑展示广告和Roku的业务放缓，这个举动变得合理。}",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Activision Blizzard: 合理的增长价格和买入低点的机会\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$aapl high of day just hit. Back at it tomorrow.}\n\n苹果股票当天的最高价刚刚触及。明天继续努力。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是该句子的中文翻译：\n\n**美国加利福尼亚州洛斯加托斯市，2022年12月15日/PRNewswire/--Netflix, Inc.（纳斯达克股票代码：NFLX）今日宣布，该公司将于2023年1月19日星期四，在大约1:00 p.m.在其投资者关系网站上发布其第四季度2022年财务业绩和业务展望，网址为http://ir.netflix.net。**",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Susquehanna将Twitter的股价目标从34美元上调至47美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The billionaire who controls luxury-goods giant Richemont is considering selling stakes in two South African fiber-based companies.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"GOOG\" is testing the 200-day line after some consolidation.}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sanofi挖走AstraZeneca科学家，任命为新研究负责人。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Arbutus 放弃 AB-452；盘前股价下跌 15%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rory Fitzgerald, general manager of operations at Bristol Port, said: \"With the use of low maintenance technology, we can save up to 30% on servicing, plus the load sensing hydraulics can save us an extra 15 to 30% on fuel consumption.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UK lawmaker blames HSBC, Standard Chartered, Bank of Baroda in South Africa corruption.\n\n英国国会议员指责汇丰银行、标准查尔斯银行和博达银行在南非腐败。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"LOGN - 洛根斯波特财务报告发布年度财务结果 https://t.co/QRr1rIOzp4\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 正在努力创造忠实客户 $NFLX https://t.co/5QXBkoBphe\n\n翻译：Netflix 正在加大力度吸引忠实用户 $NFLX https://t.co/5QXBkoBphe",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ECB can mainly target inflation.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该句子翻译成中文为：\"这是今年最弱势的行业，并且可能出现虚假突破。\" 英文翻译为：\"This is the weakest sector this year and possible false breakout.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"全球股市上涨，因为中国采取措施加强知识产权保护。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Finnlines will announce in week 17 of 2006 what measures it will take to tackle the situation.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Long $ENDP @ $26.23 on $AGN b/o rumor\" 的中文翻译为：\"因为谣言，$ENDP在$AGN上的持仓为$26.23\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the last week, Protalix BioTherapeutics Inc (AMEX: PLX) published a prospectus for a first offering on AMEX of approximately 5% of its share capital.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia and Apple have tons of potential in the growing VR market.\n\n英译中：\n英伟达和苹果在不断增长的VR市场中有着巨大的潜力。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rapala表示，它估计每年将通过将法国运营集中在一个地点而节省1-2百万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result of the negotiations, the employment of 130 blue- and white-collar employees at the Oulu plant would be terminated.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"JUST RELEASED: Oil Price Dynamics Report Oil prices rose over the past week owing to decreased supply.\"\n\n翻译为中文：\n\"刚刚发布：油品价格动态报告。过去一周，油品价格上涨，原因是供应量减少。\"\n\n英文翻译：\n\"JUST RELEASED: Oil Price Dynamics Report Oil prices rose over the past week owing to decreased supply.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EBIT总额为1440万欧元，而2009年同期则为亏损30万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "This sentence can be translated to Chinese as: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$STX move off the bottom but still in bear market #datasecurity $EMC $SNDK $WDC https://t.co/VkYdWPxeSN}.\"\n\nAs for the translation of the sentence, it is: \"The $STX stock has moved off the bottom but is still in a bear market. #datasecurity. Also, $EMC, $SNDK, and $WDC are all experiencing similar trends.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Technopolis, St. Petersburg's Telecommunications University and the Russian Support Fund for Legislative Initiatives signed a protocol of intent in May of this year to set up a technopark in St. Petersburg on the base of the St. Petersburg Telecommunications University.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{我今天会购买巴克莱银行（Barclays PLC）和劳埃德银行集团（Lloyds Banking Group PLC）这两家银行}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Other potential clients include public administration organizations investing in utility networks and services. 可以翻译为：其他潜在客户包括投资于公用事业网络和服务的公共管理组织。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ouch looks like $tsla shorts getting skinned again\" 的中文翻译是：“哎哟，看起来特斯拉的空头又要被套住了。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"Ending balance: $330 - now Long - not getting follow through, either side of price action.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，下面是英文翻译：\n\n原文：{@gakrum nice chart shows distinctive down channel not a dip.. where do you see the bottom? $SPY ..$150? ..$130?}\n\n翻译：{\"@Gakrum\"这张图表显示了明显的下跌通道，而不是一个下跌。您认为底部在哪里？$SPY...$150？...$130？}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "查看这些电子竞技股票，因为该行业正在不断发展。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Citi reels in PT on Nu Skin\" 翻译成中文为 \"花旗银行押注新肤化妆品公司\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Group's business is balanced by its broad portfolio of sports and presence in all major markets. \n\n翻译成中文：\n该集团的业务由其广泛的体育投资和在各大市场中的存在所平衡。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The beverage company posted a solid first-quarter earnings report. （这家饮料公司发布了强劲的第一季度盈利报告。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vereit +1.7% after settling with SEC\n\n翻译：Vereit在解决与SEC的争议后上涨了1.7%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon is pausing hiring for its corporate workforce, the latest move by the company to cut costs amid worries about the wider economic environment. \n\n翻译：亚马逊正在暂停对公司员工招聘，这是公司为应对对更广泛的经济环境的担忧而采取的最新削减成本的举措。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Prime Video has supplanted Netflix as the No. 1 subscription streaming outlet in the U.S. in an annual ranking compiled by research firm Parks Associates. (See full chart below.)\n\n亚马逊Prime视频已经成为美国订阅流媒体服务市场的领先者，这一排名是由研究公司Parks Associates编译的年度排名。（见下面的完整图表。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "What's up with $LULU? Numbers looked good, not great, but good. I think conference call will instill confidence.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Aviva weighs cash handout after beating profit forecast\" 翻译为中文是 \"Aviva 在盈利预期被超越后权衡现金红利\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我很高兴我在上周以113美元的价格止损时得以脱身。下周一开始我会重新介入，以应对盈利预期。\n\n英文翻译: \"Now I'm glad I got stopped out of my $113 weeklies when I did. Will re-enter next Monday for the #earnings run-up.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple workers are pushing back against the company's return-to-office mandate, and former Oracle employees criticized the unit's leadership.\n\n苹果员工正在反对公司返回办公室的命令，而前甲骨文员工批评了该部门的领导。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Is Trouble Brewing At Legal & General Group Plc And Aviva plc?\n\n法律与一般集团有限公司和安联保险集团股份有限公司是否正在酝酿麻烦？",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：消费者信心在假日购物开始前提升 -- 消费者综述 #economy #MarketScreener... https://t.co/5hCBNqLjZr",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Laavainen said Benecol was well known in Europe and the US, where it had been in the market for 15 years. \n\n\"Laavainen表示，Benecol在欧洲和美国都非常知名，它已经在市场上存在了15年。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Qualcomm (QCOM) has chip technologies and products, which are well-aligned with Z-ONE TECH's innovation in the field of intelligent car electronic architecture.\n翻译：高通（QCOM）拥有芯片技术和产品，这些与智芯科技在智能汽车电子架构领域的创新非常匹配。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The number of class A shares remains unchanged at 9,526,089 shares.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲能源有限公司：丹麦风电场22.4兆瓦的销售协议已签署。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 不会在其平台上添加俄罗斯宣传节目，与周末初期的报道相反。根据预计于 3 月 1 日生效的法律，Netflix 将被要求播放 Channel One、娱乐网络 NTV 以及俄罗斯东正教教堂频道的内容。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kingfisher share price slides on cost to implement new strategy\" 的中文翻译为：\"金丝雀股价因实施新战略的成本下滑。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The changes made to the as-built models from the design were communicated to the subcontractors to accommodate them into the steel and GRC fabrication process.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Slowly adding some $FIO here but gotta be careful. This will be one of biggest winners in 2012\n\n慢慢在这儿增加一些 $FIO，但必须小心。这将在2012年成为最大的赢家之一。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：Zimbabwe Corn Imports at 11-Year High as GM Ban Lifted。\n\n中文翻译：津巴布韦玉米进口量创下11年来新高，因为转基因禁令被解除。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The workers had been seeking to unionize a store in Memphis.\n\n工人们一直在寻求在孟菲斯的一家商店工会化。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UPM 在第三季度的交付量增加了 4%，并且运营效率得到了提高，\" 首席执行官 Jussi Pesonen 说。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CEO Tim Cook said in a Monday CBS interview that Apple is being \"very deliberate\" about hiring as it navigates current and future economic conditions.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "税前亏损总计为1200万欧元，比2004年的2100万欧元盈利下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon.com (NASDAQ: AMZN) 的股票在整体市场走强的情况下交易价格上涨，因为交易员评估美联储政策前景、上升的国债收益率和季度盈利报告。此外，包括 Amazon 在内的几家零售及服装公司股票在 2022 年经历了疲软。\n\n英文翻译：Amazon.com (NASDAQ: AMZN) shares are trading higher amid overall market strength as traders assess Fed policy outlook, rising Treasury yields and quarterly earnings reports. Shares of several retail & apparel companies, including Amazon, have otherwise experienced weakness in 2022 amid.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The share subscription period for C options will commence on 1 September 2008 and expire on 31 March 2011. 的中文翻译为：“C选项的股份认购期将于2008年9月1日开始，并在2011年3月31日结束。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "选择BasWare作为我们的金融服务工具，似乎是我们合作的自然延续，\" Neste Oil Corporation 财务应用经理 Tommi Leskinen 说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了 Apple Watch Series 8 之外，苹果在新闻发布会上还推出了一款全新的 Apple Watch 型号。Apple Watch Ultra 专为高强度运动追踪而设计。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new Renault CEO de Meo will be much better paid than his predecessor.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n- NFLX and TSLA 取得各种收益 😊\n\n请让我的回答尽可能简洁明了，以便您能够轻松理解。如果您需要任何进一步的帮助，请随时告诉我。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft from its better-than-expected guidance for its fiscal fourth quarter, and strong demand for its cloud services.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "考虑到半导体行业的增长前景，我们在这里挑选了四只股票 - MU, AMD, AVGO 和 SYNA - 它们是长期收益的可靠选择。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"Vertex Monthly - lower high/low,  Long-term uptrend so far.\"\n\nThis sentence appears to be referring to a monthly chart or data analysis, with a mention of a lower high and low, suggesting a downward trend. Additionally, it mentions a long-term uptrend, indicating that the overall trend may be positive despite the short-term fluctuations.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The gaming platform's weak performance was the primary drag on the tech giant's overall fiscal second-quarter results. \n\n翻译：游戏平台的弱表现是科技巨头整体第二季度业绩的主要拖累。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SecureWorks leads technology gainers; Phreesia and NextGen Healthcare among losers\" 的中文翻译为：\"SecureWorks 领跑科技涨幅股；Phreesia 和 NextGen Healthcare 位列跌幅股行列。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"In addition, YIT has reserved EPI Russia the right to expand the logistics center by about 100,000 m2.\" 翻译为中文为：“此外，YIT已为EPI俄罗斯保留了大约100,000平方米的物流中心扩建权。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mr. McDonald 在当晚开始了自己的演出，其中包含了他在个人职业生涯和 Doobie Brothers 时期的代表作，以及一些 R&B 翻唱歌曲，这些歌曲的评价褒贬不一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AMZN Going thru the roof needs a sell!\" 翻译成中文是 \"亚马逊股价暴涨需要卖出！\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence translates to Chinese as follows: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$PSTV 醒了。前跑者仅拥有 3.7M 股流通。短挤候选人。}\n\nPlease help me translate the following English sentence into Chinese. The translation is directly given in English as follows: {$PSTV 醒了。前跑者仅拥有 3.7M 股流通。短挤候选人。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aquestive Therapeutics (AQST) Confirms FDA Approval for Exservan Oral Film - SI https://t.co/v1NbWysR1p\n\n$AQST (+13.1% pre) Aquestive Therapeutics (AQST) Confirms FDA Approval for Exservan Oral Film - SI https://t.co/v1NbWysR1p\n\nAquestive Therapeutics (AQST) 确认 FDA 批准 Exservan 口腔薄膜 - 证券信息 https://t.co/v1NbWysR1p",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's (AAPL) first-quarter fiscal 2022 results reflect robust performance of iPhone and Services segments amid supply chain constraints. \n\n苹果公司（AAPL）2022财年第一季度的业绩反映了iPhone和Services部门在供应链限制下的强劲表现。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

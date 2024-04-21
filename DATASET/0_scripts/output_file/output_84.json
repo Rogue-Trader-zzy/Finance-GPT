@@ -1,0 +1,302 @@
+[
+  {
+    "input": "苹果打破主要支持，以下是一些值得关注的水平 - http://stks.co/jRmW $AAPL $QQQ",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The robust growth was the result of the inclusion of clothing chain Lindex in the Group in December 2007.\n\n翻译：\n强有力的增长归功于2007年12月将服装连锁店Lindex纳入集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bond Investors Are Back, Even in Indonesia -- 2nd Update #taux #MarketScreener\n\n债券投资者回归，即使在印度尼西亚也是如此。\n\n（注意：由于链接内容未给出，以上翻译是基于句子本身的含义。）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil\" 翻译为中文是：\"葛兰素看作利比亚国家石油公司（Tripoli-based NOC）是利比亚石油的唯一合法卖家。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是市场上第一个使用移动设备进行发票和采购申请审批的应用。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"The correlation between the dollar index and $SPY is simply amazing. $DX finds support, $SPY retreats like clockwork.\"\n\n翻译成中文：\n\n\"美元指数与 $SPY 之间的相关性非常惊人。美元指数找到支撑，而 $SPY 则像时钟一样规律地撤退。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大型玩家正在出售哪些股票？{http://stks.co/t0Vel $CROX $GOGO $INO}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n{These stocks pay less than 40% of their profits as dividends.}\n\n翻译：\n\n这些股票只支付了不到40%的利润作为股息。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMGN和UCB宣布一项III期研究评价罗莫索祖玛在男性中的正面顶线结果。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The energy sector accounted for approximately 33% and the steel industry for about 57% of the transportation volume.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "From black swan to bubble: investors weigh coronavirus risks\n\n从黑天鹅到泡沫：投资者权衡冠状病毒风险。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Honkarakenne mainly exports large luxury log houses to Russia to be used as one-family houses or holiday homes; 70% of sales go to the Moscow region, about 20% to the St Petersburg region, and the remainder to other locations.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FinancialWire tm is a fully independent, proprietary news wire service.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天几乎完全达到了近期双底买入点位56.57美元的$WMT（http://chart.ly/6nosp5q）。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Legal & General arm buys 50 pct stake in MediaCityUK in Manchester.\n翻译为中文：\nLegal & General臂膀购买MediaCityUK在曼彻斯特的50%股份。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "(路透社) - 美泰公司周一公布的季度营收远超分析师预期，得益于玩具制造商电视生产业务的复苏和其收藏卡牌游戏《魔域传说》的需求增加。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "IMF is providing emergency financial assistance to member countries facing the economic impact of the #COVID19.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德银对瓦尔里斯的起始目标股价为每股4美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UPM表示，此举将导致第二季度净亏损20亿美元520万美元，主要是由于减值损失。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国失业者本周内将收到额外支付。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The trainline.com公司宣布伦敦IPO的到来。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Our aim is to understand different traffic patterns based on the use of each building'' can be translated to Chinese as ``我们的目标是基于每个建筑的使用情况来理解不同的交通模式''。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Forescout was acquired for $1.9 billion.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``There is no room to modify the share component as we have already indicated.'' 翻译为中文为：``我们已表明没有修改共享组件的空间。''",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company plans to close two of the three lines at the plant, where some 450 jobs are under threat. \n\n翻译为中文：\n该公司计划关闭工厂内的两条生产线，其中约450个工作岗位面临威胁。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FastJet谴责EasyJet创始人Stelios公开信，正在就合同问题寻求法律建议。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It helps our stakeholders get a better understanding of our operations and the challenges in stainless steel business\" can be translated to Chinese as \"它有助于我们的利益相关者更好地理解我们的运营和不锈钢业务所面临的挑战。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "F-Secure also point out the logical weakness in the sequenced numbers of a card approach that has apparently already been utilised. \n\n翻译：F-Secure 还指出了卡上序列数字的逻辑弱点，这种显然已经被利用的方法。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Silver Crest Acquisition Corporation Warrants: Tims China Merger Will Unlock Significant Upside\" 的中文翻译是：\"Silver Crest Acquisition Corporation 认股权证：蒂姆斯中国合并将解锁显著增长潜力。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Wall Street Journal's article \"Interest Heats Up for @Yahoo $YHOO\" can be translated to Chinese as \"华尔街日报报道：雅虎（Yahoo）股票热度升高\".\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SODA的浮动空头比率为42.71%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco share price closes higher as two more directors leave grocer.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "不要期待2020年代的股票能重复1920年代的情况。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance法律记者Alexis Keenan分析了针对苹果的集体诉讼，该诉讼指控苹果通过阻碍第三方电子商务平台和交易费用的竞争。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Both Intel and Micron have dropped their pursuit of 3D XPoint / Optane. There is nothing wrong with the well-received technology itself.\" 可以翻译为：“英特尔和美光已经放弃了对3D XPoint/Optane的追求。这项广受欢迎的技术本身并没有什么问题。”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pat Gelsinger与时代杂志就他的计划，将半导体供应链转移到美国进行了交谈，其中包括在俄亥俄州哥伦布市外建立一座价值200亿美元的新大型基地。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚历山大，美国，2021年1月9日 - 美国专利第7,862,685号，于1月4日颁发，已分配给Kemira Chemicals Inc.（马里埃塔，美国）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The changes in readership were not significant. 翻译成中文是：读者人数的变化并不显著。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nordea's board chairman Hans Dalborg has informed the nomination committee that he will not be up for re-election at the Annual General Meeting in 2011.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "时尚而欢快，芬兰设计公司Marimekko在过去的60年里一直将其几何织物发送到世界各地。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon will create 500 new jobs in Mississippi as it builds a new fulfillment center.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Brewer AB InBev寻求与SABMiller的275亿美元合并。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "一个尽早申请社会安全福利的重大原因。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股票开盘强劲上涨；科技股成为早期领跑者。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is a list of stocks to buy and hold forever through thick and thin. These are stocks that will keep moving higher in the years ahead.\n\n以下是一些可以永远购买的股票列表，无论市场是好是坏。这些股票在未来几年将继续上涨。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "是",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided translates to: \"AAPL's afternoon sell-off as usual will be brutal. Get ready to lose a lot of money.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"Move off the bottom but still in bear market #datasecurity $EMC $SNDK $WDC https://t.co/VkYdWPxeSN\"\n\nThe translation in Chinese is: \"脱离底部但仍处于熊市，关注数据安全 $EMC $SNDK $WDC https://t.co/VkYdWPxeSN\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天我们的调整与上周在4月月度会议上所说的相符，我们讨论了下次有机会时调整这个位置的需求。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft，裁员近千名员工，横跨多个部门，于10月25日市场收盘后报告其财政第一季度业绩。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"The city of Ålemiste is the environment for a knowledge-based economy, providing employment for 3,300 people with a total turnover of its companies amounting to EEK 5.4 billion,\" said Ålo Pernits, chairman of the supervisory board of Ålemiste City and Mainor.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Dow Jones index has made a spectacular recovery in the past few weeks as investors buy the dip. The index soared to a high of $34,270, which was the highest level since April 22. \n\n翻译：道琼斯指数在过去几周内经历了一场壮观的复苏，投资者购买下跌，导致指数飙升至34,270美元，这是自4月22日以来的最高水平。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊的Ring门铃单元，它记录了业主家外部的视频，今年迄今为止已经11次向执法部门提供录像，没有得到用户的同意。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Blackstone's Motel 6欠2000名客人将姓名提供给移民官员。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices, Inc. (NASDAQ:AMD) 于 2022 年 1 月 4 日宣布在 2022 年产品首映直播中推出新产品。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The most interesting export markets will be Russia, the Baltic countries, and Scandinavia.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Selling shares of Amazon might be enticing, but don't move too fast or you could end up with an unexpected tax bill.\n亚马逊的股票出售可能会令人心动，但不要过于匆忙，否则你可能会遇到意外的税务账单。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是给定的英文句子的中文翻译：\n{星巴克公司（纳斯达克股票代码：SBUX）今年的前半年经历了一段艰难的时期，但吉姆·克拉默坚信未来的故事将会不同。克拉默对星巴克公司的乐观态度部分归功于霍华德·舒尔茨的领导力。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell offers a 50 percent premium to buy BG for $70 billion.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是安德鲁王子的完整皇家头衔。你花多长时间才能说它？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cowen调查预测商店将在6月重新开放，Ulta和Planet Fitness将迅速恢复。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This lays a foundation for sustainable business development for the long term. 翻译成中文为：“这为长期可持续的企业发展奠定了基础。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“{8 Industrials Stocks Moving In Monday's Pre-Market Session}”的中文翻译：\n\n8只工业股在周一早盘交易中移动。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The share capital of Alma Media Corporation (business ID 1944757-4) is EUR 45,031,513.80 and it is divided into 75,052,523 shares.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The reason why most traders fail is simple: Would you get into a Formula 1 race car and expect to compete with the...\"\nThis sentence translates to: \"失败交易者的主要原因是简单的：你会开一辆赛车参加一级方程式比赛，并期望能与...\"\nPlease note that the translation is incomplete as the sentence seems to be cut off.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB\": \"Facebook\", \"bot\": \"机器人\", \"some\": \"一些\", \"78.47\": \"78.47\", \"breakout\": \"突破\", \"from\": \"来自\", \"the\": \"的\", \"consolidation\": \"整理\", \"zone\": \"区域\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"Hold a 1/2 position in SPY at 137.89.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Seppala's revenue increased by 0.2% to EUR10.1m. In Finland, revenue went down by 2.4% to EUR6.8m, while sales abroad rose by 6.2% to EUR3.3m. Sales increased in all the Baltic countries as well as in Russia and Ukraine.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Twitter's stock soars despite bottom line miss.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alma Media holds 70% of this company, the remaining shares being owned by the company's key employees. \n\n中文翻译：阿尔玛媒体持有这家公司70%的股份，其余股份由该公司的关键员工拥有。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple is holding its first product launch event of the year. 翻译为：苹果公司今年正在举行其首次产品发布会。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"3-star analyst Joe Wittine from Longbow Research reiterated a HOLD rating on $NTAP.\" 的中文翻译为：\n\n\"Longbow Research的3星分析师Joe Wittine重申了对$NTAP的持有评级。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$brcm raises revenue forecast} 翻译为中文是：“博通上调营收预测”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Edited Transcript of ESI.TO earnings conference call or presentation 12-Nov-19 9:00pm GMT\"\n\n中文翻译：\n\"ESI.TO 盈利电话会议或演示会的编辑记录 12 月 12 日 格林尼治标准时间晚上 9:00\"\n\n注：\"ESI.TO\" 可能是公司股票代码，\"GMT\" 表示格林尼治标准时间。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些巴菲特批准的股票可能是您在2022年的最佳选择。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple reported solid profits on rising revenues Thursday, but the tech giant's iPhone sales missed estimates while it saw slowing growth in services revenues.\n翻译：苹果公司周四报告了稳健的利润和上升的收入，但是科技巨头的iPhone销售额低于预期，同时它在服务收入方面看到了放缓的增长。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The revenues of the business reached NOK 12 million for 2008. \n\n中文翻译：该公司的营业收入在2008年达到了1200万挪威克朗。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据 Locatrix Communications 的首席执行官 Mark White 的说法，该公司的网络服务接口允许设备所有者、朋友和家人通过任何网络浏览器跟踪和定位 TWIG 用户。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chief Financial Officer Jim Heindlmeyer said Beyond Oblivion is in advanced talks with the four major recording companies about its service.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "香港抗议：香港理工大学围攻内幕 https://t.co/uV3oO7kAGw",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国指数在持续关注俄罗斯与乌克兰紧张局势的情况下继续下跌，投资者和政府正在权衡俄罗斯入侵乌克兰的可能性。纳斯达克综合指数下跌1.23%至13,548；Invesco QQQ Trust Series 1（纳斯达克股票代码：QQQ）下跌1.14%至341.51美元。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Meggitt 公司的利润受到能源和军事市场疲软的影响。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC任命商业领袖加入董事会。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This allows devices such as mobile phones to become a few millimetres thinner. \n\n中文翻译：这使得设备，如手机，能够变得更加薄，只有几毫米。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析人士对FCC关于Inmarsat C频段频谱拍卖的决定作出反应。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nasdaq reaches a record high as investors overlook the impact of coronavirus on supply chains.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$SES BINGO!!!!!!!}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc (NASDAQ: AAPL) 再次成为头条新闻，因为亿万富翁埃隆·马斯克表示，这家科技巨头威胁要刮掉 Twitter，这是一个他最近以 440 亿美元的价格从 App Store 购买的社交网络。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Swing trade ideas for this short week - Happy Trading Week Everyone 📈👍 https://t.co/npyz1upKGP\" 的中文翻译为：\n\n\"本周短线交易策略 - 祝大家交易周快乐 📈👍 https://t.co/npyz1upKGP\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Timeari's registered share capital is 16,474,755 shares as per today.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The name of the buyer was not disclosed. 翻译为中文是：购买者的名字没有透露。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Samsung's Galaxy Z Fold 4 and Galaxy Z Flip 4 can be ordered Wednesday and launch Aug. 26.\" 翻译成中文为：“三星的Galaxy Z Fold 4和Galaxy Z Flip 4将于周三开始接受订购，并于8月26日发布。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2022年对这些高潜力成长股来说是一个艰难的年份，但现在可能值得更仔细地看看。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "楼梯上，电梯下。 $SPY 朝着 50 或更低走。时间会告诉我们。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "鲜尼罗公司股价飙升8%，因银价突破21美元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ZSL looking very weak, could be a good short setup.}\n\n翻译：\nZSL看起来非常弱，可能是一个不错的短期布局。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell challenges Exxon dominance with 47 billion-pound bid for BG\n翻译：壳牌公司以470亿英镑的出价挑战埃克森美孚在BG集团的主导地位。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet Inc's self-driving technology unit Waymo and truck fleet operator C.H. Robinson Worldwide Inc said on Wednesday they would team up to test automated trucks with safety drivers behind the wheels in Texas in the coming months.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The best scenario going forward is this stock slowly falling every day...Which is quite probable...",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco PLC的复苏继续，伴随着250万英镑的现金注入。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

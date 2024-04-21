@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Alexandria, Va. 12月22日 -- 12月21日发布的美国专利第7,854,608号，已分配给芬兰Outotec Oyj公司（埃斯波）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bull sees 2020 upsides for MU, WDC\n翻译为：\n牛（Bull）认为2020年对MU和WDC有积极的一面。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$R - Ryder System (R) Investor Presentation - Slideshow. Keep reading: https://t.co/C8ZZUcOTeE #economy #finance #stocks} \nRyder System (R) 投资者演示文稿 - 幻灯片。继续阅读：https://t.co/C8ZZUcOTeE #经济 #金融 #股票",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco's share price closes higher as two more directors leave grocer.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：“WAC交易今天继续表现良好，几乎比昨天上涨了3美元，今晚的定价看起来非常强劲......$SPY”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla has announced it is recalling 2700 Model X SUVs. $TSLA\n\n特斯拉宣布召回2700辆Model X SUV。$TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "North American homeowners have green experiences to share, ranging from cost savings to clean and eco-friendly heating.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Vacon has signed significant deals with Norwegian Scandinavian Electric Systems (SES) on the supply of AC drives.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n{\"This chart setup signals a major rally ahead for gold and silver (via @TradingNation) https://t.co/VHHVxcDvPI\"}\n翻译成中文为：\n{\"这张图表设置预示着黄金和白银将迎来一场重大的反弹（来自@TradingNation） https://t.co/VHHVxcDvPI\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Diluted earnings per share (EPS) rose to EUR 3.68 from EUR 0.50. \n\n翻译成中文：每股稀释后收益（EPS）从0.50欧元升至3.68欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ruukki forecasted a 15-20% annual sales growth and a positive pretax result for 2010.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Finnish security and privacy software solutions developer Stonesoft Oyj said on January 7 , 2008 that the preliminary sales of its StoneGate products grew by 59 pct year-on-year to 3.6 mln euro ( $ 5.3 mln ) for the fourth quarter of 2007 .} 翻译成中文为：\n\n{芬兰安全与隐私软件解决方案开发商斯通索夫特公司（Stonesoft Oyj）于2008年1月7日宣布，其石门产品的前景销售增长了59％，2007年第四季度销售额为360万欧元（5300万美元）。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天支撑积累相当稳定。Purdy。$AGU",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉召回2,700辆Model X汽车；股价波动。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The lay-offs will start gradually and will last from one to six weeks. \n\n裁员将逐渐开始，持续时间为1到6周。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据其战略，Tikkurila在哈萨克斯坦阿拉木图建立了全资销售公司TOO Tikkurila，用于在芬兰Tikkurila品牌和俄罗斯Teks品牌下营销装饰漆。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "俄罗斯的Rusal公司在制裁解除后仍然面临着铝市场的严峻挑战。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "然而，经纪人给出了对该股票的“超出表现”推荐。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The agreement will provide The Switch with double the converter capacity, whilst opening up further manufacturing locations in China.\n- 该协议将为 The Switch 提供双倍的转换器容量，并在中国进一步开拓制造地点。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Juha-Pekka Weckström has been appointed President of telecom group TeliaSonera Finland to succeed Esa Rautalinko.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "找到 $TSLA 250 美元的新买家很困难。空头头寸继续增加。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Post Bank\" 被称为邮政银行，该概念将由 Fidelity Bank 在 Ghana Post 的场所内设立 75 家分行，为人民提供金融服务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国联邦贸易委员会（FTC）可能会因阻止微软公司对视频游戏发行商动视暴雪公司的6900亿美元收购要约而提起反垄断诉讼，据Politico周三报道，引述了三位了解此事的知情人士的话。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stanley Black & Decker Comes In A Little Light, But Has Drivers For 2020.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "地下停车设施还将建在地下室层。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "法国对 LSE-德意志交易所的交易提议表示担忧。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我认为 $FMS 很快就会挑战 200-EMA。看看昨天的成交量。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "退休顾问：港湾海景的迈克·亨内西谈有目的的规划（播客）。继续阅读：...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Yahoo Finance's Brooke DiPalma joins Yahoo Finance Live to discuss what Wall Street analysts are saying about Starbucks's announcement for its new CEO.}\n\n翻译：\n{雅虎财经的布鲁克·迪帕尔马 (Brooke DiPalma) 将与雅虎财经现场直播 (Yahoo Finance Live) 连线，探讨华尔街分析师对星巴克新任 CEO 任命的看法。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉正在召回2,700辆Model X汽车：https://t.co/8Z7BkVsTl9 $TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EBAY - eBay 接近达成出售 StubHub 的交易 - WSJ",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"La Jolla Pharmaceutical to initiate executive search\" 的中文翻译为 \"La Jolla Pharmaceutical 即将启动高管招聘\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel Corp currently has no plans to establish a manufacturing facility in India, the company said in a statement on Wednesday.\n\n英特尔公司表示，在周三的一份声明中，该公司目前没有在印度建立制造设施的计划。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BPM CEOs and UBI meet Italy's economy minister as M&A talks heat up.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"《战锤》游戏的创作者可能与亚马逊合作制作电影和电视节目。Games Workshop 在 12 月 16 日星期五发布的一份新闻稿中表示，他们已经与亚马逊内容服务部门达成了一项初步协议，允许亚马逊子公司开发基于游戏创作者知识产权的电影、电视节目和商品。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特鲁多的财政首席表示，新冠病毒将造成“真正”的损失。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a part of the agreement, 10 employees from the John Deere Forestry documentation functions will transfer to DokuMentori Oy.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"Move off the bottom but still in bear market #datasecurity $EMC $SNDK $WDC https://t.co/VkYdWPxeSN\".",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The iPhone maker is feeling the effects of China's strict zero-COVID policies. 翻译为：“iPhone制造商感受到了中国严格零COVID政策的影响。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这个英文句子可以翻译成中文：“这里 $58.65 看起来不错，这个月的电话活跃，还有每周的电话活跃。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{A Week In San Francisco, CA, On A $65,000 Salary} 可以翻译为：\n\n{在旧金山，加州的一周，月薪65,000美元}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Bank of Iceland acquired the private banking business, asset management, and share brokerage business of Kaupthing Sweden in early 2009.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora首席执行官Jouko Karvinen将俄罗斯关税上涨描述为对芬兰森林产品行业未来的威胁。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Walgreens Boots Alliance: What The Wide Yield Spread Means For Retirement\" 的中文翻译是：“Walgreens博姿联盟：宽信用利差对退休的意义”。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Windows 10 is awful, why did it force an upgrade on my pc without my consent? #windows #Microsoft $msft\n\n中文翻译：\nWindows 10 真糟糕，为什么它在我的电脑上强制升级，而没有我的同意？#Windows #Microsoft $msft",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些4项措施表明Odfjell（股票代码：ODF）正在大量使用债务。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's 2022 iPad Pros run on the same M2 processor as the 2022 MacBook Air and can detect the Apple Pencil's tip 12mm away from the screen. \n\n翻译为中文：\n2022年苹果iPad Pro配备了与2022年MacBook Air相同的M2处理器，并且可以在屏幕边缘12毫米处检测到Apple Pencil的笔尖。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ELTP - Elite Pharmaceuticals reports Q3 results https://t.co/fGSlNu45PD} 翻译成中文为：{$ELTP - 埃利特制药发布第三季度业绩报告 https://t.co/fGSlNu45PD}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {$CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Stock Market Update: Wall Street closes little changed after Phase One deal reached\"} 的中文翻译为：“股市动态：第一阶段协议达成后，华尔街收盘变化不大。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

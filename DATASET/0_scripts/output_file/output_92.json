@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The utility will also provide services related to electricity management, such as hedging trades and risk management and reporting.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla首席执行官埃隆·马斯克揭幕公司的电动皮卡Cybertruck，进军皮卡车市场，...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Serco Set To Appoint Roy Gardner, Ex-Centrica, As Chairman - FT 翻译成中文为：“Serco 即将任命 Roy Gardner，前 Centrica 高管，为董事长 - FT”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The Medicines Company 在传言中上涨了 26%，因为 Novartis 感兴趣}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n- Aldata Solution Oyj Thomas Hoyer CFO More information : Aldata Solution Oyj , Thomas Hoyer , CFO , tel. +358 45 670 0491\n- Aldata in brief: Aldata Solution is one of the global leaders in supply chain software for retail, wholesale and logistics companies.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon.com Inc (NASDAQ:AMZN) 的杂货部门承诺在生活成本危机期间与 Tesco PLC 的价格相匹配，成为最新一家承诺为客户保持价格低廉的零售巨头。这家电子商务和零售巨头在一份声明中表示，它将于周一启动其 Tesco Clubcard Price Match 活动，匹配并冻结数百种价格，以匹配超市巨头的折扣。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the order is USD 2.2 mn. 可以翻译为中文：订单价值为 220 万美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "继续运营导致营业亏损0.1百万欧元，与一年前相比略有改善，当时亏损0.2百万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lyft and Peloton Rally, Defying the Mantle of 2019's Least-Loved Debuts\n\n{中文翻译}\n\nLyft和Peloton Rally，挑战2019年最不受喜爱的首秀的桂冠。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在那之前，Tikkurila的前任所有者，芬兰化学公司Kemira Oyj HEL: KRA1V，将86%的股份分配给Kemira股东，以促进Tikkurila的剥离和上市。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Q2 of 2009, profit before taxes amounted to EUR 13.6 mn, down from EUR 26.8 mn in Q2 of 2008. \n\n翻译成中文为：2009年第二季度的税前利润为1360万欧元，比2008年第二季度的2680万欧元下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ITV to pursue takeover of Canada's Entertainment One: Bloomberg 可以翻译为：英国独立电视台将寻求收购加拿大的娱乐公司：彭博社。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"帝亚吉欧股份因可能被莱曼收购的报道而飙升。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\"Oversold, falling wedge and positive divergence place it on the launch pad; looking for a bounce.\" 翻译为中文是：\"超卖，下跌楔形和正向背离表明它处于发射台位置；寻找反弹。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$PAY 第二次测试21.20-30区域。仍然没有突破。将止损点上调至20.80。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RBS 董事长承认对监管罚款的规模感到惊讶。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "贸易谈判热情主导，但香港法案和华为威胁可能会打乱苹果车。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沃尔玛无论经济环境如何都表现良好，并且支付的股息越来越高。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Raisio is the site of the main production plants as well as company headquarters.\n\n拉绍德封是主要生产工厂和公司总部所在地。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"TSLA on the 5 min chart shows a lot of green, indicating a potential resistance at $259.33 on the hourly chart, currently at $257.00.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dow futures gain 129 points, or 0.4%, S&P 500 rise 13 points, or 0.4% \n\n翻译成中文为：道琼斯期货上涨129点，涨幅0.4%，标普500指数上涨13点，涨幅0.4%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company confirmed its estimate for lower revenue for the whole 2009 than the year-ago EUR93.9 m as given in the interim report on 5 August 2009.\n- 公司确认了其对2009年全年收入低于上一年度EUR93.9 m的估计，正如2009年8月5日的中期报告所述。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Descending triangle but I am liking it for an upside break\n\n这是一个下降三角形，但我喜欢它是因为我期待着它的反转。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev looks to win over SABMiller investors. 翻译成中文为：百威英博寻求赢得喜力啤酒投资者支持。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Metso expects its net sales to increase by about 10% in 2008, at comparable exchange rates.}\n\n翻译成中文：\n\n{Metso预计其净销售额在2008年将增加约10%，在可比汇率下。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"巴克莱银行准备取代迈克·莱克爵士，因为他在离开。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish food company Raisio Oyj HEL : RAIVV said on Friday it has completed the sale of its margarine operations to US company Bunge Ltd NYSE : BG for EUR80m USD119.2m.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Co’s that have issued #guidance in the last 30 days https://t.co/AjoAUkKrVG $SJM $HIBB $ATKR $AES $IIIV $GPS $OOMA… https://t.co/Gv6PJfhehU\" 翻译为中文是：\"过去30天发布指导的公司 https://t.co/AjoAUkKrVG $SJM $HIBB $ATKR $AES $IIIV $GPS $OOMA… https://t.co/Gv6PJfhehU\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"$vxx starting to creep up while $spy sits near hod...\" can be translated to Chinese as \"随着 $vxx 开始攀升，$spy 坐在附近 ...\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国妇女平等党表示，在2019年大选之前，政客们正在让他们失望。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc.: The Exuberant Rally Is Just Beginning! (AAPL) | InvestorPlace $AAPL https://t.co/jrcFC8XlY9\n\n翻译：苹果公司：激动的反弹才刚刚开始！（AAPL）|投资者地方 $AAPL https://t.co/jrcFC8XlY9",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"S&P downgrades Barclays and RBS on government bailout fears\" 的中文翻译为 \"标准普尔因担心政府救助而将巴克莱和劳埃德银行降级\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"保守党获胜将鼓励英国房价上涨，Rightmove表示。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Belarus OAO Lidskoe Pivo brewery, located in the Grodno Region, reported a 1.1% decrease in output to 1.045 million decaliters in January-March 2010, a representative in the company's administration said.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The decision will have to be made whether the group agrees to the import of Estonian meat and meat products to Finland, the paper added. \n\n翻译成中文为：“该决定将不得不做出是否同意将爱沙尼亚的肉和肉制品进口到芬兰，该文件补充道。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n{Loup Ventures' Gene Munster breaks down earnings from Alphabet. With CNBC's Melissa Lee and the Fast Money traders, Bonawyn Eison, Dan Nathan, Guy Adami and Julie Biel.}\n\nLoup Ventures' Gene Munster对Alphabet的收益进行了分析。与CNBC的Melissa Lee以及Fast Money交易员Bonawyn Eison、Dan Nathan、Guy Adami和Julie Biel一起。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：DGI技术警报：吉列根岛买进设置，随机买信号，蜥蜴看涨，锤子蜡烛图，宽... http://stks.co/c29Nu",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"回溯到10/4的\"up\"趋势线\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The production is scheduled to start by the end of April 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla: Model X 召回增加可靠性问题 $TSLA https://t.co/jVXQ4DoXnP\n\n翻译：特斯拉：Model X 召回增加可靠性问题 $TSLA https://t.co/jVXQ4DoXnP",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's largest acquisitions show the company is willing to buy growth in strategic areas.\n\n亚马逊最大的收购表明公司愿意在战略领域购买增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {$fb small long 109.25 via calls}\"\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{$fb small long 109.25 via calls}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The businesses to be divested offer dairy, edible fats, ready-meal and ice-cream packaging to multinational and local customers. \n\n将被出售的业务向跨国和当地客户提供乳制品、可食用脂肪、速冻食品和冰淇淋包装。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国联邦贸易委员会已要求动视暴雪公司和微软公司提供与他们交易相关的反垄断审查相关的额外数据，游戏开发商在周一的一份监管文件中表示。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SysOpen Digia signed an agreement with the main shareholders of Sentera, holding a total of 77.39% of the share capital and votes of Sentera.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the contract is approximately 27 million euros.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple and other smartphone manufacturers will be required to support USB-C as part of a single charging standard for mobile devices across the European Union by as early as the fall of 2024 under a new law announced Tuesday by EU officials.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在2009年3月底，公司的贷款总额为10.113百万欧元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Shrinkflation is becoming fashionable as companies are opting to reduce the size of their products rather than raise prices.\" 翻译成中文是：“缩水通货膨胀正在变得流行，因为公司选择减少产品的大小，而不是提高价格。”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided seems to be a placeholder or template rather than a complete sentence. It doesn't contain any specific information or context that can be translated into Chinese. However, if you have a specific English sentence you would like me to translate into Chinese, please provide it, and I would be happy to help.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

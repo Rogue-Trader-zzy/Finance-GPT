@@ -1,0 +1,302 @@
+[
+  {
+    "input": "以下是英文翻译：\n\"请问运输指数 $XTN $DJT 是否不再像以前那样重要，因为有了这么多新的模式？\"\n",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$TSLA recall} 特斯拉召回",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{最近的情况如何，$LULU？数字看起来不错，不算特别好，但还不错。我认为电话会议将增强信心。}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Macy's now sees full-year adjusted EPS $2.57 to $2.77 versus prior $2.85 to $3.05.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc. 正享受着创纪录的观看次数，因为“Don't Look Up”是一部气候变化讽刺作品，这已经成为了该公司电影雄心壮志的最大成功，但即将发布的财务报告引发了对股票下跌的担忧。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish broadband data communication systems provider Teleste Oyj HEL: TLT1V said yesterday its net profit rocketed to EUR4.8 m in 2010 from EUR416,000 in 2009 and it lifted its dividend proposal.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Webbush最近对科技行业的近期下跌发表了评论，并将微软公司（MSFT，金融）列为长期增长前景。根据银行的说法，“华尔街已经将温和的经济衰退计入当前科技股，并且风险回报设置对我们最好的企业玩法是有利的。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"15分钟内的小型杯柄形态正在形成。收盘时，标普500指数和标普指数都有利于指数表现良好。我们是否会看到一个缺口打开？\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The transaction is in line with Aspo's strategy to expand in the Baltic Sea region and in the eastern markets.\n\n翻译成中文：该交易与阿斯波在波罗的海地区和东部市场扩张的战略保持一致。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google, a subsidiary of Alphabet (GOOGL), has announced the acquisition of Mandiant to enhance its cybersecurity capabilities.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "New recommendation from Carl Kirst of BMO Capital Markets for $WMB is BUY. Price target is $62: http://stks.co/t0S0r\n\n新来自BMO Capital Markets的Carl Kirst的推荐是买入$WMB。价格目标是62美元：http://stks.co/t0S0r",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "最新的期权到期日已经到来，我们有两个到期无效的合约交易。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "谷歌的阻力转变为支撑？",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是彭博社第二届新经济论坛在北京的第二天的关键要点：https://t.co/5iqx5WcO7I #NewEconForum",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果你一直在担心股市和修正的风险，那么Netflix（纳斯达克：NFLX）Q4的表现不会让你高兴。并不是说结果有多糟糕，而是它们并没有像过去那样令人惊叹。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“{30 American Beaches That May Soon Disappear}”的中文翻译：\n\n30 个可能会很快消失的美国海滩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire says internal synergy goals from Baxalta deal higher. \n\n翻译：\nShire表示，从Baxalta交易中获得的内部协同效应目标更高。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "IPG Team Selected as Global Marketing Agency for LATAM Airlines\n\nIPG 团队被选为 LATAM 航空公司的全球营销代理商。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$SPY 来吧，多头们，买入下跌！}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Else Nutrition Holdings Inc (OTCQX:BABYF, TSX-V:BABY) 表示，它将在未来几周内将其 Else Toddler Omega 全面均衡的营养饮料在 Amazon.com 上推出，并在自己的电子商务平台 Elsenutrition.com 上很快推出。随后，该公司还将在一些精选零售店进行零售分销。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{阿美石油公司股价在连续第三个交易日上涨1.6%}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tang really is toxic, they keep bringing the share price down. At least they could let it climb a little before dragging it down.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ROKU宣布Roku TV正式进入德国市场，并宣布Metz blue和TCL作为该国首批合作伙伴，共同推出Roku TV型号。该型号将于今年10月开始面向消费者销售。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Experts have claimed for quite some time that the shift from linear television to streaming will be unstoppable and quick.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$EBAY e-bay bay! 正在处理几个每日的蜡烛图 .. 应该继续下跌 .. https://t.co/lgU0yBxEZe}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Edited Transcript of ICON earnings conference call or presentation 12-Nov-19 10:00pm GMT\" 翻译为中文为：\n\n\"ICON 盈利电话会议或演示的编辑版文字记录 12-Nov-19 10:00pm GMT\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"最近，Zacks.com 的用户们一直在密切关注 Netflix (NFLX)。这使得我们有必要看看这只股票将会有什么表现。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "IBM (NYSE: IBM)宣布已与亚马逊.com, Inc.（纳斯达克股票代码：AMZN）的亚马逊网络服务部门签署了战略合作协议（SCA）。以下是详情。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Sonoco Products Company (NYSE:SON): 最近的盈利增长是否超过了长期趋势？}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PNC和Goldman Sachs获得股息增加的绿灯（但不要行动）：http://stks.co/2pa7 $PNC $GS",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"特朗普表示他很快将发布一项计划，允许各州从加拿大进口药品。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Snap股价在用户增长乐观预期下，被JMP升级为超越同行后，上涨了1.8%。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann为Nevsky Center购物中心购买的这块大约10,000平方米的地块位于圣彼得堡的主要商业街涅夫斯基大街，毗邻沃尔塔尼亚广场地铁站，毗邻莫斯科火车站。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks sales fell sharply in China due to the country's strict Covid-19 restrictions.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我今天早上卖出了一些特斯拉的看跌期权，并在收盘时关闭了它们。这有助于支付我每月的开支。\n\n英文翻译：I sold some $TSLA Puts this morning Closed them at the close. Helps pay for monthly expenses.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The Brink's EPS misses by $0.05, misses on revenue} 的中文翻译为：“布里奇斯每股收益（EPS）差了0.05美元，营收未达到预期。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国国际贸易委员会于周五表示，它将调查由Alphabet Inc.的Google提出的指控，指控Sonos侵犯了Google的专利，通过进口某些音频组件侵犯了该家用音频公司的权益。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stocks have started the year well, with the S&P 500 index rising to a record high. Retailers have continued to perform well as the market reflects on the strong holiday season.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Samsung Mobile Applications Store was launched in January 2009 by Samsung Mobile Innovator, a program which enables mobile software developers to create applications for use across Samsung mobile devices.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "市场报告：Aviva在市场上占据领先地位，因为交易者对其选择Friends表示赞同。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "T-Mobile's outgoing CEO John Legere says he 'was never having discussions to run WeWork' 可以翻译为 \"T-Mobile 即将离职的 CEO John Legere 表示，他 '从未有过关于运营 WeWork 的讨论'\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc (NASDAQ:NFLX) 股票在技术相关股票持续反弹的背景下，交易价格上涨了 5%，达到了 $448.28。花旗集团在星期一将股票评级上调至“买入”，联合首席执行官里德·哈斯廷斯最近披露了购买价值 2000 万美元的股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Carnival Corporation and China Merchants Group Sign Memo of Understanding... 翻译成中文为：“嘉年华公司与中国物资集团签署谅解备忘录...”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{没有关于站立式存款便利设施的信息。在某个地方，波萨尔正在尖叫}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天，我购买了更多的 $MU $YHOO $VALE $NBL $TWTR $AXP $ZNGA。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Number of movies on Netflix: 2014: 6,494 2019: 3,849 Number of TV titles: 2014: 1,609 2019: 1,784 https://t.co/B0H11sJAfM\n\n翻译为中文：\nNetflix 上的电影数量：2014 年：6,494 部 2019 年：3,849 部\nNetflix 上的电视节目数量：2014 年：1,609 部 2019 年：1,784 部\n链接：https://t.co/B0H11sJAfM",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Qualcomm Inc. (QCOM, Financial) has fallen 19% since last reporting earnings results at the beginning of February. The stock is also more than 21% off of its 52-week, placing Qualcomm in bear market territory.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"深入挖掘卡尔梅特不断改善的运营和资产负债表。在Seeking Alpha上注册以获取更新！... https://t.co/JXaNoasn0K\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In volume, the focus is already outside Finland, as 60% of the group's products are made in Poland and the Baltic countries.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels Group share price climbs on $1.5bn special dividend.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

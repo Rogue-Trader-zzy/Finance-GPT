@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"AGIO (+2.3% pre) Agios Pharma higher amid new vorasidenib progress - SA\" 的中文翻译为：\n\n\"AGIO (+2.3% pre) 阿戈斯制药公司因新药伏拉西丁进展而股价上涨 - SA\"\n\n以下是详细翻译解释：\n\n- \"AGIO\" 是 Agios Pharma 股票的代码，代表 Agios Pharmaceuticals, Inc.，一家生物制药公司。\n- \"(+2.3% pre)\" 表示股票价格在预市交易中上涨了2.3%。\n- \"Agios Pharma\" 指的是 Agios Pharmaceuticals, Inc.，即阿戈斯制药公司。\n- \"higher\" 表示股票价格上涨。\n- \"amid\" 表示在某种情况或事件发生的同时。\n- \"new vorasidenib progress\" 指的是新药伏拉西丁（Vorasidenib）的进展。伏拉西丁是一种用于治疗某些血液疾病的药物。\n- \"SA\" 可能指的是某些财经新闻网站，如Seeking Alpha。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given sentence:\n\n\"ADS CEO news takes analysts by surprise\" translates to \"ADS CEO 新闻令分析师们感到惊讶\" in Chinese.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Zoom Video Communications Inc. 受益于并受制于 COVID 时代通信的巨大期望 - 它在 2020 年和 2021 年初的封锁期间飙升，但当疫苗可用时，人们更多地重返工作时，它又猛然跌落至地面。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "One of the top-performing beauty stocks could surge after 'Kylie Jenner' makeover - CNBC\n\n翻译成中文：\n- 一位顶级美妆股在“凯莉·詹娜”整容后可能飙升 - 财经网\n\n请注意，翻译时我保留了原始句子的结构，以便于理解。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The duration of the lay-offs per employee will vary from one to six weeks. \n\n翻译：每位员工的停工时间从一到六周不等。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Turkish e-commerce platform D- Market Elektronik (NASDAQ: HEPS) (Hepsiburada) has partnered with Intel Corp (NASDAQ: INTC) to launch DigitalSME, a program to provide support to small and medium-size enterprises (SMEs) in Turkey. DigitalSME will enable businesses to develop their e-commerce technology infrastructure, accelerate their digital transformation, and strengthen their businesses.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰奥托昆普公司，一家不锈钢制造商，计划与印度铁路公司签订供应协议。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析人士对特斯拉旗舰工厂取得的进展印象深刻；该工厂在2015年花费了16亿美元进行升级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Berkshire Hathaway 任命 Kara Raiguel 领导 General Re 部门。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"End of Day Scan: Stochastic Overbought $JDST $FREE $BLRX $LPG $AFSI $DVAX $HDGE $AHT $ALR $ASMB www.dailystockplays.com\"\n\n翻译成中文：\n\n\"收盘扫描：随机超买 $JDST $FREE $BLRX $LPG $AFSI $DVAX $HDGE $AHT $ALR $ASMB www.dailystockplays.com\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Also, a six-year historic analysis is provided for these markets.\n\n翻译：同时，还为这些市场提供了六年的历史分析。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲股市徘徊在3周低位附近，Dialog和BHP大幅下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果微软想要让投资者赚些真金白银，这里有一个想法：它应该公开承诺将“使命召唤”永久留在PlayStation上。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们已经在投标阶段为客户选择了最有效、整体价值最优的选项。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "裁员计划是在推特、Meta和其他科技公司解雇大量员工之后提出的。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The workers in Towson, Maryland, voted by a 65-33 margin to seek entry into the International Association of Machinists and Aerospace Workers, the union's announcement said. \n\n翻译为：\n\n马里兰州图森的工人们以65票对33票的投票结果决定加入国际机械师和航空工人协会，该工会的公告表示。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了芬兰的需求外，防波石产品的出口也有所增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Consumer Credit Soared In February, Just Before The Economy Shut Down\n翻译：\n二月消费者信贷飙升，就在经济停摆之前。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LN Technology Inc. 将年度股息目标从每股 1.70 美元上调至 1.80 美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Verastem submits marketing application in Europe for Copiktra.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Koff's market share of the volume of the market was 23.4%, Karhu's 21.4%.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The second quarter 2022 blended earnings growth rate for the S&P 500 is 6.7% so far.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Australian company Mirabela Nickel has awarded Outokumpu Technology a contract for grinding technology for its nickel sulfide project in Bahia State, Brazil.\n\n澳大利亚公司Mirabela Nickel已与Outokumpu Technology签订合同，为其位于巴西巴伊亚州的镍硫化物项目提供磨矿技术。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$TSLA yeah lets go down to 230s lol} 翻译为中文是：{\"特斯拉吧，让我们下到230美元，哈哈\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The London Stock Exchange - Deutsche Boerse merger is under threat from Brexit.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Polish business employs about 1,000 people, and it had net sales of about EUR 70mn in 2007. 翻译成中文为：“这家波兰企业雇用了大约1,000名员工，并且在2007年的净销售额约为7,000万欧元。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "After the sale, Savcor Group Ltd will comprise Savcor ART, a corporate function, and an investment in Cencorp Corporation.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Charlie McElligott: \"债券牛市已经回归\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TRLPC - CRH supports the purchase of Lafarge Holcim assets with a 6.5 billion euro bridging loan.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$SAVE long. https://t.co/yEJuS9cMlC} 的中文翻译为：{\"保存长文本。https://t.co/yEJuS9cMlC\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Skyworks (SWKS) 30 天前发布了财报。接下来股票会怎样？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$CYTX}看起来像Finfiz上的一个上升通道。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"科勒公司下调年度盈利预期，因业绩低于预期；股价暴跌。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "IMPACT Silver reports Q3 results: \"IMPACT Silver 公布 Q3 业绩。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Luleå municipality has awarded YIT a 2-year contract for property management of approximately one third of the municipality's properties, with a total area of 140,000 square meters.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "日本的日经新闻以13亿美元的价格收购了英国的金融时报。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Edited Transcript of ASND earnings conference call or presentation 18-Nov-19 9:30pm GMT\" 的中文翻译为：\"ASND 盈利电话会议或演示文稿编辑记录 2019 年 11 月 18 日 格林尼治标准时间 9:30 晚\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Small well targeted acquisitions have played an important role in executing Satama's strategy in the past couple of years.'' 翻译成中文是：“过去两年中，小型精准收购在执行Satama的战略方面发挥了重要作用。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"黄金价格因美国空袭杀死伊朗关键军事领导人而创下4个月来的最高水平。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish stainless steel manufacturer Outokumpu in Degefors is planning to recruit new engineers in order to meet a retirement wave over the next few years.\n\n芬兰不锈钢制造商德格福斯（Degefors）的奥图昆普（Outokumpu）计划在未来几年内招聘新工程师，以应对即将到来的退休浪潮。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"看看谁加入了GOOGL和MSFT，这是沃伦·巴菲特股票的屏幕，基于伯克希尔·哈撒韦公司CEO的投资策略。沃伦·巴菲特股票：MSFT，GOOGL是26个名字中的一部分。本文首先出现在投资者商业日报上。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "First quarter underlying operating profit rose to 41 mln eur from 33 mln a year earlier.\n\n第一季度基本运营利润从一年前的3300万欧元上升至4100万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FB Nice buyable intraday dip right here\" 的中文翻译是：\"FB 不错的日内可买低点就在这里\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vehvilainen, who is currently the chief operating officer at Nokia Siemens Networks, will join Finnair on 5 January 2010 and take over as CEO effective 1 February 2010. \n\n翻译：\nVehvilainen，目前诺基亚西门子网络公司的首席运营官，将于2010年1月5日加入芬兰航空，并于2010年2月1日生效成为首席执行官。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tivity Health宣布，其董事会一致选举Tivity Health董事安东尼·M.为董事。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Powell: Fed will use 'QE' aggressively to fight next recession. \n\n翻译成中文为：鲍威尔：美联储将使用“QE”（量化宽松）手段积极应对下一次经济衰退。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦证券交易所集团已与微软启动一项为期十年的合作，美国科技巨头将购买该英国公司约4%的股权。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sainsbury's sales slip again as price pressures take a toll\" 翻译为中文是：\"赛恩斯伯里再次销售下滑，价格压力的影响加剧\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Coke dividend - 3%. Google dividend - 0%. For passive income Coke takes it. $GOOG $KO https://t.co/QBsoWjxOST\" 的中文翻译是：\n\n可口可乐股息 - 3%。谷歌股息 - 0%。被动收入方面，可口可乐公司占优势。$GOOG $KO https://t.co/QBsoWjxOST",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Not so fast, Drake...}\n翻译为：{别这么快，德雷克...}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

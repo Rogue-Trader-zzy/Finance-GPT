@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"The result will also be burdened by increased fixed costs associated with operations in China, and restructuring costs in Japan.\" 可以翻译为：“结果也将受到与在中国运营相关的增加固定成本和在日本重组成本的负担。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据6月2日（星期四）发布的新闻稿，Square正在与苹果合作，利用新技术使iPhone用户能够通过“轻点支付”进行付款，这将为卖家在结账时提供更多灵活性。最新的技术附加功能还将为卖家提供结账时的更多灵活性，并提供一个进入Square生态系统的入口，以及有限的[...]。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$KEP breaking out when the market pulls back} 翻译为中文是：“当市场回落时，{$KEP}突破。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The companies aim to close the deal before the end of the year. \n\n翻译：这些公司计划在年底前完成交易。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家与太阳联盟的股票继续从上个月12个月高点172便士下跌，因为潜在买家取消了收购要约。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CaixaBank and dos Santos agree on plan for BPI Angola exposure.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Limelight Networks 发布 2020 年内部指导。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Private Equity Made a Big Profit on Lululemon, and It's Not Over Yet.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BPI表示，卡萨布兰卡银行和伊莎贝尔·多斯桑托斯就安哥拉业务暴露达成协议。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP boosts sales despite cautious clients. \n\n翻译成中文为：\n\nWPP尽管面对谨慎的客户，仍然提升了销售。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The newly-completed Allure of the Seas and its identical sister ship, Oasis of the Seas, which was completed last year are the world's largest cruise ships.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish glass technology group Glaston Corporation (OMX Helsinki: GLA1V) reported on Thursday (14 August) an operating profit of EUR6.5m on net sales of EUR201.5m for the period January-September 2008.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Short interest increases yet again\" 的中文翻译为 \"卖空兴趣再次增加\"。\n\n这个句子中的关键词 \"short interest\" 指的是股票市场上的卖空行为，也就是投资者预期股票价格会下跌，从而先借入股票卖出，待股价下跌后再买入归还，赚取差价。\"increases yet again\" 则表示这种情况已经多次发生，即卖空兴趣在近期再次增加。\n\n这个句子还提供了相关的网页链接 \"http://stks.co/e19h\"，以及来源 \"via @ryandetrick\" 和股票代码 \"$SPY\"。\"$SPY\" 通常指的是 SPDR S&P 500 ETF Trust，它是一种跟踪标普500指数的交易所交易基金（ETF）。因此，这个句子可能是在谈论标普500指数的卖空兴趣再次增加。\n\n所以，结合以上信息，这句话的完整翻译是：\n\n\"卖空兴趣再次增加，SPDR S&P 500 ETF Trust（$SPY）的股价下跌预期持续引发投资者担忧。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"墨西哥央行连续第五次降息 -- 更新 #经济 #市场筛选器 https://t.co/NfkbjZjf6D https://t.co/otogWpgEnu\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total scholarship amount was 40,000 euros and the recipients were chosen on the recommendation of fine arts universities and sports associations. \n\n翻译：总奖学金金额为40000欧元，获奖者是根据美术大学和体育协会的推荐而选择的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The negotiations with representatives of the personnel regarding the restructuring process have now been ended.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Texas Instruments (TXN) closed the most recent trading day at $187.01, moving +1.55% from the previous trading session.\n\n翻译：\n德州仪器（TXN）在最近的交易日以187.01美元收盘，从之前的交易日上涨了1.55%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The regular scrappy Q $SWY usually presents. Sales weak, margins down, debt still way up.\" 翻译为中文是： \"通常，这家艰难的Q $SWY公司会呈现出销售疲软、利润下滑、债务依然高企的情况。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva guarantees higher dividends to elevate its declining share price.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet (GOOGL) delivered earnings and revenue surprises of -4.72% and 0.14%, respectively, for the quarter ended June 2022. Do the numbers hold clues to what lies ahead for the stock? \n\n谷歌母公司（GOOGL）在2022年6月季度报告中，其营收和盈利均出现了意外的变化，分别超出了市场预期0.14%和低于预期4.72%。那么，这些数字是否能为该股未来的走势提供线索呢？",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Charles Schwab and TD Ameritrade: The Future Keeps Coming. Follow this and any other stock on Seeking Alpha.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者今年急于购买股拆股，但其中有一只股票脱颖而出。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MercadoLibre is a leading Ecommerce and Fintech company which has been dubbed the Amazon of Latin America. The company reported blockbuster results for the second quarter of 2022, beating analyst estimates for top and bottom line growth.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德意志银行下调星巴克公司股票评级。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cadence (CDNS) 在 2022 年 6 月季度实现了 11.34% 的盈利惊喜和 2.45% 的营收惊喜。这些数字是否为该股票的未来提供了线索？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"BBRY bye bye Sammy. Hello BB. Sounds like we'll see some green tomorrow.\" 翻译为中文是：\"BBRY 拜拜山姆。你好BB。听起来我们明天会看到一些绿色。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels否认与Starwood Merger的传闻。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德国因价格垄断对钢铁制造商罚款6460万欧元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SPDR S&P Retail ETF 在盘前交易中下跌 1.3%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SM Energy (SM) presents at the 2019 Stephens Nashville Investment Conference - Slideshow. Read more and get updated information.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"At 1411 CET, ArcelorMittal had lost 7.26% to EUR 17.38 on Euronext Paris, coming at the lead of the blue-chip fallers.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco's Sales Pickup Isn't Enough 翻译为：“特易购的销售增长还不够。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury sells unit to LloydsPharmacy.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"INTC 终于有一些不错的下跌空间... 正在寻找 31 的支撑位被跌破。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"YANG Double bottom 5.2\"} can be translated to Chinese as \"杨双底5.2\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：“{$BRK.B $SPY 明天是历史最高点吗？A股150k，2007年12月13日。}”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Federal Reserve announced a massive second wave of initiatives to support a closed U.S. economy on Monday.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"汽车保险公司Hastings Group正在进行1800万英镑的IPO。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Following the impact, the Altima hit a utility pole, causing a live electric line to fall onto the roadway.\n\n翻译成中文：\n\"撞击后，Altima撞上了一根公用杆，导致一根活电线掉落到路面上。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊公司与印度的未来零售之间的谈判旨在解决未来零售资产能否出售给信实工业的长期争议，但周二，双方律师告诉最高法院，这些谈判失败了。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's Why Magna International (TSE:MG) Can Manage Its Debt Responsibly 可以翻译为：“以下是为什么麦格纳国际（TSE:MG）可以负责任地管理其债务的原因”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury's, Asda, Tesco and Morrisons will all cut petrol prices as oil falls.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CIFS值得您下周关注。我要买。加载区域。注意：最近一些中国名字很火。https://t.co/WO5KedKeZu",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is as follows:\n\n\"EMSA 董事会副董事长 Juuri Lember 在周三告诉 BNS，这是他第一次听说这次罢工，因为瑞典方面还没有向爱沙尼亚工会提供信息。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Update: S&P 500 returns to flat line 翻译为中文为：“股市更新：标普500指数回到平线”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n“Nvidia 股票现在比历史高点便宜了 50%，但是不要着急购买。在购买 NVDA 股票之前，请考虑以下几点。”\n\n英文翻译：\n\"Nvidia shares are now 50% off their highs, but don't buy them just yet. Here's what to consider before picking up NVDA stock.\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "与当天上涨28.3点或0.5%的FTSE 100指数相比，这是相对价格变化2.3%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Today, the IMF Executive Board approved a disbursement of €176.5 million to #NorthMacedonia. This financial support is part of the Extended Credit Facility (ECF) arrangement to help North Macedonia address the economic challenges posed by the COVID-19 pandemic and support its economic recovery.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"TSLA\"股票势头强劲...... 本周其他值得注意的动向：https://t.co/Hz0wdp5za1}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Group has appointed a new CEO one month earlier than expected.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

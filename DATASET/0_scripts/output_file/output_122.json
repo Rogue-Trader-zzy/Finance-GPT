@@ -1,0 +1,302 @@
+[
+  {
+    "input": "UK WINNERS & LOSERS: Aviva and Friends Life Lead FTSE 100 Gainers\n\nUK 胜者与失败者：Aviva和Friends Life领涨FTSE 100指数。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "所有目光都将聚焦在加利福尼亚州库比蒂诺的苹果总部，周三，科技巨头将推出其最新产品，包括备受期待的iPhone 14。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我认为 {$SPY} 仍然想要更高的价格。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UPM-Kymmene Corp., the world's largest maker of magazine paper, reported a 19-percent profit drop on Tuesday due to lower paper prices, higher costs, and a strong euro hurting revenue.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"According to outage tracking website Downdetector.com, Amazon.com Inc's ecommerce services were down for thousands of users on Monday.\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kalmar Espana's net sales were around 11.3 million euros, or approximately 14.8 million US dollars, in 2005.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"3Y拍卖尾声，尽管美联储无限量化宽松，买家需求仍显疲软。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Don't count on seeing history repeat itself.} 的中文翻译是：“不要指望历史重演。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{QPR产品家族完全兼容微软的Windows 7操作系统。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国股市中，红旗浮现，内部人士争相抛售。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nPiper Sandler分析师Weston Twigg和Harsh Kumar共同指出，Spectrum在1月份发布了其月度内存合约定价数据，显示DRAM 8Gb DDR4下降了8%，而NAND 256Gb TLC在月度环比基础上下降了1%。 这些分析师监测了三个月滚动平均的年同比增长，以更好地衡量趋势，表示DRAM产品的价格继续放缓，而NAND产品的价格显示“轻微”放缓。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着游戏转向多平台战略，这已经成为微软失去的比赛。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OCBC will acquire Barclays' Wealth Management Unit in Singapore and Hong Kong.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Scanfil的数据，2006年第三季度电信网络产品的需求波动较大，预计今年剩余时间这种情况仍将不稳定。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "If You Invested $10,000 in Chesapeake Energy's IPO, This Is How Much Money You'd Have Now\n翻译为：\n如果你在切萨皮克能源公司的首次公开募股中投资了10,000美元，你现在将会有多少钱。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company added that unit prices for straddle carriers vary between EUR700,000 and EUR900,000.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Edited Transcript of GSK.L earnings conference call or presentation 5-Feb-20 2:00pm GMT\" 可以翻译为 \"2020年2月5日下午2:00GMT的GSK.L公司盈利电话会议或演示文稿的编辑版记录\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Efore's presence here also opens up new and interesting development opportunities for our students,\" said the dean of the Faculty of Electronics, Communications and Automation at TKK.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lemminkainen Oyj said that it has signed credit agreements with Nordea Bank STO: NDA, Pohjola Bank HEL: POH1S, Sampo Bank HEL: SAMAS and Svenska Handelsbanken STO: SHB A.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The earnings by the parent company of Google were above analysts' estimates.\n翻译：谷歌母公司的收入超过了分析师的预期。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$JNK http://stks.co/2Fcm Does not want to go down... risk appetite still high}\" 的中文翻译为：\"{$JNK http://stks.co/2Fcm 不想下跌...风险偏好仍然很高}\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Outotec has been awarded a contract to supply a new zinc roaster with gas cleaning and sulphuric acid plant for the OZK Kardzhali zinc smelter in Bulgaria. \n\n翻译成中文：\n\n芬兰 Outotec 已获得合同，为保加利亚 OZK Kardzhali 锌冶炼厂供应一套新的锌焙烧炉、气体净化装置和硫酸厂。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The European Central Bank ECB is anticipated to raise its benchmark interest rate in the second half of 2011 at the earliest. \n\n欧洲中央银行（ECB）预计最晚在2011年下半年将基准利率提高。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia Multimedia's net sales totaled EUR 5.7 bn, up 45% from the corresponding period in 2005. 诺基亚多媒体的净销售额总计为5.7亿欧元，比2005年同期增长了45%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sylvia. Dalila. Aminata. Aurelia. Julie. French activists are plastering the names of women allegedly killed by cu...\" translates to \"西尔维娅，达利拉，阿米娜塔，奥雷利亚，朱丽。法国活动家们在粘贴被指控被……杀害的女性名字。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels 第一季全球客房收入低于预期。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德意志银行欢迎资本集团持有3.1%的股份。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FastJet谴责易捷航空创始人Stelios公开信，正在就信中关于合同问题寻求法律意见。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The shares of Activision Blizzard Inc. (ATVI, -0.37%) fell 0.3% in premarket trading on Monday, after the video game company, with franchises including \"Call of Duty,\" \"Warcraft\" and \"Candy Crush,\" reported first-quarter profit and revenue that missed expectations. The company, which announced in January a $69 billion acquisition deal with Microsoft Corp. (MSFT, -2.41%), said net income fell to $395 million, or 50 cents a share, from $619 million, or 79 cents a share, in the year-ago period.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Veracel is preparing an appeal in the issue and has asked the court for clarification of the judgement. \n\n中文翻译：维拉赛尔正在为该问题准备上诉，并向法院请求对判决进行澄清。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n{#LongPos $TSLA 256 Break-out thru 50 & 200- DMA (197-230) upper head res (274-279) Short squeeze in progress Nr term obj: 310 Stop loss:239} 可以翻译为：\n\n{#LongPos $TSLA 256 突破 50 和 200- DMA（197-230）上方阻力（274-279） 短头寸正在进行 长期目标：310 止损：239}\n\nThis sentence appears to be a technical analysis of a stock, likely Tesla (TSLA), discussing a potential breakout from a trading range, resistance levels, and potential short-term and long-term objectives and stop-loss levels.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices, Inc. (NASDAQ: AMD) shares are trading lower by 3.77% to $59.67 during Monday's session after Northland Capital markets downgraded the stock from Outperform to Market Perform. Morgan Stanley also lowered its price target on the stock form $86 to $77.\n\nAMD股价周一下跌3.77%至59.67美元，此前Northland Capital市场将股票评级从“超配”下调至“市场表现”。摩根士丹利也将股票的目标价格从86美元下调至77美元。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"IWM 30-Minute Chart. Small caps threatening descending triangle breakdown under $110.20. http://stks.co/r0KKm.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"All are welcome.\" 翻译成中文是 \"欢迎所有人。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "韩国应用开发者和内容提供商正在增加他们对谷歌Play市场的付费订阅和服务费用，因为谷歌的政策变化现在要求应用使用其自己的第一方账单和支付系统，并且收取了15-30%的重税。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon.com Inc (NASDAQ:AMZN) said it will increase the cost of its Prime membership for UK customers from the middle of September due to inflation and higher operating costs. “As of 15 September 2022, the price of the monthly Prime membership will increase from £7.99 to £8.99, and the price of the annual Prime membership will increase from £79 to £95,” it said in an email to its Prime members.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{苹果公司（AAPL）正在看到有利的盈利预测修正活动，并有积极的 Zacks 盈利 ESP 指标进入盈利季。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家荷兰壳牌将以近700亿美元的价格收购BG集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "铜市场可能会从格力博的停产中受到2003年式的供应冲击。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks正在这里出售。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walmart实现了连续五个季度的销售增长，并转向机器人未来。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A Five-Decade Rivalry Is Playing Out at OPEC+\n\n这是一个五十年来在OPEC+中持续进行的竞争。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果短期基金/赎回清算......很快就会清除通道，并建立在坚实的基础上。7月将有新的地板！",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sudden optimism about iPhone sales (i.e., not as bad as expected) gives Apple $AAPL a lift. \n\n突然对 iPhone 销量的乐观情绪（即，情况比预期的好）使苹果公司（AAPL）受益。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "By separating side businesses, we will be able to faster expand and develop Tapro retail network.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD是一家我们之前推荐回访过的公司，公司的盈利业绩帮助确认了这一点。公司拥有历史上最强的产品，并且有显著的年度同比增长和利润率增长，支撑着强劲的财务表现。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fed is 'super-glued' to its seat until after the election, economists say after stellar jobs report.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"通过Satlan收购，Teleste计划进一步扩大其作为有线电视运营商、广播公司和IPTV服务提供商的视频服务合作伙伴的市场存在感。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, the translation of \"$SPY weak close\" into Chinese is \"SPY收盘弱势\" or \"SPY收盘弱势下跌\" depending on the context.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"SMG 2月115美元看涨期权被抬升至120美元，卖出3.50美元。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

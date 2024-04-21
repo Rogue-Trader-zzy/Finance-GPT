@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The UK housing market is on hold due to the coronavirus crisis - Halifax.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This transaction will also optimize our pulp and paper industry related solutions.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The business goals for 2009 will be realized with the temporary lay-offs carried out in the summer of 2009, and with other savings measures.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KCI Konecranes has been awarded an order for four hot metal ladle cranes by Indian steel producer Bhushan Steel & Strips to be delivered in 2007.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据当前的表现，GMCR可能会在今天跌至65，昨天它曾达到70，这是一个非常糟糕的表现。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据维京线（Viking Line）的执行董事，尼尔-埃里克·埃克伦德（Nils-Erik Eklund）的说法，该公司董事会非常满意维京线的表现。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Group's cash flow from operations will be positive.\n\n（直接翻译：集团的经营性现金流将为正。）",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "香港上市的渣打银行表示，它已经与诺基亚签署了中国移动电话经销商融资协议，使其成为第一家向中国中小企业提供融资的外资银行。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As the U.S. economy stutters, COST stock could end the search for recession-proof stocks, which has built up a reputation as a defensive play. The post Costco Is an Absolute Buy. \n\n翻译：\n随着美国经济放缓，COST股票可能会结束对经济衰退期间稳健股票的寻找，这种股票已经建立起了防御性投资的声誉。文章标题为《Costco是绝对的买入》。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"道琼斯工业平均指数下跌0.4%；标准普尔500指数周二上午晚些时候下跌0.2%。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A Big Step Forward For the Treatment of ALS\n\nALS治疗的一大步前进。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lululemon Athletica Inc. (NASDAQ: LULU) 2021 年第四季度的业绩表现说明了它应该被投资者纳入股票清单的原因。在周三，该股票上涨了超过 8%，因为它的第四季度每股收益（EPS）达到了 3.37 美元，超过了 3.27 美元的预期，并且高于去年同期的 2.58 美元。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Weebit Nano: Leti test results show efficiency improvements #WeebitNano #Stock #MarketScreener… https://t.co/vcVPWljJat\" 翻译为中文为：\n\n\"微比特纳米：Leti测试结果显示效率提升 #WeebitNano #股票 #市场筛选器… https://t.co/vcVPWljJat\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "重要高管辞职并重新任命非执行董事 #MMG #股票 #市场筛选器 https://t.co/w5yviFvX0x https://t.co/lNiNw5zPHR",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will publish its financial statement for 2008 on February 25, 2009. \n\n翻译成中文：该公司将于2009年2月25日发布2008年的财务报表。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "London Stock Exchange - Deutsche Boerse merger under threat from Brexit\n伦敦证券交易所 - 德国证券交易所合并受到脱欧威胁",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "疑虑在中国对50亿美元农地购买计划上浮现，该计划是由特朗普大力推广的。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "These dividend stocks have outperformed the S&P 500 and the Nasdaq Composite over the past three, five, and 10 years. = 这些股息股票在过去三年、五年和十年内都跑赢了标普500指数和纳斯达克综合指数。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Hewlett Packard's (HPE) GreenLake expands with the support of Microsoft's Azure Stack HCI platform, ensuring cost efficiency and the acceleration of digital transformation among enterprises.}\n\nHewlett Packard's (惠普) GreenLake expands with the support of Microsoft's Azure Stack HCI platform, ensuring cost efficiency and the acceleration of digital transformation among enterprises.\n\nHewlett Packard's (HP) GreenLake expands with the support of Microsoft's Azure Stack HCI platform, ensuring cost efficiency and the acceleration of digital transformation among enterprises.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司表示，它已经同意从贷款人处获得1.6亿欧元的不受担保的信贷额度。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Rachelle Akuffo reports news that Starbucks has announced its next CEO to take over for interim leader Howard Schultz. \n\n翻译为：雅虎财经的Rachelle Akuffo报道了星巴克宣布其下一任首席执行官将接替临时领导人Howard Schultz的消息。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "油价下跌，但维持在三个月高点附近，因为贸易协议达成。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The crude oil rose for a second day after the U.S. signaled it was open to the possibility of an alliance with Saudi Arabia.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The handset also features a Media Bar for quick access to favorite media and applications, including music, photos, YouTube or Ovi Share.\" translates to \"这款手机还配备了媒体栏，可以快速访问您喜爱的媒体和应用程序，包括音乐、照片、YouTube或Ovi分享。\" in Chinese.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {Edited Transcript of SBPH earnings conference call or presentation 11-Nov-19 9:30pm GMT}.\"\n\nTranslation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译：{SBPH盈利电话会议或演示文稿编辑记录 11-Nov-19 9:30pm GMT}。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "By acquiring RCP, we can combine our strong know-how with the expertise of a solid local company. \n\n翻译成中文为：通过收购RCP，我们可以将我们的专业知识与当地公司的专业知识相结合。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "拥有亚利桑那州驾驶执照或州身份证的人现在可以在他们的iPhone上添加数字版本。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baltic Pearl CJSC, a subsidiary of Shanghai Foreign Joint Investment Company, is developing a project in St Petersburg, comprising about a million square meters of residential space, two hospitals and several schools and nurseries.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish silicon wafers maker Okmetic Oyj said on September 17, 2008 that it will invest a total of 15 mln euro $21.3 mln in its sensor wafer business. \n\n翻译：\n\n2008年9月17日，芬兰硅晶圆制造商Okmetic Oyj表示，将总共投资1500万欧元（约合2.13亿美元）用于其传感器晶圆业务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Subscription payment shall be made upon subscription.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BG Group appoints new CEO one month early\" 的中文翻译为：\"BG集团提前一个月任命新CEO\"。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CRH 以 13 亿美元的价格收购了 CR Laurence。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2019年的企业利润下降，标准普尔指数上涨了24%，或者正如高盛所说，'这些回报可能不会是......'\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 消费者对我们包装的新鲜肉类接受度很高。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC任命商业领袖加入董事会。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sally Beauty EPS 比预期低了 $0.09，收入也低于预期。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company has taken hit after hit in 2022 as economic declines and increased streaming competition culminated into a perfect storm.\n= 公司在2022年遭遇了一连串打击，经济衰退和增加的流媒体竞争最终形成了一场完美的风暴。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：The NSM is starting to gain traction as it ascends its base breakout. This strong stock can be found at http://stks.co/gBSH.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"波动挤压在AAPL。我希望它能够向上解决。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NASDboy认为DNF团队可以在即将到来的财报前的30天内将NFLX做空。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"An Intrinsic Calculation For American Airlines Group Inc. (NASDAQ:AAL) Suggests It's 45% Undervalued\" 的中文翻译为 \"美国航空集团 (NASDAQ:AAL) 的固有计算表明其被低估了 45%。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"本周的OPEC会议有什么更新？高级能源总监Tamar Essner在Bloomberg TV上谈到了……https://t.co/pn2ClgW5X5\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's revenue mix trends over the YTD indicate an increasing dependence on iPhone sales in the Americas. In the midst of a global slowdown in smartphone sales, Apple is ceding ground to the likes of Samsung as well as budget phone makers.\n\n直译：苹果的年度总收入构成趋势显示，美洲地区的iPhone销售额对其收入的依赖度正在增加。在全球智能手机销售放缓的背景下，苹果正在被三星等高端手机品牌以及低成本手机制造商蚕食市场份额。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the same period in 2006, the net profit was (x20ac) 172 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rautaruukki is trying to find work for those who have been laid off from the group's other locations.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$REN bottoming out again.. Good time to buy} 翻译成中文为：“REN 再次触底... 买入的好时机。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Disney has returned the contract to Mattel to make toys based on Disney princesses and \"Frozen\" characters after shifting business to Hasbro in 2016.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It operates under three distinct brands: United Supermarkets, Market Street, and United Supermercado.\" 翻译为中文为：“它经营三个不同的品牌：United Supermarkets，Market Street和United Supermercado。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It is time to load up on shares of Intel Inc. INTC, -2.92%. 翻译成中文为：“现在是时候增加英特尔公司（Intel Inc.）的股票了，其股价下跌了2.92%。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第四季度的营业利润从一年前的3900万欧元下降至3300万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

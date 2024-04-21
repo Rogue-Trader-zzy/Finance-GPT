@@ -1,0 +1,302 @@
+[
+  {
+    "input": "A few candidates typically announce payout increases this time of year. 通常，这个季节会有一些候选人宣布提高奖金。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ubiquiti Inc. 公布 2020 财年第二季度财务业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当地政府专员柯特·斯文森表示，他将联系芬兰公司Componenta的管理层，以了解该公司决定关闭其在安默尔的工厂是否有其他选择。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{'完美结果' 对于未被注意的股票：英国投票策略师}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "同时，建设规模以每年10-15%的速度增长。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Outokumpu Technology's business will begin trading on the Nordic Exchange in Helsinki starting Oct. 10, becoming the sixth company to list on that exchange this year, the company said Friday.\" 翻译成中文是：\n\n\"奥托昆普科技业务将于10月10日开始在赫尔辛基的北欧交易所上市交易，成为今年在该交易所上市的第6家公司，该公司于周五宣布。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纽约市联邦劳工委员会的一名听证官驳回了亚马逊公司试图撤销纽约市斯塔滕岛一家仓库历史性工会胜利的尝试，为组织者赢得了胜利，这可能是对认可的漫长斗争。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"$DPZ\" has now broken out of its bull flag channel and made new highs, but volume is very poor.}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "China debates drastically reducing or even abandoning its economic growth target.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Zynga Inc. 在周三的延长交易时段报告了创纪录的业绩，尽管盈利略有低于预期，但该视频游戏发行商的股票在后市保持平静，因为其正在被 Take-Two Interactive Software Inc. 收购。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "eBay，e-bay，正在处理一些每日的Doji图形...应该继续下跌。https://t.co/lgU0yBxEZe",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"NVDA 股票在 303 美元时可能还会再值 54.8%，考虑到其巨大的 FCF 利润率，但这一切都取决于将于 5 月 25 日公布的 Q1 结果。原文来自 InvestorPlace 的《如果 NVIDIA 股票已经触底，那么它值得购买》。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"HopeTurock\", \"是的，这笔交易的预期已经反映在价格中，但如果我们看到出价高于预期，那么价格可能会大幅上涨... $YHOO\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev to sell more SAB assets as seeks EU deal approval\n-- 安海斯-布希公司将继续出售 SAB 资产，以寻求欧盟交易批准。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Calpers materially raised stakes in theater chain AMC, chip maker AMD, and Square parent Block in the first quarter. The pension slashed a third of its Netflix stake.}\n\n- Calpers 在第一季度显著提高了对电影院连锁公司 AMC、芯片制造商 AMD 和 Square 母公司 Block 的股份。\n- The pension 削减了其 Netflix 股份的三分之一。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sales at the Tiimari business went down by 8% to EUR 11.8 million, while Gallerix stores saw 29% growth to EUR 2 million.\n\n销售在蒂马里业务中下降了8%至1180万欧元，而加莱里克斯商店则增长了29%至200万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大投资者以从标准普尔500指数的群众中脱离而出而闻名。所以当你看到几个人在一个股票上达成一致时，值得关注。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks被德意志银行降级至中性。目标价格从70美元降至64美元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲的冲突为这个长期挣扎的行业增添了新的不确定性。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "London Stock Exchange Shareholders Approve Merger With Deutsche Börse.\n\n伦敦证券交易所股东批准与德意志交易所合并。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury sells unit to LloydsPharmacy.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{随着亚马逊的帮助，Wix应该能够吸引更多的商家到它的平台上。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The composite body is coated with a hard coating layer produced by thermal spraying, and the coating is ground. \n\n复合材料表面覆盖有一层由热喷涂产生的硬质涂层，并且该涂层经过研磨处理。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对于华尔街来说，俄罗斯已经变得“刀枪不入”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco is nearing the appointment of a new chairman with John Allan of Dixons Carphone in the running.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Crane has a strong customer base in the on-road load handling and related installation and service businesses. \n\n翻译成中文：BG Crane在地面装载和相关的安装和服务业务方面拥有强大的客户基础。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：苹果公司股价（AAPL）创出新高，110.61美元的长期IF合约被打破。目标价格为112.19美元、119.86美元和123.82美元。空头必须收复102.77美元。QQQ、NQ_F和NDX的走势可以参考该信息。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The chain posted sales of 298 million euros for full 2005, a rise of 19.5 percent, year-on-year. \n\n翻译成中文为：该连锁店在2005年全年销售额达到2.98亿欧元，同比增长19.5%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "历史一再表明，在股市大幅下跌时购买低估股票是绝佳时机。这些股票现在是最被低估的股票之一。\n\n英文翻译：History has repeatedly shown that steep corrections are the perfect time to shop for undervalued stocks. These are among the most undervalued stocks to invest in now.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MarketWatch在2022年初发布了一篇文章，突出了去年表现最佳的S&P 500、中盘股、小盘股、纳斯达克-100和道琼斯30种股票。五份名单中的某些名字被分析师列为2022年最值得购买的成长股。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n- 已添加。成本现在为1.54。反弹至Put OI和S1枢轴。@moteltan BTO $AAPL Apr 27 2012 605.0 Calls @ 1.66 以获得609左右的价格。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The portfolio comprises of 118,000 m2 of leasable space with a vacancy rate of roughly 5 % , let to around 140 tenants of which two of the largest are the Swedish government and Ericsson. \n\n翻译成中文：该投资组合包括约118,000平方米的可出租空间，空置率约为5%，出租给约140家租户，其中两家最大的租户是瑞典政府和爱立信。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish and Swedish construction markets are still experiencing an estimated 4% annual growth in 2008.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "China's Skyscraper Boom Comes Crashing Down Amid Developer Default\n\n翻译成中文：\n中国的高楼大厦热潮在开发商违约中崩塌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP, the world's largest ad agency, reports strong 2015 growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The size of the extension, 18.5% of which already has been let, will have a gross area of about 2,830 sq m 30,460 sq ft. \n\n中文翻译：\n扩建部分的面积，其中18.5%已经出租，总面积约为2830平方米或30460平方英尺。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 努力培养忠实客户，股价上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿根廷正在试图与债权人重新安排债务，IMF。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Over the next three years, Costco Wholesale Corp. COST, +0.59% will charter seven ships, up from three previously, in order to increase its supply chain flexibility. The company has also leased containers for use on these ships, which will transport goods between Asia, the U.S. and Canada.\n\n接下来三年内，Costco Wholesale Corp. COST, +0.59% 将包租七艘船只，比之前的数量增加了四艘，以增加其供应链的灵活性。该公司还租赁了用于这些船只的集装箱，这些集装箱将运输亚洲、美国和加拿大的货物。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Many workers don't have access to retirement savings programs. Now, efforts on both a national and state level aim to change this.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stricken Bank of Jinzhou will unload $21 billion of assets to the central bank for less than a third of their original value.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lyft Q4 2019 Earnings Preview: {$LYFT - https://t.co/L5wp8VZjnZ}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MillerCoors 2014年的基础净利润增长率为2.9%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RECAP 12/10 Unusual Calls:\n$QSR Dec 67.5 C\n$OXY Dec13 38.5 C\n$CL Mar 75 C\n$ARQL Apr 20 C\n$LPI Jan 3 C\n$JBLU Jan 20… https://t.co/Kg9YOYBDgF\n\n以下是中文翻译：\nRECAP 12/10 异常电话：\n$QSR 12月67.5 C\n$OXY 12月13日38.5 C\n$CL 3月75 C\n$ARQL 4月20 C\n$LPI 1月3 C\n$JBLU 1月20… https://t.co/Kg9YOYBDgF",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I bought a little yesterday, hoping for an earnings pop.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲央行维持关键存款利率在-0.5%不变。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc (NASDAQ: NFLX) on Monday announced it will establish an internal game studio in Helsinki, Finland. The shares closed the regular session down about 1.0%.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire Sees Baxalta Deal Closing as Expected After New Rules\n\n直译：Shire预期在新的规则下Baxalta交易如期完成。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Big Picture: No fundamental reason for 2019 holiday sales to disappoint $SPY-- https://t.co/w4dAzYCmAz… https://t.co/CNY9CEJica\n\n翻译：\n《大局观：2019年假期销售无基本原因失望，$SPY不会受影响-- https://t.co/w4dAzYCmAz… https://t.co/CNY9CEJica》",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco closes in on new chairman with Dixons Carphone's John Allan in the frame 可以翻译为：\n特易购正在接近任命新的董事长，而迪克森斯卡朋的约翰·艾伦（John Allan）是候选人之一。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

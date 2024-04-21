@@ -1,0 +1,302 @@
+[
+  {
+    "input": "以下是英文翻译：\n\"德州仪器将是在第二季度财报季中首次报告主要芯片公司的公司。半导体投资者正在为全球经济放缓带来的动荡做好准备，但华尔街预计将有一个温和增长的季度。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"莫里森在联盟内部辞职后重新洗牌内阁。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The group's 12-month operating profit grew 31 percent to 337.8 million euros. \n\n直译：该集团的12个月经营利润增长了31％，达到3.378亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cobalt Blue: 董事长致股东的讲话 #CobaltBlue #股票 #市场筛选器 https://t.co/GViLjGmUzH https://t.co/jb8sBXZ8YD",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "保险公司Old Mutual选择Standard Bank的Hemphill为新任首席执行官。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Casinos in the red before the bell: $LVS -0.75%, $WYNN -0.47%, $WYNN -0.47% > unusual combinations of what's running, what's red before the bell.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The re-use of PET bottles has also steadily increased, and the rate of use in strapping tape has picked up again after a dip in 2005, according to Petcore.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stacy Rasgon, a senior analyst at Bernstein Research, joins 'Closing Bell: Overtime' to discuss Intel's warning that it may have to scale back or delay construction of its $20B Ohio factory if the CHIPS Act doesn't move forward.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Taco Bell 加入了炸鸡大战，推出了 Crispy Tortilla Chicken：https://t.co/aKjYzVl9jv 由 @heidi_chung 发布：https://t.co/lv0Iv2cHQz",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$LEE http://stks.co/24kM LEE ready to exit bankruptcy. Strong volume today.}\n\n\"LEE 准备退出破产。今天交易量强劲。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Validating our fgVoIP client through Symbian Signed represents a significant step forward in accomplishing this goal. 翻译为：\n\n验证我们的 fgVoIP 客户端通过 Symbian Signed 是一个重要的里程碑，有助于实现这一目标。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "These are the best performing IPOs of 2019.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell to buy BG Group in $69.7 billion takeover\n\n翻译：\n壳牌将以690亿美元收购BG集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This beaten-down high-growth stock is as cheap as it's ever been. 翻译为中文为：“这只被压低的成长型股票，其价格已达到了前所未有的低位。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德银职员被清白，但银行因洗钱案被罚款。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {$CDTI bounce here on support or H&S setup this area is very important for bulls to not lose http://stks.co/c0mf3}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "自成立以来最强劲的一年之后，Airbnb Inc (纳斯达克：ABNB) 正在扩大其对竞争对手的优势。Airbnb联合创始人兼首席执行官Brian Chesky正在发挥重要作用，通过从一个家到另一个家，在Airbnb的房产中生活，营销该平台的长期居住潜力。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{CompaniesTravis Perkins raises dividend, earnings increase by 15%}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "收入更新：分析师刚刚将Milestone Scientific Inc.的里程碑价格目标上调至2.00美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：{$SPY 在成交量上实现了紧缩设置上的强力突破。突破了6周下降趋势线、上周的高点和移动平均线。C&H突破。更高的高... https://t.co/jlcQjmopO9}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It grew in Finland, Norway, Denmark, and the Baltic countries.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚历山大，维吉尼亚州，6月7日--来自加利福尼亚州纽伯里公园的迈克尔·G·威廉姆斯开发了一种网络设备。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Markets reporter Jared Blikre 分析了苹果公司的股票上涨，因为 iPhone 14 的预售需求在消费者展示会后激增。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纽约时报董事会将每股股息提高至6美分，而之前为5美分。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A KeyBanc analyst is confident sales of pricier iPhone 14s will help boost the top line for the tech giant's hardware products.\n\n翻译：\n一名KeyBanc分析师对更昂贵iPhone 14的销售能够帮助科技巨头提升硬件产品收入线充满信心。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股票下跌被迅速买入。无疑，低位正在提高。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$BXG - CEO turnover at Bluegreen Vacations https://t.co/uyMT0Y6x8k}\n\n翻译：Bluegreen Vacations的CEO变更\n",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Model S 交付量在德国增加了 35% - 3 月份创下交付记录 [图表] https://t.co/yCnClcBImV $TSLA",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{刚刚买入$ILMN}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The measures result from decreased demand in technical design and product information. \n\n翻译成中文：\n这些措施源于技术设计和产品信息需求的下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL的双底可能已经形成，请保持关注。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Long $X 24.62\"} in Chinese is \"长 $X 24.62\" (cháng $X 24.62).",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence \"58.com EPS beats by $0.13, beats on revenue\" can be translated to Chinese as \"58.com每股收益超出预期0.13美元，收入超出预期。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Large-scale investors can be smart to follow, but investors still need to do their own homework.\n翻译：大型投资者可以聪明地跟随，但投资者仍然需要自己做功课。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "全球汽车张紧器市场2019-2023 | 启动-停止系统的广泛采用将促进增长 | Technavio...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：“$NQ 今早大幅下跌，看起来它在 18.89 找到了支撑。”\n\n英文翻译：\n$NQ got hit hard lower this AM --> looks like it has found support at 18.89\nhttp://stks.co/s052z",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"迪士尼可能在总高级流媒体订阅者方面超过了Netflix，但在几乎所有真正重要的类别中，它都落后了。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit was EUR 24.5 mn, up from EUR 23.0 mn. 的中文翻译为：“营业利润为2450万欧元，较上期的2300万欧元有所上升。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 620 resistance area 翻译为 苹果公司 620 阻力区域。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"We are now in a position to pursue novel clinical candidates going forward.\"} 的中文翻译是：\n\n{\"我们现在处于能够继续推进新型临床候选者的地位。\"}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tekla, a provider of model-based software, has adopted a BIM (building information modeling) structure for the construction management and delivery of a university project in Abu Dhabi.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The financial impact is estimated to be an annual improvement of EUR2.0 m in the division's results, as of fiscal year 2008. （财务影响预计将使该部门的结果在2008财年每年改善2百万欧元。）",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "政府数据显示，11月招聘人数在10个月内首次大幅增长。雇主增加了远高于预期的...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我对AMD持乐观态度，因为全球半导体需求强劲。基于实际市场数据，我估计AMD的合理价值为97美元。然而，从长远来看，该股票的价值将超过这个数字。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了诺德银行，埃哥也在争取成为爱沙尼亚前三大养老金提供商之一的地位。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo is one of several stocks likely to see big moves this week. 翻译为：百事可乐是本周可能会看到大动作的几家股票之一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft is headed for a battle with the Federal Trade Commission over whether the U.S. will block the tech giant's planned takeover of videogame company Activision Blizzard.\n\n翻译为中文：\n微软正面临与联邦贸易委员会的诉讼，争论美国是否会阻止这家科技巨头收购电子游戏公司动视暴雪的计划。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺基亚的惊喜利润增长未能挽救2019年的股息。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DISH weakness continues again. 49.43 area resistance after last week.\n\n翻译成中文为：\n\"DISH的弱点再次出现。上周后，49.43区域的阻力持续存在。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国电动汽车制造商。中国汽车销量增长7.8%。此外，近期还可能受益于特斯拉的动量。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

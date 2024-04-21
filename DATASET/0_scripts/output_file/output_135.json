@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"告诉你的父母不要在Facebook上表达自己的意见,\" @AOC说。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "四分之一的美国人在这个假期季节犯了一个大错误。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks' Digital Strategy To Drive Significant Growth With Customer Loyalty 翻译为中文为：星巴克的数字化策略，通过客户忠诚度推动显著增长。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The gross area of eight houses will be 12,167 m2.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Valeant 任命临时领导人，CEO 仍住院。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Federal Reserve has established a facility to create a secondary market for new small business loans.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The Latin American e-commerce giant is still growing like a weed.}\n\n英文翻译：拉丁美洲的电子商务巨头仍然像杂草一样快速增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Adobe技术警报：扩展突破，Gilligan's Island卖出设置，交易量激增，以及新的52...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "When investing in penny stocks under $5, remember just because they're cheap doesn't mean their fundamentals make them a buy. The post 7 Penny Stocks to Pick up for Profit in Q1 appeared first on InvestorPlace.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The information has not been disclosed.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco Wholesale Corp. (股票代码COST)周四晚间表示，其5月份销售额较去年同期增长了16.9%，达到1823亿美元。该公司表示，同店销售额增长了15.5%，在线销售额增长了6.3%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FB trending nicely, intraday.} 翻译成中文是：{$FB 日内趋势不错。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD的股票目前以大幅折扣的价格交易。游戏业务疲软的根本因素已经完全反映在AMD的估值中。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BlackBerry is hearing rumors of a major joint venture announcement.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The turnout for a second union election at Amazon's Bessemer, Alabama, was approximately 39%, which is lower than the previous year.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦任命卡拉·莱格尔领导通用再保险部门。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"高通股价甚至在Q1盈利超过中国冠状病毒前景后下跌。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new lawsuit seeks to attribute the blame for the 737 MAX to Boeing's board.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这段英文句子可以翻译成中文为：“在这波下跌期间，Twitter上最看涨的股票。$YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY 更多：https://t.co/iuZJelfwt3”\n\n这里，我列出了一些股票的代码，这些都是Twitter上讨论最活跃的股票，尤其是在当前市场下跌期间。每个代码都代表一家公司，例如，$YHOO代表雅虎公司，$GDX代表黄金交易基金，$GOOGL代表谷歌母公司Alphabet Inc.，$STZ代表美国生物科技公司Stemline Therapeutics, Inc.，$GOLD代表黄金，$EW代表Euronext NV，$VZ代表威瑞森通信，$CELG代表生物技术公司赛诺菲，$SBUX代表星巴克，$SCTY代表SpartanNash Inc.。\n\n最后的链接（https://t.co/iuZJelfwt3）指向一个可能的来源，那里可能有更多关于这些股票的信息。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“Companies Tesco off to a bad start over Xmas Ã¢â¬â Kantar”的中文翻译：\n\n“Tesco公司在圣诞节期间开局不佳——Kantar”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Casinos red before the bell: $LVS -0.75%, $WYNN -0.47%, $WYNN -0.47% > unusual combinations of what's running, what's red before the bell\n翻译：\n开市前红色赌场：$LVS -0.75%，$WYNN -0.47%，$WYNN -0.47% > 开市前红色赌场的异常组合",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{It expects revenue between $ 8.4 billion and $ 8.7 billion, compared to analyst estimates of $ 8.67 billion.}\n\n翻译为：\n\n{预计收入将在8.4亿美元至8.7亿美元之间，与分析师预估的8.67亿美元相比。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's long into earnings. Looks good over 600.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This corresponds to 6.81 percent of Okmetic's share capital and voting rights.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n- 「{$STOK $TROV $BNTC} - vTv Therapeutics leads healthcare gainers; Myomo and Biohaven Pharmaceutical among losers https://t.co/slFRuOBmdG」\n翻译为中文：\n- 「{$STOK $TROV $BNTC} - vTv Therapeutics领跑医疗健康板块; Myomo和Biohaven Pharmaceutical成为输家https://t.co/slFRuOBmdG」",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence to Chinese is: \"2020年欧洲新建风电场融资将面临延迟：报告 https://t.co/PRnWG0VQtu https://t.co/LDU3NrEcye\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc's most-watched series is no longer just a fictious television show after the streaming service greenlit \"its biggest reality competition ever\" called \"Squid Game: The Challenge.\" \n\n翻译：\nNetflix 公司最受欢迎的一系列节目不再只是虚构的电视节目，因为该流媒体服务已经批准了名为“鱿鱼游戏：挑战”的“有史以来最大的现实竞争”。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stock of new machines is reasonably small and new orders bring work. 可以翻译为：新机器的库存量相对较小，新订单带来了工作。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺基亚公司是全球最大的移动电话公司，现以81亿美元收购芝加哥的数字地图供应商NAVTEQ公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"由于我们是一家养老金保险公司，我们必须分散资产，不要在一个资产类别上投入过多。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"NVDA sideways\"} 在中文中的翻译是 \"盲人导航软件斜体显示\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo的举动有些可疑。一家新公司产生了兴趣（DailyMail）反弹并撤退。这绝对不是短期的，但行动却提出了一个大涨的可能性。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The parties have also agreed that L+ñnnen Tehtaat has the right to sell the remaining shares in Suomen Rehu to Hankkija-Maatalous 15 months after the purchase of the majority holding, at the earliest. \n\n双方还同意，L+ñnnen Tehtaat有权在购买多数股权后15个月内，最早将剩余股份出售给Hankkija-Maatalous。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sales of mid-strength beer decreased by 40%. \n\n翻译：中度啤酒的销量下降了40%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco share price down as grocer faces SFO investigation outcome 可以翻译为 \"特易购股价下跌，因为零售商面临 SFO 调查结果\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook 正在抵制总检察长 William Barr 要求推迟其在平台上部署加密技术以保护用户隐私的呼吁。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Added.\" Cost now at 1.54. Bounce off of Put OI & S1 pivot. @moteltan BTO $AAPL Apr 27 2012 605.0 Calls @ 1.66 for ride to 609 ish.}\n\n已经添加。现价为1.54美元。反弹至卖出期权（Put）的开放兴趣（Open Interest）和S1支撑点。@moteltan BTO $AAPL Apr 27 2012 605.0 认购期权（Call）在1.66美元，可以搭乘到大约609美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "城市精神因帝亚吉欧销售额下滑而沉沦。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The device provides multimedia performance along with a variety of productivity applications, including live stock prices.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia will continue to invest in future development of Qt, and Digia will be responsible for commercial licensing and services business.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The demand seems to have hit bottom now, and some signs of improvement can be seen.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "西班牙的CaixaBank预计将完成与Banco BPI的交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"黄金价格预测 - 黄金市场在周末反弹\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "通信服务板块在轮换进入周期性行业 -- 通信服务汇总 #经济",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Although the equities sector recently encountered significant challenges, investors may find long-term upside opportunities in the best restaurant stocks. Naturally, the concept presents a counterintuitive profile consider the rapid rise of inflation.\n\n尽管股票市场最近遇到了重大挑战，但投资者可能会在最好的餐厅股票中发现长期的上行机会。自然而然，这个概念呈现出一个反直觉的轮廓，考虑到通货膨胀的快速上升。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P 500 and Down down 0.1% 可以翻译为 \"标普500指数下跌0.1%\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The CVs of the proposed members are available for viewing from 12 March 2008 onwards on the Internet at www.sampo.com/ir.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The hack had been extra nefarious because the tweets activated without being clicked on - it was enough for Web surfers to move their mouse cursors over them. \n\n这句话的中文翻译为：\n\"这次黑客攻击格外狡猾，因为推文在被点击前就已激活，只需要网络冲浪者在它们上面移动鼠标光标即可。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "收购完成后，Basware 的 2005 年预估净销售额为 52.6 百万欧元，预估预估营业利润为 7.1 百万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The transition from gaming to data centers is a positive for Nvidia.\" 翻译为中文为：\"从游戏到数据中心的转变对英伟达来说是一个积极的方面。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

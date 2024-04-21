@@ -1,0 +1,302 @@
+[
+  {
+    "input": "小市值股票值得关注的活跃股票——Mesoblast (MESO) 因 remestemcel-L IND 的批准而上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们是否应该对亨廷顿英格尔斯工业公司（NYSE:HII）的36% ROE感到高兴？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Deluxe Reports Fourth Quarter 2019 Results and Record Full Year Revenue\n\n豪华报告公司发布2019年第四季度业绩和创纪录的全年收入。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2009, Comptel's net loss increased to EUR2.1m from a profit of EUR6.6m in the previous year.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY的1m/6m趋势今天都转为看涨，阻力位在11.31美元。\n（英文翻译：BBRY's 1m/6m trends turn bullish today with a resistance level at $11.31.）",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the end of 2006, the number of outlets will rise to 60-70.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tieto in Latvia is represented by IT services companies TietoEnator Alise and TietoEnator, which has operations in the industries of Financial Services Cards, Retail and Logistics and IT Outsourcing and Managed Services.\n\n在中国，这句话可以翻译为：“在拉脱维亚，Tieto由IT服务公司TietoEnator Alise和TietoEnator代表，其在金融服务卡、零售和物流以及IT外包和托管服务等领域运营。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The main strength of the cooperation project lies in merging the know-how of two large companies.\n翻译：合作项目的主要优势在于将两家大型公司的专业知识相结合。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft CEO Satya Nadella and LinkedIn CEO Ryan Roslansky discuss new data from workers and their managers about hybrid work. They also address the rise of workplace surveillance and how companies are navigating an uncertain macroeconomic environment with Bloomberg Technology host Emily Chang.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "请看这些银行。它们相对于整个市场来说表现得相对较好。$XLF $BAC $GS $C <-- 在$BAC中出现了大量C的购买，这个购买在后台进行。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC's Seema Mody reports on the impact of the higher dollar on mega-cap stocks.\n- 美国财经频道CNBC的Seema Mody报告了美元升值对大型股票的影响。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Inside week buy triggers.\"\n\n以下是翻译的中文：\n\"下周买入触发器。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "市场参与者从近期股票的波动性行动中暂时休息。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given sentence: \n\n\"Lulu lost revenue in the range of $12 million to $17 million in Q1 2013 -not good.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GSK joins China trade push as UK trumpets healthcare deals.\n\n译为中文：葛兰素史克（GSK）加入中国贸易推进，英国高调宣布医疗保健协议。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla's demo of its first electric pickup didn't go quite according to plan. The \"Tesla armor glass\" windows shattered during the demonstration.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n该英文句子表示：“利率期货飙升，因为新冠病毒被视为促使美联储采取宽松政策。”\n\n英文翻译如下：\n- Rate futures surge: 利率期货飙升\n- as coronavirus seen pushing Fed to ease: 因为新冠病毒被视为促使美联储采取宽松政策\n\n请注意，该英文句子中的“https://t.co/Fi8x6k42Ap”和“https://t.co/MPjtg6wicr”是链接，不是句子的一部分，所以我在翻译中没有包含它们。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "估计莫罗公司（纳斯达克股票代码：MNRO）的公允价值。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Facebook的用户参与度是否正在下降？\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "菲律宾的San Miguel表示，如果它竞购SABMiller的……，它将与Kirin合作。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Schroders books solid earnings growth, several board changes.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The electric vehicle specialist's growth has outpaced that of the world's largest company in recent years. 翻译成中文是：“近年来，电动汽车专家的发展速度超过了全球最大公司的增长速度。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析人士表示，今年太阳能电池板市场可能会下跌34%，因为住宅安装量急剧下降。了解更多...https://t.co/aMleU6pUld",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nThe new governor of Buenos Aires province warned he doesn't have enough money to meet debt obligations and pay salaries.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年9月29日，芬兰废物管理和回收公司Lassila & Tikanoja通过在莫斯科附近的Dubna市引入其最近完成的回收工厂，扩大了其在俄罗斯的业务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Petrofac share price rises despite £30m costs on North Sea project.\n\n英中翻译：Petrofac 股票价格在北海项目成本高达 30 万英镑的情况下仍然上涨。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Burns McKinney, NFJ Investment Group, joins 'Closing Bell: Overtime' to discuss his take on Texas Instruments and Stanley Black & Decker. 翻译为：\n\n布恩斯·麦金尼，NFJ投资集团，参加“闭市钟：加时赛”，讨论他对德州仪器和史丹利黑德工具的看法。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We were the lowest bidders and now the final approval is awaited.\" 翻译为中文是：“我们是出价最低的投标者，现在等待最终的批准。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Madison Square Garden Q2 revenue $628.8 mln vs. $632.2 mln.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"呼！到目前为止还不错，$BBRY没有跌破10.40，因为我被告知这是关键支撑水平。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们目睹了全球范围内家庭暴力的惊人增长。\n联合国秘书长@antonioguterres呼吁政府……\n（翻译：We have seen a horrifying global surge in domestic violence. UN Secretary-General @antonioguterres is urging governments...）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"它最近的双底买入点位56.57几乎分毫不差地达到了，今天$WMT的表现如何？[图表链接：http://chart.ly/6nosp5q]\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n\"六个月内的营业利润和营业额都增加了，分别从去年同期的一百万欧元和二千九百万欧元增加到了现在的二百万欧元和二千九百万欧元。\"\n\n英文翻译：\n\n\"Both operating profit and turnover for the six-month period increased, respectively from EUR0.1m and EUR29.0m, as compared to the corresponding period a year ago.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"GSK joins China trade push as UK trumpets healthcare deals\" 的中文翻译是：\"葛兰素史克加入中国贸易推动，而英国则高呼医疗保健交易。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ABB Deutsche Bank 将对瑞士-瑞典工程集团 ABB Ltd. 的推荐从 \"Hold\" 升级为 \"Buy\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mid-Southern Bancorp 任命 Robert W. Derossett 为 CFO。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "With this acquisition, Panostaja Oyj further expands its business area specializing in digital printing.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish wood products technology supplier Raute Oyj HEL: RUTAV announced today that it turned to a net profit of EUR3m for the first nine months of 2010, compared to a net loss of EUR5.2m for the same period a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The sell-off in this industry leader looks like an incredible buying opportunity.} 的中文翻译为：“在这个行业领导者中的抛售看起来像一个不可思议的买入机会。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"What changed for D-Street while you were sleeping - Economic Times\" 的中文翻译是：“你在睡觉的时候，D-Street发生了什么变化 - 经济时报”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pelton shares skyrocketed on the news, despite the stock losing more than half of its value this year.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Best and Worst Q4 2019: Mid Cap Blend ETFs and Mutual Funds. Sign up for updates on Seeking Alpha!”\n\n翻译为中文是：“2019年第四季度的最佳和最差：中盘混合ETF和共同基金。在Seeking Alpha上注册以获取更新！”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Panostaja did not disclose the purchase price.\n\n翻译成中文为：“Panostaja未披露购买价格。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sanoma Magazines Finland's net sales increased to EUR 140.1 million from EUR 131.8 million.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天早上用了 $ENDP 进行了一些交易，以 VWAP 为指导。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Panostaja，总部位于芬兰坦佩雷，是一家专注于传统产业中小型芬兰公司的投资公司。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gordon A. Simmons, CEO of Service Credit Union, has been elected chairman of the Defense Credit Union Council for the 2007-2008 term.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n{Edited Transcript of GGAL.BA earnings conference call or presentation 12-Nov-19 4:00pm GMT}\n\n翻译成中文：\n请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\n{编辑过的GGAL.BA盈利电话会议或演示记录12-11-19 4:00pm GMT}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的FTSE指数领先，Shire飙升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：Fletcher Building: 市场在售股份回购公告。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

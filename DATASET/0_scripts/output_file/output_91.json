@@ -1,0 +1,302 @@
+[
+  {
+    "input": "InterContinental Hotels Denies Reports of Starwood Merger Talks\n\n国际连续酒店否认与喜达屋合并谈判的报道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "福特和麦当劳正在将咖啡废物转化为汽车零部件。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB\": \"Facebook\"} 明天关注反弹。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大食品和饮料、工业和制药行业的大公司正在提高他们的分红。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Metro Inc. 刚刚错失了收益，其每股收益看起来令人沮丧 - 但是分析师已经更新了他们的模型。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YHOO 如果股价突破 $29.83，则构成短期交易者的技术性入场点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel Corp. 在报告多项令人失望的结果后，受到了分析师们的尖锐批评，这表明该公司面临着宏观经济、竞争和执行方面的多重挑战。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC-TV18 Market Highlights: Sensex ends 163 points higher, Nifty holds 12,100; PSU bank index up 2.6% - CNBCTV18\n\nCNBC-TV18 市场亮点：Sensex 上涨163点，Nifty 维持在12,100；国营银行指数上涨2.6% - CNBCTV18",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Homebuilders - $RYL 跌破支撑位，注意这个股票。$SPY\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 我的妻子期待着再次收到薪水，'' 他最近开玩笑地说，当时六节水流在他的锚定的、赞助丰富的雪橇周围盘旋。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，这是英文翻译：{\"让我们来做俯卧撑，伙计。\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. \n\n翻译为：\n\nWaymo，隶属于Alphabet的自动驾驶汽车开发公司，正在向经过审核的本地居民开放其在凤凰城市中心的无人驾驶出租车服务。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The broker emphasizes Cargotec as its favored stock in the sector, as it is a pure play on global cargo and container handling, and it anticipates it to play an active role in further consolidating the industry.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$SPY 不要过早地挂上你的公牛帽子。下周，我们将有望在QE3的希望和美联储两天的会议背后上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Meggitt share price drops as profit declines in 'challenging year'\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The rewards to be paid on the basis of the earning period 2011 will correspond to the value of a maximum total of 364,000 Componenta Corporation shares including also the proportion to be paid in cash.\n\n2011年度的奖金将对应于最高总额为364,000股Componenta Corporation股份的价值，其中包括现金支付的比例。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司（纳斯达克：AAPL）计划推出一项新的“轻触支付”功能，为iPhone提供。这将为商家提供一个替代方案，与Block Inc.（纽约证券交易所：SQ）的Square技术竞争，彭博社报道。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "原句：Indigenous peoples and communities play a key role in protecting and maintaining the planet's biodiversity and cultural heritage. \n\n翻译：土著人民和社区在保护和维护地球上的生物多样性和文化遗产方面发挥着重要作用。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"期待$T能够突破并保持强劲势头。突破100和200日均线可能会推动它继续上涨。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Robust performances by all three operating businesses drove Henry Schein's (HSIC) Q4 revenues. \n\n直译：所有三个运营业务都有强劲的表现，推动了Henry Schein的（HSIC）Q4营收。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence is: \"{$ST - Sensata Technologies Q4 2019 Earnings Preview https://t.co/TA4X2PNtgq}\"\n\nTranslation in Chinese: \"Sensata Technologies 2019年第四季度盈利预测：https://t.co/TA4X2PNtgq\"\n\nPlease note that the given sentence is not a complete sentence, but rather a fragment with a URL link. The URL link leads to a preview of the earnings report for the fourth quarter of 2019 for Sensata Technologies.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Known as Post Bank, the concept would see Fidelity Bank rolling out 75 offices in Ghana Post premises, to provide financial services to the people.\n\n翻译为中文：\n\n\"Post Bank\"（邮局银行）的概念将看到Fidelity Bank在Ghana Post的场所内设立75个办公室，为人们提供金融服务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Parsley willing to cut oil production 20% if deal reached, CEO says.\" 可以翻译为：“如果达成协议，Parsley愿意减少20%的油产量，CEO表示。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks' move follows McDonald's exit from the Russian market last week. 翻译为：“星巴克的做法跟随麦当劳上周退出俄罗斯市场。”",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：{$PCLN Back to Back intraday reversals look out below. Shorts moving in!}\n\n中文翻译：{$PCLN 日内连续反转，请注意下方。空头正在行动！}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您请求的英文翻译：\n{\"Introducing Cogent Communications Holdings (NASDAQ:CCOI), A Stock That Climbed 78% In The Last Five Years\" 的中文翻译为：\"介绍思科通信控股公司（纳斯达克代码：CCOI），该股票在过去五年中上涨了78%。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据赫尔辛基证券交易所的公告，森特拉公司的股份将从赫尔辛基证券交易所的NM名单中相应地除名。\n\n英文翻译：According to the announcement of the Helsinki Stock Exchange, the share of Sentera shall be delisted from the NM-list of the Helsinki Stock Exchange accordingly.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Bellevue Gold: 从MQG成为重大股东 #BellevueGold #股票 #市场筛选器 https://t.co/iRRNzPBhDt https://t.co/IOfdNks5O0\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish food concern Atria is about to acquire two Estonian meat processing companies, Woro Kommerts and Vastse-Kuuste Lihatoostus, reported the Official website www.investinestonia.com.\n\n芬兰食品公司Atria即将收购两家爱沙尼亚肉类加工公司，Woro Kommerts和Vastse-Kuuste Lihatoostus，官方网站www.investinestonia.com报道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I'm liking the price action in $SWKS, currently @21.80; my target: 24.00+ before year end. = 我正在喜欢 $SWKS 的价格走势，目前为 21.80 美元；我的目标：年底前达到 24.00 美元以上。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们提供的服务包括个人护理和生活日常活动协助、专业护理和康复治疗，以及成人日间照料。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The future looks quite bright for its ad-supported streaming service ambitions. 翻译为：“它对其广告支持的流媒体服务抱负的未来看起来非常光明。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morning Consult Media & Entertainment Analyst Kevin Tran and Bloomberg's Lucas Shaw join Emily Chang to discuss how streaming surpassed cable TV and broadcast in viewership numbers for the first time ever, and what that means for the future of the streaming industry. \n\n早上咨询媒体娱乐分析师Kevin Tran和彭博社的Lucas Shaw与Emily Chang一起讨论了流媒体如何首次超越有线电视和广播在观众数量上，以及这对流媒体行业未来的意义。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple 刚刚推出了 iPhone 14 系列、Apple Watch Ultra 和 Apple Watch Series 8。这次活动中有几个惊喜，从投资的角度来看，以下是我们的最爱。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton reduces dividend, reports $5.67 billion net loss.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cipla's India arm will show market-beating growth in the next few quarters: CEO Vohra.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Excel's board of directors will propose a dividend of 0.2 euro per share for 2006 at the annual general meeting on April 19, 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's stock is skyrocketing; it's time to sell!",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Spectacular Solar reports Q3 results: 壮观太阳能公布第三季度业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence translates to: \"S&P $SPY with 5000 June $319 calls opening in a $5M position as December $298 calls adjust.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司表示，由于成本削减措施，预计将获得微薄利润。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着数字转型和云迁移策略的推进，对特权访问安全的日益增加的需求可能会促进PANW、CRWD和QLYS等公司提供的安全解决方案的需求。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Unusual Ventures 迅速达到了 Fund II 的 4000 万美元最终关闭。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Oil Dips as China Concern On Impeachment Adds Another Twist To Trade Deal\" 的中文翻译为：\"油价下跌，中国对弹劾的担忧为贸易协议增添了另一层曲折。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：3 飞来横财的低价-书比率股票。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ACAD under $2 today?\" 翻译成中文是 \"今天ACAD股价低于2美元吗？\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些公司在S&P 500指数下跌20%的情况下，表现突出，因为它们具有惊人的价值。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Standard Life share price: Insurer buys advice firm Pearson Jones\n\n标准人寿股票价格：保险公司收购咨询公司皮尔逊·琼斯。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在美联储政策收紧和乌克兰战争的预期下，大科技股正在复苏。在美联储加息前夕，科技股为主的纳斯达克100指数上涨超过3%。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "一些美国房主正在犯一个大型的退休错误，调查发现。\n\n英文翻译：Some American homeowners are making a big retirement mistake, survey finds.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

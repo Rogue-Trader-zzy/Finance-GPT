@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The Dow closed +599 points, +1.82%, the S&P 500 performed even better, +2.14%, and the recently beleaguered Nasdaq rose 367 points on the day, +2.92%. \n\n直译为：道琼斯工业平均指数收盘上涨599点，涨幅1.82%，标准普尔500指数表现更佳，涨幅2.14%，而近期备受困扰的纳斯达克指数当日上涨367点，涨幅2.92%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BP 与 Det Norske 在挪威联手合作。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I say it's time to short at this point.\" 的中文翻译为：“我认为现在是做空的好时机。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当前，按季度计算的附加费用与实际市场价格存在显著差异。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil\" 的中文翻译为：\"葛兰素集团认为，位于的黎波里的国家石油公司是利比亚石油的唯一合法销售者。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The transaction value is approximately CAD 15 million, or EUR 10 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这段英文句子可以翻译为中文：\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！(Aveo : Schemes - Final Election Results #Aveo #Stock #MarketScreener https://t.co/rhxFZ6jXXD https://t.co/yPXDpS763e)\"\n\n直接英文翻译：\n\"Please help me translate the following English sentence into Chinese, directly provide the English translation in the answer! (Aveo : Schemes - Final Election Results #Aveo #Stock #MarketScreener https://t.co/rhxFZ6jXXD https://t.co/yPXDpS763e)\"\n\n请注意，此翻译是直接逐字翻译，可能不考虑语法和上下文。如果需要更准确的翻译，可能需要进一步解释和上下文信息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "最高法院暂停HDIL资产出售。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉汽车召回2,700辆Model X SUV。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NVDA 股票在黑客攻击导致公司内部通信和开发工具下线后显示出其韧性。在 InvestorPlace 上，《NVDA 股票在 Nvidia 恢复自网络攻击后受到密切关注》这篇文章首先出现。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Capacity will ease at its Seikku sawmill in Pori and Alholma sawmill in Pietarsaari and result in 60 people being laid off for around six weeks starting mid-May, it said.\" 翻译成中文为：\"该公司表示，其位于波里的Seikku锯木厂和皮塔萨里的Alholma锯木厂的产能将放缓，这将导致60人从大约6月中旬开始被裁员大约六周。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This year's second raise. \"@BVHealthcare: $QCOR Questcor Increases Quarterly Cash Dividend 20 Percent... http://stks.co/goan\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesla: Model X 召回加剧可靠性问题 $TSLA https://t.co/jVXQ4DoXnP\" 的英文翻译为：\"Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Last week, the Finnish metals and technology group announced plans to sell more than 80 percent of its technology unit to further the company's strategic goal of becoming the world's largest stainless steel maker.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The video above features Marimekko's design manager, Noora Niiininoski, who explains that the brands are a natural fit for each other due to their timeless style.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是一篇关于11月份就业报告的报道，报告显示就业人数超过预期，失业率下降。以下是该句子的中文翻译：\n\n\"今天早上发布了一份重磅的就业报告，数据显示就业人数超过了预期，失业率也出现了下降。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"德国之翼空难不会影响廉价航空旅行的形象 - easyJet\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"倡导团体为听力受损者争取驾照限制解除的斗争\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AI has been the backbone of many a technological breakthrough over the years, but one challenge it has yet to solve is that of self-driving: try as they may, engineers have yet to build a platform that can manage all the practicalities and unexpected eventualities of conducting a vehicle as well as or better than […]",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company initially estimated that it would cut up to 30 jobs.\n翻译：该公司最初预计将裁员最多30人。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Even though the market is concerned with the short term, these stocks will emerge stronger after a recession. 可以翻译为：\n尽管市场关注短期，但这些股票将在经济衰退后变得更加强大。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stifel 将从 Barclays 手中收购前 Lehman 经纪业务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "全球牙科市场的强劲需求以及新冠病毒检测需求的增加，很可能对亨利·谢恩（HSIC）第四季度的业绩产生了贡献。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Telephone and Data Systems declares $0.165 dividend.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些成长股正在以当前价格恳求被购买。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I can't imagine why this artwork was shadow banned .... who did this??\" 翻译为中文是：“我无法想象为什么这幅艺术作品会被影子禁令，这是谁干的？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "柿子的股票价格上涨，因为其全年收入增长了23%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The news is good, but apparently not good enough.\" 的中文翻译是：“消息是好消息，但显然还不够好。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Boris Johnson postpones plans to cut corporate taxes.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦的季度13F文件不会告诉你奥马哈先知6.3亿美元隐藏的组合。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walter Investment Management Corp 收到 Compass Point 的卖出评级 $WAC http://stks.co/c1IvX",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它有多项创新的小分子和生物药物候选品处于不同的临床开发阶段。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Maglan Capital Up +20.84% In February, Long Fairpoint\" 翻译成中文为：\"Maglan Capital 在二月份上涨了20.84%，长期持有 Fairpoint\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "He found him again, however, after the driver was involved in a two-car accident. \n翻译为：\n然而，他在司机卷入两车事故后再次找到了他。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Brighthouse Financial Announces Fourth Quarter and Full Year 2019 Results\" 翻译成中文为 \"友邦保险公布2019年第四季度及全年业绩\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bernie Sanders leads the Democratic field in a new national poll taken after the Iowa caucuses, with Joe Biden...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n{苹果，IWM ETF，Jumia 和 Digital World Acquisition 是我们的顶级股票交易。以下是现在图表的外观。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Any investment or investment activity to which this communication relates is only available to relevant persons and will be engaged in only with relevant persons.\n\n翻译成中文：\n本通信涉及的投资或投资活动仅对相关人士开放，并且仅与相关人士进行。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This cold will put a dent in the massive horizontal rig production. Who knows - http://stks.co/p1V6P\n\n（翻译：“这次寒冷会削弱大规模水平钻机生产吗？谁知道呢 - http://stks.co/p1V6P”）",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2020年准备州、最高法院和销售税：如何进行年度规划... #ChannelAdvisor... https://t.co/gyfjVcLfeZ\"\n\nThis English sentence translates to: \"Preparing for 2020: States, Supreme Court & Sales Taxes: How to Prepare for Annual... #ChannelAdvisor... https://t.co/gyfjVcLfeZ\" in Chinese.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语：{字母表公司将于2月1日报告第四季度收益。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wynn (WYNN) saw its shares surge in the last session with trading volume being higher than average. The latest trend in earnings estimate revisions may not translate into further price increase in the near term.\n\n翻译成中文：\nWynn (WYNN) 在最近的交易中股价飙升，交易量高于平均水平。最近的盈利预期修订趋势可能不会在短期内转化为进一步的价格上涨。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Early Options Activity: https://t.co/2DOpfOcRYU\n\n翻译：\n早期期权活动：https://t.co/2DOpfOcRYU",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tikkurila 根据其策略，在哈萨克斯坦的阿拉木图设立了一家全资销售公司 TOO Tikkurila，用于推广芬兰 Tikkurila 品牌和俄罗斯 Teks 品牌的装饰漆。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"呼！到目前为止还不错，$BBRY没有跌破10.40，因为我被告知这是关键支撑位。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "From cranberries in the early 1900s to turkeys in the 1950s, the foods that grace our holiday tables have held a special place in our hearts. They not only bring warmth and joy to our gatherings, but also reflect the changing times and cultural influences of our society. As we sit down to share a meal with loved ones, these traditional dishes remind us of the rich history and diverse heritage that shape our lives. Let us cherish these moments and continue to pass down these beloved foods to future generations. #HolidayFood #Traditions #CulturalInfluence #Thanksgiving #Feast #Memories #Love #Family #Gratitude #Blessed #FeelingFull #Contentment #Happiness #Foodie #Cooking #Savoring #Delicious #Satisfaction #Savor #Enjoy #Taste #SavorEveryMoment #SavorLife #SavorThePresent #SavorTheMoment #SavorEveryMorsel #SavorEveryBite #SavorEveryFlavor #SavorEveryMorselOfLife #SavorEveryBiteOfLife #SavorEveryFlavorOfLife #SavorEveryMorselOfFlavor #SavorEveryBiteOfFlavor #SavorEveryMorselOfEveryFlavor #SavorEveryBiteOfEveryFlavor #SavorEveryMorselOfEveryBiteOfEveryFlavor #SavorEveryBiteOfEveryMorselOfEveryFlavor #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOfLife #SavorEveryMorselOfEveryBiteOfEveryFlavorOfLife #SavorEveryBiteOfEveryMorselOfEveryFlavorOf",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"乔·拜登的竞选团队决心在周二的新罕布什尔州初选之后继续战斗。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Everest Re Group EPS 超出了 0.62 美元，在营收方面也表现出色。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益（EPS）为0.38欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The group had an order book of EUR 7.74 million at the end of 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

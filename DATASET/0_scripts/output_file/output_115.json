@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Tekla Structures 16 is `all about you and your team' and compatible with the Windows 7 operating system. \n\n\"Tekla Structures 16 是`关于你和你团队的一切'，并且与 Windows 7 操作系统兼容。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "福特推出全新电动SUV，Mustang Mach-E。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC's Deirdre Bosa reports on the union vote at an Amazon facility in Alabama. Even though the union lost, the vote was much closer this time. \n\n翻译：\nCNBC的戴尔德丽·博萨报道了美国阿拉巴马州一家亚马逊设施的工会投票结果。尽管工会这次失败了，但投票结果比上次更接近。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here, we highlight a few ETF areas that have received the spotlight since Buffett's in-person annual meeting on Apr 30.\n中文翻译：\n这里，我们强调了自巴菲特于4月30日举行的面对面年度会议以来，受到关注的几大ETF领域。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "视频游戏发行商动视暴雪公司周四表示，其股东批准了微软公司的680亿美元收购提议，收购该公司的\"使命召唤\"制作商。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BlackBerry Ltd.（$BBRY）的1个月和6个月趋势今天都转为看涨，阻力水平为11.31美元。\n（BlackBerry Ltd. ($BBRY) both 1m/6m trends turn bullish today with a resistance level at $11.31.）",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "昨天盒子不错，看起来已经准备好要跑了！",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Norwegian company Norway's Nordea Group's operating profit increased by 18 percent year-on-year to 3.64 billion euros and total revenue by 3 percent to 9.33 billion euros in 2010.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barclays appoints JPMorgan's Paul Compton as new COO.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ISRG has acquired privately held Orpheus Medical to deepen and expand its integrated informatics platform.}\n翻译为：ISRG已收购私营的Orpheus Medical公司，以深化和扩展其集成信息平台。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ATyr Pharma下跌4%在盘前定价股票发行\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DCP Midstream (DCP) 在 RBC Capital Markets Midstream Conference 上做报告 - 幻灯片。了解更多并注册... https://t.co/PIQchMtrNZ",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$YNDX and the price of some stocks was 2 times lower than annual earnings, I couldn't resist, I was buying when everyone was selling. \n\n中文翻译：$YNDX和一些股票的价格是年度盈利的两倍，我无法抗拒，当大家都在卖出时，我正在买入。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Avita Medical: 重要持股的变化来自 MS #AvitaMedical #股票 #市场筛选器 https://t.co/mYwLr0k9V2 https://t.co/h5gFaMEz3H",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coupa: 不要在高增长放缓时购买昂贵的估值。关注Seek上的这只股票以及任何其他股票。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Registration is required.} 翻译成中文为：{需要注册。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev aims to gain the support of SABMiller investors.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国人民银行将逐步解决风险，因为中国经济面临的下行压力增加。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SAB的董事长坚持立场，董事会内部对InBev的收购要约意见不一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "No financial or pricing details were disclosed.\n\n翻译成中文：\n{未披露任何财务或定价细节。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Both of these stocks are down by more than 19% this year.\n\n中文翻译：\n这两只股票今年下跌幅度都超过19%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"Subscription sales decreased slightly.\" can be translated into Chinese as \"订阅销售略有下降。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "即便是最新的举措，切萨皮克能源股票仍然风险过高。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sanoma News' 广告销售在一年内下降了22%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "寻找强劲反弹 $SPY - 午间反弹即将到来。 $DIA $IWM $QQQ $AA $FB",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Under the changes envisaged, HK Ruokatalo would reduce its number of industrial places of business in Finland from eight to six.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dow up 110 points, 0.4%, at open 可以翻译为“道琼斯指数开盘上涨110点，涨幅0.4%”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP (威望迪) 尽管客户谨慎，但销售额仍有所提升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "分析人士预测，芯片制造商将讨论新产品和商业机会，同时提供有关其现金使用计划的更新。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "You will hear the latest insights and updates on Citycon's strategy as well as the latest news from all the business units.\n\nHere is the Chinese translation: 您将听到Citycon的最新战略见解和更新，以及所有业务部门的最新消息。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TalkTalk雇用BAE Systems调查网络攻击。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Teva: FDA批准了阿斯利康的胃灼热药物的仿制药。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sonc has been doing amazingly well since mid-March - it's clearly evident that the quality/tastiness of their burgers is not being taken into account in this price increase.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "整年2008年的净销售额将低于2007年，营业利润预计为负数。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该公司的董事会提议2010年为每股支付0.12欧元的股息，高于2009年支付的每股0.08欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rautaruukki 旨在为那些被裁员的人寻找来自该集团其他地点的就业机会。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GrafTech Reports Unaudited Full Year and Fourth Quarter 2019 Results\n\n- 格拉夫泰克公司报告未经审计的2019年全年和第四季度业绩",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company specializes in temporary electrification and heating at construction sites.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kesko's car import and retailing business, VV-Auto, saw sales grow by 17.1%.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是卡拉拉世界级磁铁矿床开发的一部分，该矿床具有超过30年估计寿命的磁铁矿年处理量超过3000万吨的已知潜力。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FAANG 股票是否现在是股市中的热门投资对象？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Norwegian Bank AB ADR reports Q4 results}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Stock Market Update: Gold Grabs Fourth-Straight Advance\"} 翻译为中文是：{\"股市更新：金价连续第四次上涨\"}。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Fed's Quarles: 'Main Street' loans like two to three weeks off as details finalized\" 可以翻译为 \"美联储的夸尔斯：'Main Street' 贷款将在细节最终确定后延迟两周至三周\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Qualcomm 图表：高通 61.8% 回撤，趋势线和阻力线。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在这次下跌期间，Twitter上最看涨的股票。$YHOO $GDX $GOOGL $STZ $GOLD $EW $VZ $CELG $SBUX $SCTY更多：https://t.co/iuZJelfwt3",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shares of semiconductor companies, including Advanced Micro Devices, Inc. (NASDAQ: AMD), are trading lower in sympathy with Applied Materials, Inc. (NASDAQ: AMAT) after the company reported worse-than-expected second-quarter financials results and issued third-quarter financial guidance below.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dow Jones Industrial Average retreats 63 points.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total restructuring costs are expected to be about EUR 30mn, of which EUR 13.5 mn was booked in December 2008. 翻译为中文：\n预计总重组成本约为3000万欧元，其中1350万欧元于2008年12月入账。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Autotank Group is part of Aspo's Systems Division.} = {自走式坦克集团是阿特拉斯公司的系统部门的一部分。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

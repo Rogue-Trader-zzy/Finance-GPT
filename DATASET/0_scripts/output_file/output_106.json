@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Market Report: Aviva leads the market as traders approve of its selection of Friends.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Users navigate a virtual city, helping its denizens solve IT issues related to the cloud, while earning points for completing simulations and puzzles.\n\n用户们在虚拟城市中导航，帮助居民解决与云相关的IT问题，同时通过完成模拟和谜题来赚取分数。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Whitbread的利润上升，因为销售继续增长，正在寻找新的首席执行官。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子 \"4 Of Last Year's Underperformers Ready For Rising In 2022\" 的中文翻译：\n\n“去年的表现不佳的4家公司准备在2022年崛起。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Huntington Ingalls Industries: 稳如泰山。订阅 Seeking Alpha 获取更多内容：https://t.co/jgmtvNkFsX",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's grocery deal with Morrisons is only the beginning.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will enhance the GPRS capability in the existing 12 IDEA telecom service areas and add 10 more service areas to its network.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Novartis: 接近达成收购胆固醇药物制造商Medicines Co. 的协议。#Novartis #Stock #MarketScreener…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GE将出售其在BPH核心银行的多数股权给Alior Bank。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "An Intrinsic Calculation For American Airlines Group Inc. (NASDAQ:AAL) Suggests It's 45% Undervalued\n\n“对美国航空集团（NASDAQ:AAL）的内在计算表明，它被低估了45%。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Fiskars has a strong portfolio of international brands, which include Fiskars, Iittala, Gerber, Silva, and Buster.} 的中文翻译为：\n\n{Fiskars 拥有强大的国际品牌组合，包括 Fiskars、Iittala、Gerber、Silva 和 Buster。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰奥托昆普技术已获得多项新的磨削技术合同。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The investment in Matka-Vekka has been reasonable for investors in CapMan funds. \n\n翻译：CapMan基金的投资者对Matka-Vekka的投资是合理的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着技术创新不断融入日常功能，投资者应当考虑拥有2023年及以后最热门的增强现实股票。为了让大家在同一页面上，AR（增强现实）是指平台通过将“视觉、听觉或其他感官信息叠加到现实世界上来增强体验”，根据Investopedia的定义。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence you provided translates to: \"SLW is down, but weekly $34 calls (-28.95%), .23 x .25 have 321 volume. Worth a chance here, jmho: http://stks.co/1Qfg\" in English.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Impending End Of A Mania\" 的英文翻译是“即将结束的狂热”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EU regulators approve the $100 billion-plus AB InBev, SABMiller deal.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Osram Has a Robust Start to Fiscal Year 2020\" 的中文翻译是 \"欧司朗在2020财年开局强劲\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "丹麦否认格陵兰独立与特朗普之间的联系。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Technopolis said before the protocol was signed that the techno-park would be built at a site covering more than six hectares in the Neudorf special economic zone and that it planned to invest 200 million euros in the project until 2009 inclusive.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong\n\n中译英：OCBC将收购新加坡、香港巴克莱财富管理部门。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We succeeded in increasing our market share of sold apartment,\" comments Mr Kari Kauniskangas, Head of YIT International Construction Services.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso Oyj，一家芬兰森林工业集团，于2008年第一季度发布了一份盈利警告。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Missouri American Water Wins Third Place in St. Louis Green Business Challenge\n",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In CapMan, Haavisto will be in charge of Group Finance, Accounting, and IT.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Angelo Zino, Senior Equity Analyst at CFRA, joins Worldwide Exchange to discuss Alphabet's Q3 earnings. \n\n陈先生，CFRA高级股票分析师，加入全球交流，讨论Alphabet第三季度的盈利。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Think BIG, then think BIGGER\" 的中文翻译是 \"先想大，再想更大\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n{$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF}\n\n中文翻译：\n\n{$CELG 股价已接近 104 美元，这是上周该股开盘并反弹上涨的位置。这是一个不错的买入时机：https://t.co/zwHThSvFSF}\n\n请注意，由于翻译的复杂性，这个翻译可能不完全准确。如果您需要更准确的翻译，请提供更多上下文信息。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"RingCentral: 40%+ Downside Due To Covid 19 Market Share Losses. https://t.co/X0hJzUMTD8 #stockmarket #finance #economy\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "联邦退休基金称，禁止中国投资的法案是歧视性的。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些三大科技股都面临着重要的宏观和微观问题，使得它们成为今天出售的好选择。文章《3 大型科技股今日卖出》首发于 InvestorPlace。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The 12-month period's operating profit and net sales respectively increased from EUR20.8m and EUR177.7m, compared to the financial year 2004.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国正在对新的伊朗威胁开火。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些安全股票提供了对不断上涨的通胀的对冲，具有稳定的股息支付。文章中提到的许多股票都在多年来的低点交易。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the English sentence below into Chinese, and provide the translation directly in English!\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "巴菲特的伯克希尔增持迪尔股份，抛弃埃克森。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The unit is planned to be operational during the second half of 2007 and in full stream in 2008\" 的中文翻译为：“该单位计划于2007年下半年开始运营，并在2008年全面运行。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国股市反弹，英镑恢复，因为对可能病毒控制的乐观情绪抵消了鲍里斯·约翰逊的担忧。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n新闻摘要：富时100指数涨跌榜：阿什泰德公司因强劲中期业绩而大涨；格伦科、BP等公司…\n\n以下是中文翻译：\n\n新闻摘要：富时100指数涨跌榜：阿什泰德公司因强劲中期业绩而大涨；格伦科、BP等公司…\n\n请注意，由于原文并未提供完整的句子，因此我无法提供更准确的翻译。如果您需要翻译其他内容，请提供更多的上下文信息。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Jared Blikre summarizes Amazon's volatile year, making the stock the sixth most trending ticker on Yahoo Finance.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BPM, UBI CEOs meet Italy's economy minister as M&A talks heat up.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Schultz 表示，股份回购暂停将允许星巴克在公司的员工和门店方面进行更多投资。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "荷兰鹿特丹的TomTom是欧洲最大的汽车导航设备制造商，而开曼群岛的Garmin在美国和全球范围内规模更大。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "卡塔尔保险可能会在标准普尔全球评级中降低一级评级。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "看起来它正在预订一张单程票，前往其 40 周移动平均线附近，约为 50。这里损失了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 10 周，$LULU 在这里失去了 ",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Three Starbucks Corp cafes in Buffalo, New York voted to unionize on Wednesday, bringing the total number of the coffee chain's stores with a union in the country to six.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The apartment block will be well-located, in easy reach of the city center and close to both a school and kindergarten.\n\n公寓大楼将处于优越的位置，靠近市中心，同时靠近一所学校和一所幼儿园。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\n字母表股票正受到严峻的年度比较、来自抖音的竞争以及货币逆风的影响。尽管如此，该公司报告了双位数的增长。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft joins the open-source Eclipse Foundation https://t.co/z8G5cZaKeU focus on collaboration & open business is a smart strategy! $MSFT\n\n微软加入开源的 Eclipse 基金会 https://t.co/z8G5cZaKeU 聚焦合作与开放业务是明智的策略！$MSFT",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P 500 and Dow down 0.1% 翻译为中文是：“标准普尔500指数和道琼斯工业平均指数下跌0.1%。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

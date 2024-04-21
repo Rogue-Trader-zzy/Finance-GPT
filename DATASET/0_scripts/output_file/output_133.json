@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Here's the translation of the given English sentence into Chinese:\n\n\"15分钟内形成的小型杯柄形态正在形成。收盘时，$SPY $SPX有利于指数迎来一个好日子。我们是否会看到一个缺口打开？\"\n\n英文翻译: \"Nice little cup-and-handle shaping up on the 15-minute. End-of-day $SPY $SPX favours a good day for the index. Will we see a gap open?\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result, 12 people will be made redundant and a total of 67 persons are laid off temporarily. \n\n翻译成中文为：“因此，12人将被裁员，总共67人暂时被解雇。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"此外，由于芬兰没有存款者的优先权，因此高级债务和存款被视为同等地位，这也是考虑的因素之一，该机构补充道。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：“关于这份报告，没有什么不喜欢的，惠尔富代理首席经济学家Jay Bryson说……”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Waitr Holdings Inc. (WTRH) 正在烧掉这些对冲基金。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$GLD http://stks.co/44ow 进一步检查。 10点北方的阻力，200d和向下趋势线。 图2的2。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The high-growth Nasdaq 100 is home to two amazing deals and one deceptive value trap.\" 可以翻译为：\n\n\"纳斯达克100指数中的高成长股中有两个惊人的交易和一项误导性的价值陷阱。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It's $49.4 billion in sales in the first quarter was up 18 percent from a year earlier.\n\n这是第一季度的销售额为49.4亿美元，比上一年同期增长了18%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NFLX 股价下跌 3%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n{圣何塞，加利福尼亚州--(BUSINESS WIRE)--Cadence的John Wall和Richard Gu将参加Bank of America会议}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Illycaffe, 一家意大利最大的咖啡烘焙商，已经开始出售部分股份以支持其扩张……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ritholtz Wealth Management's Josh Brown joins 'Closing Bell: Overtime' to discuss stocks moving higher for the second day, and whether this could be a rally that lasts.\n\n瑞德霍尔茨财富管理公司的乔什·布朗参加“闭市钟：加时赛”，讨论股票连续第二日上涨，并探讨这是否会是一场持续的反弹。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The report also said Nokia's operations comprising the sites at Bochum, Ulm, Dusseldorf, Munich and Frankfurt posted operating profit after interest of 246 mln eur. \n\n翻译成中文：报告还表示，诺基亚在波鸿、乌尔姆、杜塞尔多夫、慕尼黑和法兰克福的运营业务产生了24600万欧元的利息后营业利润。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Net income from life insurance doubled to EUR 6.8 million from EUR 3.2 million, and net income from non-life insurance rose to EUR 5.2 million from EUR 1.5 million in the corresponding period in 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo Finance's Daniel Howley explains what investors should know about the IPO of Intel's self-driving unit Mobileye, which has been priced at $21 per share.\" 可以翻译为：\n\n\"雅虎财经的丹尼尔·豪利解释投资者应该知道关于英特尔自动驾驶部门Mobileye的首次公开募股（IPO）的信息，该股票被定价为每股21美元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{M2 Communications disclaims all liability for information provided within information on on the world wide web.} \n\nM2 Communications 对万维网上提供的任何信息所造成的任何责任均不承担。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周一牛市来了！股票代码 - 迈克尔·詹姆斯企业其他选择 $SBUX $GVP $NKE。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"If You Invested $1,000 in Square's IPO, This Is How Much Money You'd Have Now\"} 翻译成中文为：\n\n{\"如果您在 Square 的首次公开募股中投资了 $1,000，现在您将拥有多少钱？\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加拿大官员的电子邮件表示，737 MAX软件必须下架，反映了“工作层级”的观点 - 监管机构 #经济...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是最后一款运行Maemo 5的智能手机，它将被MeeGo所取代，MeeGo是由诺基亚、英特尔和开源社区共同开发的项目。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Tech's Collins to expand landing systems operations.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"关于IEA石油市场报告中的一切错误。https://t.co/oLWb6SuC3C #stockmarket #stocks #trading\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"(ADP News) - Oct 1, 2008 - Finnish consulting and engineering company Poyry Oyj (OMX: POY1V) announced today that it has been awarded a EUR 5.2 million (USD 7.4 million) extension to their existing consultancy engineering contract with Venezuel.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦ICIS--Tikkurila已完成了其粉末涂料业务的出售，芬兰工业涂料公司Teknos Group，该芬兰基于的装饰性涂料公司于周三表示。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CaixaBank and dos Santos Agree on Plan for BPI Angola Exposure\n翻译为中文：\nCaixaBank与多斯桑托斯就BPI安哥拉风险问题达成共识。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo Finance's Josh Schafer reports on Monday Night Football bringing in the most watched Week 1 viewership numbers in ESPN history as well as the outlook for Amazon ahead of its NFL offering debut.\" 翻译为：\n\n\"雅虎财经的Josh Schafer报道，周一橄榄球之夜的观众人数创下了ESPN历史上周1收视率最高的纪录，同时也展望了亚马逊在NFL赛事发布前的展望。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Intel on Wednesday spun out its driver-assist subsidiary Mobileye and raised $861 million in the initial public offering. Mobileye's stock was up about 34% during trading Wednesday from the initial public offering price of $21 a share.}",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Breaking 52 week highs timing looks great now $AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV https://t.co/11K8JzuzMU\"\n\nIn Chinese: \"52周高点被打破，现在看起来时机非常好，$AHS $BABY $POST $IGE $IRDM $EWBC $PHYS $ULTA $VNET $BIV https://t.co/11K8JzuzMU\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It's a bad idea to make 5 min predictions based on faith: RT @dandyduct $AAPL Sell signal hit at 584, it will go down for the next 5 min\n翻译成中文：\n基于信仰做出5分钟的预测是一个坏主意：RT @dandyduct $AAPL 卖出信号在584点触发，它将在接下来的5分钟内下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Motors is recalling 2,700 Model X SUVs.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"After the takeover, Cramo will become the second largest rental services provider in the Latvian market.\" 翻译成中文为：“接管后，Cramo将成为拉脱维亚市场第二大租赁服务提供商。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果本周您只是关注了苹果的iPhone发布会开幕式，您可能会怀疑自己是否在看一场应急救援人员的培训课程。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "外壳包括第一侧外壳部件，其上设有第一侧罐段，以及第二侧外壳部件，其上设有第二侧罐段，其中至少第一侧外壳部件绕旋转轴可旋转。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva 承诺提高股息以提振疲软的股价。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Marchex will attend at Roth Corporate Access Event.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Insurance Holdings Corp. 已安排于2019年第四季度和年末发布财务结果并进行电话会议。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Fed's \"National Activity Index\" Plunges To 2-Year Low https://t.co/8EuearHROW\n\n翻译：\n美联储的“国家活动指数”跌至两年来的最低点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The days of paying nearly any price for hypergrowth companies are probably over.\" 可以翻译为：\"对高速增长公司的几乎任何价格支付的日子可能已经过去了。\"\n\n\"Technology companies are among the hardest hit, with the macro environment being generally unfavorable to most companies.\" 可以翻译为：\"科技公司是最受打击的，宏观环境对大多数公司来说通常是不利的。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Moving into 2023, the incremental cost headwinds are likely to abate with a leaner and more efficient e-commerce cost structure while inflationary pressures ease. AWS remains well positioned for long-term growth despite the short-term challenges due to macroeconomic uncertainties causing some customers to cut their budgets. \n\n进入2023年，增量成本的风口可能会因为更精简和高效的电子商务成本结构而减缓，同时通货膨胀压力也会缓解。尽管宏观经济不确定性导致部分客户削减预算，AWS仍然处于长期增长的有利位置。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新莫里森首席大卫·波茨的销售增长，因为特易购的逆转停滞不前。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Opera Limited Just Beat Earnings Expectations: Here's What Analysts Think Will Happen Next\n\n翻译：\n\nOpera Limited刚刚超出盈利预期：分析师认为接下来会发生什么。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FB & TSLA 早盘跌破支撑位。$short #correction #stocks",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FL Group's private equity division manages all operating companies, including Icelandair Group, FL Travel Group, Bluebird, and Sterling.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"expecting\": \"期望\", \"SPY\": \"SPY\", \"to\": \"将\", \"close\": \"收盘\", \"above\": \"高于\", \"205.20\": \"205.20\", \"AAPL\": \"AAPL\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"An estimated 30 pct of mobile calls are made from the home, and France Telecom hopes that 15 pct of its Orange clients will sign up for the service by the end of 2008.\" 可以翻译为 \"估计有 30% 的移动通话是从家中进行的，法国电信希望到 2008 年底，其 Orange 客户中有 15% 会注册使用这项服务。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 计划于 2022 年第一季度报告其财务业绩，将于 4 月 19 日星期二公布。我们估计 Netflix 本季度的收入将达到约 80 亿美元，略高于约 79 亿美元的共识预期。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "盗贼在德累斯顿博物馆抢劫了18世纪的珠宝。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉：Model X 召回增加可靠性问题 #Tesla: Model X Recall Adds To Reliability Issues $TSLA https://t.co/jVXQ4DoXnP 翻译为：特斯拉 Model X 召回引发可靠性问题。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Business live: T-Mobile boss to step down - BBC News\" 的中文翻译为：\"商业直播：T-Mobile 总裁将辞职 - BBC 新闻\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OMEO (www.omeo.se) 雇佣了 55 人，预计在 2006-2007 财政年度（截至 2007 年 4 月 30 日）实现净销售额约为 2300 万欧元（2980 万美元）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

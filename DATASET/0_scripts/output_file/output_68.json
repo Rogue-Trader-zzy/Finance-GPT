@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{$INO Up, up, and away!} 的中文翻译为：向上，向上，飞走！",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Shell's $70 Billion BG Deal Meets Shareholder Skepticism\" 翻译成中文是 \"壳牌公司价值 7000 亿美元的 BG 收购案遇到了股东的质疑\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：\"如果雅虎股价突破29.83美元，将构成短期交易者的技术性入场。\" \n\n英文翻译：\"A breakout above $29.83 would constitute a technical entry for the short term trader.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Weekend reads: Earn $100,000 a year and pay no federal income tax https://t.co/i73wJLTBNn\n\n周末读物：年收入10万美元且无需支付联邦所得税。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` We are very pleased to be working with Fujitsu and NTT DoCoMo to advance the progress of LTE, '' said Juergen Walter, Head of Converged Core, Nokia Siemens Networks.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nNVIDIA has built a remarkably robust moat with an extraordinary ROIC of 61.83% and is very well positioned in strong secular growth trends. The street consensus anticipates 19.52% FCF and 21.88% EBIT CAGR over the next 5 years.\n\nNVIDIA 已建立了一个非常稳健的护城河，拥有非凡的 ROIC（投资回报率）61.83%，并且很好地适应了强劲的长期增长趋势。市场共识预计未来 5 年 FCF（自由现金流）为 19.52%，EBIT CAGR（税息折旧及摊销前利润复合年增长率）为 21.88%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore Reduces 2015 Budget, Plans to Sell Lonmin Holdings.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google's Search & other ads segment has grown prodigiously, and it was responsible for 58% of overall revenue in 2Q22.\nGoogle的搜索及其他广告部门取得了巨大增长，并且在2Q22中占据了整体营收的58%。\nWeakness from Walmart and Target doesn't hurt Google as much as some fear.\n沃尔玛和塔吉特等零售商的疲软表现对Google的影响并不像一些人担心的那样严重。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是对冲基金对国家电网公司（NGG）的看法。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Presenteeism - the practice of being at work but not really all there due to feeling unwell or distracted - among i…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY nice bounce 的中文翻译是 \"BBRY 不错的反弹\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market has punished Netflix due to the reduction in its subscribers, content of questionable quality and higher prices than peers. The company is in the process of creating an ad-tiered plan, which will be cheaper than the current ones, and will compete with those of its peers.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$HRL ready to pop! http://stks.co/s0Ny4} 的中文翻译是：{\"书生·浦语准备好了！弹跳！http://stks.co/s0Ny4}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "South African Sappi will become the largest foreign forest industry company operating in Finland as a result of the acquisition Finnish M-real Corporation's Graphic Papers Business unit. \n\n中文翻译：南非Sappi公司通过收购芬兰M-real公司的印刷纸业务单元，将成为在芬兰运营的最大外资林业产业公司。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这两只科技股具有竞争优势，且以低价出售。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD现在对芯片业务严重疲软定价，而数据仍然支持强劲增长。该公司仍然供应受限，英特尔仍然预测芯片挑战将持续到2024年。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周一牛群正在出来！股票代码 - 迈克尔·詹姆斯娱乐公司其他选择 $SBUX $GVP $NKE。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"GOOG\" has a very likely breakout with a medium target at $700+.}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：Lulu #Outlook #Q1 2013 #lost revenue in the range of $12 million to $17 million -not good. \n\n中文翻译：露露 #展望 #Q1 2013 #亏损收入在1200万美元至1700万美元之间 - 不太好。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Musk suggested he's ready to \"go to war\" with Apple—which could further roil tech investors.\n翻译：马斯克暗示他准备好与苹果“开战”——这可能会进一步扰乱科技投资者。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$HPQ Says Breakup Will Cost Billions, but Sees Savings Too} 翻译为中文是：{\"HPQ 表示拆分将耗费数十亿美元，但也能看到节省。\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mike Cayman Trades sometimes.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Citigroup, Inc. (NYSE: C) has announced that its Global Transaction Services (GTS) business has been awarded a new mandate by Finland-based Pohjola Bank Group.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YouTube表示，周六将暂时停止包括国家支持的RT在内的多个俄罗斯频道在平台上通过其内容获得收益的能力。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It's accumulating. I think buy now or hold your peace. This should go up today/tomorrow. \n\n这是在积累。我认为现在买入或保持沉默。这应该今天或明天上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla has announced it is recalling 2700 Model X SUVs.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dixons Carphone to close 134 UK stores as sales jump\n迪克森斯手机公司将关闭134家英国门店，因为销售增长。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司（NASDAQ: AAPL）希望在快速增长的金融科技领域实现更大的市场份额，并已经进行了一项收购以实现这一目标。苹果公司收购了英国金融科技初创公司Credit Kudos。据《The Block》报道，这笔交易价值约为15亿美元，该报道援引匿名人士称。苹果公司收购Credit Kudos的消息可能会推动其股价进一步上涨。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Eli Lilly & Co. (LLY) 已经突破与阿斯利康的合作达到了新的高度。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "虽然疫情可能迫使美国人呆在家里，但我们并没有失去投机热情，因此赌博股受到了提振。以下是《投资者的地方》发布的文章：《7 只赌博股在疫情期间风险偏好飙升时值得购买》的英文翻译。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks and Dutch Bros are two coffee store companies that compete directly in the US. They are very different, however. BROS offers higher relative growth, whereas SBUX is better from a profitability, valuation, and shareholder return perspective.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coke dividend - 3%. Google dividend - 0%. For passive income Coke takes it. $GOOG $KO https://t.co/QBsoWjxOST\n\n可口可乐股息 - 3%。谷歌股息 - 0%。对于被动收入，可口可乐公司负责。$GOOG $KO https://t.co/QBsoWjxOST",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Preparing for a Breakout Trade in Netflix $NFLX: https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD\n\n翻译：\n\n准备进行Netflix（NFLX）的突破交易：https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "黄金价格连续第二场交易以上涨收盘。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc. 预计将推迟其下一次主要的 iPad 软件更新大约一个月，采取了不与新 iPhone 软件同时发布的非常规步骤，根据了解此事的知情人士称。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第一季度2007年的每股收益（EPS）为0.07欧元，较上一季度的0.04欧元有所增长。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco is one of the best-positioned retailers to win market share over the coming quarters, one analyst says. \n翻译成中文：\n一位分析师表示，Costco 是即将到来的季度中赢得市场份额的最佳零售商之一。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nHans Dalborg, the chairman of the board of Nordea, has informed the nomination committee that he will not be up for re-election at the Annual General Meeting in 2011.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lululemon Athletica Inc (NASDAQ: LULU) expects the fourth quarter FY21 revenue to be towards the lower end of its range of $2.125 billion - $2.165 billion, compared to the consensus of $2.17 billion. The company anticipates EPS and adjusted EPS towards the lower end of its ranges of $3.24 - $3.31 and $3.25 - $3.32, respectively.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The implementation of the deal is subject to the approval by the Finnish Competition Authority. \n\n中文翻译：该协议的实施需要芬兰竞争管理局的批准。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"There are hundreds of titles waiting to be monetized through Xbox Game Pass.\" \n\n中文翻译：\n\n\"Xbox Game Pass 上等待被货币化的游戏标题有数百个。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Iggesunds Bruk in Sweden is one of the most advanced, fully integrated pulp and paperboard mills in the world.\n\n瑞典的Iggesunds Bruk是世界上最先进、完全集成的纸浆和纸板厂之一。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NFLX and TSLA are making all kinds of gains.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{芬兰Sanoma Learning & Literature在2009年1月至6月的净销售额为162.8百万欧元，较2008年同期下降了3.6%。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google parent company Alphabet Inc (NASDAQ: GOOG) reported forecast-beating earnings and revenue for the fourth quarter of 2021, driven by growth in advertising revenue and Google Cloud, and announced a 20-for-1 stock split that will take effect in July.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊将在中国开设商店，因为美国消费者的需求正在逐渐减少。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wells citing aero ties slashes PT on Hexcel.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Compass Minerals Reports Fourth-Quarter and Full-Year Results\n\n康氏矿物公司发布第四季度和全年业绩报告。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It will use the proceeds from the transaction to achieve its target. 翻译为：它将使用交易的收益来实现其目标。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CSX (CSX) closed the most recent trading day at $35.29, moving +1.96% from the previous trading session.\n\n直译为中文：\nCSX（CSX）在最近的交易日以35.29美元收盘，从之前的交易时段上涨了1.96%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

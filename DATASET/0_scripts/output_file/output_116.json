@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"76ers的Michael Rubin表示，科比·布莱恩特本可以在投资方面做得更好。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"英国皇家邮政因变更交付服务而违反竞争法，Ofcom声称。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your answer. {PECK}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊过去12个月的经营现金流增长了48%，达到49.8亿美元；自由现金流下降了63%，达到3.88亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hexagon Resources: 股东批准稀土投资 #HexagonResources #股票 #市场筛选器… https://t.co/u3JbQwdgFt",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Together, Yahoo and Nokia said they will continue to deliver Internet experiences that address the core needs of consumers, developers, operators, and advertisers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该概念被称为邮局银行，将由费城银行在邮局大楼内开设75个办公室，为人们提供金融服务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FDA 批准 Intercept 的 obeticholic acid NDA；盘前股价上涨 5%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n\"市场反弹遇到阻力：北方石油与天然气突破；路易斯安那太平洋，美元树设立。投资者商业日报一直在帮助人们更聪明地投资，通过提供独家股票列表，投资数据，股票市场研究，教育和最新的金融和商业新闻来帮助投资者在股票市场上赚更多的钱。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The latest read on inflation had bargain-hunting investors on the prowl for beaten-down tech stocks. 的中文翻译是：\n\n最新通货膨胀的读数促使精明的投资者在寻找被低估的科技股。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"CAT\" is hanging on a thread. 1 click away from a cliff drop.. Needs follow-through (or snap-back on the VIX)}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mursula said they tried to gather macro-economic perspective to see how Malaysia was doing. 翻译为：穆鲁萨说，他们试图从宏观经济的角度来了解马来西亚的状况。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今年发生了超过200次股票拆分 -- 但并非所有股票拆分都是平等的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tekla will implement the renewal in software versions which will be introduced in spring 2011\" can be translated to Chinese as: \"Tekla将在2011年春引入的软件版本中实施更新。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"更高的利率即将到来--这就是信息。所以，现在减持高估值投资组合持仓已经成为了一件事。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here you go: \"快来吧，泵来了！今天收盘时9K的股票真是太棒了！准备好迎接牛市的骑行吧！\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We succeeded in increasing our market share of sold apartment,\" comments Mr Kari Kauniskangas, Head of YIT International Construction Services.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{BasWare is headquartered in Espoo, Finland.} 的中文翻译为：{BasWare 总部位于芬兰埃斯波。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在赫尔辛基证券交易所的另一起公告中，Atria透露，公司第三季度的利润从去年第三季度的1390万欧元下降到今年第三季度的1270万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "京东在盘后市场下跌20%。请问有人能解释一下为什么吗？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca acquires ZS Pharma for $2.7 billion, outbidding Actelion.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meggitt 股份价格下跌，因为利润在 \"艰难的一年\" 中下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence can be translated to Chinese as follows: \n\n- \"我能明确地说，不，'瓦洛斯被报纸引用时表示，当被问及萨莫对收购RSA的兴趣时。'\"\n\nPlease note that the direct translation may not perfectly capture the nuances of the original English sentence, but it conveys the general meaning accurately.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2020年的牛市推动了亚马逊公司（AMZN，金融）的股票，许多投资者坚信，与那些暂时因新冠疫情而获得业务提升的公司（如Netflix Inc.（NFLX，金融））不同，亚马逊的增长加速（以及由此带来的股价上涨）将是永久性的。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Johnson Matthey raises prospect of investor payout.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia Corp.'s data-center sales are expected to edge out its gaming sales in fiscal first-quarter results, as demand from server farms remains high and gaming interest has subsided from rabid levels earlier in the COVID-19 pandemic.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora is due to release its fourth-quarter and 2009 full-year earnings on Feb. 4.\n\n斯托拉将于2月4日发布第四季度和2009年的全年收益。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating loss amounted to EUR 0.7 million compared to a profit of EUR 0.8 million in the second quarter of 2005.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish food company Raisio Oyj HEL: RAIVV said today it will buy British snacks and confectionery company Big Bear Group plc for an enterprise value of EUR 95.3 million USD 129.9 m. \n\n中文翻译：芬兰食品公司Raisio Oyj HEL: RAIVV今天宣布，将以9,530万欧元的估值收购英国零食和糖果公司Big Bear Group plc。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The chip giant lost badly to the market as investors digested its expensive turnaround plans.\n芯片巨头因投资者消化其昂贵的转型计划而在市场上惨败。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "关于苹果公司（AAPL）在（目前未确定）的一些部门放缓招聘和支出速度的报告导致股价下跌了2%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's AMZN, +0.66% media deal with the NFL is already paying off. = 亚马逊的AMZN, +0.66%与NFL的媒体交易已经开始取得回报。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "因此，该方法将减少工作成本，并加快规划和建设进程。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Achieve Life Sciences 股票在定价配售后下跌了 34%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Via the Satlan acquisition, Teleste plans to further expand its market presence as a video services partner for cable operators, broadcasters, and IPTV service providers.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's operating income (EBIT) totaled EUR 0.0 million, up from EUR -0.3 million year-on-year.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided is a list of stock ticker symbols, which are abbreviations for the names of publicly traded companies. Here is the list translated into Chinese:\n\n- AMT\n- BHP\n- BK\n- CHH\n- ENI\n- EQNR\n- ETR\n- EXR\n- FCX\n- HOLX\n- HSIC\n- LOW\n- LSI\n- MAR\n- MAS\n- MGP\n- MHK\n- MXL\n- NGG\n- NWE\n\nPlease note that the Chinese characters for the stock ticker symbols are the same as the English ones, as they are simply abbreviations and do not have a direct translation.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2010年10月26日 - 芬兰环境管理公司Lassila & Tikanoja Oyj ( HEL : LAT1V )，或L&T，今天表示，其2010年前九个月的净利润从一年前的27.6亿欧元下降至20.9亿欧元。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The orange-handled scissors from Fiskars are part of the permanent design collection of the Museum of Modern Art in New York, as well as the Philadelphia Museum of Art.\n\n翻译成中文为：\n橙色手柄的剪刀来自Fiskars，是纽约现代艺术博物馆以及费城艺术博物馆永久设计收藏的一部分。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Mr. McDonald开始了当晚的演出，演奏了他自己的一些歌曲，其中包括他个人生涯和Doobie Brothers时期的经典作品，以及一些R&B翻唱歌曲，这些歌曲的评价褒贬不一。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在新闻驱动的市场进行交易时，必须保持止损宽泛或更多现金直到结果明朗。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SMH在6月4日收到了卖出信号，如果无法在39.28卖出，股价将继续走低，否则将走高，下方有37.60至35.38的缺口。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish retail chain Suomen L+ñhikauppa received the index of 5.8, the airline SAS got 5.8, TeliaSonera's broadband was given 6.1, the German retail chain Lidl received 6.1, Tele Finland's mobile subscriptions had 6.1, Tallink shipping line was awarded 6.3, and the power company Helsinki Energy got 6.3.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Canada's oil-sands industry may have already built its last big mine.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是短裤无法展示的原因...长距离、稳定的、小坡度的攀登。这是积累价值的最佳方式。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The hack had been extra nefarious because the tweets activated without being clicked on - it was enough for Web surfers to move their mouse cursors over them. \n\n翻译：这次黑客攻击非常狡猾，因为推文在没有被点击的情况下就激活了——对于网络冲浪者来说，只需要将鼠标光标移动到它们上面就足够了。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Liminal BioSciences (TSE:LMNL) 的债务负担是否对其产生影响？}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "American Airlines' loss widened during the quarter. The airline is upbeat about the future and aims to significantly reduce debt.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In a letter to Economic Affairs Minister, the listed Estonian shipping company Tallink requests approval for a 15% reduction in port fees in 2010.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "1 p.m. Central office of Nordea Bank 19 3-ya ulitsa Yamskogo Polya, Building 1 Telephone: 495 777-34-77 ext. 3932, 3931 03.02.2011 Unimilk - EGM 03-04.02.2011 XVI international business-summit Food Business Russia 2011 will take place.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "这是否是现在投资的最佳科技股？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"This Might Be A Short-Term Top (Technically Speaking For The Week Of November 18-22).\" 翻译为中文为：“这可能是短期顶部（从技术上讲，是11月18日至22日的这一周）。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "昨天下午，AMD（纳斯达克股票代码：AMD）首席执行官Lisa Su向投资者发表了强硬言论。他们似乎需要为令人失望的2022年第三季度业绩做好准备。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intuit is in the process of streamlining its structure, especially through divestment of non-core businesses.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在体积上，该集团的焦点已经超出了芬兰，因为该集团60%的产品是在波兰和波罗的海国家生产的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia 已经推出了一个新的地图平台，该平台将为自动驾驶汽车行业提供北美、欧洲和亚洲超过 300,000 英里的道路的地面真实地图覆盖，Nvidia 创始人兼 CEO Jensen Huang 在周二的公司 GTC 活动上表示。该平台被称为 Drive Map，旨在使 […] 成为可能。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Western Digital's (WDC) Q2 performance is likely to benefit from incremental demand from cloud customers.\n翻译成中文：\n西数（WDC）第二季度业绩可能会从云计算客户的增量需求中受益。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"P\": \"P\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"GS Acquisition: Vertiv Announcement Call Presentation #GS #Stock #MarketScreener https://t.co/AB1CLG5Hfa https://t.co/St0OvagWyy\"\n\n翻译为中文：\nGS收购：Vertiv宣布电话会议演示文稿#GS #股票#市场筛选器https://t.co/AB1CLG5Hfa https://t.co/St0OvagWyy",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sainsbury sales slip again as price pressures take a toll\" 的中文翻译为：\"赛恩斯伯里销售额再次下滑，价格压力对公司造成影响。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"多顶$MCD图表最终导致价格下跌。股票的稳定性受到质疑，但未来几周将会告诉我们。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 620 阻力区域",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kohl's warning sends J.C. Penney and Dillard's lower.\n翻译：Kohl's的警告导致J.C.彭尼和Dillard's下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating profit for the 12-month period decreased from EUR5.4m, while net sales increased from EUR62.0m, compared to the financial year 2004.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康因药物无法治疗眼癌而遭受挫折。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司股东，担心这家科技巨头不断被指控不公平的劳动实践，于周三提交了一份股东提案，要求对公司承诺维护工人自由结社和集体谈判权利的独立评估。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "After the sale, Savcor Group Ltd will comprise Savcor ART, a corporate function, and an investment in Cencorp Corporation.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "买家因此旨在加强其在丹麦的地位，Martela Group的执行董事Heikki Martela表示。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Buying pressure accelerated Tuesday afternoon, as all sectors found positive territory.\" 可以翻译为：\"周二下午，买压加速，因为所有板块都找到了积极区域。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"情况并没有像看起来那么糟糕。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"股市动态：本周能源板块下跌近3%。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dairy Crest失去了Morrisons牛奶合同的三分之一。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VF Corp. 股价在盘前下跌 1.9%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nFB下跌7.5%，源于这种看跌模式。考虑到看涨情绪 - 这是一件令人印象深刻的看跌举措。https://t.co/TaJF0cH2qh",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rising rates tend to be a significant headwind for the high-growth tech names but the Chief Executive of Laffer Tengler Investments says Microsoft Corporation (NASDAQ: MSFT) continues to be a name to \"hide\" in this environment.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "迪克索公司将莱德杯赛场格莱尼斯酒店出售给恩尼斯莫尔集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Macquarie downgraded NetApp to underperform. $22.00 PT. https://t.co/XCNgws0t4q $NTAP #NTAP via @RatingsNetwork\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EasyJet乘客人数，Aer Lingus交通量在二月份上涨。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock market live updates: Dow down 180, coronavirus names fall, Uber best day ever.\n\n股市实时更新：道琼斯指数下跌180点，冠状病毒股票下跌，优步创下历史最佳表现。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo is making new HOD\" 翻译为中文是 \"雅虎正在制作新的 HOD\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The chain has been trying to cut its own costs, pressuring vendors such as fitness equipment manufacturer Precor to slash prices. \n\n翻译：该连锁店一直在试图削减成本，给供应商如健身器材制造商Precor施压，要求它们降低价格。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "收入同时增长了14%，达到4300万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dividend 15 Split Corp IIA宣布派发0.10加元股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Group's turnover in 2006 was EUR 39.2 million, and operating profit was EUR 3.9 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD and NVIDIA的股票正在上涨，因为技术公司的板块正在反弹，这跟本月早些时候的急剧抛售相对应。过去一个月，AMD的股价从145美元下跌至110美元，下降了约24%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nFood companies are gaining on favorable demand as well as efforts to boost offerings. Mondelez International (MDLZ), Hershey (HSY) and Beyond Meat (BYND) are likely to top earnings estimates this season.\n\n翻译为中文：\n\n食品公司正在因有利的市场需求以及提高产品供应的努力而获得优势。蒙德莱兹国际（MDLZ）、好时（HSY）和超越肉（BYND）有望在本季度超越盈利预期。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL 620阻力区域",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Canadian National Laying Off Workers 翻译成中文是 \"加拿大国家铁路裁员\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft has discontinued its Xbox One video game console - or rather, it's been discontinued for over a year. \n\n微软已停止生产 Xbox One 视频游戏机 - 或者更准确地说，它已经停产了一年多。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AVGO股票表现出色，并且还提高了股息。显然，这是一个非常好的投资。\nhttp://stks.co/r2F3h",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Timber $TSLA https://t.co/MRBgfDHHVa\n\n木材 $TSLA https://t.co/MRBgfDHHVa",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FB 不错的买入机会，日内波动点就在这里}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它拥有全球30家分公司，其净销售额的90%以上是在芬兰境外产生的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating activities cash flow before investments was EUR 0.8 -1.2 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Proxy advisory firm Institutional Shareholder Services (ISS) has urged Apple Inc investors to vote for a resolution demanding greater transparency in the iPhone maker's efforts to protect workers in its supply chain from forced labor.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix被Needham降级为“表现不佳”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "销售额部门百货公司和业余厅分别增加了7%，而服装店子公司Seppala的销售额下降了4%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FDA批准阿斯利康药物用于晚期肺癌。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The RXII Tang is indeed toxic, they keep pulling down the share price. At least they could let it rise a little before dragging it down.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{阿姆斯特丹（路透社）- ASML Holding NV，计算机芯片制造商的关键供应商，周三报告第一季度销售额为35亿欧元（38亿美元），净利润为6.95亿欧元，略高于预期。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

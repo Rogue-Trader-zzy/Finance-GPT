@@ -1,0 +1,302 @@
+[
+  {
+    "input": "消费者情绪在12月显著改善。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The consolidated operating profit excluding one-off items was EUR 30.6 mn, up from EUR 29.6 mn a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Revenue grew 1 percent to euro742.2 million US$ 964 million from euro735 million. \n\n翻译成中文：\n收入增长1%，达到7.42亿欧元（约合9.64亿美元），相比7.35亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Total Profit Exceeds Estimates as Oil and Gas Output Rises\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你希望诺基亚在下一个尝试中看到哪些改变？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Week's Gainers and Losers on the Stoxx Europe 50 --Dec. 2-6\n\n翻译成中文：\n欧洲斯托克50指数本周的赢家与输家 -- 12月2日至12月6日\n\n注：这是一个新闻标题，描述了斯托克欧洲50指数在特定日期范围内表现最好的股票和表现最差的股票。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I need your help to translate the following English sentence into Chinese, and I will provide the English translation directly in the response. {$ISRG - ISRG Short - http://stks.co/f1vVU http://stks.co/c1qrm}\"\n\n翻译：\n\"我需要你的帮助，将下面的英文句子翻译成中文，并且我会直接在回答中给出英文翻译。{$ISRG - ISRG Short - http://stks.co/f1vVU http://stks.co/c1qrm}\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco is nearing the appointment of a new chairman, with John Allan from Dixons Carphone in the running.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the Baltic countries, Atria's target is organic growth.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "One of the headboxes will be equipped with a modern consistency control system to ensure cross machine profile of the plasterboard. \n\n直译为：其中一台头箱将配备先进的浆料控制系統，以确保石膏板的横跨机台轮廓。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's significant cost item will be significantly higher than previously anticipated.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"This transaction supports Huhtamaki's strategic review of rigid plastic consumer goods operations,\" says Huhtamaki Oyj's CEO Jukka Moisio.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia has inaugurated its manufacturing plant near Chennai on 11 Mar 2006. \n\n诺基亚于2006年3月11日在钦奈附近启动了其制造工厂。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tullow Oil 暂停分红，因为油价下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "水井坊：董事会会议日期 #水井坊 #股票 #市场筛选器 https://t.co/ErDKa9DWuu https://t.co/4LxS7J1EH3\n\nWater Oasis: Date of Board Meeting #WaterOasis #Stock #MarketScreener https://t.co/ErDKa9DWuu https://t.co/4LxS7J1EH3",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "COMPTEL CORPORATION Sami Ervio 总裁兼首席执行官 发行：NASDAQ OMX Helsinki 主要媒体 Comptel 动态 OSS 解决方案使电信服务提供商能够灵活地提供服务并有效地收费。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix Inc. (NASDAQ:NFLX) 最后被看到上涨 2.1% 至 $282.74，在安全获得 CRFA 的双重升级至 \"买入\" 从 \"卖出\" 后，以及将价格目标从 $225 上调至 $310。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating loss totalled EUR 0.3 mn, down from a profit of EUR 5.1 mn in the first half of 2009. 直接翻译为：“经营亏损总计为0.3百万欧元，相比2009年上半年5.1百万欧元的利润有所下降。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total investment in the company will be EUR58m, of which Wartsila's share will be EUR29m.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The fall comes as Netflix expects slower subscriber growth.\" 翻译成中文为：“下跌是因为Netflix预计订阅者增长会放缓。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "柿子利润大幅上升，前景看好。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total amount of subscription prices was recorded in the fund for invested non-restricted equity. 翻译为：\n总订阅金额已记录在非受限权益投资基金中。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ITV to pursue takeover of Canada's Entertainment One: Bloomberg 翻译为：\n英国独立电视台将收购加拿大娱乐公司：彭博社。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Brooke DiPalma 讨论了目前影响星巴克的各种因素。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Every beta tester receives six months of free updates and, according to their own statement, has the ability to influence the final version.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chargers made under the new platform are suitable for mobile phones, navigators, digital cameras, Bluetooth headsets, media players, and other electronic devices.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BPM CEOs and UBI meet Italy econ minister as M&A talk heats up\" 翻译成中文为 \"BPM 和 UBI 的首席执行官会见了意大利经济部长，因为 M&A 讨论升温\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intuit - Just (Slowly) Buy It 可以翻译成中文：“直觉地 - 只需慢慢购买它”。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SDM provides general rental equipment, aluminum scaffolding, power generators, and hoists to customers in the construction industry.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Adobe Inc (纳斯达克代码: ADBE) 软件名称在最后检查中下跌了3.2%，至536.38美元，这是受到 UBS 的熊市报告的影响。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A light, bright and pretty addition to your life, it will also keep a few pennies in your bank account.\n\n这句英文句子的中文翻译是：“它是你生活中的一束光，一个美丽的添加，同时也会让你的银行账户里留下一些零钱。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD可能正朝着客户收入下降的方向发展，但它的其他高绩效部门应该会弥补这一空缺。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{CompaniesTravis Perkins raises dividend, earnings increase by 15%}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sales of the Tiimari segment fell by 4.0% year-on-year to EUR3.3m in June 2010.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesco sales rise shows tentative recovery continues\" 的中文翻译为 \"特易购销售额上升表明暂时的复苏仍在继续\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Snap Inc. 的股票 SNAP 周五盘前下跌 26.6%，下跌了 0.64%，这拖累了其他依靠在线广告的大型科技公司的股价。Twitter Inc. TWTR 下跌了 8%，因为报告称拜登政府官员正在考虑对埃隆·马斯克的一些企业进行国家安全审查，这加剧了下跌趋势。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "产品开发投资额为600万欧元（8800万美元）。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cubic Energy reports Q3 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cargotec's share capital after the increase totals EUR 64,299,180.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oppenheimer分析师Scott Schneeberger与Yahoo Finance的Brian Sozzi和Julie Hyman一起讨论了2022年的纳税季节和税收准备股票的前景。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is:\n\n\"Finnish broadband data communication systems provider Teleste Oyj HEL: TLT1V saw its net profit jump to EUR2.1m for the last quarter of 2010 from EUR995,000 for the same period of 2009.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"A few cracks are appearing in the tech giant's armor.\" 翻译为中文是：\"这家科技巨头身上出现了一些裂痕。\"}",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "捐款将授予阿尔托大学和赫尔辛基大学、坦佩雷大学、图尔库大学、东芬兰大学、拉彭劳赫大学、奥卢大学和瓦萨大学，以及稍后宣布的其他理工学院。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是美国医生如何发现导致39人死亡的电子烟疾病的翻译：\n\nhttps://t.co/p3lWGGY71V\n美国医生发现电子烟疾病的途径：\n\n在此之前，医生们一直在调查和研究一种神秘的疾病，它与电子烟使用有关，并导致多起死亡事件。经过仔细的观察和研究，医生们最终确定了这种疾病与使用电子烟有关。\n\n首先，医生们注意到，患有这种疾病的患者通常都使用电子烟。他们通过调查这些患者的病史，发现他们都报告了使用电子烟的情况。此外，医生们还发现，这些患者的肺部X光片显示出了严重的炎症和损伤，这与电子烟使用有关。\n\n为了进一步研究这种疾病，医生们开始进行临床试验。他们收集了大量的数据，包括患者的病史、症状、X光片等。通过对这些数据的分析，医生们发现，这种疾病通常会在使用电子烟后数周或数月内出现，患者会出现呼吸急促、咳嗽、胸痛等症状。\n\n最终，医生们确定这种疾病与电子烟中的某些化学物质有关。他们发现，这些化学物质会损伤肺部组织，导致炎症和损伤。\n\n总之，美国医生通过仔细的观察、研究和临床试验，最终发现了电子烟疾病的原因和机制。这些研究结果为治疗和预防这种疾病提供了重要的指导。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"国际机械师协会东部地区总副主席大卫·沙利文（David Sullivan）与艾米丽·张（Emily Chang）一起探讨了他们协助组织的苹果工会胜利的含义，以及他们如何打算与公司谈判，并在其他地方建立突破。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ulta (ULTA) 在 2022 年 1 月季度实现了 17.35% 的超预期盈利和 0.96% 的超预期收入。这些数字是否为股票的未来走势提供了线索？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "此外，该协议还包括一项认股权，这将使Maritim Food AS在未来能够将其在Sandanger AS的持股比例增加至51%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale\n\n中文翻译：\n特易购在出售Blinkbox时放弃视频流媒体野心。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦在召唤：世界最大拍卖行佳士得（Christie's）的地产部门表示，伦敦是一个回弹的好地方。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"09:01 AM $AKS DJ AK Steel Revenue Rises 36% on Auto Sector Demand, Acquisition\" can be translated to Chinese as: \"09:01 AM $AKS DJ AK Steel 营收因汽车行业需求增加和收购而增长36%\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

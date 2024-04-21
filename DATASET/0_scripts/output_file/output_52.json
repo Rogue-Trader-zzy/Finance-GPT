@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The company previously anticipated that its 2008 financial performance would remain at the same level as in 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "StanChart and RBS struggle in Bank of England stress tests. \n\n翻译：斯坦查特和苏格兰皇家银行在英格兰银行的压力测试中挣扎。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alpina Sports is a Lebanon, New Hampshire USA based distributor of e.g. Alpina ski shoes and skis, Exel ski poles, Start ski waxes and now also Peltonen cross-country skis. \n\n直译：\n阿尔皮纳运动是一家位于美国（新罕布什尔州）利巴嫩的分销商，例如阿尔皮纳滑雪鞋和滑雪板，Exel滑雪杆，Start滑雪蜡，以及现在也出售Peltonen越野滑雪板。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年9月7日，芬兰化学集团Kemira（HEL: KRA1V）周二宣布，已与当地基础设施和项目有限公司IVRCL Infrastructure and Projects Ltd（BOM: 530773）签署协议，成立印度合资企业。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EBIT 总额为 1440 万欧元，相比 2009 年同期亏损 30 万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Rapid7 EPS beats by $0.04, beats on revenue\" 可以翻译为 \"Rapid7 每股收益超出预期$0.04，营收也超出预期\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dubai Nokia has announced the launch of \"Comes with Music\", its ground-breaking service which introduces a new way for people to enjoy music. \n\n直译：\n迪拜诺基亚宣布推出“Comes with Music”，这是他们的开创性服务，为人们提供了一种全新的方式来欣赏音乐。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Check out these consumer stocks in the stock market today.\n直接给出英文翻译：\n查看今天股票市场上的这些消费股。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bloomberg Daybreak: Feb. 7, 2020 - Hour 2 (Radio)",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Uber加速前行; Pinterest描绘美丽画卷。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating result for the 12-month period decreased from a profit of EUR0.4m, while turnover decreased from EUR5.6m, as compared to 2004.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The first quarter was as expected and was in line with analysts' forecasts.\n\n第一季度符合预期，与分析师的预测相符。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了 MIDs 总是在线之外，它们还允许完全浏览互联网。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walt Disney's stock price target has been raised to $143 from $141 at Imperial Capital.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊股价在中等偏高区间交易，目前还没有突破，无论是向上还是向下。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"风险高，阿斯利康心脏病药面临严峻竞争\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glaston also has efficiency measures in all other units.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Adamas Pharma股价下跌，因为其在MS试验中取得混合结果。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者正在忽视几个月前会引发市场动荡的疲弱数据和贸易摩擦。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周一股票牛市正在崛起！股票代码：SBUX，GVP，NKE。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tupperware在纽约市Soho社区开设了第一家专卖店\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "After losing in 2022, next year looks much better.\n2022年失利后，明年看起来好多了。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{'Mad Money' host Jim Cramer and the 'Squawk on the Street' team discuss Amazon shares after the company posted weaker-than-expected earnings and revenue in its latest quarterly earnings report.}\n\nTranslation: 《疯狂金钱》主持人吉姆·克拉默和《街头直播》团队在亚马逊发布最新季度财报后讨论了亚马逊股票，财报显示公司的盈利和营收低于预期。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：{\"此种不加区别的销售已经创造了大量拥有荒谬高收益的股票，而这些股票在盈利基础上也非常便宜。\"}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "生物识别技术可能很快就会取代登机牌。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, I can help with that. The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer: {LTRPB}\".\n\nThe Chinese translation is: \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译：{LTRPB}\".\n\nI hope this helps! Let me know if you have any other questions.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "获取实时市场分析，独家投资建议，盈利覆盖和更多。免费试用简报我……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FDA 已接受 Bioepis 对阿瓦斯汀生物类似物的申请。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "National Labor Relations Board 的地区办公室表示，星巴克违反了美国的劳动法，通过扣留支付上涨和其他福利，从那些已经投票支持工会化的商店中撤回。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SMH在6月4日收到卖出信号，并且需要突破39.28才能继续上涨，否则可能会下跌至37.60下方，最低价可能在35.38。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "JD股价在盘后市场下跌20%。 有人愿意解释一下原因吗？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nearly half of millennials withdraw from their 401K: Survey\n\n近一半的千禧一代从他们的401K中撤资：调查",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Seattle Holds Landmark Mobile Election in Wake of Iowa Failure\" 的中文翻译为 \"在爱荷华州失败之后，西雅图举行了具有里程碑意义的移动选举\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC任命商业领袖加入董事会。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The presentation material can be viewed on the company's website in English after the conference. \n\n会议结束后，公司的网站上有英文版的演讲材料可供查看。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"主席杰罗姆·鲍威尔在美联储保持利率不变后发表讲话。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Etsy 的起始买入价为 $55，目标价为 SunTrust Robinson Humphrey 给出的价格。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net profit in the same period in 2006 was (x20ac) 172 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者们正在押注中国的央行将效仿其他国家，释放大规模的货币刺激。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the sentence: \"TFI International reports Q4 results.\" \n\nTranslation: \"TFI International 公布第四季度业绩。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$LNKD Daily Phase 2 retest - Price experiencing early rejection. Can it retest? http://stks.co/t04xX} 可以翻译为：{$LNKD 每日阶段 2 重新测试 - 价格遭遇早期拒绝。它可以重新测试吗？http://stks.co/t04xX}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ingenious, HSBC, UBS and Coutts sued by 'tax avoidance' clients.\n（译为中文）英杰、汇丰、瑞银和库特茨因“避税”而被客户起诉。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{L&G完成英国最大的医疗承保批量养老金风险交易}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Invitae Corp. 维持在 Benchmark 的买入评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Expenses on fuel represent a major component of operating costs of airlines including DAL, UAL, HA and SAVE.\n\n燃油成本是达美航空、联合航空、香港航空和SAVE等航空公司的运营成本的主要组成部分。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF}.\"\n\nThe translation in Chinese is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{$CELG 回到接近 104 的位置，这是它上周开盘并反弹上涨的地方。这是一个不错的买入时机 https://t.co/zwHThSvFSF}.\"\n\nIn English, the translation is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {$CELG back near 104, where it opened and rallied higher last wk. A good place to take a shot https://t.co/zwHThSvFSF}.\"\n\nI hope this helps! Let me know if you need any further assistance.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Model S 交付量在德国增长了 35% - 3 月份创下交付量纪录 [图表] https://t.co/yCnClcBImV $TSLA",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The green close wouldn't surprise {$SPY}.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new apartment block is going up very close to the city center, explained Chairman of the Board of AS YIT Ehitus Priit Sauk. 翻译为：\n\n新公寓楼正在市中心附近拔地而起，解释了AS YIT Ehitus董事会主席Priit Sauk。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coldplay表示他们不会为他们的新专辑《EverydayLife》进行巡演，该专辑将于明天发布。气候变化是否会影响到他们的决定？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

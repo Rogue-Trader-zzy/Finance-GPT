@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{\"Which Athleisure Stock Is the Best Buy Today?\" translates to \"今天最好的运动休闲服装股票是哪家？\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cypress Semiconductor offers to buy Integrated Silicon Solution.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"柯宾的国家化目标股份飙升，在他辞职后\" 可以翻译为 \"Shares of Corbyn's Nationalization Targets Soar After He Quits\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "诺基亚表示，其下一代移动游戏平台使人们可以轻松地在其一系列诺基亚设备上查找、购买、玩游戏和分享丰富、沉浸式的游戏。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Howard Schultz 没有计划再次担任星巴克的首席执行官。但他仍将密切关注咖啡连锁店。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco CEO Craig Jelinek joins CNBC's 'Squawk on the Street' to weigh in on the state of the U.S. consumer and how the company is navigating inventory issues hitting the industry. \n\n翻译：Costco 首席执行官克雷格·杰利内克 (Craig Jelinek) 加入 CNBC 的 \"Squawk on the Street\" 节目，就美国消费者的现状以及公司如何应对行业面临的库存问题进行讨论。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"这是英国沃达丰公司IT安全负责人Brian Burton的话。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"4 February 2011 - Finnish broadband data communication systems provider Teleste Oyj HEL : TLT1V said Wednesday its net profit rocketed to EUR4.8m in 2010 from EUR416,000 in 2009 and it lifted its dividend proposal.\" \n\nTranslation: \"2011年2月4日 - 芬兰宽带数据通信系统提供商Teleste Oyj HEL : TLT1V在周三表示，其2010年的净利润飙升至480万欧元，而2009年为416,000欧元，并且它提高了股息提议。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL close to a 3% drop, that's a lot... now the best I can do is HOLD ER lol.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"我非常喜欢这家公司，已经关注很长时间了。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jim Cramer 解决市场参与不足的方法是：“提高IRA上限：” https://t.co/IP6xHN4Fz2 https://t.co/F3CvJ3iVc4",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elisa Corporation will disclose its financial statements for 2006 on Thursday, 8 February 2007. \n\n翻译为：\n\nElisa Corporation将于2007年2月8日星期四披露其2006年的财务报表。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Assertio 将以 1.275 亿美元的价格将 Gralise 出售给 Alvogen；股价在盘前上涨了 40%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "约翰逊的宣言要求选民对许多事情保持信任。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些7支回购股票对股东具有吸引人的总收益率，并且在2022年的动荡市场中看起来有望繁荣。文章《7支股息支付股票拥有大规模的回购计划》首先出现在InvestorPlace。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons 公布哪些商店将关闭，900 个工作岗位面临裁员。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SECURE Act is intended to help Americans' ability to save for #retirement. What about access to savings for financial...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish investment group Norvestia Oyj said its net profit fell to 23.5 mln euro $ 30.6 mln in 2006 from 33.5 mln euro $ 43.6 mln in 2005. \n\n中文翻译：\n芬兰投资集团诺维斯塔公司称，2006年的净利润为2350万欧元，合3060万美元，比2005年的3350万欧元，合4360万美元有所下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The transaction is planned to be financed with a EUR40m market-based loan granted by Standard Chartered Bank Hong Kong.\n\n翻译为中文：这笔交易计划通过由汇丰银行香港发行40欧元市场化贷款来融资。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果公牛足够幸运地获得一个向上的缺口填补，那就最好接受它。在这里不会去追逐它。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 几乎每个市场的异常弱雪条件影响了我们第一季度的业绩，'' 首席执行官 Roger Talermo 说道。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Akers Biosciences股价上涨62%，因新冠疫苗进展。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n\"Short interest continues to increase yet again.\"\n\n英文翻译：\n\"Short interest continues to increase yet again.\"\n\n请注意，原文中的链接和用户提到了具体的股票和市场数据，但在此翻译中，我保留了链接和用户提及的部分，以便于您理解原文的上下文。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Credit Suisse's Giant Repair Job Is Only Just Beginning\" 的中文翻译为 \"瑞士信贷的巨大修复工作才刚刚开始\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Booking Holdings Inc (NASDAQ: BKNG) 的股票价格下跌了 4.68%，至 $2,090.35。这一下跌可能与旅行和休闲相关公司 Hilton Hotels Corp (NYSE: HLT) 和 Expedia Group Inc (NASDAQ: EXPE) 的下跌有关。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Red Daily Triangle on $SHOR,...Scaling Up on Long Position http://stks.co/r82S\" 的中文翻译是：\n\n\"SHOR 上的红色每日三角形态，长头向上扩展。http://stks.co/r82S\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对，请允许我帮您翻译一下：\n“对冲基金从未像现在这样对RadNet Inc.（RDNT）如此乐观。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{是否应该跟随伯克希尔·哈撒韦进入苹果股票？}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "您是否应该跟随伯克希尔·哈撒韦投资苹果股票？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\n\nFB下跌了7.5%，这是一个看跌的模式。考虑到看涨的情绪 - 这是一个令人印象深刻的看跌举动。\n\n英文翻译：\n\nFacebook's stock is down 7.5% from this bearish pattern. Considering the bullish sentiment - That's an impressive bearish move: https://t.co/TaJF0cH2qh",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It is a solid credit that has been compared to a DZ Bank or a Rabobank.\n\n这句英文翻译成中文是：“这是一个稳健的信用，曾被与DZ Bank或Rabobank相比较。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The reductions will be implemented mainly in the course of the first half of 2009. （减员主要将在2009年上半年实施。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$AJX - 伟大的 AJAX 正在出售 Gaea 单位的股份 https://t.co/ZpFNWzgGEN}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Previously, it projected the figure to be slightly lower than in 2009. = 此前，它预测该数字将略低于2009年的水平。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"我的天啊：\" 埃隆·马斯克被特斯拉卡车坚固耐用的窗户破裂惊呆了。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回 Model X: https://t.co/b7izYa4BuE",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SAMPO PLC Jarmo Salonen 投资者关系和集团通信主管 tel. +358 10 516 0030 发行：纳斯达克赫尔辛基 The 主要媒体 金融监管机构 www.sampo.com 此公告由汤森路透代表汤森路透客户发布。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国竞争和市场管理局（CMA）表示，在微软的 Xbox 在线平台上的玩家方面，他们已经“取得了进展”，这跟对科技巨头使用自动续订订阅进行游戏服务的担忧有关。“游戏玩家需要得到清晰和及时的信息，以便在签署自动续订会员资格和订阅时做出明智的选择，”Michael Grenfell，[…]",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这里是Netflix上个月增长近30%的原因，以及为什么该股票还有很大的上涨空间。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The German subsidiary will produce software development services for Ixonos Telecommunications Business Unit's client projects.\n\n翻译成中文：\n德国子公司将为 Ixonos 电信业务部门的客户项目提供软件开发服务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The dollar fell, though, against the pound and the yen.\n\n美元对英镑和日元贬值了，尽管如此。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Qualcomm (QCOM) 在第一财季2022的QTL部门很可能实现了年增长收入，得益于长期专利交易。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "为了刺激订阅者增长，这个流媒体先锋面前有一个有价值的机会。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Falling Oil Prices: An Economic Warning Sign | Zero Hedge https://t.co/M57og3233p\n\n- 油价下跌：经济警示信号 | 零对冲",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ahlstrom's share is quoted on the NASDAQ OMX Helsinki.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet Inc (NASDAQ:GOOG), the parent company of Google, saw its profits fall during the second quarter amid slowing growth from the technology company's all-important YouTube advertising revenue. Earnings per share (EPS) came in at US$1.21 versus consensus estimates of US$1.31, and below the comparable year-ago quarter's profit of US$1.36.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "圣诞节能拯救Sainsbury's plc和Tesco plc吗？",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The report examines the medical equipment business structure and operations, history and products, and provides an analysis of its key medical equipment revenue lines.\n\n报告分析了医疗设备业务结构、运营历史和产品，并对关键的医疗设备收入线进行了分析。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是否是现在投资的最佳科技股？",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "澳大利亚批准了百威英博收购萨贝米尔100亿美元的计划。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

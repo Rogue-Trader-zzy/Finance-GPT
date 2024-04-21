@@ -1,0 +1,302 @@
+[
+  {
+    "input": "CIB, Legal & General Sell Egyptian Life Joint Venture To AXA 翻译为：“中信银行，法律与通用集团将埃及人寿合资企业出售给AXA”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\n更仔细地检查。 10 点北方的阻力，200d 和向下趋势线。 图表 2 中的 2。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "How a Supreme Court case could change how cities treat the homeless: https://www.bloomberg.com/news/articles/2018-08-30/how-a-supreme-court-case-could-change-how-cities-treat-the-homeless",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"AAPL的波动性挤压。我希望它能够从正面得到解决。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons faces festive sales test",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CIB, Legal & General sell Egyptian Life Joint Venture to AXA.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish company Neste Oil, which was previously on the list, has completely fallen off the list.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们正接近第一季度盈利季的开始，对于长期投资者来说，现在有很多优秀的股票可以以折扣价买入，这看起来像是几年后应该有的样子。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oaktree Specialty Lending declares $0.095 dividend. \n\n翻译：橡树专项贷款宣布派发0.095美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple is delaying the theatrical release of \"The Banker\" after one of the movie's producers was accused of assault by...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亿万富翁投资者卡尔·伊坎正在对陷入困境的购物中心下“大赌注”，据报道。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Activision Blizzard Media Networks宣布电竞观看人数创纪录。{https://t.co/729BiqLbtK} $ATVI与$HDSI合作举办9场#锦标赛。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们认为对Pensando的收购可以增强AMD的产品性能，在数据中心竞争中对抗Intel和Nvidia，并有33.5%的预测复合年增长率。由于该公司提供了$304亿的市场规模，我们根据其终端市场估计其2025年的收入机会为$78.8亿。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB (110.20)\" is starting to show some relative strength and signs of potential B/O on the daily.} 翻译为中文为：\n\n{\"FB (110.20)\"在每日的图表上开始显示出相对强度，并出现了可能的 B/O 信号。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "约翰逊·马太公司提高投资者回报的可能性。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Componenta has production lines for similar-sized products at Karkkila in Finland, at Weert in the Netherlands and at Orhangazi in Turkey, and these had a combined output of approximately 100,000 tonnes and net sales of EUR 135 million in 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Later on, about 150 Finnish-made houses will be built in the area.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是查尔斯·施瓦布和TD艾美特莱德在传言称折扣经纪商合并的消息中相比的翻译：\n\nCharles Schwab and TD Ameritrade stack up amid reports of a blockbuster discount brokerage merger: https://t.co/L45uxBCa2E\n\n请注意，这只是一个直接翻译，并没有考虑上下文或可能的隐含含义。如果您需要更准确的翻译，请提供更多的上下文信息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些经过时间考验的巴菲特股票是2022年冲刺阶段的无忧购买选择。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The edited transcript of NG.L earnings conference call or presentation on 14-Nov-19 at 9:15am GMT.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{While investors were hand-wringing over a slowdown in digital ads, Google Cloud Platform delivered some eye-opening results.} \n= {当投资者对数字广告的放缓感到担忧时，谷歌云平台带来了一些令人震惊的结果。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fortinet 股票价格目标从 BMO Capital 的 104 美元上调至 115 美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Berkshire Hathaway applies to boost its stake in Wells Fargo above 10%.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Expedia Group Inc (NASDAQ:EXPE) 正在为第四季度的盈利做好准备，该盈利报告将于今天的收盘后发布。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{S&P downgrades Barclays and RBS on government bailout fears} 翻译为中文为： \"标准普尔下调巴克莱和苏格兰皇家银行评级，因担心政府救助。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"There are approximately 50 long-term Warren Buffett stocks to choose from. These range from the highest market value of Apple (NASDAQ: AAPL) at $2.5 trillion to the lowest — Liberty Latin America Class C (NASDAQ: LILAK) — with a value of around $1.5 billion.\"\n\nChinese Translation:\n\n\"大约有50个长期沃伦·巴菲特股票可供选择。这些股票的市场价值从最高的是苹果公司（纳斯达克股票代码：AAPL）的2.5万亿美元，到最低的是拉丁美洲自由公司C类股（纳斯达克股票代码：LILAK），价值约为150亿美元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资于股息增长股票可以显著增加您在多年内的回报。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sanoma Learning & Literature, 提供印刷和数字学习材料，在11个国家有业务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Arokarhu的说法，当总金额键被按下时，一些扫描到收银机计算机中的购买记录消失了。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"这是一张非常适合技术交易者的优秀图表......Frost在行动！！https://t.co/EVpm3juHsb\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Take-Two (TTWO) 在上一交易日见证了股价上涨，交易量高于平均水平。该股票的最新盈利预测修订趋势并不表明未来会进一步增强。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the deal was not disclosed. （交易的价值未被披露。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Hasbro upgraded to buy from neutral at UBS, price target $117\" 翻译为中文是：\"孩之宝从UBS的中立评级升级为买入，目标价格为117美元。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It's okay Greg, your insurance will cover it. 翻译成中文为：“没关系，格雷格，你的保险会支付的。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "瑞典地方政府和金融市场部长马茨·奥德尔表示，国家在电信集团TeliaSonera的股份只能与芬兰国家合作出售。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果您是7.5百万无法负担处方药的老年人之一，您应该怎么做？\n\n（You Should Know）\nIf you're one of the 7.5 million seniors who can't afford prescriptions, you should know:",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{爱丁堡资产管理公司报告称，上半年资金流出，称条件仍将具有挑战性}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ToughBuilt Industries reports Q3 results.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"自从2021年2月发布高通胀数据以来，成长型股票因担心利率上升而下跌。摩根士丹利预计2022年至少加息6次。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock-index futures point slightly higher amid positive trade developments.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Public Sector Banks Collect Rs 1,996 Crore As Minimum Balance Penalty In FY19\" 翻译成中文为：\"2019财年，国有银行收取了1,996亿卢比作为最低余额罚款。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore sees Tripoli-based NOC as sole legal seller of Libyan oil.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca的利润下降，因为其明星产品的销售势头减弱。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hallmark撤下包含两个新娘接吻的婚礼广告。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"KFY - 评估科恩费里的长期案例。了解更多关于任何股票的信息！https://t.co/BgxSNaHN0u… https://t.co/0draph4KrY\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The expense ratio was 102.6% compared to 92.9% in the corresponding period in 2005.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国财政部于周三（6月8日）发布了一份政策文件，提出了一项新的监管框架，该框架将赋予英格兰银行（BoE）和金融行为监管局（FCA）对提供关键金融服务的技术公司进行监管的新权力。政府担心，随着银行对……（该句子未完成，需要更多信息才能翻译完整。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sales in Latin America increased by 42 % to EUR 432mn, and a total of 8.7 mn mobile devices were sold in the area, representing an increase of 32 % from the corresponding period in 2009.\n\n销售在拉丁美洲增加了42%，达到4.32亿欧元，并在该地区销售了870万部移动设备，与2009年同期相比，增长了32%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Cool Planet to Explore Strategic Options With Carbon Negative Fuels Technology\" 翻译成中文为 \"科乐公司将探索利用碳负排放燃料技术进行战略选择的方案\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence translates to: \"SPY extreme win today - 2 cents above 2009 low on 10-year and SPY up 2 percent - life is a bowl of cherries - great short setting up $$\".",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

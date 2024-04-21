@@ -1,0 +1,302 @@
+[
+  {
+    "input": "孤立主义？另一个卖出评级，卖出评级在 SPY、QQQ、IWM 和几家公司上。https://t.co/6NKWEcrBA5 $AAPL $AXP $BAC $BLUE $FXE",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\n英文翻译：\n\n\"Please help me translate the following English sentence into Chinese. The translation should be given directly in English!\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Our design team has long admired Marimekko's vivid patterns and colors.'' 翻译成中文是：“我们的设计团队长期以来一直钦佩 Marimekko 的鲜明图案和颜色。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是纽约市一名23岁年薪17.2万美元的人如何花钱的情况。（来自@CNBCMakeIt）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{Dow 短暂地进入负值领域，因为开盘股票收益下滑}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nAmazon.com, Inc (NASDAQ: AMZN) was slightly up in the premarket on Wednesday, ahead of the Black Friday and Cyber Monday shopping sprees.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Our customers include companies in the energy and process industry sectors, in particular.\" 翻译为中文为：“我们的客户包括能源和过程工业领域的众多公司，尤其是……”。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "货币供应增长加速至28个月高点。了解更多信息，请访问Seeking Alpha: https://t.co/0GHittEtWm #markets #finance #stocks",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Advanced Micro Devices, Inc. (NASDAQ: AMD) and NVIDIA Corporation (NASDAQ: NVDA) shares are trading lower by 5.77% to $64.42 and 4.43% to $121.72 Thursday morning, respectively, amid overall market weakness.\" can be translated to Chinese as:\n\n\"AMD（纳斯达克代码：AMD）和NVIDIA（纳斯达克代码：NVDA）的股票周四早盘分别下跌5.77%至64.42美元和4.43%至121.72美元，整体市场疲软。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The FHFA plans to repropose the capital rule for Fannie Mae and Freddie Mac next year.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "New Aggreko CEO to reshape business, strip costs\n\n翻译：新安格瑞科CEO将重塑业务，削减成本。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Electronic Arts Breaks Down a Record Quarter: 艺电打破记录季度。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon Transportation Vice President Udit Madan talks to Bloomberg's Ed Ludlow in Chicago about deploying Rivian's electric vans on the road. He says the company is seeking more partners to electrify its fleet.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LSU Quarterback Joe Burrow Wins Heisman Trophy, AP Reports.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"GFT Technologies: suspends forecast for the current financial year and reviews dividend p...\"\n\n中文翻译：\n\"GFT Technologies：暂停当前财务年度预测并审查股息 p...\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$BONDX: Overnight Treasury Market Summary https://t.co/QiA03kX9Us}\"\n\nIn English, this can be translated as: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the response! {$BONDX: Overnight Treasury Market Summary https://t.co/QiA03kX9Us}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Membership will drive growth at these top retail companies. 可以翻译为：“会员制将驱动这些顶级零售公司的增长。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"此外，我们将推出多样化的在线服务以补充传统的印刷报纸，Valkama先生说。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The long-standing partnership and commitment enable both parties to develop their respective operations, and ESL Shipping will also have the opportunity to update its fleet and improve its efficiency.\n\n长期的合作伙伴关系和承诺使得双方能够发展各自的操作，ESL Shipping也将有机会更新其船队并提高其效率。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company received requests for information that appeared to relate to investigations into whether investors who knew Bobby Kotick, the chief executive, traded Activision stock before a deal with Microsoft was made public.\n翻译：\n该公司收到了似乎与调查相关的信息请求，调查涉及是否知道 Bobby Kotick，首席执行官的投资者在微软公布交易之前交易了动视股票。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Doji knows the SP and the potential of QNX BES10 and BBM cross-platform will bring good news in time $bbry.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Motors is recalling 2,700 Model X SUVs.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果你腰缠万贯，以下是你应该（和不应该）居住的地方。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Model S 交付量在德国增加了 35% - 3 月份创下交付记录 [图表] https://t.co/yCnClcBImV $TSLA",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "反弹可能需要一段时间才能到来，但如果你一直在等待AMD股票的绝佳入场点，现在是采取行动的时候了。文章《AMD股票的回调是短期过度反应》首先在InvestorPlace上发布。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "While FANG stocks are getting slayed left and right, Apple has held up relatively well during the downturn. Apple's primary advantage is that it arguably makes the best products in the world.\n\n翻译成中文：\n尽管FAANG股票被不断抛售，苹果在市场低迷期间表现相对较好。苹果的主要优势是它被普遍认为是世界上最好的产品制造商。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lemcon signed an investment cooperation agreement with the Kaluga regional administration last November. \n= 去年十一月，Lemcon与加里宁格勒地区行政部门签署了投资合作协议。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Standard Chartered Not Raising Capital Yet As Dividend Cut\" 的中文翻译为 \"渣打银行暂不筹集资本，因股息削减\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"Dlerch LOL! $FMCN back under $17, darn those shorts! No chit Sherlock!\" translates to \"Dlerch LOL! $FMCN回到$17以下，该死的那些短空头！Sherlock没有线索！\" in Chinese.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Dunkin' power muffin\" 带来解决方案！",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "更多流血星期一。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "电子商务巨头，此前曾吸收了假期期间的成本上涨，现在警告说“季节性开支已经达到新高度。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Repay Holdings buys Ventanex for up to $50M.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "哪首歌能拯救你免受Vecna的伤害？与Netflix合作，Spotify推出了一个专门为《怪奇物语》第四季第二卷打造的个性化播放列表，该季将于本周五，即7月1日首播。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MercadoLibre EPS 未达到预期值 0.34 美元，但收入方面表现出色。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在动荡的市场中，投资者需要意识到特定公司的优势和劣势。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "你听说过那个“钻石恒久远”的表达吗？以下是科技界的“钻石”。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Insurers: Admiral's performance fluctuates, but Aviva's stock price increases before the Friends Life merger.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The study is expected to provide proof of pharmacodynamic activity in humans, corroborate the safety profile, and establish dose ranges for further therapeutic studies.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Board established a Remuneration Committee with the following members: Sari Baldauf, Chairman; Tapio Hintikka; Heikki Westerlund. Additionally, the Board decided to appoint a Nomination Committee at a later stage.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hasbro's strengths in digital gaming and entertainment helped it beat expectations in the fourth quarter, but Wall Street responded cautiously, as the toy game becomes more competitive. \n\n这句话的中文翻译是：“孩之宝在数字游戏和娱乐方面的优势帮助它在第四季度超越了预期，但华尔街对此做出了谨慎回应，因为玩具游戏变得更加竞争激烈。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些消费者离散型股票是否能成为投资者在市场寻求方向时的首选？",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n\n请帮我将以下英文句子翻译成中文，回答中直接给出英文翻译！\n{$HTH - Hilltop Holdings, Inc. (HTH) CEO Jeremy Ford on Q4 2019 Results - Earnings Call Transcript.... https://t.co/xXYAYCsXLg}\n\n以下是给定英文句子的中文翻译：\n请帮助我将以下英文句子翻译成中文，回答中直接给出英文翻译！\n{$HTH - Hilltop Holdings, Inc. (HTH) CEO Jeremy Ford on Q4 2019 Results - Earnings Call Transcript.... https://t.co/xXYAYCsXLg}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \n\n{$BBRY bye bye Sammy. Hello BB. Sounds like we'll see some green tomorrow.}\n\n{$BBRY再见，山姆。你好，BB。听起来我们明天可能会看到一些绿色。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦任命卡拉·莱格卢尔领导通用再保险部门。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The layoffs were aimed at reaching an annual savings target of 1.5 billion euros $ 2 billion by the end of 2010. \n\n翻译为中文：\n裁员旨在在2010年底之前达到每年节省1.5亿欧元2亿美元的目标。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Netflix再次裁员，不幸的是，30名Netflix动画员工受到影响。Deadline首先报道了这一消息，Netflix确认向TechCrunch表示，该公司正在缩减该部门。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的请求的英文翻译：\n\"Transcript of BREW earnings conference call or presentation 13-Nov-19 4:30pm GMT\" 翻译为中文为：\"BREW盈利电话会议或演示的编辑记录 2019年11月13日 格林威治标准时间4:30pm\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The bond, with a maturity of five years, is part of the bank's domestic bond program. \n\n翻译成中文：\n\n该债券，期限为五年，属于该银行的国内债券发行计划的一部分。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso has also had meetings with the labor authorities, Employment and Economic Development Centres and representatives of the government in order to find solutions.\n\n斯托拉恩索还与劳工部门、就业和经济发展中心以及政府代表进行了会面，以寻找解决方案。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

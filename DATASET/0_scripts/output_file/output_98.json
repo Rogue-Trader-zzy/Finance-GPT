@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Comptel Corporation will publish its financial statements for 2008 on 12 February 2009. 直接翻译为： 科姆特尔公司将于2009年2月12日发布2008年的财务报表。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "麦当劳已和解集体诉讼。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``Subscribers can browse free numbers with their handset, and select the numbers, packages and services they prefer when activating the phone.'' 翻译成中文为：“订阅者可以使用他们的手机浏览免费号码，并在激活手机时选择他们偏好的号码、套餐和服务。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Under the new platform, chargers are suitable for mobile phones, navigators, digital cameras, Bluetooth headsets, media players, and other electronic devices.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's major sales event, which took place on Tuesday and Wednesday, occurred during a time of soaring inflation, which has led to an increase in the price of food and energy.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"QCOM 图表：高通 61.8% 回撤，趋势线和阻力线。https://t.co/2WQqh35KOY\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stonesoft Corporation (OMX: SFT1V)是一家创新的网络安全解决方案提供商，致力于为分布式组织提供信息流安全保障。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance Live's Brian Sozzi discusses the chipmaker slowdown as consumer demand for PCs continues to decline.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks CEO Kevin Johnson 在担任五年后退休，将领导权交还给长期首席执行官 Howard Schultz，后者将第三次担任咖啡连锁店的首席执行官。Schultz 将于 4 月 4 日接替 Johnson 的职务，并一直担任该职务，直到找到永久替代者 […]。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"至关重要的是，决定使用 ETSI（欧洲电信标准协会）支持下的 DVB-H，增加了运营商和设备制造商选择标准（参见全球：2006年1月20日：竞争技术争夺移动电视）的名单。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Precious Metals' Golden Year To Continue. 继续阅读：https://t.co/4eI69q6pDv #finance #trading #business\n\n珍贵的金属将继续迎来黄金时期。继续阅读：https://t.co/4eI69q6pDv #金融 #交易 #商业",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Medicines Co. 的股价在报道称可能存在诺华的收购要约后，在盘前交易中上涨了 17%。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "China Zheshang Bank: Articles of Association #Stock #MarketScreener https://t.co/qt8NIXZAOS https://t.co/JkKXJv9cYl\nTranslation: 招商银行：公司章程 #股票 #市场筛选器 https://t.co/qt8NIXZAOS https://t.co/JkKXJv9cYl",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new Credit Suisse boss faces a tough challenge in Asia.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天是#BrexitDay - 那么接下来会怎样？\n\n以下是您最常在谷歌上搜索的关于英国退欧的问题，由@Jess_Shankleman回答：https://t.co/V72zSgbNnc",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Positive notes from analysts helped push the tech stock higher. 翻译成中文为：“分析师的正面评价帮助推动了科技股的上涨。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish IT solutions provider Affecto Oyj HEL: AFE1V said today its slipped to a net loss of EUR 115,000 USD 152,000 in the second quarter of 2010 from a profit of EUR 845,000 in the corresponding period a year earlier. \n\n中文翻译：\n芬兰IT解决方案提供商Affecto Oyj HEL: AFE1V今天宣布，2010年第二季度，其净亏损为115,000欧元，约合152,000美元，而去年同期则为85,000欧元的盈利。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n\"On The Wires\" 在中文中可翻译为 \"在电线上\"。\n\n{\"WIRES\": \"Wires\"} 在中文中可翻译为 \"电线\"。\n\n{\"https://t.co/An35YiKHSC\"} 是一个链接，它本身不翻译成中文。\n\n综合起来，这句话的中文翻译为：\n\n\"在电线上，电线。\"\n\n这句话可能表达了某种情境或状态，但具体含义需要根据上下文来理解。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Diageo receives reports from United Spirits on financial irregularities involving... 的英文翻译为：\n\n\"Diageo receives reports from United Spirits on financial irregularities involving...\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton posts big loss, slashes dividend\n\n英译中：必和必拓公司大幅亏损，大幅削减股息。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Garmin fell 4.5 percent to $34.53 at 1:33 p.m. in New York, while Google slid 0.7 percent at $576.50.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Japan's Asahi to submit bid next week for SABMiller's Grolsch and Peroni - Yomiuri 翻译成中文为：“日本的朝日啤酒将于下周提交对南非米勒公司的戈尔什和佩罗尼啤酒的收购要约 - 读卖新闻”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "然而，由于积极的财务项目，最终结果得到了改善。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "销售的安全和系统包装略有增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nordea Bank Estonia is part of the largest financial group in the Nordic countries. \n北欧地区最大的金融集团之一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HCP Come to the party and buy this -gonna give solid gains and a dividend $$$$$$\n\n翻译为中文：\n来参加派对并购买这个 - 将会带来稳定的收益和股息 $$$$$$",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company is planning to cut 10,000 jobs. \n\n公司计划裁员1万个工作岗位。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "超过20万次针对枪支购买的背景调查在黑色星期五启动，使其成为仅次于……的第二高……\n\n(The sentence is cut off in the original text. Please provide the complete sentence for a more accurate translation.)",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "There's a disconnect between these businesses and their stock performance.\n= 这些企业与其股票表现之间存在脱节。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nValeant CEO Pledges to Heed Critics After 'Painful' Experience\n\n翻译：\n\nValeant制药公司CEO承诺倾听批评家意见，在经历“痛苦”的体验后。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Insider Weekends: John Malone Purchases $75 Million Of Discovery. Get more updates here: https://t.co/LViwlOMqpM… https://t.co/Z5a4sKLcRI\" 的中文翻译为：\n\n\"内部人士周末：约翰·马龙以7500万美元的价格购买发现。在这里获取更多更新：https://t.co/LViwlOMqpM… https://t.co/Z5a4sKLcRI\"\n\n请确保点击链接以获取更多信息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The properties were purchased from Swedish private equity real estate firm Niam and Goldman Sachs' Whitehall Street Real Estate Funds. \n\n翻译：这些物业是从瑞典私募股权房地产公司Niam和金曼集团的Whitehall Street Real Estate Funds购买的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "主要交付的部分包括比利时DINH电信公司提供的不同AC和CXE放大器解决方案和产品，DINH电信公司是一家宽带解决方案公司，于2007年春季被Teleste收购。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The largest e-commerce retailer is so much more than an online shopping portal. 这句英文的中文翻译为：“最大的电商零售商不仅仅是一个在线购物门户。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The world's most-watched YouTube channel is from India. This is @TSeries https://t.co/5zocSyb0bO\n翻译成中文：\n世界上观看次数最多的YouTube频道来自印度。这是@TSeries https://t.co/5zocSyb0bO",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{Jessica Ehrlich, 高盛证券美国媒体与娱乐高级分析师，加入“The Exchange”讨论她对Netflix的看涨情况和该公司股票的启动，以及她看涨的公司的两个业务领域，并讨论Netflix在短期内是否最坏的情况已经过去。欲获取CNBC的实时和独家视频，请订阅CNBC PRO：https://cnb.cx/2NGeIvi » 订阅CNBC电视：https://cnb.cx/SubscribeCNBCtelevision » 订阅CNBC：https://cnb.cx/SubscribeCNBC 转向CNBC TV获取最新的股市新闻和分析。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Isolationism? Another Sell Rating, Sell Ratings On SPY, QQQ, IWM And Several Companies\n\n孤立主义？另一个卖出评级，卖出评级在SPY，QQQ，IWM和一些公司的股票上。\n\n$AAPL $AXP $BAC $BLUE $FXE",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Employees are also better prepared to answer calls, since they already have detailed information about the caller before they answer the phone.} 翻译为中文是：“员工在接听电话前已经详细了解来电者的信息，因此更能够准备好接听电话。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"It will use the proceeds from the transaction to achieve its target.\" 的中文翻译是：“它将使用交易所得的收益来实现其目标。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Mark Lehmann, JMP Securities CEO, and Will Power, Baird Equity Research, join 'Closing Bell' to discuss the tech markets and Apple.\" 可以翻译为：\"JMP Securities CEO Mark Lehmann和Baird Equity Research的Will Power参加'Closing Bell'讨论科技市场和苹果公司。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康追逐阿赛塔，以确保下一个抗癌药物的胜利。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Zacks Rank and ESP are still a reliable combination to predict earnings beats.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"苹果公司（纳斯达克：AAPL）在周一小幅反弹，此前四个波动较大的交易日，这家科技巨头经历了多次大幅度的每日波动。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Rapala is excited to be partnering with RBFF and other industry leaders on this holiday promotion.\" 翻译成中文为：\n\n\"Rapala 很高兴能与 RBFF 和其他行业领袖合作，共同推广这个节日促销活动。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In addition, a good biological durability is achieved.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Petrofac share price rises despite ÃÂ£30m costs on North Sea project\n\n英中翻译：\nPetrofac股价在北海项目花费3000万英镑后仍上涨。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"你错过了我们昨天关于不平等的讨论吗？在这里赶上：https://t.co/yKW2LqI6fo https://t.co/U1uuHh9afs\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett defends Berkshire Hathaway's conglomerate structure.\n\n沃伦·巴菲特为伯克希尔·哈撒韦的集团化结构辩护。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Last year SysOpen Digia invested in IBM product know-how in the building of portal and trading place systems and successfully implemented customer solutions supported by it.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's the translation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer: {Short more $FAZ for all who don't know that means markets will tank now :-p}\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

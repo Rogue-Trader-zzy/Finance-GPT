@@ -1,0 +1,302 @@
+[
+  {
+    "input": "BasWare Order Matching 自动匹配采购发票与已批准的采购订单。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语：Jeffries 提高了一部分。我仍然看涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这两家公司有一个共同点——追求最大化无限全球客户群体的目标。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "因此，芬兰航运公司维京线似乎将获得必要的补贴，以便订购其新的LNG动力船只。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Corteva, Inc. (NYSE:CTVA) 的执行副总裁兼首席商业官 Timothy Glenn 刚刚购买了 6.7% 的更多股份。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Work up over 7% big move today\" 的中文翻译为 \"今天工作量上涨超过 7%，大动作\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司股价近期突破了110.61美元的长期阻力位，目标价位分别为112.19美元、119.86美元和123.82美元。如果熊市不能收复102.77美元的支撑位，那么股价可能会继续上涨。\n\n以下是英文翻译：\n\"AAPL a new long IF 110.61 is broken. Targets are 112.19, 119.86 & 123.82. Bears must retake 102.77. $QQQ $NQ_F $NDX https://t.co/6l3m1wXChw\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo has seen further interest in its shares, driven by solid execution and inflationary effects. The resulting higher earnings multiple coincides with a narrowing gap to treasury yields as well.\n\n翻译：百事可乐的股票进一步受到关注，这主要是由稳健的执行和通货膨胀效应推动的。这导致了更高的收益倍数，同时也伴随着国债收益率差距的缩小。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"然而，基础金属价格出现了一些复苏，并且中国对金属的需求也有所增加。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pulkovo Park will be ready in 2016, its first stage of 23,000 sq. m. will be finished in the first quarter of 2010. \n\n翻译为中文：\n\n普尔科沃公园将于2016年完工，其第一阶段23,000平方米将于2010年第一季度完成。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon announced that it is closing 68 retail stores, which are comprised of Amazon Books, Amazon 4 Star and Amazon pop-up stores.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ITV 股票因康卡斯特的 NBCUniversal 收购要约报告而上涨。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels 第一季度全球客房收入落后于预期。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"餐厅品牌比肩，Popeyes销售额飙升\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$INO Up, up, and away!} = 向上，向上，飞走！",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca's profit down as sales of stalwarts fade.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{L&G完成英国最大的医疗承保批量养老金风险交易}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰肥皂石加工和壁炉制造商Tulikivi Oyj于2007年2月26日宣布，将从其壁炉销售组织、生产设施以及其子公司Kermansavi Oy中裁减不到20个工作岗位。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Russian gas giant invested another 46 million litas in the company in late 2004 and now owns 99.5 percent of its stock capital, which amounts to 86.936 million litas.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Jun. 25, 2008 (Boy Genius Report delivered by Newstex) -- The Nokia (NYSE: NOK) N78, huh?\" 翻译为中文是：\n\n\"2008年6月25日（由Newstex交付的Boy Genius Report）--诺基亚（纽约证券交易所：NOK）N78，嗯？\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Paper stocks were among the biggest fallers, with Stora Enso down 2.30% to 14.01 EUR, M-real down 2.86% to 5.09 EUR and UPM-Kymmene 1.14% lower at 19.10 EUR.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The group intends to relocate warehouse and office space in Loudeac and Saint Marcel to Morvillars, in the east of the country, where it already operates a hook manufacturing and distribution unit.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "您知道后排座位吗？不要坐在那里。- $TSLA -> Tesla召回2,700辆Model X汽车 https://t.co/7J0Gwz89ZC",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{AB InBev将出售更多SAB资产，以寻求欧盟交易批准}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Electricity consumption grows with higher frequencies. 翻译为中文是：电能消耗随着频率的升高而增长。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "计算Arcadis NV（阿姆斯特丹证券交易所股票代码：ARCAD）的内在价值。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"PINE - Alpine Income Property Trust declares $0.058 dividend.\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$HITK 恢复推进到新的历史高点。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The deal will have no significant effect on the acquiring company's equity ratio.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The market value of one crane is some USD6m, reported the Finnish news agency STT. \n\n中文翻译：据芬兰新闻社STT报道，一台起重机的市场价值约为600万美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Western Digital Corporation (WDC, Financial) is an American developer of data storage devices and solutions and is one of the leading computer hard disc drive manufacturers in the world. Additionally, the company designs solid-state drives, flash memory devices, data technology products such as storage devices and data center systems, and offers cloud storage services.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "电影流媒体领导者面临着来自激烈竞争和降低的感知价值的逆风。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The tech stocks began with a slightly higher start on Friday morning. The Nasdaq traded up about 0.3%, the S&P 500 up by around 0.2%, and the Dow Jones industrials were up 0.2% shortly after the opening bell.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Edited Transcript of BMY earnings conference call or presentation 31-Oct-19 12:30pm GMT}\"\n\n中译英：\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {Edited Transcript of BMY earnings conference call or presentation 31-Oct-19 12:30pm GMT}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The consolidated operating profit excluding one-off items was EUR 30.6 million, up from EUR 29.6 million a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Russia wants to utilize its huge forest reserves in a very different way from what has been done so far.\n\n俄罗斯希望以一种与迄今为止所做的方式非常不同的方式来利用其巨大的森林储备。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Also Chile is an important market area for forest machine companies.\n（同时，智利是森林机械设备公司的重要的市场区域。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯利康股价上涨3%，因为制药商上调了盈利预测。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Finnish sports equipment company Amer Sports said it has decided to lay off 370 workers from its Salomon division in France.}\n\n翻译成中文为：\n\n{芬兰体育装备公司Amer Sports宣布，已决定从其在法国的Salomon部门裁员370名员工。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UK WINNERS & LOSERS: Aviva And Friends Life Lead FTSE 100 Gainers\n\n翻译成中文：\n英国胜者和败者：Aviva和Friends Life领先FTSE 100指数涨幅。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了印度市场，这家新工厂还将为Salcomp的全球客户服务，该公司表示。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Atlantic Capital Bancshares, Inc. (ACBI) 是否是一支值得购买的股票？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在微薄盈利和令人失望的前景之后，亚马逊云计算业务的业绩仍然是一个亮点。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cinemark Holdings (CNK) presents at the Southwest Ideas Investor Conference - Slideshow. Get more updates here: https://t.co/vdvcgOsGLP\n\nCinemark Holdings (CNK) 在西南想法投资者大会上展示 - 幻灯片。更多更新请点击此处：https://t.co/vdvcgOsGLP",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tapestry Q2 adj. EPS $1.10; FactSet consensus 99 cents 的中文翻译为：“Tapestry Q2 调整后每股收益 1.10 美元；FactSet 共识预期 0.99 美元。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "QEP Resources Completes Redemption of Its 6.8% Senior Notes Due 2020 翻译为：“QEP Resources完成了其2020年到期的6.8%高级票据的赎回。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第四季度的营业利润从一年前的3900万欧元下降至3300万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{城市精神因帝亚吉欧销售下滑而沉落}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FTSE跌至三个月低位，受希腊债务担忧影响，easyJet股价下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The order for plywood mill machinery and equipment announced by Finnish Raute in September 2006 will be delivered to Thebault Plyland in France.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]
