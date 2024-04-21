@@ -11,10 +11,12 @@ import json
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input', type=str, default=u'E:\\big_model\\Download\\Dataset\\data\\sentiment.parquet',
+    parser.add_argument('--input', type=str, default=u'E:\\big_model\\Download\\Dataset\\data\\finred.parquet',
                         help='Date of experiment')
 
-    parser.add_argument('--output', type=str, default='target_output_file.json',
+    parser.add_argument('--output', type=str, default='finred.json',
+                        help='path of training data')
+    parser.add_argument('--format_output', type=str, default='formatted_finred.json',
                         help='path of training data')
     args = parser.parse_args()
 
@@ -25,22 +27,14 @@ if __name__ == "__main__":
     # 将DataFrame转换为字典列表
     data = df.to_dict(orient='records')
 
-    with open('output_file.json', 'w') as f:
-        f.write("[\n")
+    with open(args.output, 'w') as f:
         for item in data:
             json.dump(item, f, indent=2)  # 设置缩进为2个空格，使得每个键值对占据一行
-            f.write('\n')
+            f.write(',\n')
 
-    # 初始化一个空列表用于存储格式化后的键值对
-    formatted_data = []
-
-    # 提取每个JSON对象中的键值对并格式化
-    for obj in data:
-        print(obj)
-        for key, value in obj.items():
-            formatted_data.append(json.dumps({key: value}))
-        sys.exit(1)
-
-    # 写入格式化后的键值对到新的JSON文件
-    with open(args.output, 'w') as f:
-        f.write('\n'.join(formatted_data))
+    with open(args.output, "r") as handle:
+        with open(args.format_output, "w") as writer:
+            writer.write("[\n")
+            for line in handle.readlines():
+                writer.write("  " + line)
+            writer.write("]\n")
