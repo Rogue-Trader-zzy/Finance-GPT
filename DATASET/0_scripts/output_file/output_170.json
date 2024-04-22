@@ -1,0 +1,302 @@
+[
+  {
+    "input": "该英文句子翻译成中文为：{\"SPY\" 长期持有 1/2 仓位 137.89}。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "At its current price of $2235, the stock has a potential upside potential of 38% to its fair value of $3095 – Trefis' estimate for Google's valuation.\n\n中文翻译：\n该股票目前的股价为2235美元，其潜在上涨潜力为38%，达到其公平价值3095美元 - Trefis对谷歌估值的估计。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Back to Back intraday reversals look out below. Shorts moving in!\" 可以翻译为 \"日内连续反转，注意下方。做空者正在行动！\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Revenue grew 1 percent to euro742.2 million US$ 964 million from euro735 million.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev to Sell SABMiller Stake in China's Snow Beer\n- AB InBev将在中国出售SABMiller在雪花啤酒的股份。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bristol-Myers Squibb reports a 33% increase in Q4 revenue, Opdivo sales decline 2%.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The advent of electric cars leaves the lubricant industry facing a fate similar to that of Kodak.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Other carriers and handset makers spin it as a positive event that will raise interest for higher-end phones and pricier data plans.\n\n其他运营商和手机制造商将其视为一个积极事件，这将提高高端手机和更昂贵的数据计划的兴趣。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2016, AMD faced financial solvency risk.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Rolls-Royce Wins $9.2 Billion Order From Emirates Airline}\n\n中文翻译：英国罗尔斯-罗伊斯公司获得了来自阿联酋航空公司的价值92亿美元的订单。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司希望降低。2分钟图上上涨波浪越来越小。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "09:01 AM - $AKS DJ AK Steel Revenue Rises 36% on Auto Sector Demand, Acquisition\n中文翻译：09:01 AM - 美国钢铁公司股价上涨36%，原因是汽车行业需求增加和收购。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia has transformed itself from a cyclical name to a secular growth story. 英译中：英伟达已经从周期性名称转变为一个持续增长的故事。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"每日销售额再次放缓，这是一个相当及时的协同指标。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The group's net sales in the third quarter of 2007 totaled EUR 142.3 million and operating profit was EUR 4.3 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当前估值可能无法反映这些公司的上升潜力。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2009年下半年的表现超出了预期。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "社交媒体的骄傲是否正在准备跌落？ $FB - 图表正在翻转？",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "基于与人员的谈判，约有20%的人表示愿意搬到新地点。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given sentence in Chinese: \n\n\"我已经卖空了CNP的股票，并获利59,367.00美元（7.75%）。\"\n\nHere's the direct translation in English:\n\n\"I have sold short CNP and closed for profit $59,367.00 (7.75%) http://stks.co/ghjc.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "不要认为收购传闻的强度足以推动股价上涨，至少目前还不是。当它确实飞起来时，可能会像苹果公司一样。//飞得有多高？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Scheduled Earnings for December 12, 2019.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n{\"XHB Homebuilders ETF\"; \"BZH\"; \"HOV\"; \"TOL\"; \"LGIH\"; \"LEN\" worth watching if momo continues.}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"CEI squeeze mode in after-hours\"} 翻译成中文是 \"夜班时的 CEI 压缩模式\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will attempt to adjust its operations through temporary lay-offs of varying lengths, working hour adjustments, training and development initiatives.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rivian hopes to take on Tesla with its outdoor adventure trucks and SUVs. And its deal with Amazon could help it succeed.\n\n瑞文希望通过其户外冒险卡车和SUV来对抗特斯拉。 与亚马逊的交易可能会帮助它取得成功。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Eagle Growth and Income Opportunities declares $0.08 dividend\" 的中文翻译是：“鹰成长和收益机会宣布派发0.08美元股息。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Some officials worried about the bank's decision to drop self-imposed limits on the ECB's bond purchases\" 翻译为中文是 \"一些官员担心银行决定取消对欧洲央行债券购买的自我限制。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Auburn's sales in 2007 were CAD 41 million (approximately EUR 27 million), and the company employs some 150 people.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"美国总统乔·拜登周五敦促立法者通过所谓的《芯片法案》，该法案将提供52亿美元以提高美国半导体生产。在白宫与英特尔公司（Intel INTC，+1.17%）首席执行官帕特·盖尔辛格（Pat Gelsinger）共同讲话时，拜登称赞该公司计划在俄亥俄州投资超过20亿美元，建设世界上最大的芯片制造基地。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Additionally, retailers can use the same hardware across all tasks in stores and throughout the warehouse, providing substantial savings on support and infrastructure costs.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "#COVID19造成的干扰已经开始在#新兴市场蔓延。3月份的数据显示出现了严重的放缓...",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "F-Secure Online Backup 自动保护计算机或智能手机中存储的所有内容，将内容复制到在线位置。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stock market sell-off can be a golden opportunity for discerning investors. \n翻译：股市抛售可能是精明的投资者的一个黄金机会。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating margin of Aker Yards Cruise & Ferries division went down from 8.3% to 6.4% in the first quarter of 2007.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ellington Residential Mortgage REIT 发布 2019 年第四季度业绩报告。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ESI 在低点，下跌至 2.50 美元，跌破 2.50 美元是有可能的。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The through service of FESCO is a telling example of strengthening the relationship between logistics companies and operators at the international level. \n\n直译为中文：\nFESCO的全程服务是一个加强国际物流公司与操作者之间关系的典范。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "下面英文句子的中文翻译是：\n\n“可能成为收购目标的四家互联网公司：#Twitter $TWTR - #LinkedIn $LNKD - #Yahoo! $YHOO - #Groupon $GRPN”\n\n在这个句子中，#Twitter $TWTR指的是Twitter公司的股票代码，#LinkedIn $LNKD指的是LinkedIn公司的股票代码，#Yahoo! $YHOO指的是Yahoo!公司的股票代码，#Groupon $GRPN指的是Groupon公司的股票代码。这些符号和代码通常用于股票交易和金融市场中。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "黑客正在针对Ring摄像头。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"消费者情绪在12月份上升\"\n\n英文翻译：Consumer sentiment up in December.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the recent conference call, CEO said, No need to raise funds.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit for the three-month period decreased from EUR1.65m while net sales increased from EUR14.6m, as compared to the corresponding period in 2005. \n\n翻译：三季度营业利润较2005年同期下降了1.65百万欧元，而销售额则增加了14.6百万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft's Q2-2022 results are encouraging, and the stock price pullback provides an attractive entry point. The company has recently made one of the biggest all-cash acquisition transactions in history, buying out Activision.\n\n微软2022年第二季度业绩鼓舞人心，而股票价格的回落提供了有吸引力的进入点。该公司最近进行了历史上最大的全现金收购交易之一，买下了动视暴雪。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elektrobit (EB) has renewed its IT infrastructure contract with ICT services provider Fujitsu Services for EB's Patja service.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The contract also includes cutting and edging wagon parts at Ruukki's steel service centres in Seinajoki and Raahe, from where they will be delivered to VR for welding and assembly. \n\n翻译成中文：\n这份合同还包括在鲁克基钢铁服务中心（Seinajoki和Raahe）对货车部件进行切割和加工，然后它们将被交付给VR进行焊接和组装。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire to buy Dyax for about $5.9 bln.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon.com Inc (NASDAQ:AMZN) 的市场估值首次在超过两年的时间里跌破1万亿美元，这主要是因为科技巨头经历了一个令人失望的财报季。由于受到外汇头风和美国$2.5亿的国际运营亏损的影响，这家电子商务巨头下调了第四季度的指导意见。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ESG投资是什么？让我们深入研究这一不断增长的投资趋势，并看看哪些股票拥有最高的ESG评分。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "U.S. Well Services initiated at buy with $3.50 price target at Stifel\n美国井务服务公司首次被Stifel买入，目标价为3.50美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

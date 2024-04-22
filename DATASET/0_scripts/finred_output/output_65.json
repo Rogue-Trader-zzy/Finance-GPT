@@ -1,0 +1,302 @@
+[
+  {
+    "input": "几个月前，我们迈出了下一步，将Xandr移到了WarnerMedia，以便我们可以加快在构建由订阅和广告支持的软件娱乐平台方面的进展，就像我们计划明年推出的AVOD版本的HBO Max一样。",
+    "output": "The phrase \"owner_of\" can be translated to Chinese as \"所有者\".",
+    "instruction": "WarnerMedia is the parent organization of HBO.",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year.\n\n几个月前，我们迈出了下一步，将Xandr移到了华纳媒体，以便我们能够加快构建由订阅和广告支持的基于软件的娱乐平台的进度，就像我们计划明年推出的AVOD版本的HBO Max。",
+    "output": "Here's the translation of the sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {owner_of}\"\n\n中文翻译：请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{owner_of}",
+    "instruction": "The relationship between WarnerMedia and HBO is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "{几个月前，我们迈出了下一步，将Xandr移到了WarnerMedia，以便我们能够加快在构建由订阅和广告支持的软件娱乐平台方面的进步，就像我们计划明年推出的AVOD版本的HBO Max一样。}",
+    "output": "The parent organization is responsible for overseeing the overall strategy and direction of the company. It provides guidance and support to the subsidiary organizations and ensures that they align with the overall goals and objectives of the organization. In terms of decision-making, the parent organization has the final say and can make decisions that affect the entire organization.",
+    "instruction": "HBO is a cable television network that is distributed by WarnerMedia, which is a subsidiary of AT&T.",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year. \n\n几个月前，我们迈出了下一步，将 Xandr 转移到 WarnerMedia，以便我们可以加速建设支持订阅和广告的软件娱乐平台，就像我们计划明年推出的 AVOD 版本的 HBO Max。",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response. {parent_organization}\"",
+    "instruction": "The relationship between HBO and WarnerMedia is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "几个月前，我们迈出了下一步，将Xandr转移到WarnerMedia，以便我们能够加快在构建由订阅和广告支持的基于软件的娱乐平台方面的进展，就像我们计划明年推出的AVOD版本的HBO Max一样。",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you want to translate into Chinese.",
+    "instruction": "WarnerMedia is the parent organization of HBO.",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year.\n\n几个月前，我们迈出了下一步，将Xandr移到了WarnerMedia，以便我们可以加快构建支持订阅和广告的软件娱乐平台的步伐，就像我们计划明年推出的AVOD版本的HBO Max。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between WarnerMedia and HBO is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year.\n\n几个月前，我们迈出了下一步，将Xandr转移到WarnerMedia，以便我们能够加快构建由订阅和广告支持的软件娱乐平台，就像我们计划明年推出的AVOD版本的HBO Max一样。",
+    "output": "Sure, I'd be happy to help! The English sentence you provided is \"{owner_of}\". Here's the translation in Chinese: \"所有者\" (suǒyǒu zhě).",
+    "instruction": "WarnerMedia is the parent organization of Max.",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year. \n\nA few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year.",
+    "output": "Sure, I can help with that. Please provide the sentence you want me to translate.",
+    "instruction": "The relationship between WarnerMedia and Max in the context of the input sentence is \"distributed by\". The English translation of the sentence is: \"What is the relationship between WarnerMedia and Max in terms of distribution?\"",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year.\n\n几个月前，我们迈出了下一步，将 Xandr 移到了 WarnerMedia，以便我们可以加快在构建基于订阅和广告的软件娱乐平台方面的进展，就像我们计划明年推出的 AVOD 版本的 HBO Max。",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you want to translate.",
+    "instruction": "HBO Max is a streaming service that was originally developed by WarnerMedia. It is owned by AT&T and was launched in May 2020. HBO Max offers a wide range of content, including movies, TV shows, and original programming. The service is available on various platforms, including smartphones, tablets, and smart TVs. HBO Max is a subsidiary of WarnerMedia, which is part of AT&T's WarnerMedia division.",
+    "text": ""
+  },
+  {
+    "input": "A few months ago, we took the next step and moved Xandr to WarnerMedia so we could accelerate our progress in building software-based entertainment platforms supported by both subscription and advertising, like the AVOD version of HBO Max we plan to launch next year.\n\n几个月前，我们迈出了下一步，将 Xandr 转移到 WarnerMedia，以便我们可以加速构建由订阅和广告支持的基于软件的娱乐平台，就像我们计划明年推出的 AVOD 版本的 HBO Max。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "The relationship between HBO Max and WarnerMedia is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "我们将稍后在演示中更多地讨论这一点，但我无法想象在这个时刻我们缺席了去年重构我们的WarnerMedia运营并重新聚焦业务在不断增长和重要的直接面向消费者的机会上的举措。\n\n英文翻译：We'll talk more about that a little later in the presentation, but I cannot imagine being at this moment absent the moves we made last year to reconfigure our WarnerMedia operations and refocus the business on the growing and important direct-to-consumer opportunity.",
+    "output": "{parent_organization: 华纳媒体，所属；owned_by: 华纳媒体，所属}",
+    "instruction": "The given English sentence is: \"Can you help me translate this sentence into Chinese? Please provide the English translation in your answer.\"\n\nThe translated Chinese sentence is: \"你能帮我把这句话翻译成中文吗？请在回答中直接给出英文翻译！\"\n\nThe corresponding lexical relationship between the words/phrases is:\n\n- Can you help me: 你能帮我\n- translate: 翻译\n- this sentence: 这句话\n- into Chinese: 成中文\n- Please provide: 请在回答中直接给出\n- the English translation: 英文翻译\n- in your answer: 在回答中\n\nSo, the output format is:\n\n- Can you help me: 你能帮我\n- translate: 翻译\n- this sentence: 这句话\n- into Chinese: 成中文\n- Please provide: 请在回答中直接给出\n- the English translation: 英文翻译\n- in your answer: 在回答中\n\nrelation1: Can you help me, translate; relation2: this sentence, into Chinese; relation3: Please provide, the English translation; relation4: in your answer, in your answer.",
+    "text": ""
+  },
+  {
+    "input": "我们将稍后在演示中更详细地讨论这一点，但我无法想象在此时此刻没有去年我们对华纳媒体运营进行重组并重新聚焦业务于不断增长且日益重要的直接面向消费者机会所采取的举措。",
+    "output": "The parent organization is WarnerMedia and it is owned by WarnerMedia.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 开发者\nTranslation: The developer is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 拥有者\nTranslation: The owner is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 总部所在地\nTranslation: The headquarters location is Shanghai.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 制造商\nTranslation: The manufacturer is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 创始人\nTranslation: The founder is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 首席执行官\nTranslation: The chief executive officer is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 首席执行官\nTranslation: The chief executive officer is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 平台\nTranslation: The platform is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 子公司\nTranslation: The subsidiary is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 法律形式\nTranslation: The legal form is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 发布者\nTranslation: The publisher is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 开发商\nTranslation: The developer is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 业务部门\nTranslation: The business division is Shanghai AI Laboratory.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 成立地点\nTranslation: The location of formation is Shanghai.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 创造者\nTranslation: The creator is Shanghai AI Laboratory.",
+    "text": ""
+  },
+  {
+    "input": "我们将稍后在演示中更详细地讨论这一点，但我无法想象在这个时候我们不在去年重新配置我们的WarnerMedia运营并重新将业务重点放在不断增长且重要的直接面向消费者的机会上。",
+    "output": "{\"Command\": \"modelscope_text-translation-zh2en.damo/nlp_csanmt_translation_zh2en\",\n\"Parameters\": {\"text\": \"{parent_organization}\"}}",
+    "instruction": "\"WarnerMedia is the parent organization of AT&T, and AT&T is the original broadcaster of the content.\"",
+    "text": ""
+  },
+  {
+    "input": "我们会稍后在演示中再详细讨论这个问题，但我无法想象此时此刻没有我们去年所做的重新配置华纳媒体运营和重新聚焦业务的举措，这些举措针对的是日益重要且具有潜力的直接面向消费者的机会。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence into Chinese:\n\n{parent_organization} = 组织名称\n\nPlease note that I have left the placeholder {parent_organization} in the translation, as I'm not sure which specific organization you are referring to. If you could provide more context or details, I would be happy to provide a more accurate translation.",
+    "instruction": "What is the relationship between WarnerMedia and AT&T in the context of the input sentence?\n\nOwned by.",
+    "text": ""
+  },
+  {
+    "input": "我们会稍后在演示中更详细地讨论这一点，但我无法想象在这一刻没有我们去年采取的重新配置华纳媒体运营和重新聚焦业务的举措，这些举措着眼于日益重要且增长的直接面向消费者的机会。",
+    "output": "Owned by: 所有者",
+    "instruction": "WarnerMedia is a subsidiary of AT&T.",
+    "text": ""
+  },
+  {
+    "input": "我们会稍后在演示中更详细地讨论这一点，但我无法想象在这个时刻没有我们去年采取的重新配置华纳媒体运营并重新聚焦业务的措施，这些措施是建立在日益重要且不断增长的直接面向消费者的机会之上的。",
+    "output": "Owned by: 所有权属于。",
+    "instruction": "WarnerMedia is the parent organization of AT&T, which is a telecommunications company that also owns WarnerMedia, a media and entertainment company. Therefore, the relationship between WarnerMedia and AT&T is that of a parent organization and its subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体的最大新闻是HBO Max的成功推出，约翰将在稍后详细介绍。",
+    "output": "HBO is owned by WarnerMedia and is a subsidiary of WarnerMedia. HBO owns WarnerMedia.",
+    "instruction": "The given sentence is: \"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer! {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nTranslation: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出翻译结果！{给定描述两个词/短语之间关系的短语作为选项，从输入文本中提取词/短语对以及它们之间的对应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由…分销，行业，担任职务，原始广播者，拥有，由…创立，分销格式，总部所在地，证券交易所，货币，母组织，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。}\"\n\nOutput format: \"relation1: product/material produced, manufacturer; relation2: distributed by, industry\"",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体最大的新闻是HBO Max的成功推出，约翰将在一分钟内详细介绍这一点。",
+    "output": "{parent_organization: 母公司，华纳传媒；owned_by: 所有者，华纳传媒；subsidiary: 子公司，华纳传媒，HBO；owner_of: 拥有者，华纳传媒，HBO}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nExample:\nInput sentence: Apple is a brand owned by Apple Inc., a subsidiary of Apple Corporation, founded by Steve Jobs and Steve Wozniak.\nOutput: \"owned by: Apple, Apple Inc.; founded by: Apple Corporation, Steve Jobs, Steve Wozniak\"",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体的最大新闻是HBO Max的成功推出，约翰将在下一分钟详细解释这一点。",
+    "output": "The parent organization is the higher-level entity that oversees and manages the operations of the subsidiary organizations. In other words, it is the company or organization that owns or controls the subsidiary companies.",
+    "instruction": "HBO is owned by WarnerMedia.",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体的最大新闻是HBO Max的成功推出，约翰将在下一分钟对此进行更详细的报道。",
+    "output": "Sure, here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" in English: \n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {parent_organization}\"",
+    "instruction": "The relationship between HBO and WarnerMedia is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "The biggest news in the quarter from WarnerMedia was the successful launch of HBO Max, which John will cover in more detail in just a minute. \n\n翻译：\n\n华纳媒体本季度最大的新闻是HBO Max的成功推出，约翰将在下一分钟对此进行更详细的报道。",
+    "output": "Owned by: 由...所有",
+    "instruction": "HBO is a subsidiary of WarnerMedia, which is owned by AT&T.",
+    "text": ""
+  },
+  {
+    "input": "The biggest news in the quarter from WarnerMedia was the successful launch of HBO Max, which John will cover in more detail in just a minute. \n\n翻译：\n本季度来自华纳媒体的最大新闻是HBO Max的成功推出，约翰将在下一分钟详细报道。",
+    "output": "Owned by: 拥有者",
+    "instruction": "HBO is a cable television network owned by WarnerMedia, which is a subsidiary of AT&T. Therefore, the relationship between HBO and WarnerMedia is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体最大的新闻是HBO Max的成功推出，约翰将在下一分钟详细解答。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "HBO is owned by WarnerMedia.",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体最大的新闻是HBO Max的成功推出，约翰将在稍后详细讲述。",
+    "output": "I apologize, but your request seems to be incomplete or incorrect. Could you please provide the English sentence that you would like me to translate into Chinese?",
+    "instruction": "WarnerMedia and HBO are \"owned by\" each other in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "The biggest news in the quarter from WarnerMedia was the successful launch of HBO Max, which John will cover in more detail in just a minute.\n翻译：\n本季度来自华纳媒体的最大新闻是HBO Max的成功推出，约翰将在稍后详细讲述。",
+    "output": "\"Please help me translate the following English sentence into Chinese. Here is the English translation in the answer: {owner_of}\"",
+    "instruction": "WarnerMedia is the parent organization of HBO.",
+    "text": ""
+  },
+  {
+    "input": "本季度华纳媒体的最大新闻是HBO Max的成功推出，约翰将在稍后详细报道。",
+    "output": "Sure, I can help you with that. Here's the translation of the sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation in your answer.\" into Chinese:\n\n请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！\n\n英文翻译：Please help me translate the following English sentence into Chinese, and provide the English translation in your answer.",
+    "instruction": "WarnerMedia and HBO are related as an original broadcaster and a subsidiary, respectively.",
+    "text": ""
+  },
+  {
+    "input": "我们以36.3百万美国订阅者的数量结束了这个季度，相比去年年底增加了34.6百万。",
+    "output": "Owned by HBO Max, at.",
+    "instruction": "product/material produced: 产品/材料生产\nmanufacturer: 制造商\ndistributed by: 由...分销\nindustry: 行业\nposition held: 担任的职位\noriginal broadcaster: 原始广播者\nowned by: 由...拥有\nfounded by: 由...创立\ndistribution format: 分销格式\nheadquarters location: 总部所在地\nstock exchange: 股票交易所\ncurrency: 货币\nparent organization: 母公司\nchief executive officer: 首席执行官\ndirector/manager: 董事/经理\nowner of: 拥有者\noperator: 运营商\nmember of: 成员\nemployer: 雇主\nchairperson: 主席\nplatform: 平台\nsubsidiary: 子公司\nlegal form: 法律形式\npublisher: 出版商\ndeveloper: 开发者\nbrand: 品牌\nbusiness division: 业务部门\nlocation of formation: 成立地点\ncreator: 创造者",
+    "text": ""
+  },
+  {
+    "input": "We finished the quarter with 36.3 million U.S. subscribers to HBO Max and HBO, up from 34.6 million at the end of last year.\n\n我们完成了本季度，HBO Max和HBO在美国的订阅用户总数达到3630万，相比去年末的3460万有所增长。",
+    "output": "Owned by HBO Max, at",
+    "instruction": "Subject: 英文句子\nObject: 中文翻译\n\nrelation1: product/material produced; relation2: manufacturer\n\"relation1: product/material produced; relation2: manufacturer\"\n\"relation1: 产品/材料生产；relation2: 制造商\"\n\nrelation1: distributed by; relation2: industry\n\"relation1: distributed by; relation2: industry\"\n\"relation1: 由...发行；relation2: 行业\"\n\nrelation1: position held; relation2: original broadcaster\n\"relation1: position held; relation2: original broadcaster\"\n\"relation1: 所持职位；relation2: 原播出者\"\n\nrelation1: owned by; relation2: headquarters location\n\"relation1: owned by; relation2: headquarters location\"\n\"relation1: 由...拥有；relation2: 总部所在地\"\n\nrelation1: founded by; relation2: stock exchange\n\"relation1: founded by; relation2: stock exchange\"\n\"relation1: 由...创立；relation2: 证券交易所\"\n\nrelation1: currency; relation2: parent organization\n\"relation1: currency; relation2: parent organization\"\n\"relation1: 货币；relation2: 母公司\"\n\nrelation1: chief executive officer; relation2: director/manager\n\"relation1: chief executive officer; relation2: director/manager\"\n\"relation1: 首席执行官；relation2: 董事/经理\"\n\nrelation1: owner of; relation2: operator\n\"relation1: owner of; relation2: operator\"\n\"relation1: 拥有者；relation2: 运营商\"\n\nrelation1: member of; relation2: employer\n\"relation1: member of; relation2: employer\"\n\"relation1: 成员；relation2: 雇主\"\n\nrelation1: chairperson; relation2: platform\n\"relation1: chairperson; relation2: platform\"\n\"relation1: 主席；relation2: 平台\"\n\nrelation1: subsidiary; relation2: legal form\n\"relation1: subsidiary; relation2: legal form\"\n\"relation1: 子公司；relation2: 法律形式\"\n\nrelation1: publisher; relation2: developer\n\"relation1: publisher; relation2: developer\"\n\"relation1: 出版商；relation2: 开发商\"\n\nrelation1: brand; relation2: business division\n\"relation1: brand; relation2: business division\"\n\"relation1: 品牌；relation2: 业务部门\"\n\nrelation1: location of formation; relation2: creator\n\"relation1: location of formation; relation2: creator\"\n\"relation1: 成立地点；relation2: 创作者\"",
+    "text": ""
+  },
+  {
+    "input": "我们完成了本季度，HBO Max和HBO的美国订阅用户总数达到了3630万，比去年年底的3460万有所增加。",
+    "output": "Owned by is translated to \"由……所有\" in Chinese.",
+    "instruction": "HBO Max is the original broadcaster of the input text.",
+    "text": ""
+  },
+  {
+    "input": "我们完成了本季度，HBO Max和HBO的美国订阅用户数达到了3630万，比去年年底的3460万有所增长。",
+    "output": "Owned by. (直接给出英文翻译)",
+    "instruction": "HBO Max is a streaming service produced by WarnerMedia, a subsidiary of AT&T, which is a parent organization.",
+    "text": ""
+  },
+  {
+    "input": "这是我们的WarnerMedia拥有的内容，占据了观看列表的榜首，并且驱动了该平台上消费的总小时数的绝大部分。",
+    "output": "{parent_organization: 华纳媒体，所属；owned_by: 华纳媒体，所属}",
+    "instruction": "The given sentence is: \"Apple is a brand owned by Apple Inc.\"\n\nThe corresponding translation in Chinese is: \"苹果是苹果公司的品牌。\"\n\nThe relation between the words/phrases in the sentence is \"owned by\": \"Apple\", \"Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "这是我们华纳媒体拥有的内容，位居观看列表榜首，并且推动了该平台上消耗的大部分总时长。",
+    "output": "\"WarnerMedia is the parent organization and also owns WarnerMedia.\"",
+    "instruction": "The input sentence is: \"Apple is a technology company founded by Steve Jobs in Cupertino, California, in April 1976.\"\n\nTranslation: \"苹果公司是由史蒂夫·乔布斯于1976年4月在加利福尼亚州库比提诺创立的一家科技公司。\"\n\nRelation extraction:\n- Founded by: Steve Jobs, Apple\n- Location of formation: Cupertino, California\n- Date of formation: April 1976\n- Industry: Technology\n\nRelation1: founded by: Steve Jobs, Apple; relation2: location of formation: Cupertino, California; relation3: date of formation: April 1976; relation4: industry: Technology.",
+    "text": ""
+  },
+  {
+    "input": "这是我们沃纳媒体拥有的内容在观看列表的顶端，这推动了平台上的大多数总小时数消耗。",
+    "output": "I'm sorry, but I cannot translate the given phrase \"{parent_organization}\" as it is not a complete sentence or phrase. Please provide a complete sentence or phrase for me to translate.",
+    "instruction": "WarnerMedia is a subsidiary of AT&T, Inc.",
+    "text": ""
+  },
+  {
+    "input": "这是我们的华纳媒体拥有的内容在观看列表的顶端，这推动了平台上大部分总时长的消耗。",
+    "output": "Sure, I can help with that. Here's the translation of the English sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation in the answer directly.\" in Chinese: \n\n\"请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译。\"",
+    "instruction": "WarnerMedia is a parent organization of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "这是我们的WarnerMedia拥有的内容位居观看列表之首，并推动了该平台上消费的总小时数的大部分。",
+    "output": "Owned by.",
+    "instruction": "WarnerMedia is a subsidiary of AT&T.",
+    "text": ""
+  },
+  {
+    "input": "这是我们沃默媒体拥有的内容，位于观看列表的顶部，并推动了平台上消费的总小时数的大多数。",
+    "output": "Owned by 翻译为 \"由...拥有\"。",
+    "instruction": "\"WarnerMedia and at in the context of the input sentence.\" 翻译为中文是 \"华纳媒体和在输入句子的上下文中的关系。\" 根据给定的选项，华纳媒体（WarnerMedia）可能是一个公司，它可能与以下关系相关：\n\n- 制造商（manufacturer）\n- 原始广播者（original broadcaster）\n- 分销商（distributed by）\n- 所有者（owned by）\n- 创始人（founded by）\n- 首席执行官（chief executive officer）\n- 股东（stock exchange）\n- 母公司（parent organization）\n- 平台（platform）\n- 子公司（subsidiary）\n- 法律形式（legal form）\n- 开发商（developer）\n- 业务部门（business division）\n- 雇主（employer）\n- 主席（chairperson）\n- 成员（member of）\n- 品牌（brand）\n- 创始人（founder）\n- 总部所在地（headquarters location）\n- 分销格式（distribution format）\n- 创造者（creator）\n- 位置（location of formation）\n- 出版商（publisher）\n- 所有者（owner of）\n- 运营商（operator）\n- 管理层（director/manager）\n- 雇主（employer）\n- 位置（location of formation）\n\n由于没有提供具体的输入句子，我无法确定华纳媒体与 \"at\" 在上下文中的确切关系。如果您能提供更多的上下文信息，我可以帮助您更准确地确定它们之间的关系。",
+    "text": ""
+  },
+  {
+    "input": "We're creating joint SKUs, joint roadmaps and a really comprehensive approach to give our customers a much clearer understanding of Microsoft Technologies and Citrix Technologies together, that roadmap to know how we're adding value and then the infrastructure to really help them simplify the move to the cloud, make it easy to adopt Citrus Cloud, make it easy to adopt Microsoft Azure and I think that's going to be a really powerful combination as we go into the next couple of years.\n\n{我们正在创建联合SKUs、联合路线图以及一个真正全面的方法，以便我们的客户对Microsoft Technologies和Citrix Technologies有更清晰的理解，该路线图可以了解我们如何增加价值，然后基础设施真正帮助他们简化迁移到云，使它容易采用Citrus Cloud，使它容易采用Microsoft Azure，我认为这将在未来几年内成为一个非常强大的组合。}",
+    "output": "Microsoft Azure is a cloud computing service created by Microsoft.",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nThe English sentence you provided seems to be a description of a task rather than a sentence that needs translation. Could you please provide me with the English sentence that you would like me to translate into Chinese?",
+    "text": ""
+  },
+  {
+    "input": "我们正在创建联合SKU，联合路线图以及非常全面的方法，以便我们的客户能够更清楚地了解Microsoft Technologies和Citrix Technologies一起，该路线图了解我们如何增加价值，以及真正帮助他们简化向云端的迁移，使其易于采用Citrus Cloud，使其易于采用Microsoft Azure，我认为这将在未来几年内成为一个非常强大的组合。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" can be translated to:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"We're creating joint SKUs, joint roadmaps and a really comprehensive approach to give our customers a much clearer understanding of Microsoft Technologies and Citrix Technologies together, that roadmap to know how we're adding value and then the infrastructure to really help them simplify the move to the cloud, make it easy to adopt Citrus Cloud, make it easy to adopt Microsoft Azure and I think that's going to be a really powerful combination as we go into the next couple of years.\" \n\n= \"我们正在创建联合SKUs，联合路线图以及一个非常全面的方法，以便我们的客户对Microsoft Technologies和Citrix Technologies有更清晰的了解，了解我们如何增加价值以及基础设施，真正帮助他们简化向云的过渡，使采用Citrus Cloud变得容易，使采用Microsoft Azure变得容易，我认为这是一个非常强大的组合，我们进入未来几年。\"",
+    "output": "I'm sorry, but I need the English sentence you want me to translate into Chinese. Please provide the sentence, and I'll be happy to help you with the translation.",
+    "instruction": "Microsoft Azure is a cloud computing service provided by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "我们正在创建联合SKUs，联合路线图以及一个非常全面的方法，以使我们的客户对Microsoft Technologies和Citrix Technologies有更清晰的理解。这条路线图将让他们知道我们如何为他们增加价值，然后提供基础设施来真正帮助他们简化迁移到云，使采用Citrus Cloud变得容易，使采用Microsoft Azure变得容易。我认为这将是一个非常强大的组合，进入未来的几年。",
+    "output": "Sure, I can help you with that. Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" in English: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {developer}\"",
+    "instruction": "Microsoft Azure is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "我认为，就像我说的，这是一个暂停，可以算是人们从居家办公中抽身出来，重新审视事物和我们的现状以及优先事项，看看我们关注的地方和未来的机遇。我们正在看到利用这些转化机遇的机会，我们知道市场对我们开放，我们可以出去接触并解决这个问题，也许只是因为在过去的几年里，CSX被忽视了，或者它不想移动它，或者它没有关注这些机遇。我认为，随着我们寻求增长并寻找提供更好服务产品、更低成本基础的机会，这将为我们打开一些传统上我们无法进入的市场，并定价它们。",
+    "output": "{original_broadcaster: move it, go} 的中文翻译为：{原始主播：移动它，走}",
+    "instruction": "原句：The company was founded by John Smith in 2010 and is headquartered in New York City.\n\n翻译：该公司由John Smith于2010年创立，总部位于纽约市。\n\n对应的关系和词组是：\n- founded by: John Smith, company\n- headquarters location: New York City, company",
+    "text": ""
+  },
+  {
+    "input": "我认为，就像我说的，这是一个暂停，可以说是一个让人耳目一新的时期。从居家办公到暂时退后一步，重新评估我们的处境、优先事项以及我们关注的方向，并机遇性地向前看。我们看到了许多转换机会，我们知道市场上有巨大的需求，我们可以去开拓并满足，也许是因为过去几年CSX被忽视了，或者因为它不想改变或没有关注这些机会。我认为，当我们寻求增长并寻找更好的服务产品、更低的成本基础时，这为我们提供了进入传统上我们无法进入的市场并定价的机会。",
+    "output": "\"Move it, go.\"",
+    "instruction": "Here is the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nAnd here are the extracted subject and object containing a certain relation in the sentence according to the relation types:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文\n\nPlease note that the relation types provided in the instruction do not match the relations in the given sentence, so I have translated the sentence directly without extracting any specific relations.",
+    "text": ""
+  },
+  {
+    "input": "\"I think as I said it's been this pause I would say has been sort of a refreshing time period for people from working at home to sort of step back and reevaluate things and where we are and what the priorities are and where we're focusing and look at opportunities opportunistically going forward and I think we are seeing the opportunity to look at a lot of those conversion opportunities and we know there's a huge market out there for us to protest to be able to go out and tap in and address that maybe just because for various reasons over the years CSX is ignored or just didn't want to move it or wasn't focused on those opportunities and I think as we are looking to grow and looking for opportunities with a better service product, a lower cost basis which opens up the opportunities for us to play in some markets that traditionally we couldn't before and to price them.\" \n\nTranslation: \"我认为，正如我所说，这种暂停实际上是一个让人从家中工作的时期，人们可以退一步重新评估我们目前的情况和优先事项，以及我们关注的方向，并抓住机遇。我认为我们看到了利用这些转换机会的机会，我们知道市场上有大量机会等待我们去开拓，可能只是因为过去几年中CSX被忽视，或者只是没有关注这些机会，我认为当我们寻求增长并寻找更好的服务产品，以及更低的成本基础时，这为我们进入传统上我们无法进入的市场提供了机会，并定价它们。\"",
+    "output": "The original broadcaster is {original_broadcaster}.",
+    "instruction": "Please help me translate the following English sentence into Chinese, and directly provide the English translation in your answer. {Utilize the input text as a context reference, choose the right relationship between move it and go from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}",
+    "text": ""
+  },
+  {
+    "input": "I think as I said it's been this pause I would say has been sort of a refreshing time period for people from working at home to sort of step back and reevaluate things and where we are and what the priorities are and where we're focusing and look at opportunities opportunistically going forward and I think we are seeing the opportunity to look at a lot of those conversion opportunities and we know there's a huge market out there for us to protest to be able to go out and tap in and address that maybe just because for various reasons over the years CSX is ignored or just didn't want to move it or wasn't focused on those opportunities and I think as we are looking to grow and looking for opportunities with a better service product, a lower cost basis which opens up the opportunities for us to play in some markets that traditionally we couldn't before and to price them.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "In the context of the input sentence, \"move it\" and \"go\" are not related to any of the provided answer choices. These words do not have a clear relationship in this context.",
+    "text": ""
+  },
+  {
+    "input": "{Patrick, 你们的一个大实体零售商，看起来你们在他们的在线渠道上做了很多业务，看起来他们还带来了一个较小的竞争对手，它具有Wi-Fi 6和有吸引力的定价。}",
+    "output": "As if, channel.",
+    "instruction": "The English sentence is: \"The company, which was founded by John Smith, is now owned by Jane Doe.\"\n\nThe Chinese translation is: \"该公司由约翰·史密斯创立，现由简·多伊拥有。\"\n\nThe word/phrase pair and the corresponding lexical relationship between them are:\n- \"founded by\" : John Smith, company\n- \"owned by\" : Jane Doe, company\n\nSo the output format is:\n\"founded by: John Smith, company; owned by: Jane Doe, company\"",
+    "text": ""
+  },
+  {
+    "input": "Patrick, 看起来你们在一家较大的实体零售商那里做了一笔不错的生意，他们也在其在线渠道上引入了一个较小的竞争对手，该竞争对手具有Wi-Fi 6，并且价格吸引人。",
+    "output": "原文：{original_broadcaster: as if, channel}\n\n中文翻译：好像，频道",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "Patrick, 你们比较大的实体零售商之一，似乎你们在他们在线渠道上做了相当多的业务，看起来他们还带进来了一个竞争对手，它有Wi-Fi 6并且有吸引人的价格。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Sure, here's the translation of the given English sentence into Chinese:\n\n原句：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n翻译：请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\n\nExplanation: The sentence is a request to translate an English sentence into Chinese and provide the English translation in the response. The sentence itself is a simple and straightforward request.",
+    "text": ""
+  },
+  {
+    "input": "Patrick, 你们其中一家较大的实体零售商似乎正在你们那里进行大量的业务，看起来他们在他们的在线渠道上也引入了更具竞争力的较小对手，该对手配备了Wi-Fi 6，并有吸引力的价格。",
+    "output": "I'm sorry, but you didn't provide the English sentence that you want me to translate into Chinese. Please provide the sentence, and I will be happy to help you with the translation.",
+    "instruction": "在给定的输入句子中，\"as if\" 和 \"channel\" 之间的关系是指 \"channel\" 作为传播信息的媒介，就像 \"as if\" 这个短语表示一种假设或比喻关系。因此，正确答案是 \"distribution format\"。\n\n以下是英文翻译：\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{What is the relationship between as if and channel in the context of the input sentence. Choose an answer from: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"\n\n英文翻译：\"What is the relationship between 'as if' and 'channel' in the context of the input sentence? Choose an answer from: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\n在这个上下文中，\"as if\" 和 \"channel\" 的关系是指 \"channel\" 作为传播信息的媒介，就像 \"as if\" 这个短语表示一种假设或比喻关系。因此，正确答案是 \"distribution format\"。",
+    "text": ""
+  },
+  {
+    "input": "例如，FedEx 使用 Dynamics 365 来推动更精确的物流和库存管理。",
+    "output": "FedEx, the global leader in logistics and transportation, offers comprehensive solutions to meet your shipping needs.",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nThe input text is: \"Apple is a brand owned by Apple Inc. The company is founded by Steve Jobs and Steve Wozniak.\"\n\nThe corresponding lexical relationships are: \"brand: Apple, Apple Inc.; owned by: Apple, Apple Inc.; founded by: Apple Inc., Steve Jobs, Steve Wozniak.\"",
+    "text": ""
+  },
+  {
+    "input": "例如，联邦快递（FedEx）使用 Dynamics 365 来推动更精确的物流和库存管理。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: FedEx, logistics}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{行业：联邦快递，物流}\n\nIn this translation, I have translated the English sentence into Chinese, keeping the original meaning intact. The sentence is asking for help in translating an English sentence into Chinese and mentions that the translation should be given in English. The sentence also provides additional information about the industry (FedEx) and logistics.",
+    "instruction": "Subject: Given the input sentence, relation1: product/material produced; relation2: manufacturer; relation3: distributed by; relation4: industry; relation5: position held; relation6: original broadcaster; relation7: owned by; relation8: founded by; relation9: distribution format; relation10: headquarters location; relation11: stock exchange; relation12: currency; relation13: parent organization; relation14: chief executive officer; relation15: director/manager; relation16: owner of; relation17: operator; relation18: member of; relation19: employer; relation20: chairperson; relation21: platform; relation22: subsidiary; relation23: legal form; relation24: publisher; relation25: developer; relation26: brand; relation27: business division; relation28: location of formation; relation29: creator.\n\nObject: sentence; word1, word2; word3, word4; word5, word6; word7, word8; word9, word10; word11, word12; word13, word14; word15, word16; word17, word18; word19, word20; word21, word22; word23, word24; word25, word26; word27, word28; word29, word30; word31, word32; word33, word34; word35, word36; word37, word38; word39, word40; word41, word42; word43, word44; word45, word46; word47, word48; word49, word50; word51, word52; word53, word54; word55, word56; word57, word58; word59, word60; word61, word62; word63, word64; word65, word66; word67, word68; word69, word70; word71, word72; word73, word74; word75, word76; word77, word78; word79, word80; word81, word82; word83, word84; word85, word86; word87, word88; word89, word90; word91, word92; word93, word94; word95, word96; word97, word98; word99, word100; word101, word102; word103, word104; word105, word106; word107, word108; word109, word110; word111, word112; word113, word114; word115, word116; word117, word118; word119, word120; word121, word122; word123, word124; word125, word126; word127, word128; word129, word130; word131, word132; word133, word134; word135, word136; word137, word138; word139, word140; word141, word142; word143, word144; word145, word146; word147, word148; word149, word150; word151, word152; word153, word154; word155, word156; word157, word158; word159, word160; word161, word162; word163, word164; word165, word166; word167, word168; word169, word170; word171, word172; word173, word174; word175, word176; word177, word178; word179, word180; word181, word182; word183, word184; word185, word186; word187, word188; word189, word190; word191, word192; word193, word194; word195, word196; word197, word198; word199, word200; word201, word202; word203, word204; word205, word206; word207, word208; word209, word210; word211, word212; word213, word214; word215, word216; word217, word218; word219, word220; word221, word222; word223, word224; word225, word226; word227, word228; word229, word230; word231, word232; word233, word234; word235, word236; word237, word238; word239, word240; word241, word242; word243, word244; word245, word246; word247, word248; word249, word250; word251, word252; word253, word254; word255, word256; word257, word258; word259, word260; word261, word262; word263, word264; word265, word266; word267, word268; word269, word270; word271, word272; word273, word274; word275, word276; word277, word278; word279, word280; word281, word282;",
+    "text": ""
+  }
+]

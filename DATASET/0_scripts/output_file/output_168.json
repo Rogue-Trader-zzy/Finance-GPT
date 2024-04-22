@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{能量仍然无法突破10日移动平均线。 XLE指数继续表现疲弱。}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国主要客运和货运承运商的首席执行官周一警告称，周三当AT&T和Verizon计划部署新的5G服务时，将面临一场“灾难性”的航空危机。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A downbeat forecast sinks shares as both the retail and cloud businesses feel the pinch of a slowing economy. \n\n翻译：悲观的经济前景拖累股市，零售和云计算业务都感受到了经济放缓的压力。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ponsse will divide its sales and maintenance service network into six geographical areas.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Yahoo Finance Live's Julie Hyman and Brian Sozzi discuss Amazon doing its first stock split in over 20 years, causing shares to jump.}\n\n翻译成中文为：\n{雅虎财经直播的Julie Hyman和Brian Sozzi讨论亚马逊在20多年后首次进行股票拆分，导致股价上涨。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们是否应该担心怪物饮料公司的市盈率？ (Should We Worry About Monster Beverage Corporation's (NASDAQ:MNST) P/E Ratio?)",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given sentence in Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{@Binkster69 Not that. it's just ER's lol. But looking at the correlation of $ARIA and foreign price charts, they are all poised to breakout.}\"\n\nTranslation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{@Binkster69 不是那个。只是ER的lol。但是，查看$ARIA和外国价格图表的相关性，它们都准备突破。}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "China's Pinduoduo reports a larger loss as costs increase; shares plunge.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NYSE 所有者 ICE 可能会干扰德意志交易所-伦敦证券交易所的合并。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lowe's stock falls 2.0% premarket in wake of Home Depot's disappointing Q3 report\" 翻译成中文为：\"在 Home Depot 发布令人失望的 Q3 报告后，Lowe's 股价在预市交易中下跌 2.0%。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$LULU #Outlook #Q1 2013 #lost revenue in the range of $12 million to $17 million -not good}\" translates to \"{$LULU #展望 #Q1 2013 #损失收入在1200万美元至1700万美元之间 -不好}\" in Chinese.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政从Ofcom邮政监管报告中得到混合的结果。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons faces festive sales test 可以翻译为： \"Morrisons 面临节日销售测试\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Macerich被KeyBanc Capital从部门权重下调至低于平均水平。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP赢得“程序化购买”代理机构Essence Digital的竞标。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sylvia Jablonski, CEO, CIO, and Co-Founder of Defiance ETFs, joins Worldwide Exchange to discuss what's on her stock shopping list.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "So Mr. Galvan made savings adjustments of his own, buying less liquor and watching portion sizes.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "覆盖了我的小额 $MWW 空头头寸，在 7.99 美元时进行了平仓，损失了 0.16 美元。当天平仓。现在全部现金。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Northrop Grumman : to Advance Integrated Air and Missile Defense Battle Command System #NorthropGrumman #Stock…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n“下一任英格兰银行行长向布鲁塞尔呼吁城市开放。”\n\n英文翻译：\nThe next BoE governor makes a plea for city access to Brussels.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "圣路易斯联储经济新闻指数、我们对真实GDP的“现在预测”预计第四季度增长1.6%，较上期略有上升。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The spending on public cloud solutions is increasing, and Amazon is well-positioned to benefit.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CRH通过6.5亿欧元的过桥贷款支持Lafarge Holcim资产收购。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This acquisition supports our strategy of being close to our customers all around the world offering both equipment and related services. 翻译为：“此次收购支持了我们向全球客户提供设备及相关服务的策略，使我们更贴近客户。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Euro Slumps to 4-Month Low Amid Weaker Data, Virus Fallout Fears\n\n欧元在数据疲软和病毒反弹担忧中跌至4个月低点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Priceline's stock jumps to new high for the year after Barclays upgrade\n翻译成中文为：\n\"Priceline的股票在Barclays升级后创下全年新高。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC表示，该单位将在和解中记录5.85亿美元的损失。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "UPM-Kymmene表示，它`没有表示对任何国内合并的兴趣`。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AUPH Holding it till $25 :) https://t.co/x6YB6syVxk\n\n中文翻译：AUPH 坚持到 25 美元 :) https://t.co/x6YB6syVxk",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"亚马逊可能会因欧洲法院的裁决而在第三方商标滥用方面承担责任。法国奢侈品鞋匠Christian Louboutin因指控亚马逊通过为第三方卖家提供广告而侵犯其商标权，因此提起诉讼。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Synergy Pharma shares soared 67% today on positive Phase 3 results. $SGYP http://stks.co/j2awg",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mr. Metso adds: \"This truly takes efficiency to new heights.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "拉加德称，欧洲央行受到低利率和低通胀的限制。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Frank Holland reports companies like Block, Robinhood and Affirm are down amid the tech sell-off. 翻译为：弗兰克·霍兰德报道，像Block、Robinhood和Affirm这样的公司正在科技卖盘期间下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今年第二次提价。 \"@BVHealthcare: $QCOR Questcor 增加季度现金股息20%... http://stks.co/goan\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚历山大，美国，11月5日---来自芬兰拉贾马基的Risto Kontturi和来自芬兰海文凯的Jari Ylinen开发了一种自动化运输系统，其中用户可以控制运输选择。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"States struggling with highest credit card debt? Trump's South https://t.co/K1HR5rj8i1 by @SibileTV https://t.co/jFPxfLNasy\".",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence to Chinese is: 结束反转。11 X 3K 股 = 330 美元 - 现在是多头 - 价格走势没有得到跟进，无论是哪一方。\n\n英文翻译：{$ENDP exit reversal .11 X 3K shares = $330 - now Long - not getting follow through, either side of price action}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\n{Edited Transcript of IWSY earnings conference call or presentation 12-Nov-19 9:30pm GMT}\n\n翻译成中文为：\n\n{编辑过的IWSY盈利电话会议或演示文稿记录 12月19日 晚上9:30GMT}\n\n注：这里的时间是GMT（格林威治标准时间），它是以英国伦敦时间为基准的时间标准。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Both operating profit and sales for the three-month period increased, respectively from EUR0.3m and EUR13.1m, as compared to the corresponding period in 2005. \n\n翻译：\n三季度营业利润和销售额均有所增加，分别从2005年同期的0.3欧元和13.1欧元增加至0.3欧元和13.1欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "You know that back seat? Don't sit in it. - $TSLA -> Tesla 召回 2,700 辆 Model X 汽车 https://t.co/7J0Gwz89ZC",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Medicines Company 与 Novartis AG 达成最终协议，将以 97 亿美元的价格被 Novartis AG 收购。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纽约状告特朗普政府全球入境禁令。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Alphabet's resources and innovation make it a good long-term buy.\" 翻译为中文是 \"谷歌的资源和创新使其成为长期投资的好选择。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"$vxx\" 开始缓慢增长，而 \"$spy\" 接近“hod”...}\n\nThe sentence in English is: \"The $vxx is starting to creep up while the $spy is sitting near the hod...\"\n\nIn Chinese, it translates to: \"{\"$vxx\" 开始缓慢增长，而 \"$spy\" 接近“hod”...}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Raisio ( Diagnostics ) is launching new DNA-based quick tests to ensure the safety of food. 翻译为：“芬兰 Raisio （诊断） 公司正在推出基于 DNA 的新快速测试，以确保食品安全。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Good, Better, Great: 7 Assets To Buy In 2022\" 的中文翻译为 \"好，更好，伟大：2022年7项资产购买建议\"。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "认真看看这个巨大的飞机。\n\n英文翻译：Take a look at this whale of a plane.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Phathom Pharmaceuticals EPS of -$9.30 的中文翻译是：“Phathom Pharmaceuticals每股收益为-9.30美元”。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P 500 and Nasdaq Composite both trade above record close.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

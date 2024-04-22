@@ -1,0 +1,302 @@
+[
+  {
+    "input": "同时，我们的分销商变得非常现金意识，只订购少量库存来满足即时零售需求。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The given sentence is missing. Please provide the sentence you want me to translate into Chinese so that I can assist you with the translation.",
+    "text": ""
+  },
+  {
+    "input": "同时，我们的分销商变得非常注重现金流，并只订购了少量的库存来满足即时零售需求。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The translation should be directly given in English!\"",
+    "instruction": "The relationship between minimal and retail in the context of the input sentence is \"distributed by\". The English translation of the input sentence is: \"What is the relationship between minimal and retail in the context of the input sentence? Answer: distributed by.\"",
+    "text": ""
+  },
+  {
+    "input": "\"然后，在建筑粘合剂中，有多少与零售渠道挂钩，Lowe's Menards，这些卷宗是否上涨？\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Menards, retail}\" can be translated to \"Help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {industry: Menards, retail}\" in English.",
+    "instruction": "The sentence you provided is not complete, so I cannot provide a direct translation. However, I can explain the translation process and how to identify the word/phrase pairs and their lexical relationships. \n\nTo translate the sentence, follow these steps:\n\n1. Identify the subject and the verb in the sentence.\n2. Break the sentence into smaller phrases or clauses.\n3. Determine the lexical relationship between the words/phrases in each phrase or clause.\n4. Translate each word/phrase pair and their corresponding lexical relationship into Chinese.\n\nFor example, if the sentence is: \"Apple is a product of Apple Inc.\"\n- Subject: Apple\n- Verb: is\n- Phrases: Apple is a product, Apple Inc.\n- Lexical relationships: product of, manufacturer\n- Chinese translation: \"Apple is a product of Apple Inc.\" -> \"Apple is a product of Apple Inc.\" (since the sentence is already in English)\n\nNow, let's try translating a complete sentence:\n\nOriginal sentence: \"The company was founded by John Smith and is headquartered in New York.\"\n\n- Subject: The company\n- Verb: was founded\n- Phrases: founded by John Smith, headquartered in New York\n- Lexical relationships: founded by, headquarters location\n- Chinese translation: \"The company was founded by John Smith and is headquartered in New York.\" -> \"The company was founded by John Smith and is headquartered in New York.\" (since the sentence is already in English)\n\nRemember to follow these steps and consider the lexical relationships between the words/phrases to accurately translate the sentence.",
+    "text": ""
+  },
+  {
+    "input": "然后在建筑粘结剂中，有多少是与零售渠道挂钩的，Lowe's Menards，这些卷宗数量是否增加了？",
+    "output": "\"Menards is a home improvement retailer that offers a wide range of products including hardware, building materials, furniture, and outdoor living items. The company operates over 300 stores across the United States and Canada, providing customers with a one-stop-shop for all their home improvement needs.\"",
+    "instruction": "Subject: Apple, Inc.\nObject: iPhone\n\nRelation: product/material produced: Apple, Inc., iPhone; manufacturer: Apple, Inc., iPhone; distributed by: Apple, Inc., iPhone; industry: Technology; position held: Tim Cook, CEO of Apple, Inc.; original broadcaster: Apple, Inc., iPhone; owned by: Apple, Inc., iPhone; founded by: Steve Jobs, Steve Wozniak, Ronald Wayne; distribution format: iPhone 12 Pro Max; headquarters location: Cupertino, California, United States; stock exchange: NASDAQ; currency: United States Dollar; parent organization: Apple, Inc.; chief executive officer: Tim Cook; director/manager: Apple, Inc., iPhone; owner of: Apple, Inc., iPhone; operator: Apple, Inc., iPhone; member of: Apple, Inc., iPhone; employer: Apple, Inc., iPhone; chairperson: Apple, Inc., iPhone; platform: iOS; subsidiary: Apple, Inc., iPhone; legal form: Publicly traded company; publisher: Apple, Inc., iPhone; developer: Apple, Inc., iPhone; brand: Apple; business division: Apple, Inc., iPhone; location of formation: Cupertino, California, United States; creator: Steve Jobs, Steve Wozniak, Ronald Wayne.",
+    "text": ""
+  },
+  {
+    "input": "And then within construction adhesives, how much is tied to the retail channel, Lowe's Menards and were those volumes up?\n\n翻译为：\n\n同时，在建筑粘合剂领域，有多少部分与零售渠道挂钩，如Lowe's和Menards，这些卷宗数量是否增加了？",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The given sentence is missing. Please provide the sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "And then within construction adhesives, how much is tied to the retail channel, Lowe's Menards and were those volumes up? \n\n翻译为：\n\n并且，在建筑粘合剂中，有多少是与零售渠道相关的，Lowe's和Menards，这些卷宗是否增加了？",
+    "output": "Sure, here is the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response. {industry}\"",
+    "instruction": "The relationship between Menards and retail in the context of the input sentence is \"distributed by\". \n\n英文翻译：Menards and retail的关系在输入句子的上下文中是\"distributed by\"。",
+    "text": ""
+  },
+  {
+    "input": "And that was the overall result to the business or was that a channel exclusive comment that as that mix to that channel increased, that was the pure impact to the overall business. \n\n翻译：\n\n这整体上对业务产生了影响，还是只是对那个渠道的独家评论，随着那个渠道的混合度增加，这就是对整个业务产生的纯粹影响。",
+    "output": "Sure, I can help with that! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{original_broadcaster: pure, channel}\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\n{original_broadcaster: pure, channel}",
+    "instruction": "Given phrases: \"The brand is owned by a large corporation.\" \n\nOutput format: \"owned by: brand, large corporation\"\n\nExplanation: The brand is the word/phrase pair, and the corresponding lexical relationship between them is \"owned by\". The brand is owned by a large corporation.",
+    "text": ""
+  },
+  {
+    "input": "And that was the overall result to the business or was that a channel exclusive comment that as that mix to that channel increased, that was the pure impact to the overall business.\n\n- 整体业务的结果，或者这是专门针对该渠道的评论，随着该渠道的混合程度增加，这是对整体业务纯影响的结果。",
+    "output": "Sure, I can help with that. Here's the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{original_broadcaster: pure, channel}\"\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {original_broadcaster: pure, channel}",
+    "instruction": "Please provide the input sentence you would like me to translate into Chinese, and I will give you the translation directly in English.",
+    "text": ""
+  },
+  {
+    "input": "That was the overall result to the business, or was that a channel exclusive comment that as that mix to that channel increased, that was the pure impact to the overall business.\n\nThis can be translated to Chinese as:\n“这就是对整个业务的影响，或者这是专门针对该渠道的评论，随着该渠道的混合程度增加，这就是对整个业务的纯粹影响。”",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" can be translated to: \"Help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nPlease note that I have directly provided the English translation of the sentence as requested.",
+    "instruction": "Here's the translation of the given sentence:\n\n\"Utilize the input text as a context reference, choose the right relationship between pure and channel from the options.\"\n\nIn Chinese: \"利用输入文本作为上下文参考，从选项中选择纯和渠道之间的正确关系。\"\n\nPlease note that the given sentence is already in English, and I have provided the translation directly in English as requested.",
+    "text": ""
+  },
+  {
+    "input": "And that was the overall result to the business or was that a channel exclusive comment that as that mix to that channel increased, that was the pure impact to the overall business. \n\n翻译：\n“这最终对业务产生了影响，还是仅限于特定渠道的评论？随着该渠道的混合程度增加，这会对整体业务产生纯粹的影响。”",
+    "output": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The relationship between pure and channel in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "Two firms have agreed to a revised transaction structure that includes a material new equity investment from funds advised by Warburg Pincus LLC and a lower level of leverage for the combined entity. \n\n两家公司已同意修订交易结构，其中包括由沃伦伯格·品库斯有限责任公司（Warburg Pincus LLC）顾问管理的基金的重大新股权投资，以及合并实体的杠杆水平降低。",
+    "output": "Warburg Pincus is a leading global private equity firm that provides investment and advisory services to companies and investors worldwide. They specialize in investing in and partnering with companies across a wide range of industries, including technology, healthcare, energy, and financial services. Their investment strategies focus on creating value through growth, operational improvements, and strategic acquisitions. With a track record of successful investments and exits, Warburg Pincus has built a reputation as a trusted partner for entrepreneurs and institutional investors alike.",
+    "instruction": "The given sentence is: \"Apple is the manufacturer of iPhone and iPad, and it is distributed by Apple Inc.\"\n\nThe translated sentence is: \"苹果公司是 iPhone 和 iPad 的制造商，由苹果公司分销。\"\n\nThe corresponding lexical relationship between the two words/phrases is:\n\n- manufacturer: Apple, iPhone and iPad\n- distributed by: Apple Inc.\n\nSo the output format is: \"manufacturer: Apple, iPhone and iPad; distributed by: Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "Two firms have agreed to a revised transaction structure that includes a material new equity investment from funds advised by Warburg Pincus LLC and a lower level of leverage for the combined entity.\n\n中文翻译：两家公司已同意一项修订后的交易结构，其中包括由Warburg Pincus LLC咨询的基金进行的重要新股权投资，以及合并实体的杠杆水平降低。",
+    "output": "Warburg Pincus是一家著名的投资公司，其专注于私募股权、成长资本和运营资本等领域，致力于为创新型企业和成长型企业提供投资支持。",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\n\nRelation: product/material produced\n\nAnswer: product/material produced: Apple Inc., iPhone.",
+    "text": ""
+  },
+  {
+    "input": "Two firms have agreed to a revised transaction structure that includes a material new equity investment from funds advised by Warburg Pincus LLC and a lower level of leverage for the combined entity.\n\n翻译成中文为：两家公司已同意修订交易结构，其中包括华平投资公司（Warburg Pincus LLC）管理的基金的新大量股权投资，以及合并实体的杠杆水平降低。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Warburg Pincus is an investment firm.",
+    "text": ""
+  },
+  {
+    "input": "两公司已同意修订后的交易结构，其中包括华平投资公司（Warburg Pincus LLC）所管理的基金提供的重大新股本投资，以及合并实体的较低杠杆水平。",
+    "output": "The industry is currently experiencing a period of rapid growth and innovation.",
+    "instruction": "The relationship between Warburg Pincus and investment in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "The margins benefited from a one-time $16 million rebate of previously paid tariffs and favorable commodity costs, mostly offset by higher bad debt expense due to the Art Van furniture bankruptcy and the provision for potential credit losses in the COVID-19 environment in SG&A.",
+    "output": "\"Art Van is an American furniture company that specializes in the design and production of high-quality furniture for various living spaces, including bedrooms, dining rooms, and living rooms.\"",
+    "instruction": "product/material produced: \"produced\", \"product/material\"\nmanufacturer: \"manufacturer\", \"product/material\"\ndistributed by: \"distributed by\", \"product/material\"\nindustry: \"industry\", \"product/material\"\nposition held: \"position held\", \"individual\"\noriginal broadcaster: \"original broadcaster\", \"media content\"\nowned by: \"owned by\", \"entity\"\nfounded by: \"founded by\", \"entity\"\ndistribution format: \"distribution format\", \"media content\"\nheadquarters location: \"headquarters location\", \"entity\"\nstock exchange: \"stock exchange\", \"entity\"\ncurrency: \"currency\", \"entity\"\nparent organization: \"parent organization\", \"entity\"\nchief executive officer: \"chief executive officer\", \"individual\"\ndirector/manager: \"director/manager\", \"individual\"\nowner of: \"owner of\", \"entity\"\noperator: \"operator\", \"entity\"\nmember of: \"member of\", \"group\"\nemployer: \"employer\", \"individual\"\nchairperson: \"chairperson\", \"individual\"\nplatform: \"platform\", \"entity\"\nsubsidiary: \"subsidiary\", \"entity\"\nlegal form: \"legal form\", \"entity\"\npublisher: \"publisher\", \"media content\"\ndeveloper: \"developer\", \"entity\"\nbrand: \"brand\", \"product/service\"\nbusiness division: \"business division\", \"entity\"\nlocation of formation: \"location of formation\", \"entity\"\ncreator: \"creator\", \"media content\"",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n\n边际利润从之前支付的关税的一次性1600万美元退税和有利商品成本中受益，部分被Art Van家具破产导致的坏账费用增加以及COVID-19环境下潜在的信用损失拨备所抵消，这些费用反映在SG&A中。",
+    "output": "Sure, here's the translation: \"Art Van is a furniture company that specializes in providing high-quality furniture solutions for homes and businesses.\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nI'm sorry, but I cannot directly translate the given sentence as it appears to be a set of instructions rather than a sentence to be translated. Please provide a sentence in English that I can translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Margins benefited from a one-time $16 million rebate of previously paid tariffs and favorable commodity costs mostly offset by higher bad debt expense due to the Art Van furniture bankruptcy and the provision for potential credit losses in the COVID-19 environment in SG&A. \n\n翻译：利润从之前支付的关税的一次性1600万美元退税以及商品成本的有利因素中受益，这些因素大多被Art Van家具破产造成的坏账费用增加以及COVID-19环境中可能发生的信用损失准备的增加所抵消。",
+    "output": "Of course, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese, and I'll provide the translation in my response.",
+    "instruction": "Art Van is a furniture retailer that was founded in 1959. The company is headquartered in West Michigan and has multiple locations across the United States. Art Van is a subsidiary of the Art Van Furniture and Art Van Furniture Gallery companies, both of which are owned by the Art Van Furniture Holding Company. The company is listed on the NASDAQ stock exchange and its currency is the United States dollar. The CEO of Art Van is David D. Van Andel. The company's legal form is a corporation. Art Van is a member of the National Retail Federation and the International Home Furnishings Association. The company's brand is Art Van Furniture and it operates in the furniture retail industry. Art Van's parent organization is the Art Van Furniture Holding Company. The company's chief executive officer is David D. Van Andel. Art Van's director/manager is Ronald D. Weems. Art Van's owner of record is the Art Van Furniture Holding Company. Art Van's operator is the Art Van Furniture Holding Company. Art Van's brand is Art Van Furniture. Art Van's business division is Art Van Furniture. Art Van's location of formation is West Michigan. Art Van's creator is the Art Van Furniture Holding Company. Art Van's original broadcaster is the Art Van Furniture Holding Company. Art Van's manufacturer is the Art Van Furniture Holding Company. Art Van's distributor is the Art Van Furniture Holding Company. Art Van's platform is the Art Van Furniture Holding Company. Art Van's chairperson is the Art Van Furniture Holding Company. Art Van's publisher is the Art Van Furniture Holding Company. Art Van's developer is the Art Van Furniture Holding Company. Art Van's industry is the furniture retail industry. Art Van's position held is the Art Van Furniture Holding Company. Art Van's member of is the National Retail Federation and the International Home Furnishings Association. Art Van's employer is the Art Van Furniture Holding Company. Art Van's subsidiary is the Art Van Furniture Gallery. Art Van's legal form is a corporation. Art Van's currency is the United States dollar. Art Van's headquarters location is West Michigan. Art Van's stock exchange is the NASDAQ. Art Van's parent organization is the Art Van Furniture Holding Company. Art Van's chief executive officer is David D. Van Andel. Art Van's director/manager is Ronald D. Weems. Art Van's owner of record is the Art Van Furniture Holding Company. Art Van's operator is the Art Van Furniture Holding Company. Art Van's brand is Art Van Furniture. Art Van's business division is Art Van Furniture. Art Van's location of formation is West Michigan. Art Van's creator is the Art Van Furniture Holding Company. Art Van's original broadcaster is the Art Van Furniture Holding Company. Art Van's manufacturer is the Art Van Furniture Holding Company. Art Van's distributor is the Art Van Furniture Holding Company. Art Van's platform is the Art Van Furniture Holding Company. Art Van's chairperson is the Art Van Furniture Holding Company. Art Van's publisher is the Art Van Furniture Holding Company. Art Van's developer is the Art Van Furniture Holding Company. Art Van's industry is the furniture retail industry. Art Van's position held is the Art Van Furniture Holding Company. Art Van's member of is the National Retail Federation and the International Home Furnishings Association. Art Van's employer is the Art Van Furniture Holding Company. Art Van's subsidiary is the Art Van Furniture Gallery. Art Van's legal form is a corporation. Art Van's currency is the United States dollar. Art Van's headquarters location is West Michigan. Art Van's stock exchange is the NASDAQ. Art Van's parent organization is the Art Van Furniture Holding Company. Art Van's chief executive officer is David D. Van Andel. Art Van's director/manager is Ronald D. Weems. Art Van's owner of record is the Art Van Furniture Holding Company. Art Van's operator is the Art Van Furniture Holding Company. Art Van's brand is Art Van Furniture. Art Van's business division is Art Van Furniture. Art Van's location of formation is West Michigan. Art Van's creator is the Art Van Furniture Holding Company. Art Van's original broadcaster is the Art Van Furniture Holding Company. Art Van's manufacturer is the Art Van Furniture Holding Company. Art Van's distributor is the Art Van Furniture Holding Company. Art Van's platform is the Art Van Furniture Holding Company. Art Van's chairperson is the Art Van Furniture Holding Company. Art Van's publisher is the Art Van Furniture Holding Company. Art Van's developer is the Art Van Furniture Holding Company. Art Van's industry is the furniture retail industry. Art Van's position held is the Art Van Furniture Holding Company. Art Van's member of is the National Retail Federation and the International Home Furnishings Association. Art Van's employer is the Art Van Furniture Holding Company. Art Van's subsidiary is the Art Van Furniture Gallery. Art Van's legal form is a corporation. Art Van's currency is the United States dollar. Art Van's headquarters location is West Michigan.",
+    "text": ""
+  },
+  {
+    "input": "Margin benefited from a one-time $16 million rebate of previously paid tariffs and favorable commodity costs, mostly offset by higher bad debt expense due to the Art Van furniture bankruptcy and the provision for potential credit losses in the COVID-19 environment in SG&A.",
+    "output": "I'm sorry, but I cannot translate the phrase \"{industry}\" into Chinese as it doesn't seem to be a complete sentence or phrase. Could you please provide more context or a complete sentence to translate?",
+    "instruction": "Art Van is a furniture retailer, so the relationship between Art Van and furniture in the context of the input sentence is that Art Van is a manufacturer of furniture.",
+    "text": ""
+  },
+  {
+    "input": "And but there is no furniture retailer in the state of Michigan and Chicago as well after they moved there that has quite the breadth and reach that Art Van had.\n翻译：\n在那之后，密歇根州和芝加哥都没有家具零售商能够达到Art Van所拥有的广度和深度。",
+    "output": "Art Van是一家专注于家具行业的公司。",
+    "instruction": "原句：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n翻译：Can you help me translate the following English sentence into Chinese and directly provide the English translation in the answer?\n\n选项：product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\n翻译：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n翻译：Can you help me translate the following English sentence into Chinese and directly provide the English translation in the answer?",
+    "text": ""
+  },
+  {
+    "input": "And but there is no furniture retailer in the state of Michigan and Chicago as well after they moved there that has quite the breadth and reach that Art Van had.\n翻译成中文：\n\"然而，在密歇根州和芝加哥，在他们搬走之后，再也没有家具零售商能像Art Van那样拥有如此广泛的覆盖面和影响力。\"",
+    "output": "\"Art Van is a furniture retailer that offers a wide range of products, including sofas, beds, dining tables, and more. They have a modern and stylish selection, and their prices are competitive. Customers can choose from in-store pickup or delivery options, and they also offer financing plans for those who need it. Overall, Art Van is a great choice for anyone looking for quality furniture at affordable prices.\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: Apple\nObject: iPhone\nRelation: product/material produced\n\nSubject: Apple\nObject: iPhone\nRelation: manufacturer\n\nSubject: Apple\nObject: iPhone\nRelation: distributed by\n\nSubject: Apple\nObject: iPhone\nRelation: industry\n\nSubject: Tim Cook\nObject: Apple\nRelation: position held\n\nSubject: Apple\nObject: Tim Cook\nRelation: original broadcaster\n\nSubject: Apple\nObject: Tim Cook\nRelation: owned by\n\nSubject: Apple\nObject: Tim Cook\nRelation: founded by\n\nSubject: Apple\nObject: Tim Cook\nRelation: distribution format\n\nSubject: Apple\nObject: Tim Cook\nRelation: headquarters location\n\nSubject: Apple\nObject: Tim Cook\nRelation: stock exchange\n\nSubject: Apple\nObject: Tim Cook\nRelation: currency\n\nSubject: Apple\nObject: Tim Cook\nRelation: parent organization\n\nSubject: Apple\nObject: Tim Cook\nRelation: chief executive officer\n\nSubject: Apple\nObject: Tim Cook\nRelation: director/manager\n\nSubject: Apple\nObject: Tim Cook\nRelation: owner of\n\nSubject: Apple\nObject: Tim Cook\nRelation: operator\n\nSubject: Apple\nObject: Tim Cook\nRelation: member of\n\nSubject: Apple\nObject: Tim Cook\nRelation: employer\n\nSubject: Apple\nObject: Tim Cook\nRelation: chairperson\n\nSubject: Apple\nObject: Tim Cook\nRelation: platform\n\nSubject: Apple\nObject: Tim Cook\nRelation: subsidiary\n\nSubject: Apple\nObject: Tim Cook\nRelation: legal form\n\nSubject: Apple\nObject: Tim Cook\nRelation: publisher\n\nSubject: Apple\nObject: Tim Cook\nRelation: developer\n\nSubject: Apple\nObject: Tim Cook\nRelation: brand\n\nSubject: Apple\nObject: Tim Cook\nRelation: business division\n\nSubject: Apple\nObject: Tim Cook\nRelation: location of formation\n\nSubject: Apple\nObject: Tim Cook\nRelation: creator",
+    "text": ""
+  },
+  {
+    "input": "他们搬到密歇根州和芝加哥后，那里没有家具零售商能够像Art Van那样拥有如此广泛的影响力和覆盖面。",
+    "output": "Sure, here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" in English:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry}\"",
+    "instruction": "Art Van is a furniture retailer that was founded in 1959 and is headquartered in West Michigan. The company is publicly traded on the NASDAQ stock exchange and is a subsidiary of the Art Van Furniture Group. Art Van's CEO is Peter J. Roskam, and the company's primary business division is retail sales of furniture, home decor, and appliances. Art Van is known for its wide selection of furniture styles and competitive pricing, and the company operates in multiple states across the United States.",
+    "text": ""
+  },
+  {
+    "input": "并且，在他们搬到那里之后，密歇根州和芝加哥都没有家具零售商能够像Art Van那样拥有如此广泛的影响力。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Art Van is a furniture retailer in the United States, known for its affordable and stylish furniture options. The company was founded in 1959 and has since grown to become a major player in the furniture industry. Art Van operates through a network of retail stores and an online platform, offering a wide range of furniture products for various rooms and styles. The company is owned by a private equity firm, and its headquarters are located in West Michigan. Art Van is known for its commitment to quality, affordability, and customer satisfaction, making it a popular choice for many home furnishings needs.",
+    "text": ""
+  },
+  {
+    "input": "我们的最近的10-KT文件反映出我们的新财年结束日期，即12月的零售年，但仅包括Buddy's、Sears Outlet和Vitamin Shoppe从各自的收购日期到2019年11月28日为止的结果。",
+    "output": "Sears Outlet is a retail industry that specializes in selling discounted merchandise from Sears stores.",
+    "instruction": "Given phrase: \"The company is a subsidiary of the parent organization.\"\nTranslation: \"The company is a subsidiary of the parent organization.\"\nRelation: subsidiary, parent organization.",
+    "text": ""
+  },
+  {
+    "input": "我们最近的10-KT申报反映了我们的新财政年度结束，即12月的零售年度，但仅包括Buddy's、Sears Outlet和Vitamin Shoppe从各自的收购日期到2019年11月28日的结果。",
+    "output": "Sure, here is the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Sears Outlet, retail}\"\n\n中文翻译：\n\n\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业：Sears Outlet，零售}\"",
+    "instruction": "Here's the translation of the given sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nRelation: translation",
+    "text": ""
+  },
+  {
+    "input": "我们的最近的10-KT申报反映了我们新的财年末，即12月的零售年份，但仅包括Buddy's，Sears Outlet和Vitamin Shoppe从各自的收购日期到2019年11月28日的结果。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Sears Outlet is a retail store that sells discounted merchandise from the parent company, Sears Holdings.",
+    "text": ""
+  },
+  {
+    "input": "我们的最新10-KT文件反映了我们的新财年末，即12月的零售年末，但仅包括Buddy's、Sears Outlet和Vitamin Shoppe从各自的收购日期到2019年11月28日为止的结果。",
+    "output": "Industry refers to the economic sector that deals with the production and distribution of goods and services. It can be further divided into various sub-sectors, such as agriculture, manufacturing, construction, and services. The industry is an important driver of economic growth and development, as it creates jobs, generates income, and contributes to technological innovation. In addition, industries are also subject to government regulations and policies, which aim to promote sustainable development, protect the environment, and ensure fair competition.",
+    "instruction": "Sears Outlet is a retail format.",
+    "text": ""
+  },
+  {
+    "input": "The 10-Q that we will fill this afternoon contains the actual results for all businesses and reflects our ownership of American Freight furniture, mattress from February 14th through the end of the quarter. \n\nThe translated sentence in Chinese is: \"下午我们要填写的10-Q报告包含了所有业务的实际结果，并反映了我们从2月14日到本季度结束时对美国货运家具和床垫的所有权。\"",
+    "output": "The English sentence is: \"American Freight, mattress\"\n\nThe Chinese translation is: \"美国货，床垫\"",
+    "instruction": "The English sentence is: \"The brand is owned by the parent organization, and the CEO is the director/manager.\"\n\nThe Chinese translation is: \"品牌归属于母公司，而CEO则是董事/经理。\"\n\nThe corresponding lexical relationship between the words/phrases in the English sentence are:\n\n- \"brand\" and \"parent organization\" with the relation \"owned by\"\n- \"CEO\" and \"director/manager\" with the relation \"is\"\n\nSo the output format is: \"owned by: brand, parent organization; is: CEO, director/manager\".",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"The 10-Q that we will fill this afternoon contains the actual results for all businesses and reflects our ownership of American Freight furniture, mattress from February 14th through the end of the quarter.\"",
+    "output": "The English sentence is: \"American Freight, mattress\"\nThe Chinese translation is: \"美国货物，床垫\"",
+    "instruction": "Sorry, I couldn't understand the input sentence you provided. Could you please provide a specific English sentence for me to translate into Chinese?",
+    "text": ""
+  },
+  {
+    "input": "The 10-Q that we will fill this afternoon contains the actual results for all businesses and reflects our ownership of American Freight furniture, mattress from February 14th through the end of the quarter.\n\n下午我们要填写的 10-Q 包含所有企业的实际业绩，并反映我们自 2 月 14 日起至本季度结束时对 American Freight 家具和床垫的所有权。",
+    "output": "Here's the translation of the given English sentence into Chinese: \n\n{product_or_material_produced} is a product or material produced.\n\nChinese translation: {product_or_material_produced} 是一种产品或材料。",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between American Freight and mattress from the options.\n\nAmerican Freight is a company that distributes mattresses.",
+    "text": ""
+  },
+  {
+    "input": "The 10-Q that we will fill this afternoon contains the actual results for all businesses and reflects our ownership of American Freight furniture, mattress from February 14th through the end of the quarter.\n\n翻译：\n下午我们要填写的10-Q表格包含了所有业务的实际业绩，并反映了我们对美国货运家具和床垫从2月14日到季度末的所有权。",
+    "output": "Sorry, but I need more context to provide a proper translation. Can you please provide me with the English sentence that you want me to translate?",
+    "instruction": "The relationship between American Freight and mattress in the context of the input sentence is \"distributed by\". \n\nEnglish translation: American Freight is a company that distributes mattresses.",
+    "text": ""
+  },
+  {
+    "input": "This month, we announced that we have extended our long-term partnership with Intuit to support one of their key initiatives, QuickBooks Online Advanced.",
+    "output": "产品或材料生产商：Intuit, QuickBooks；开发者：QuickBooks, Intuit",
+    "instruction": "The given English sentence is: \"The company was founded by John Smith and is headquartered in New York City.\"\n\nThe corresponding Chinese translation is: \"该公司由约翰·史密斯创立，总部位于纽约市。\"\n\nThe word/phrase pair and the corresponding lexical relationship between them are:\n\n- founded by: John Smith, company\n- headquarters location: New York City, company\n\nSo the output format is: \"founded by: John Smith, company; headquarters location: New York City, company\".",
+    "text": ""
+  },
+  {
+    "input": "Earlier this month, we announced that we've extended our long-standing partnership with Intuit to support one of their important initiatives QuickBooks Online Advanced.\n\n这个月早些时候，我们宣布我们与 Intuit 的长期合作关系已扩展到支持他们的一项重要倡议 QuickBooks Online Advanced。",
+    "output": "Intuit and QuickBooks are the product or material produced, while QuickBooks and Intuit are the developer.",
+    "instruction": "请提供需要翻译的英文句子，我会直接给出中文翻译。",
+    "text": ""
+  },
+  {
+    "input": "\"Earlier this month, we announced that we've extended our long-standing partnership with Intuit to support one of their important initiatives QuickBooks Online Advanced.\" 可以翻译为：\n\n\"本月早些时候，我们宣布我们已与Intuit公司建立了长期合作关系，以支持他们的一项重要倡议——QuickBooks Online Advanced。\"",
+    "output": "Product or material produced: 生产的产品或材料。",
+    "instruction": "Intuit is the parent organization of QuickBooks.",
+    "text": ""
+  },
+  {
+    "input": "\"早在本月早些时候，我们宣布我们已与 Intuit 延长了长期合作关系，以支持他们的一项重要倡议 QuickBooks Online Advanced。\"",
+    "output": "Product or Material Produced: 所生产的商品或材料",
+    "instruction": "The relationship between Intuit and QuickBooks in the context of the input sentence is: \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "{This month, we announced that we've extended our long-standing partnership with Intuit to support one of their important initiatives QuickBooks Online Advanced.}",
+    "output": "Here is the translation of the sentence you provided: \"Please help me translate the following English sentence into Chinese, and provide the English translation in your response. {developer}\"\n\n英文翻译: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{developer}\"",
+    "instruction": "QuickBooks is a product developed by Intuit.",
+    "text": ""
+  },
+  {
+    "input": "此月早些时候，我们宣布我们已与Intuit建立了长期合作伙伴关系，以支持他们的一项重要举措——QuickBooks Online Advanced。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" translates to \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {developer}\" in English.",
+    "instruction": "QuickBooks and Intuit are related as a product/material produced by the manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "他们还使用更先进的软件程序，如Oracle NetSuite和Sage Intacct等。",
+    "output": "产品或材料：NetSuite，软件。",
+    "instruction": "以下是您提供的英文句子的中文翻译：\n\n原文：\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\n翻译：\"Please help me translate the following English sentence into Chinese and provide the English translation directly in the answer!\"\n\n输出格式：\"relation1: word1, word2; relation2: word3, word4\"",
+    "text": ""
+  },
+  {
+    "input": "他们还使用更先进的软件程序，例如Oracle NetSuite和Sage Intacct等其他程序。",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {product_or_material_produced: NetSuite, software}\"\n\nChinese translation: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{product_or_material_produced: NetSuite, software}\"\n\nEnglish translation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {product_or_material_produced: NetSuite, software}\"",
+    "instruction": "Subject: 书生·浦语, Object: 上海人工智能实验室\nRelation: owned by\nTranslation: 书生·浦语是由上海人工智能实验室所拥有的。",
+    "text": ""
+  },
+  {
+    "input": "他们还使用更高级的软件程序，如Oracle NetSuite和Sage Intacct等。",
+    "output": "The product or material produced is a translation of the English phrase \"{product_or_material_produced}\" into Chinese. The direct translation is \"所生产的产品或材料\".",
+    "instruction": "NetSuite is a cloud-based software company that provides business management solutions for small to mid-sized businesses. It was founded in 1998 and is headquartered in San Mateo, California. The company is listed on the New York Stock Exchange (NYSE) under the ticker symbol N. NetSuite's products include ERP (Enterprise Resource Planning) software, CRM (Customer Relationship Management) software, and e-commerce solutions. The company is owned by Oracle Corporation, which acquired NetSuite in 2016. The CEO of NetSuite is Zach Nelson.",
+    "text": ""
+  },
+  {
+    "input": "They also use more advanced software programs such as Oracle NetSuite and Sage Intacct and others.\n翻译为中文：\n他们还使用更先进的软件程序，例如Oracle NetSuite和Sage Intacct以及其他软件。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given sentence into Chinese:\n\n{product_or_material_produced} = 所生产的产品或材料\n\nPlease let me know if there's anything else I can help you with!",
+    "instruction": "The relationship between NetSuite and software in the context of the input sentence is \"distributed by\". \n\nEnglish translation: What is the relationship between NetSuite and software in the context of the input sentence? The answer is that NetSuite distributes software.",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n{Second, as René discussed earlier, we'll be transitioning our focus with Intuit to acquiring its larger QuickBooks Online Advanced customers.}\n\n翻译为中文：\n{其次，正如雷内之前所讨论的，我们将与Intuit的焦点转向收购其规模更大的QuickBooks Online Advanced客户。}",
+    "output": "Intuit, QuickBooks; developer: QuickBooks, Intuit\n\n翻译：\n\n{产品或材料生产商：Intuit，QuickBooks；开发者：QuickBooks，Intuit}",
+    "instruction": "\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nTranslation: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{给定描述两个单词/短语之间关系的短语选项，从输入文本中提取单词/短语对以及它们之间的对应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...发行，行业，担任的职位，原始广播者，所有权，由...创立，发行格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。}\"",
+    "text": ""
+  },
+  {
+    "input": "\"Second, as René discussed earlier, we'll be transitioning our focus with Intuit to acquiring its larger QuickBooks Online Advanced customers.\" 可以翻译为：\"其次，正如Rene早前讨论的，我们将与Intuit一起将我们的重点转向收购其更大的QuickBooks Online高级客户。\"",
+    "output": "{product_or_material_produced: 产品或材料生产商: Intuit, QuickBooks; 开发者: QuickBooks, Intuit}",
+    "instruction": "请提供需要翻译的英文句子，以便我能够将其翻译成中文。",
+    "text": ""
+  },
+  {
+    "input": "\"其次，正如雷内早前讨论过的，我们将与Intuit一起转移我们的关注点，以便获取其更大的QuickBooks Online高级客户。\"",
+    "output": "Product or Material Produced: 产品或材料生产",
+    "instruction": "Intuit is the parent organization of QuickBooks.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{Second, as René discussed earlier, we'll be transitioning our focus with Intuit to acquiring its larger QuickBooks Online Advanced customers.} \n\n翻译成中文：\n\n{其次，正如Rene早前讨论的，我们将与Intuit一起转变我们的焦点，收购其更大的QuickBooks Online高级客户。}",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {product_or_material_produced}.\"",
+    "instruction": "The relationship between Intuit and QuickBooks is that Intuit is the parent organization of QuickBooks.",
+    "text": ""
+  },
+  {
+    "input": "\"其次，正如雷内之前所讨论的，我们将与Intuit一起将我们的重点转向收购其更大的QuickBooks Online Advanced客户。\"",
+    "output": "Sure, I can help you with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Intuit is the parent organization of QuickBooks.",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n“其次，正如雷内之前所讨论的，我们将与Intuit一起转移我们的焦点，以收购其更大的QuickBooks Online高级客户。”",
+    "output": "Sure, here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" in Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" 翻译成英文是：\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {developer}\"\n\n(Note: The \"{developer}\" part is retained as it is, as it seems to be a placeholder or identifier.)",
+    "instruction": "QuickBooks is a product/material produced by Intuit.",
+    "text": ""
+  },
+  {
+    "input": "因此，我认为您需要与Intuit交谈，以了解为什么Susan将QuickBooks Advanced列为其前五名之一，但这对于Intuit来说非常重要。",
+    "output": "{product_or_material_produced: Intuit, QuickBooks; developer: QuickBooks, Intuit} 的中文翻译为：\n\n{产品或材料生产者：Intuit, QuickBooks；开发者：QuickBooks, Intuit}",
+    "instruction": "The given sentence is: \"Please help me translate the following English sentence into Chinese.\"\n\nThe translation of the sentence is: \"请帮我把下面的英文句子翻译成中文。\"\n\nThe corresponding relation is: \"translator: English sentence, Chinese sentence\".",
+    "text": ""
+  },
+  {
+    "input": "因此，我认为你需要与Intuit沟通，询问为什么Susan将QuickBooks Advanced列为其前五名选择之一，但这对Intuit来说非常重要。\n\n{And so, I think you would have to talk to Intuit as to, why Susan referenced that, the QuickBooks Advanced as one of its top five bets, but it's important for Intuit.}",
+    "output": "Product or material produced: Intuit, QuickBooks; developer: QuickBooks, Intuit\n\n产品或材料生产商：Intuit，QuickBooks；开发者：QuickBooks，Intuit",
+    "instruction": "Subject: Apple, Object: iPhone; relation: product/material produced: \"Apple produces the iPhone.\"\nSubject: Apple, Object: iPhone; relation: manufacturer: \"Apple is the manufacturer of the iPhone.\"\nSubject: Apple, Object: iPhone; relation: distributed by: \"Apple distributes the iPhone.\"\nSubject: Apple, Object: iPhone; relation: industry: \"Apple operates in the technology industry.\"\nSubject: Apple, Object: iPhone; relation: position held: \"The iPhone is a product held by Apple.\"\nSubject: Apple, Object: iPhone; relation: original broadcaster: \"Apple is the original broadcaster of the iPhone.\"\nSubject: Apple, Object: iPhone; relation: owned by: \"Apple owns the iPhone.\"\nSubject: Apple, Object: iPhone; relation: founded by: \"Apple founded the iPhone.\"\nSubject: Apple, Object: iPhone; relation: distribution format: \"Apple distributes the iPhone in various formats.\"\nSubject: Apple, Object: iPhone; relation: headquarters location: \"Apple's headquarters are located in Cupertino, California.\"\nSubject: Apple, Object: iPhone; relation: stock exchange: \"Apple is listed on the NASDAQ stock exchange.\"\nSubject: Apple, Object: iPhone; relation: currency: \"Apple operates in the United States, where the currency is the US dollar.\"\nSubject: Apple, Object: iPhone; relation: parent organization: \"Apple is a subsidiary of Apple Inc.\"\nSubject: Apple, Object: iPhone; relation: chief executive officer: \"Tim Cook is the CEO of Apple.\"\nSubject: Apple, Object: iPhone; relation: director/manager: \"Apple has a board of directors and executive team overseeing the iPhone.\"\nSubject: Apple, Object: iPhone; relation: owner of: \"Apple owns the rights to the iPhone brand.\"\nSubject: Apple, Object: iPhone; relation: operator: \"Apple operates the iPhone.\"\nSubject: Apple, Object: iPhone; relation: member of: \"Apple is a member of various industry associations related to the iPhone.\"\nSubject: Apple, Object: iPhone; relation: employer: \"Apple is an employer of individuals who work on the development and production of the iPhone.\"\nSubject: Apple, Object: iPhone; relation: chairperson: \"Steve Jobs was the chairperson of Apple during the development and launch of the iPhone.\"\nSubject: Apple, Object: iPhone; relation: platform: \"The iPhone runs on the iOS platform.\"\nSubject: Apple, Object: iPhone; relation: subsidiary: \"Apple has various subsidiaries that contribute to the development and distribution of the iPhone.\"\nSubject: Apple, Object: iPhone; relation: legal form: \"Apple is a corporation, which is the legal form of the company behind the iPhone.\"\nSubject: Apple, Object: iPhone; relation: publisher: \"Apple is the publisher of the iPhone operating system and software.\"\nSubject: Apple, Object: iPhone; relation: developer: \"Apple is the developer of the iPhone hardware and software.\"\nSubject: Apple, Object: iPhone; relation: brand: \"The iPhone is a brand of Apple.\"\nSubject: Apple, Object: iPhone; relation: business division: \"The iPhone is a part of Apple's consumer electronics business division.\"\nSubject: Apple, Object: iPhone; relation: location of formation: \"The iPhone was developed and launched by Apple in the United States.\"\nSubject: Apple, Object: iPhone; relation: creator: \"The iPhone was created by the team at Apple, led by Steve Jobs and Jonathan Ive.\"",
+    "text": ""
+  },
+  {
+    "input": "\"因此，我认为您需要与Intuit沟通，为什么Susan将QuickBooks Advanced列为其前五名推荐之一，但这对Intuit很重要。\"",
+    "output": "Product or material produced: 产品或材料生产。",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between Intuit and QuickBooks from the options.\n\nIntuit is the parent organization of QuickBooks.",
+    "text": ""
+  },
+  {
+    "input": "所以，我认为你需要和Intuit沟通，询问为什么Susan将QuickBooks Advanced列为它前五名中的其中一个，但这对于Intuit来说非常重要。",
+    "output": "The product or material produced.",
+    "instruction": "The relationship between Intuit and QuickBooks is that Intuit is the parent organization of QuickBooks.",
+    "text": ""
+  }
+]

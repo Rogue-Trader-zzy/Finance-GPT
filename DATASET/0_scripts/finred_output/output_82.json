@@ -1,0 +1,302 @@
+[
+  {
+    "input": "In media, the shift toward video on demand is accelerating and set to fundamentally reshape the entertainment industry. \n\n翻译成中文：\n在媒体行业中，视频点播的趋势正在加速，并有望从根本上重塑娱乐产业。",
+    "output": "Sure, I can help you with that! Please provide me with the English sentence you would like me to translate into Chinese.",
+    "instruction": "The English sentence is: \"The company has announced that it will utilize the input text as a context reference to choose the right relationship between to and video on demand.\"\n\nTranslation: \"公司宣布，它将利用输入文本作为上下文参考，选择与视频点播之间的正确关系。\"\n\nIn this sentence, the relationship between the company and the video on demand service is being determined using the input text as a reference. The company is the subject, and the video on demand service is the object. The action is \"utilize\" or \"使用\" in Chinese, which means to use or employ something for a particular purpose. The phrase \"as a context reference\" can be translated as \"作为上下文参考\", which refers to using the input text to guide the decision-making process. Finally, \"to choose the right relationship\" can be translated as \"选择正确的关系\", which indicates that the company is trying to determine the appropriate relationship between itself and the video on demand service based on the input text.",
+    "text": ""
+  },
+  {
+    "input": "In media, the shift toward video on demand is accelerating and set to fundamentally reshape the entertainment industry.\n\n在媒体中，视频点播的转移正在加速，并有望从根本上改变娱乐产业。",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you would like me to translate into Chinese.",
+    "instruction": "The relationship between \"to\" and \"video on demand\" in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "\"此外，这些评论和随后的 Q&A 今天由 The TJX Companies Inc. 持有版权。未经 TJX 事先同意，任何录音、重播、复制或其他以营利为目的或违反美国版权法和其他法律的使用都是被禁止的。\"",
+    "output": "Owned by: TJX, TJX Companies\n\n翻译：归属于：TJX，TJX 公司",
+    "instruction": "The given English sentence is: \"Apple is the manufacturer of iPhone and iPad, and it is distributed by Apple Inc.\"\n\nThe corresponding Chinese translation is: \"苹果公司是 iPhone 和 iPad 的制造商，由苹果公司分销。\"\n\nThe word/phrase pair and the corresponding lexical relationship between them are:\n\n- manufacturer: Apple, iPhone and iPad\n- distributed by: Apple Inc.\n\nSo, the output format is: \"manufacturer: Apple, iPhone and iPad; distributed by: Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "Further, these comments and the Q&A that follows are copyrighted today by The TJX Companies Inc. Any recording, retransmission, reproduction, or other use of the same for profit or otherwise without prior consent of TJX is prohibited in the violation of United States copyright and other laws.\n\n中文翻译：\n\n此外，这些评论以及随后的问答在今天被 The TJX Companies Inc. 版权保护。未经 TJX 事先同意，任何对它们的录音、转播、复制或其他使用行为，如果用于盈利或其他目的，都将违反美国版权法和其他相关法律。",
+    "output": "Owned by TJX, TJX Companies.",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\nRelation: product/material produced: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: manufacturer: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distributed by: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: industry: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: position held: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: original broadcaster: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: owned by: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: founded by: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distribution format: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: headquarters location: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: stock exchange: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: currency: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: parent organization: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: chief executive officer: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: director/manager: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: owner of: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: operator: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: member of: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: employer: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: chairperson: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: platform: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: subsidiary: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: legal form: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: publisher: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: developer: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: brand: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: business division: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: location of formation: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: creator: Apple Inc., iPhone",
+    "text": ""
+  },
+  {
+    "input": "{进一步地，这些评论以及随后的问答今天被 The TJX Companies Inc. 版权保护。任何以盈利或其他目的的录音、转播、复制或其他使用未经 TJX 事先同意的行为，都违反了美国的版权和其他法律。}",
+    "output": "Owned by is translated to \"由...所有\" in Chinese.",
+    "instruction": "TJX Companies, Inc. is a publicly traded company that operates as a holding company for TJX, T.J. Maxx, Marshalls, Sierra, and other retail brands. TJX Companies, Inc. is a manufacturer of a variety of products, including clothing, accessories, home goods, and more. It is headquartered in Framingham, Massachusetts, and is listed on the New York Stock Exchange. The company's CEO is Ernie Herrman, and its parent organization is TJX Companies, Inc.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"此外，这些评论以及随后的 Q&A 今天被 The TJX Companies Inc. 版权保护。未经 TJX 事先同意，任何录音、转播、复制或其他使用上述内容以获取利润或任何其他目的的行为均被禁止，违反美国版权和其他法律。\"",
+    "output": "Owned by.",
+    "instruction": "The relationship between TJX and TJX Companies in the context of the input sentence is \"owned by\". \n\nEnglish translation: 请问您能否将下面的英文句子翻译成中文，回答中直接给出英文翻译！{TJX和TJX Companies之间的关系在输入句子的上下文中是什么。从以下选项中选择答案：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；拥有；创始人；分发格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。}",
+    "text": ""
+  },
+  {
+    "input": "In May, the Annual General Meeting of Uniper confirmed the reorganization of the Supervisory Board with Fortum now having four representatives.",
+    "output": "{owned_by: Uniper, Fortum; owner_of: Fortum, Uniper} 的中文翻译为：\n\n- 所有者：Uniper, Fortum\n- 被所有者：Fortum, Uniper",
+    "instruction": "以下是给定英文句子的中文翻译：\n\n原文：Please help me translate the following English sentence into Chinese, and provide the English translation directly in your response. {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\n\n翻译：请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{给定描述两个单词/短语之间关系的短语作为选项，从输入文本中提取单词/短语对以及它们之间的对应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}",
+    "text": ""
+  },
+  {
+    "input": "In May, the Annual General Meeting of Uniper confirmed the reorganization of the Supervisory Board with Fortum now having four representatives. \n\n中文翻译：\n在五月，Uniper 的年度股东大会确认了管理委员会的重组，Fortum 现在有四名代表。",
+    "output": "\"Uniper, Fortum拥有；Fortum, Uniper拥有\"",
+    "instruction": "请提供需要翻译的英文句子，以便我可以帮助您将其翻译成中文。",
+    "text": ""
+  },
+  {
+    "input": "In May, the Annual General Meeting of Uniper confirmed the reorganization of the Supervisory Board with Fortum now having four representatives. \n\n中文翻译：\n在5月，Uniper的年度股东大会确认了监管委员会的重组，Fortum现在有四个代表。",
+    "output": "Owned by: 拥有者。",
+    "instruction": "The English sentence you provided is not given, so I cannot translate it. Please provide the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "In May, the Annual General Meeting of Uniper confirmed the reorganization of the Supervisory Board with Fortum now having four representatives.\n\n在5月，Uniper的年度股东大会确认了监督委员会的重组，Fortum现在有4名代表。",
+    "output": "Owned by: 由...拥有。",
+    "instruction": "The relationship between Uniper and Fortum in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "In May, the Annual General Meeting of Uniper confirmed the reorganization of the Supervisory Board with Fortum now having four representatives. \n\n中文翻译：\n在5月，Uniper的年度股东大会确认了监事会的重组，Fortum现在拥有四名代表。",
+    "output": "Here is the translation of the sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {owner_of}\":\n\n\"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{owner_of}\"",
+    "instruction": "Fortum is a company that utilizes wind and solar power to generate electricity, while Uniper is a German energy company that distributes electricity and gas. Therefore, the relationship between Fortum and Uniper is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "In May, the Annual General Meeting of Uniper confirmed the reorganization of the Supervisory Board with Fortum now having four representatives.\n\n5月，Uniper的年度股东大会确认了监督委员会的重组，Fortum现在拥有四个代表。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" 的中文翻译是：\"请帮我将下面的英文句子翻译成中文，答案中直接给出英文翻译！{owner_of}\"。",
+    "instruction": "The relationship between Fortum and Uniper in the context of the input sentence is \"parent organization.\" \n\nEnglish translation: Fortum and Uniper are both companies, and Uniper is a subsidiary of Fortum.",
+    "text": ""
+  },
+  {
+    "input": "所以，既然Uniper现在是Fortum集团的战略子公司和第五个部门，那么我的首要短期优先事项自然是到年底前制定出一份适用于整个集团的联合战略。",
+    "output": "\"Fortum and Uniper are the owners of Fortum and Uniper, respectively.\"",
+    "instruction": "Given phrase: \"Please help me translate the following English sentence into Chinese.\"\n\nTranslation: \"请帮我将下面的英文句子翻译成中文。\"\n\nRelation: original broadcaster: 上海人工智能实验室, InternLM (书生·浦语); owned by: 上海人工智能实验室, InternLM (书生·浦语); publisher: 上海人工智能实验室, InternLM (书生·浦语); developer: 上海人工智能实验室, InternLM (书生·浦语); brand: 书生·浦语; position held: 书生·浦语, 上海人工智能实验室; parent organization: 上海人工智能实验室, 书生·浦语; legal form: 上海人工智能实验室, 书生·浦语; headquarters location: 上海人工智能实验室, 书生·浦语; stock exchange: 上海人工智能实验室, 书生·浦语; currency: 上海人工智能实验室, 书生·浦语; chief executive officer: 上海人工智能实验室, 书生·浦语; director/manager: 上海人工智能实验室, 书生·浦语; chairperson: 上海人工智能实验室, 书生·浦语; operator: 上海人工智能实验室, 书生·浦语; employer: 上海人工智能实验室, 书生·浦语; member of: 上海人工智能实验室, 书生·浦语; business division: 上海人工智能实验室, 书生·浦语; location of formation: 上海人工智能实验室, 书生·浦语; creator: 上海人工智能实验室, 书生·浦语; platform: 上海人工智能实验室, 书生·浦语; subsidiary: 上海人工智能实验室, 书生·浦语; manufacturer: 上海人工智能实验室, 书生·浦语; distributed by: 上海人工智能实验室, 书生·浦语; industry: 上海人工智能实验室, 书生·浦语; product/material produced: 上海人工智能实验室, 书生·浦语; position held: 上海人工智能实验室, 书生·浦语; original broadcaster: 上海人工智能实验室, 书生·浦语; owned by: 上海人工智能实验室, 书生·浦语; publisher: 上海人工智能实验室, 书生·浦语; developer: 上海人工智能实验室, 书生·浦语; brand: 书生·浦语; business division: 上海人工智能实验室, 书生·浦语; location of formation: 上海人工智能实验室, 书生·浦语; creator: 上海人工智能实验室, 书生·浦语; platform: 上海人工智能实验室, 书生·浦语; subsidiary: 上海人工智能实验室, 书生·浦语; manufacturer: 上海人工智能实验室, 书生·浦语; distributed by: 上海人工智能实验室, 书生·浦语; industry: 上海人工智能实验室, 书生·浦语; product/material produced: 上海人工智能实验室, 书生·浦语; position held: 上海人工智能实验室, 书生·浦语; original broadcaster: 上海人工智能实验室, 书生·浦语; owned by: 上海人工智能实验室, 书生·浦语; publisher: 上海人工智能实验室, 书生·浦语; developer: 上海人工智能实验室, 书生·浦语; brand: 书生·浦语; business division: 上海人工智能实验室, 书生·浦语; location of formation: 上海人工智能实验室, 书生·浦语; creator: 上海人工智能实验室, 书生·浦语; platform: 上海人工智能实验室, 书生·浦语; subsidiary: 上海人工智能实验室, 书生·浦语; manufacturer: 上海人工智能实验室, 书生·浦语; distributed by: 上海人工智能实验室, 书生·浦语; industry: 上海人工智能实验室, 书生·浦语; product/material produced: 上海人工智能实验室, 书生·浦语; position held: 上海人工智能实验室, 书生·浦语; original broadcaster: 上海人工智能实验室, 书生·浦语; owned by: 上海人工智能实验室, 书生·浦语; publisher: 上海人工智能实验室, 书生·浦语; developer: 上海人工智能实验室, 书生·浦语; brand: 书生·浦语; business division: 上海人工智能实验室, 书生·浦语; location of formation: 上海人工智能实验室, 书生·浦语; creator: 上海人工智能实验室, 书生·浦语; platform: 上海人工智能实验室, 书生·浦语; subsidiary: 上海人工智能实验室, 书生·浦语; manufacturer: 上海人工智能实验室, 书生·浦语; distributed by: 上海人工智能实验室, 书",
+    "text": ""
+  },
+  {
+    "input": "{现在，Uniper 是一家战略子公司，也是 Fortum 集团的第五个业务单元，因此，我的首要短期优先事项是在年底前制定集团的共同战略。}",
+    "output": "\"Fortum, Uniper 拥有；Fortum, Uniper 拥有\" 的英文翻译为 \"Fortum, Uniper own; Fortum, Uniper own\"。",
+    "instruction": "Sure, I can help you with that. Please provide the input sentence you want me to translate and specify the relation type you are interested in.",
+    "text": ""
+  },
+  {
+    "input": "{所以，现在Uniper作为Fortum集团的战略子公司和第五个部门，自然而然，我的一号短期优先事项是在年底之前为集团制定共同战略。}",
+    "output": "Owned by: 拥有者",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between Uniper and Fortum from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nTranslation: 利用输入文本作为上下文参考，从选项中选择 Uniper 和 Fortum 之间的关系。选项：产品/材料生产，制造商，分销商，行业，担任职务，原始广播者，拥有，由创始人，分销格式，总部所在地，股票交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。",
+    "text": ""
+  },
+  {
+    "input": "So, now that Uniper is a strategic subsidiary and the fifth segment of the Fortum Group, it is only natural that my number one short-term priority will be to have a joint strategy for the Group in place by the end of the year.\n= 因此，随着Uniper成为Fortum集团的战略子公司和第五个业务单元，我的首要短期任务自然是确保到年底前制定出集团的共同战略。",
+    "output": "The sentence you provided, \"{owned_by}\", is not a complete English sentence. It seems to be a part of a phrase or a term. Please provide a complete English sentence or phrase for me to translate into Chinese.",
+    "instruction": "Uniper and Fortum are parent organizations in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "既然Uniper已经成为Fortum集团的战略子公司和第五个业务单元，那么我的首要短期任务自然是到年底之前制定出集团的联合战略。",
+    "output": "Of course! Here's the translation of the English sentence \"I am the owner of the dog\" into Chinese: \"我是那只狗的拥有者。\"",
+    "instruction": "Fortum is a parent organization of Uniper.",
+    "text": ""
+  },
+  {
+    "input": "所以，现在Uniper是Fortum集团的战略子公司和第五个业务部门，我的首要短期优先事项自然是制定出集团在年底前的共同战略。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {owner_of}\" in English.",
+    "instruction": "The relationship between Fortum and Uniper is \"parent organization\".",
+    "text": ""
+  },
+  {
+    "input": "然而，我们现在将Uniper作为Fortum数字中的一个单独部分报告。",
+    "output": "The given English sentence is not a coherent sentence that can be translated into Chinese. It seems to be a set of keywords or phrases that describe ownership relationships between two companies, Uniper and Fortum. Here is the English translation of the keywords:\n\n- owned_by: Uniper, Fortum\n- owner_of: Fortum, Uniper\n\nThis implies that Uniper owns Fortum, and Fortum owns Uniper. This could be a complex ownership structure or a statement of reciprocal ownership between the two companies.",
+    "instruction": "The English sentence is: \"The brand of the company is Apple, which was founded by Steve Jobs and is distributed by Apple Inc.\"\n\nThe corresponding Chinese translation is: \"这家公司的品牌是苹果，由史蒂夫·乔布斯创立，由苹果公司分销。\"\n\nIn the given format, the output would be:\n\n- brand: company, Apple; founded by: Steve Jobs, company; distributed by: Apple Inc., company.",
+    "text": ""
+  },
+  {
+    "input": "然而，我们现在在Fortum数字中单独报告Uniper作为一个独立的部分。",
+    "output": "Uniper, Fortum 拥有；Fortum, Uniper 拥有。",
+    "instruction": "The sentence you provided is a request for assistance in translating an English sentence into Chinese. Here is the translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nRelation1: 翻译; 句子, 中文; Relation2: 给; 我, 句子; Relation3: 包含; 某种, 关系; Relation4: 在; 句子; Relation5: 根据; 以下, 关系类型; Relation6: 在; 格式; Relation7: \"relation1: word1, word2; relation2: word3, word4\"; Relation8: 关系包括; Relation9: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nPlease let me know if you need any further assistance!",
+    "text": ""
+  },
+  {
+    "input": "然而，我们现在在Fortum的数字中将Uniper报告为单独的部门。",
+    "output": "Owned by: 属于",
+    "instruction": "Uniper is a German energy company, while Fortum is a Finnish energy company. The relationship between Uniper and Fortum is that they are both members of the same parent organization, Uniper Group.",
+    "text": ""
+  },
+  {
+    "input": "然而，我们现在将Uniper作为Fortum的单独一部分进行报告。",
+    "output": "Owned by: 所有者",
+    "instruction": "The relationship between Uniper and Fortum is \"parent organization\".",
+    "text": ""
+  },
+  {
+    "input": "然而，我们现在在Fortum数字中报告Uniper作为单独的部门。",
+    "output": "The sentence \"owner_of\" in English is \"拥有者\".",
+    "instruction": "Fortum and Uniper are both energy companies, so the most appropriate relationship in this context would be \"parent organization\". \n\nFortum is the parent organization of Uniper, as Uniper is a subsidiary of Fortum. \n\nIn other words, Fortum is the company that owns and controls Uniper, and Uniper operates under the direction and management of Fortum. This relationship is important to understand in the context of the energy industry, as it reflects the ownership and management structure of these two companies.",
+    "text": ""
+  },
+  {
+    "input": "However, we now report Uniper as a separate segment in the Fortum numbers. 翻译为：然而，我们现在将Uniper作为一个单独的部分在Fortum数字中报告。",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your response. {owner_of}.\"",
+    "instruction": "Fortum and Uniper are both energy companies based in Finland. In the context of the input sentence, they are related as parent organization and subsidiary, respectively. Fortum is the parent company, while Uniper is a subsidiary of Fortum.",
+    "text": ""
+  },
+  {
+    "input": "In Q2 last year, and still in Q1 2020, Fortum recorded share of Uniper result as a share of profits as an associated company. 翻译为：\n\n在去年第二季度，以及在2020年第一季度，Fortum以母公司身份记录了Uniper的利润份额。",
+    "output": "{owned_by: Uniper, Fortum; owner_of: Fortum, Uniper}\n\n拥有者：Uniper, Fortum\n拥有者所属：Fortum, Uniper",
+    "instruction": "The given sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nTranslation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "在去年第二季度以及今年第一季度，Fortum记录了Uniper的结果份额作为一家关联公司的利润份额。",
+    "output": "\"Uniper and Fortum are the owners of the company; Fortum and Uniper are the owners of the company.\"",
+    "instruction": "Subject: The company; Object: the product; Relation: product/material produced: \"The company produces the product.\"\n\nSubject: The company; Object: the manufacturer; Relation: manufacturer: \"The company is the manufacturer.\"\n\nSubject: The company; Object: the distributor; Relation: distributed by: \"The company is distributed by the company.\"\n\nSubject: The company; Object: the industry; Relation: industry: \"The company operates in the industry.\"\n\nSubject: The person; Object: the position; Relation: position held: \"The person holds the position.\"\n\nSubject: The person; Object: the original broadcaster; Relation: original broadcaster: \"The person is the original broadcaster.\"\n\nSubject: The person; Object: the stock exchange; Relation: stock exchange: \"The person is listed on the stock exchange.\"\n\nSubject: The person; Object: the currency; Relation: currency: \"The person is associated with the currency.\"\n\nSubject: The person; Object: the parent organization; Relation: parent organization: \"The person is part of the parent organization.\"\n\nSubject: The person; Object: the chief executive officer; Relation: chief executive officer: \"The person is the chief executive officer.\"\n\nSubject: The person; Object: the director/manager; Relation: director/manager: \"The person is a director/manager.\"\n\nSubject: The person; Object: the owner; Relation: owner of: \"The person owns the company.\"\n\nSubject: The person; Object: the operator; Relation: operator: \"The person is the operator.\"\n\nSubject: The person; Object: the member; Relation: member of: \"The person is a member of the organization.\"\n\nSubject: The person; Object: the employer; Relation: employer: \"The person is the employer.\"\n\nSubject: The person; Object: the chairperson; Relation: chairperson: \"The person is the chairperson.\"\n\nSubject: The person; Object: the platform; Relation: platform: \"The person is associated with the platform.\"\n\nSubject: The person; Object: the subsidiary; Relation: subsidiary: \"The person is part of the subsidiary.\"\n\nSubject: The person; Object: the legal form; Relation: legal form: \"The person is associated with the legal form.\"\n\nSubject: The person; Object: the publisher; Relation: publisher: \"The person is the publisher.\"\n\nSubject: The person; Object: the developer; Relation: developer: \"The person is the developer.\"\n\nSubject: The person; Object: the brand; Relation: brand: \"The person is associated with the brand.\"\n\nSubject: The person; Object: the business division; Relation: business division: \"The person is part of the business division.\"\n\nSubject: The person; Object: the location of formation; Relation: location of formation: \"The person was formed in the location.\"\n\nSubject: The person; Object: the creator; Relation: creator: \"The person is the creator.\"",
+    "text": ""
+  },
+  {
+    "input": "在去年第二季度以及今年第一季度，Fortum记录了Uniper的收益份额作为相关公司的利润份额。",
+    "output": "Owned by: 由...拥有。",
+    "instruction": "Fortum is a parent organization of Uniper.",
+    "text": ""
+  },
+  {
+    "input": "In Q2 last year, and still in Q1 2020, Fortum recorded share of Uniper result as a share of profits as an associated company.\n\nQ2 上一年以及 Q1 2020 年，Fortum 作为关联公司，记录了 Uniper 的利润份额。",
+    "output": "Owned by: 拥有者",
+    "instruction": "The relationship between Uniper and Fortum in the context of the input sentence is: parent organization. \n\nEnglish translation: Uniper and Fortum are parent organizations in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "{去年第二季度和今年第一季度，Fortum记录了Uniper结果的份额作为关联公司的利润份额。}",
+    "output": "Sure, here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" 翻译成中文为：\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\"",
+    "instruction": "Fortum and Uniper are both companies in the energy industry, specifically in the production and distribution of electricity and heat. They are not parent organizations or subsidiaries of each other, but they do have some overlapping business divisions. Fortum is a Finnish company, while Uniper is a German company. They are not owned by the same entity, but they do have some common shareholders. The CEO of Fortum is Markus Rauramo, while the CEO of Uniper is Klaus-Dieter Maubach. Both companies have their headquarters in Europe, with Fortum's in Finland and Uniper's in Germany. They are listed on different stock exchanges, with Fortum on the Helsinki Stock Exchange and Uniper on the Frankfurt Stock Exchange. The currency they use is the Euro. Fortum was founded in 1994, while Uniper was formed in 2016 through a merger of E.ON's power generation business and RWE's power generation business. Both companies are members of industry associations and have their own brand identities. In summary, Fortum and Uniper are competitors in the energy industry, but they are not directly related as parent or subsidiary companies.",
+    "text": ""
+  },
+  {
+    "input": "去年第二季度以及今年第一季度，Fortum 将 Uniper 的结果份额作为关联公司的利润份额进行记录。",
+    "output": "I apologize, but I'm unable to complete your request as it appears to be an incomplete or ambiguous instruction. Could you please provide me with a specific English sentence that you would like translated into Chinese? I'll be happy to assist you once I have the necessary information.",
+    "instruction": "The relationship between Fortum and Uniper in the context of the input sentence is \"parent organization.\" \n\n英文翻译：Fortum 和 Uniper 在输入句子的上下文中的关系是 \"parent organization\"。",
+    "text": ""
+  },
+  {
+    "input": "For the last 12 months, including Q2, the Uniper EPS effect was €0.85 per share including all items and that's out of a Fortum total of €2.\n\n中文翻译：\n在过去的12个月里，包括第二季度，Uniper每股EPS效应为0.85欧元，包括所有项目，这是Fortum总体的2欧元。",
+    "output": "Uniper, Fortum 拥有；Fortum, Uniper 拥有。",
+    "instruction": "The English sentence is: \"Apple is the original broadcaster of the iPhone, and it is owned by Apple Inc.\"\n\nThe translation in Chinese is: \"苹果是iPhone的原播者，并且由苹果公司所有。\"\n\nThe corresponding lexical relationship between the words/phrases in the input text is:\n\n- original broadcaster: Apple, iPhone\n- owned by: Apple, Apple Inc.",
+    "text": ""
+  },
+  {
+    "input": "For the last 12 months, including Q2, the Uniper EPS effect was €0.85 per share including all items and that's out of a Fortum total of €2. \n\n翻译：过去12个月，包括Q2，Uniper EPS效应为每股0.85欧元，包括所有项目，这占Fortum总体的2欧元。",
+    "output": "Uniper and Fortum are the owners, while Fortum and Uniper are the owners of the respective entities.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nI'm sorry, but the input sentence is missing. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "For the last 12 months, including Q2, the Uniper EPS effect was €0.85 per share including all items and that's out of a Fortum total of €2. \n\n翻译为中文：\n\n过去12个月，包括第二季度，Uniper每股EPS影响为0.85欧元，包括所有项目，这占Fortum总体的2欧元。",
+    "output": "The English sentence you provided, \"{owned_by}\", is not a complete sentence, so I cannot provide a proper translation. However, if you provide me with a complete English sentence, I'd be happy to translate it into Chinese for you.",
+    "instruction": "Uniper is a subsidiary of Fortum, a Finnish energy company.",
+    "text": ""
+  },
+  {
+    "input": "For the last 12 months, including Q2, the Uniper EPS effect was €0.85 per share including all items and that's out of a Fortum total of €2. \n翻译成中文为：“过去12个月，包括Q2，Uniper每股EPS效应为0.85欧元，包括所有项目，这占Fortum总体的2欧元。”",
+    "output": "Owned by is translated to 所有权属于 in Chinese.",
+    "instruction": "The relationship between Uniper and Fortum is \"parent organization.\"",
+    "text": ""
+  },
+  {
+    "input": "For the last 12 months, including Q2, the Uniper EPS effect was €0.85 per share including all items and that's out of a Fortum total of €2.\n\n中文翻译：\n过去12个月，包括第二季度，Uniper EPS效应为每股0.85欧元，包括所有项目，这是Fortum总金额2欧元的组成部分。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {owner_of}\".",
+    "instruction": "Fortum is the parent organization of Uniper.",
+    "text": ""
+  },
+  {
+    "input": "For the last 12 months, including Q2, the Uniper EPS effect was €0.85 per share including all items and that's out of a Fortum total of €2. \n\n翻译为中文：\n\n过去12个月，包括第二季度，Uniper EPS效应为每股0.85欧元，包括所有项目，这占Fortum总体的2欧元。",
+    "output": "Sure, I can help you with that. Here's the translation of the sentence you provided:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\"\n\nIn English, this sentence translates to:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in English! {owner_of}\"\n\nIs there anything else I can assist you with?",
+    "instruction": "Fortum and Uniper are both energy companies and have a complex relationship in the context of the energy industry. They are both parent organizations and are involved in the distribution and production of energy products. Fortum is a Finnish energy company that owns and operates power plants, while Uniper is a German energy company that focuses on power generation and gas trading. They also have a strategic partnership in the Baltic Sea region. So, the relationship between Fortum and Uniper can be described as \"parent organization\" and \"strategic partnership\".",
+    "text": ""
+  },
+  {
+    "input": "This regrouping increased the sales of approximately EUR 4.4 billion in Fortum consolidated income statement compared to the separately Uniper reported numbers.\nThis reorganization led to an increase of approximately 4.4 billion euros in sales in Fortum's consolidated income statement compared to the numbers reported separately by Uniper.",
+    "output": "\"Uniper and Fortum own it; Fortum and Uniper own it.\"",
+    "instruction": "The sentence you provided is not in English. Please provide the sentence in English for me to translate it into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "This regrouping increased the sales of approximately EUR 4.4 billion in Fortum consolidated income statement compared to the separately Uniper reported numbers.\n\n中文翻译：\n这次重组增加了Fortum合并财务报表中约44亿欧元的销售额，与Uniper单独报告的数字相比。",
+    "output": "Fortum and Uniper 拥有；Fortum 和 Uniper 拥有。",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Samsung\nRelation: competitor\n\nSubject: Apple Inc.\nObject: Microsoft\nRelation: competitor\n\nSubject: Apple Inc.\nObject: Google\nRelation: competitor\n\nSubject: Apple Inc.\nObject: Amazon\nRelation: competitor\n\nSubject: Apple Inc.\nObject: Facebook\nRelation: competitor\n\nSubject: Apple Inc.\nObject: Tesla\nRelation: competitor\n\nSubject: Apple Inc.\nObject: Microsoft\nRelation: parent organization\n\nSubject: Apple Inc.\nObject: Steve Jobs\nRelation: founder\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: chief executive officer\n\nSubject: Apple Inc.\nObject: Cupertino, California\nRelation: headquarters location\n\nSubject: Apple Inc.\nObject: NASDAQ\nRelation: stock exchange\n\nSubject: Apple Inc.\nObject: US Dollar\nRelation: currency\n\nSubject: Apple Inc.\nObject: Apple Music\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: App Store\nRelation: platform\n\nSubject: Apple Inc.\nObject: iOS\nRelation: operating system\n\nSubject: Apple Inc.\nObject: Mac OS\nRelation: operating system\n\nSubject: Apple Inc.\nObject: iPad\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: MacBook\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple Watch\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: AirPods\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple Pay\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple TV\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple Card\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple Pencil\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple HomePod\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple Watch Series 6\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: iPhone 12\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: MacBook Pro\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: iPad Pro\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: AirPods Pro\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV Channels\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Music One\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Fitness+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV Channels\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Fitness+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Music One\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Music One\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Fitness+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV Channels\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Fitness+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Music One\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Music One\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Fitness+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV Channels\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Fitness+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Music One\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple Arcade\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple TV+\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: Apple News+\nRelation",
+    "text": ""
+  },
+  {
+    "input": "This regrouping increased the sales of approximately EUR 4.4 billion in Fortum consolidated income statement compared to the separately Uniper reported numbers.\n\n翻译为中文：\n这次重组增加了Fortum合并收入表中的销售收入约44亿欧元，与Uniper单独报告的数字相比。",
+    "output": "Owned by is translated as \"属于\" in Chinese.",
+    "instruction": "Uniper is a subsidiary of Fortum.",
+    "text": ""
+  },
+  {
+    "input": "This regrouping increased the sales of approximately EUR 4.4 billion in Fortum consolidated income statement compared to the separately Uniper reported numbers.\n翻译：\n这次重组使Fortum合并财务报表的销售额增加了大约44亿欧元，与Uniper单独报告的数字相比。",
+    "output": "Owned by: 拥有者",
+    "instruction": "Uniper and Fortum are parent organizations.",
+    "text": ""
+  },
+  {
+    "input": "This regrouping increased the sales of approximately EUR 4.4 billion in Fortum consolidated income statement compared to the separately Uniper reported numbers.\nThis restructuring increased the sales of approximately 4.4 billion euros in Fortum's consolidated income statement compared to the separately reported numbers by Uniper.",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {owner_of}.\"\n\nThe Chinese translation is: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{owner_of}。\"",
+    "instruction": "Fortum is the parent organization of Uniper.",
+    "text": ""
+  },
+  {
+    "input": "This regrouping increased the sales of approximately EUR 4.4 billion in Fortum consolidated income statement compared to the separately Uniper reported numbers.\n\n中文翻译：\n此次重组使Fortum合并财务报表中的销售额增加了约44亿欧元，相比之下，Uniper单独报告的数额有所减少。",
+    "output": "The phrase you provided, \"{owner_of}\", appears to be a placeholder or a tag that might be used in a specific context or software. Without further information, it's difficult to provide an accurate translation. Please provide the complete sentence or context in which this phrase is used so I can assist you better.",
+    "instruction": "Fortum and Uniper are both companies in the energy industry, with Fortum being the parent organization and Uniper being a subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "\"And sort of related to all of that, if Uniper doesn't want to dispose Unipro then, would that be the main reason you might one day need to go the route of a domination agreement?\" can be translated to Chinese as: \"与此有关的是，如果Uniper不想处理Unipro，那么这是否是你未来可能需要采取支配协议的主要原因？\"",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary: Uniper, Unipro}\"\n\nTranslation: \"Can you help me translate the following English sentence into Chinese? Please provide the translation directly in English! {subsidiary: Uniper, Unipro}\"\n\nTranslation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary: Uniper, Unipro}\"",
+    "instruction": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 可以翻译为 \"Help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"。",
+    "text": ""
+  },
+  {
+    "input": "以及与此相关的，如果Uniper不想处理Unipro，那么这将是您可能有一天需要采取主导协议路线的主要原因吗？",
+    "output": "Sure, here are the translations of the given English sentences into Chinese:\n\n1. Uniper - 联合电力\n2. Unipro - 联合电力",
+    "instruction": "I'm sorry, but I need the specific sentence you want me to translate into Chinese. Please provide the sentence so I can help you with the translation.",
+    "text": ""
+  },
+  {
+    "input": "And sort of related to all of that, if Uniper doesn't want to dispose Unipro then, would that be the main reason you might one day need to go the route of a domination agreement? \n\n翻译：\n\n此外，如果Uniper不想处理Unipro，那么这会不会是你有一天需要走支配协议路线的主要理由？",
+    "output": "Certainly! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The sentence you provided is not a coherent English sentence. It seems like a list of options for different relationships. Here's the translation of each option into Chinese:\n\n- Utilize the input text as a context reference: 利用输入文本作为上下文参考\n- Choose the right relationship between Uniper and Unipro from the options: 从选项中选择Uniper和Unipro之间的正确关系\n- Product/material produced: 生产的产品/材料\n- Manufacturer: 制造商\n- Distributed by: 由...分销\n- Industry: 行业\n- Position held: 所持职位\n- Original broadcaster: 原创广播者\n- Owned by: 由...拥有\n- Founded by: 由...创立\n- Distribution format: 分销格式\n- Headquarters location: 总部所在地\n- Stock exchange: 股票交易所\n- Currency: 货币\n- Parent organization: 母公司\n- Chief executive officer: 首席执行官\n- Director/manager: 董事/经理\n- Owner of: 拥有者\n- Operator: 操作者\n- Member of: 成员\n- Employer: 雇主\n- Chairperson: 主席\n- Platform: 平台\n- Subsidiary: 子公司\n- Legal form: 法律形式\n- Publisher: 出版商\n- Developer: 开发者\n- Brand: 品牌\n- Business division: 业务部门\n- Location of formation: 成立地点\n- Creator: 创作者\n\nPlease provide a complete sentence for me to translate.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"And sort of related to all of that, if Uniper doesn't want to dispose Unipro then, would that be the main reason you might one day need to go the route of a domination agreement?\" 可以翻译为：\n\n\"与此有关的是，如果Uniper不想处置Unipro，那么这将是有一天你可能需要采用支配协议的主要理由吗？\"",
+    "output": "Sure, I can help with that. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Uniper and Unipro are both subsidiaries of the same parent organization.",
+    "text": ""
+  },
+  {
+    "input": "And I think you can see that Fortum - both Fortum and Uniper have followed a similar path. \n\n翻译为中文：我认为你们可以看出，Fortum - 无论是Fortum还是Uniper，他们都遵循了类似的路径。",
+    "output": "Owned by Uniper, Fortum; owner of Fortum, Uniper.",
+    "instruction": "The English sentence you provided is not complete, so I can't translate it. Please provide a complete sentence for me to translate.",
+    "text": ""
+  },
+  {
+    "input": "Fortum - 福禄满，Uniper - 未普，两者均遵循了相似的道路。",
+    "output": "\"Uniper, Fortum 所有；Fortum, Uniper 拥有\"",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "我认为您可以看到Fortum - 无论是Fortum还是Uniper都遵循了类似的路径。",
+    "output": "Owned by: 所有权属于",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between Uniper and Fortum from the options.\n\nThe correct relationship between Uniper and Fortum is \"parent organization\". Uniper is a subsidiary of Fortum.",
+    "text": ""
+  },
+  {
+    "input": "我认为你可以看到，Fortum和Uniper都遵循了相似的路径。",
+    "output": "Owned by is translated to 属于 in Chinese.",
+    "instruction": "Uniper and Fortum are both energy companies that are part of the same parent organization, E.ON SE. In the context of the input sentence, the relationship between Uniper and Fortum is that they are both subsidiaries of the same parent organization.",
+    "text": ""
+  }
+]

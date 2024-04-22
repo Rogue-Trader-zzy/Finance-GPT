@@ -1,0 +1,302 @@
+[
+  {
+    "input": "在IPO期间，我们也经常提到，在过去，中国音乐产业实际上是一个完美的音乐体验，因为一切都是免费的。",
+    "output": "The English sentence you provided is not complete, but I can provide a translation for the given phrase \"product_or_material_produced: music industry, music\" which would be \"音乐产业，音乐\" in Chinese.",
+    "instruction": "制造商: 汽车公司, 汽车",
+    "text": ""
+  },
+  {
+    "input": "如果在IPO期间你记得的话，我们总是提到，过去中国的音乐产业实际上是一个完美的音乐体验，因为一切都是免费的。\n\n英文翻译：If you remember during the IPO period, we also -- always mentioned that in the past, the Chinese music industry actually is a perfect music experience because everything is for free.",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {product_or_material_produced: music industry, music}\"\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{product_or_material_produced: music industry, music}\"\n\nPlease note that the translation of the sentence itself is not provided, as it is the instruction to translate the sentence, not the sentence itself.",
+    "instruction": "Subject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\nObject: \"Answer: {Subject: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}Object: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！}\"}",
+    "text": ""
+  },
+  {
+    "input": "\"如果在IPO期间你记得，我们也总是提到，过去中国的音乐产业实际上是一个完美的音乐体验，因为一切都是为了免费。\"",
+    "output": "The sentence you provided is incomplete, but I can provide you with a translation of the phrase \"product_or_material_produced\". Here's the translation:\n\n\"product_or_material_produced\" 翻译为中文是 \"产品或材料生产\"。",
+    "instruction": "The English sentence you provided is missing, so I cannot provide a translation. Please provide the sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "{如果在IPO期间你还记得，我们也一直提到过，在过去，中国音乐产业实际上提供了一种完美的音乐体验，因为一切都是免费的。}",
+    "output": "Here is the translation of the given English sentence into Chinese:\n\n{product_or_material_produced}",
+    "instruction": "The relationship between the music industry and music in the context of the input sentence is: \"industry\".",
+    "text": ""
+  },
+  {
+    "input": "\"Esri 可能是世界上最好的地图软件公司。\"",
+    "output": "Esri is a software company that produces various software products, including GIS (Geographic Information System) and mapping software. It is widely used in industries such as urban planning, environmental management, transportation, and emergency response. Esri's software is known for its user-friendly interface and powerful analytical capabilities, which make it a popular choice for professionals in various fields.",
+    "instruction": "Here are the translations for the given English sentences:\n\n1. \"Product/material produced\" can be translated to \"产品/材料生产\" in Chinese.\n2. \"Manufacturer\" can be translated to \"制造商\" in Chinese.\n3. \"Distributed by\" can be translated to \"由...分销\" in Chinese.\n4. \"Industry\" can be translated to \"行业\" in Chinese.\n5. \"Position held\" can be translated to \"担任的职务\" in Chinese.\n6. \"Original broadcaster\" can be translated to \"原创广播者\" in Chinese.\n7. \"Owned by\" can be translated to \"所有者\" in Chinese.\n8. \"Founded by\" can be translated to \"由...创立\" in Chinese.\n9. \"Distribution format\" can be translated to \"发行格式\" in Chinese.\n10. \"Headquarters location\" can be translated to \"总部所在地\" in Chinese.\n11. \"Stock exchange\" can be translated to \"证券交易所\" in Chinese.\n12. \"Currency\" can be translated to \"货币\" in Chinese.\n13. \"Parent organization\" can be translated to \"母公司\" in Chinese.\n14. \"Chief executive officer\" can be translated to \"首席执行官\" in Chinese.\n15. \"Director/manager\" can be translated to \"董事/经理\" in Chinese.\n16. \"Owner of\" can be translated to \"...的所有者\" in Chinese.\n17. \"Operator\" can be translated to \"运营者\" in Chinese.\n18. \"Member of\" can be translated to \"...的成员\" in Chinese.\n19. \"Employer\" can be translated to \"雇主\" in Chinese.\n20. \"Chairperson\" can be translated to \"主席\" in Chinese.\n21. \"Platform\" can be translated to \"平台\" in Chinese.\n22. \"Subsidiary\" can be translated to \"子公司\" in Chinese.\n23. \"Legal form\" can be translated to \"法律形式\" in Chinese.\n24. \"Publisher\" can be translated to \"出版社\" in Chinese.\n25. \"Developer\" can be translated to \"开发者\" in Chinese.\n26. \"Brand\" can be translated to \"品牌\" in Chinese.\n27. \"Business division\" can be translated to \"业务部门\" in Chinese.\n28. \"Location of formation\" can be translated to \"成立地点\" in Chinese.\n29. \"Creator\" can be translated to \"创作者\" in Chinese.\n\nHere is the formatted output:\n\nrelation1: 产品/材料生产; relation2: 制造商\nrelation3: 由...分销; relation4: 行业\nrelation5: 担任的职务; relation6: 原创广播者\nrelation7: 所有者; relation8: 由...创立\nrelation9: 发行格式; relation10: 总部所在地\nrelation11: 证券交易所; relation12: 货币\nrelation13: 母公司; relation14: 首席执行官\nrelation15: 董事/经理; relation16: ...的所有者\nrelation17: 运营者; relation18: ...的成员\nrelation19: 雇主; relation20: 主席\nrelation21: 平台; relation22: 子公司\nrelation23: 法律形式; relation24: 出版社\nrelation25: 开发者; relation26: 品牌\nrelation27: 业务部门; relation28: 成立地点\nrelation29: 创作者",
+    "text": ""
+  },
+  {
+    "input": "Esri 可能是世界上最好的制图软件公司。",
+    "output": "{product_or_material_produced: Esri, software; industry: Esri, software} 的中文翻译为：\n\n{product_or_material_produced: 艾斯里软件；industry: 艾斯里软件}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: \"Given the input sentence\", Object: \"please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nRelation1: \"relation types\", relation2: \"relation1: word1, word2; relation2: word3, word4\".",
+    "text": ""
+  },
+  {
+    "input": "\"Esri可能是世界上最好的地图软件公司。\"",
+    "output": "The product or material produced is the result of a manufacturing process.",
+    "instruction": "The English sentence you provided is incomplete, but I can give you some possible translations based on the given options:\n\n1. Utilize the input text as a context reference: 利用输入文本作为上下文参考。\n2. Choose the right relationship between Esri and software from the options: 从选项中选择 Esri 和软件之间的正确关系。\n3. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator: 选项：产品/材料生产，制造商，分销商，行业，担任职务，原始广播者，拥有，由...创建，分销格式，总部所在地，股票交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。",
+    "text": ""
+  },
+  {
+    "input": "\"Esri 可能是世界上最好的地图软件公司。\"",
+    "output": "The product or material produced.",
+    "instruction": "The relationship between Esri and software in the context of the input sentence is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "\"Esri 可能是世界上最好的地图软件公司。\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" in English is \"{industry}\" which means \"Industry\".",
+    "instruction": "The sentence you provided is not a complete sentence, but I will provide the translation for the given context reference and options:\n\nContext reference: Utilize the input text as a context reference, choose the right relationship between Esri and software from the options.\n\nTranslation: 利用输入文本作为上下文参考，从选项中选择 Esri 和软件之间的正确关系。\n\nOptions:\n\n1. product/material produced (生产的产品/材料)\n2. manufacturer (制造商)\n3. distributed by (由...分发)\n4. industry (行业)\n5. position held (担任的职位)\n6. original broadcaster (原始广播者)\n7. owned by (由...所有)\n8. founded by (由...创立)\n9. distribution format (分发格式)\n10. headquarters location (总部所在地)\n11. stock exchange (股票交易所)\n12. currency (货币)\n13. parent organization (母公司)\n14. chief executive officer (首席执行官)\n15. director/manager (董事/经理)\n16. owner of (...的所有者)\n17. operator (操作者)\n18. member of (成员)\n19. employer (雇主)\n20. chairperson (主席)\n21. platform (平台)\n22. subsidiary (子公司)\n23. legal form (法律形式)\n24. publisher (出版商)\n25. developer (开发者)\n26. brand (品牌)\n27. business division (业务部门)\n28. location of formation (成立地点)\n29. creator (创造者)",
+    "text": ""
+  },
+  {
+    "input": "Esri 可能是世界上最好的制图软件公司。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Esri is a software company that develops and distributes geographic information system (GIS) software. It was founded in 1969 by Jack Dangermond and Robert Davis, and is headquartered in Redlands, California. Esri's software is widely used in various industries, including government, education, and business, for tasks such as mapping, analysis, and visualization of spatial data. Therefore, the relationship between Esri and software in the context of the input sentence is \"owned by\" and \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "在艰难的一年之后，我们很高兴看到团队在重新定位Zulily业务方面付出的辛勤努力正在取得进展，完全得益于电子商务的强劲势头，这进一步强化了我们关于Zulily价值主张基本吸引力的观点。",
+    "output": "Sure, here is the translation of the given sentence:\n\n英文句子：{industry: Zulily, e-commerce}\n\n中文翻译：{行业：Zulily，电子商务}",
+    "instruction": "relation1: manufacturer, product/material produced; relation2: original broadcaster, brand.",
+    "text": ""
+  },
+  {
+    "input": "在经历了一个艰难的年份之后，我们很高兴地看到团队为重新定位Zulily业务所付出的努力开始得到回报，这完全得益于电子商务的强劲势头，进一步强化了我们认为Zulily价值主张的基本吸引力。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Zulily, e-commerce}\" can be translated to \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业：Zulily，电子商务}\" in Chinese.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "{在经历了一年的困难之后，我们很高兴看到团队在重新定位Zulily业务方面所做的努力正在取得进展，完全得益于电子商务的强劲势头，这强化了我们认为Zulily价值主张的基本吸引力。}",
+    "output": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Zulily is a subsidiary of QVC, a direct-to-consumer e-commerce company.",
+    "text": ""
+  },
+  {
+    "input": "在艰难的一年之后，我们很高兴看到团队的努力重新定位 Zulily 业务，完全得益于电子商务的东风，进一步强化了我们认为 Zulily 价值主张的基本吸引力。",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you want to translate into Chinese.",
+    "instruction": "The relationship between Zulily and e-commerce in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "由于微软与Salesforce在Dynamics方面存在竞争关系，并在2016年收购了LinkedIn，或许你可以谈谈微软收购LinkedIn后如何提升其CRM产品，以及这是否在某种程度上成为与Salesforce竞争的优势。",
+    "output": "LinkedIn and Microsoft are the parent organizations and they are also the owners.",
+    "instruction": "Given phrases: \n1. \"The company is owned by XYZ Corporation.\"\n2. \"The product is manufactured by ABC Factory.\"\n3. \"The CEO of the company is John Doe.\"\n4. \"The company is headquartered in New York City.\"\n5. \"The company is listed on the NASDAQ stock exchange.\"\n6. \"The company's currency is the US dollar.\"\n7. \"The company's parent organization is Global Industries.\"\n8. \"The company's chief executive officer is Jane Smith.\"\n9. \"The company's director/manager is Mark Johnson.\"\n10. \"The company's owner of XYZ subsidiary is Bill Gates.\"\n11. \"The company's operator is AT&T.\"\n12. \"The company's member of the World Health Organization.\"\n13. \"The company's employer is John Smith.\"\n14. \"The company's chairperson is Mary Johnson.\"\n15. \"The company's platform is iOS.\"\n16. \"The company's subsidiary is ABC Company.\"\n17. \"The company's legal form is a limited liability company.\"\n18. \"The company's publisher is Penguin Random House.\"\n19. \"The company's developer is Microsoft.\"\n20. \"The company's brand is Nike.\"\n21. \"The company's business division is retail.\"\n22. \"The company's location of formation is California.\"\n23. \"The company's creator is Steve Jobs.\"\n\nOutput format: \"relation1: word1, word2; relation2: word3, word4\"\n\n1. \"relation1: company, XYZ Corporation; relation2: product, ABC Factory\"\n2. \"relation1: company, John Doe; relation2: CEO, ABC Factory\"\n3. \"relation1: company, New York City; relation2: headquarters location, ABC Factory\"\n4. \"relation1: company, NASDAQ; relation2: stock exchange, ABC Factory\"\n5. \"relation1: company, US dollar; relation2: currency, ABC Factory\"\n6. \"relation1: company, Global Industries; relation2: parent organization, ABC Factory\"\n7. \"relation1: company, Jane Smith; relation2: CEO, ABC Factory\"\n8. \"relation1: company, Mark Johnson; relation2: director/manager, ABC Factory\"\n9. \"relation1: company, Bill Gates; relation2: owner of, ABC Factory's XYZ subsidiary\"\n10. \"relation1: company, AT&T; relation2: operator, ABC Factory\"\n11. \"relation1: company, World Health Organization; relation2: member of, ABC Factory\"\n12. \"relation1: company, John Smith; relation2: employer, ABC Factory\"\n13. \"relation1: company, Mary Johnson; relation2: chairperson, ABC Factory\"\n14. \"relation1: company, iOS; relation2: platform, ABC Factory\"\n15. \"relation1: company, ABC Company; relation2: subsidiary, ABC Factory\"\n16. \"relation1: company, limited liability company; relation2: legal form, ABC Factory\"\n17. \"relation1: company, Penguin Random House; relation2: publisher, ABC Factory\"\n18. \"relation1: company, Microsoft; relation2: developer, ABC Factory\"\n19. \"relation1: company, Nike; relation2: brand, ABC Factory\"\n20. \"relation1: company, retail; relation2: business division, ABC Factory\"\n21. \"relation1: company, California; relation2: location of formation, ABC Factory\"\n22. \"relation1: company, Steve Jobs; relation2: creator, ABC Factory\"",
+    "text": ""
+  },
+  {
+    "input": "鉴于微软是Salesforce的竞争对手，拥有Dynamics，并在2016年收购了LinkedIn，您可能可以谈谈微软如何利用LinkedIn来增强其CRM产品，以及这是否为其相对于Salesforce提供竞争优势。",
+    "output": "LinkedIn and Microsoft are the parent organizations, and they are owned by LinkedIn and Microsoft respectively.",
+    "instruction": "The input sentence is: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nThe subject and object containing a certain relation in the sentence are:\n\nrelation1: \"input sentence\", \"sentence\"\nrelation2: \"extract\", \"relation types\"\nrelation3: \"subject\", \"object\"\nrelation4: \"certain relation\", \"sentence\"\nrelation5: \"format\", \"relation1, relation2\"\nrelation6: \"relations\", \"product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator\"\nrelation7: \"relation types\", \"relation1: word1, word2; relation2: word3, word4\"\nrelation8: \"word1, word2\", \"relation1\"\nrelation9: \"word3, word4\", \"relation2\"",
+    "text": ""
+  },
+  {
+    "input": "既然微软与Salesforce是竞争对手，微软拥有Dynamics，并在2016年收购了LinkedIn，您是否可以考虑讨论一下微软如何利用LinkedIn来增强其CRM产品，以及这是否相对于Salesforce形成了竞争优势。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nChinese translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nNote: The original sentence is already in Chinese, so I provided the English translation for the requested format.",
+    "instruction": "LinkedIn is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "由于微软与Salesforce在Dynamics方面存在竞争关系，并且在2016年收购了LinkedIn，也许你可以谈谈微软如何利用LinkedIn来提升其CRM产品线，以及这种做法是否对其与Salesforce的竞争优势有所助益。\n\nMicrosoft and Salesforce compete in the Dynamics space, and given that Microsoft acquired LinkedIn in 2016, maybe you could discuss what Microsoft has done with LinkedIn to enhance its CRM offering, and if that served as a competitive advantage relative to Salesforce or not.",
+    "output": "Sure, I can help you with that. Here's the translation of the English sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization} → 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}",
+    "instruction": "LinkedIn and Microsoft have a relationship of being owned by the same parent organization, which is Microsoft Corporation.",
+    "text": ""
+  },
+  {
+    "input": "鉴于微软与 Salesforce 在 Dynamics 上的竞争关系，并于 2016 年收购了 LinkedIn，或许您可以讨论一下微软如何利用 LinkedIn 来增强其 CRM 产品，以及这是否为其在竞争中相对于 Salesforce 提供任何优势。\n\n英文翻译：Given that Microsoft is a competitor of Salesforce with Dynamics and acquired LinkedIn in 2016, maybe you could talk about what Microsoft has done with LinkedIn to enhance its CRM offering, and if that served at all as the competitive advantage relative to Salesforce or not.",
+    "output": "Owned by: 由...所有",
+    "instruction": "LinkedIn is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "由于微软与Salesforce在Dynamics上有竞争关系，并在2016年收购了LinkedIn，您可能可以谈论一下微软如何利用LinkedIn来增强其CRM服务，以及这是否在某种程度上成为相对于Salesforce的竞争优势。\n\n{So given that Microsoft is a competitor of Salesforce with Dynamics and acquired LinkedIn in 2016, maybe you could talk about what Microsoft has done with LinkedIn to enhance its CRM offering, and if that served at all as the competitive advantage relative to Salesforce or not.}",
+    "output": "Owned by: 由...所有",
+    "instruction": "The relationship between LinkedIn and Microsoft is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "\"Yeah, 我意思是，我认为或许在很久以前，Noble创造了这个词组'coopetition'，所以Microsoft和LinkedIn就是两个很好的'coopetition'伙伴；你知道，我们在某些事情上竞争，在其他事情上合作。\"",
+    "output": "LinkedIn and Microsoft are the parent organizations, and both companies own the organization.",
+    "instruction": "Sure, I can help you with that. Please provide the English sentence that you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是英文翻译：\n\n\"Yeah, I mean I think it might have been Noble, years ago that coined the term coopetition and so Microsoft and LinkedIn are two of those great coopetition partners there; you know we compete on some things and we cooperate on other things.\" 可以翻译为：\n\n\"是啊，我想可能是Noble在几年前创造了'共竞'这个术语，所以微软和领英是其中的两个伟大的共竞伙伴；你知道我们在某些事情上竞争，而在其他事情上合作。\"",
+    "output": "LinkedIn and Microsoft are both parent organizations and are owned by themselves.",
+    "instruction": "Please provide the input sentence you would like me to translate into Chinese, and I will directly give you the English translation.",
+    "text": ""
+  },
+  {
+    "input": "Yes, I mean I think it might have been Noble, years ago that coined the term coopetition and so Microsoft and LinkedIn are two of those great coopetition partners there; you know we compete on some things and we cooperate on other things. \n\n{没错，我认为这可能是Noble在几年前创造的“共竞”这个概念，所以微软和领英是其中两个伟大的共竞伙伴；你知道我们在某些方面竞争，在其他方面合作。}",
+    "output": "The parent organization is responsible for overseeing the operations and management of its subsidiaries.",
+    "instruction": "Microsoft is the parent organization of LinkedIn.",
+    "text": ""
+  },
+  {
+    "input": "Yeah, I mean I think it might have been Noble, years ago that coined the term coopetition and so Microsoft and LinkedIn are two of those great coopetition partners there; you know we compete on some things and we cooperate on other things. \n\n翻译：\n是的，我认为Noble，几年前可能创造了“合作竞争”这个术语，所以微软和领英是两个伟大的合作竞争伙伴。你知道我们在某些事情上竞争，在其他事情上合作。",
+    "output": "The sentence you provided, \"{parent_organization}\", does not contain any English text to be translated into Chinese. It appears to be a placeholder or a variable name. If you provide an actual English sentence, I'd be happy to translate it for you.",
+    "instruction": "The relationship between LinkedIn and Microsoft is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "是的，我认为这可能是在很久以前，Noble创造了这个术语“coopetition”，所以微软和领英是那些伟大的coopetition合作伙伴之一；你知道我们在某些方面竞争，而在其他方面合作。",
+    "output": "The English sentence you provided, \"{owned_by}\", is not a complete sentence and therefore does not have a direct translation into Chinese. It seems to be a placeholder or a label that needs to be replaced with a specific word or phrase. Without context or additional information, it's difficult to provide an accurate translation. If you could provide more context or clarify what you are trying to express, I would be happy to assist you further.",
+    "instruction": "The English sentence is: \"Utilize the input text as a context reference, choose the right relationship between LinkedIn and Microsoft from the options.\"\n\nThe Chinese translation is: \"请使用输入文本作为上下文参考，从选项中选择 LinkedIn 和 Microsoft 之间的正确关系。\"\n\nIn this context, the correct relationship between LinkedIn and Microsoft is \"parent organization\". Therefore, the English translation for the given sentence is: \"Utilize the input text as a context reference, choose the right relationship between LinkedIn and Microsoft as parent organization from the options.\"",
+    "text": ""
+  },
+  {
+    "input": "是的，我认为这可能是在很久以前，Noble创造了\"coopetition\"这个术语，所以微软和领英是其中的两个伟大的coopetition合作伙伴；你知道我们在某些方面竞争，而在其他方面则合作。",
+    "output": "Owned by: 属于",
+    "instruction": "LinkedIn and Microsoft have a relationship as a subsidiary and parent organization. LinkedIn is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软目前与Salesforce相比，在LinkedIn整合方面没有优势。",
+    "output": "LinkedIn and Microsoft are both parent organizations that own the company.",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nI'm sorry, but there is no input text provided for me to translate. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，目前微软在LinkedIn整合方面并不比Salesforce有优势。",
+    "output": "LinkedIn and Microsoft are the parent organizations and they are owned by LinkedIn and Microsoft respectively.",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\nRelation: product/material produced: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: Samsung Electronics\nRelation: competitor: Apple Inc., Samsung Electronics\n\nSubject: Apple Inc.\nObject: Steve Jobs\nRelation: founder: Apple Inc., Steve Jobs\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: chief executive officer: Apple Inc., Tim Cook\n\nSubject: Apple Inc.\nObject: iPad\nRelation: product: Apple Inc., iPad\n\nSubject: Apple Inc.\nObject: App Store\nRelation: platform: Apple Inc., App Store\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: iTunes\nRelation: original broadcaster: Apple Inc., iTunes\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple Inc.\nObject: Macintosh\nRelation: original broadcaster: Apple Inc., Macintosh\n\nSubject: Apple",
+    "text": ""
+  },
+  {
+    "input": "{所以你知道微软目前并没有在LinkedIn集成方面相对于Salesforce有任何优势。}",
+    "output": "I'm sorry, but you haven't provided the English sentence you want me to translate into Chinese. Please provide the sentence so I can assist you better.",
+    "instruction": "\"Utilize the input text as a context reference, choose the right relationship between LinkedIn and Microsoft from the options.\"\n\n英文翻译：\n\n\"利用输入文本作为上下文参考，从选项中选择正确的人际关系，即LinkedIn和Microsoft之间的关系。\"\n\n在这句话中，我们被要求利用输入文本作为上下文参考，然后从给定的选项中选择正确的人际关系。然而，给定的选项列表并没有提供足够的信息来确定LinkedIn和Microsoft之间的关系。因此，我们需要更多的上下文信息才能准确地选择正确的人际关系。",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，目前微软在LinkedIn整合方面并没有比Salesforce提供任何优势。",
+    "output": "The parent organization is the main organization that oversees and manages the operations of a subsidiary or affiliated entity. It provides strategic direction, financial support, and resources to ensure the success of the subsidiary or entity.",
+    "instruction": "LinkedIn and Microsoft have a parent organization relationship.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软目前在LinkedIn整合方面并没有比Salesforce有优势。",
+    "output": "Owned by: 属于",
+    "instruction": "LinkedIn is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "{所以你知道，目前微软在LinkedIn集成方面并没有比Salesforce提供任何优势。}",
+    "output": "Owned by: 所有者",
+    "instruction": "LinkedIn and Microsoft have a parent-company relationship. Microsoft is the parent organization of LinkedIn.",
+    "text": ""
+  },
+  {
+    "input": "You have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.\n\n{请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！}\n\nYou have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.\n\n{请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！}\n\nYou have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.",
+    "output": "LinkedIn and Microsoft are both owned by LinkedIn and Microsoft.",
+    "instruction": "The sentence is: \"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nThe translation in Chinese is: \"给定描述两个单词/短语之间关系的短语作为选项，从输入文本中提取单词/短语对以及它们之间的相应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...分发，行业，担任职务，原始广播者，由...拥有，由...创立，分发格式，总部所在地，证券交易所，货币，母组织，首席执行官，董事/经理，...所有，操作者，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\"\n\nThe corresponding English translation is: \"The sentence is: \"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nSo, the translated sentence in Chinese is: \"给定描述两个单词/短语之间关系的短语作为选项，从输入文本中提取单词/短语对以及它们之间的相应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...分发，行业，担任职务，原始广播者，由...拥有，由...创立，分发格式，总部所在地，证券交易所，货币，母组织，首席执行官，董事/经理，...所有，操作者，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\"",
+    "text": ""
+  },
+  {
+    "input": "You have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.",
+    "output": "LinkedIn and Microsoft are the parent organizations and they own the entity.",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "You have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.",
+    "output": "I apologize, but you have not provided the English sentence that you want me to translate into Chinese. Please provide the sentence, and I will be happy to help you with the translation.",
+    "instruction": "LinkedIn is a professional networking platform owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "\"You have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.\" \n\n翻译为中文：\n\"你需要记住，LinkedIn交易的结构方式决定了LinkedIn有权利决定他们需要从微软获取什么来加速他们的业务，而不是反过来。因此，当交易完成时，他们和Sales Navigator之间没有进行任何整合，微软做了一些工作，将Sales Navigator更紧密地整合到Dynamics中，并使它达到两年前LinkedIn与Salesforce整合的水平。\"",
+    "output": "{parent_organization} = 母公司",
+    "instruction": "LinkedIn is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "You have to remember, the way the LinkedIn deal was structured, it was up to LinkedIn to determine what they wanted from Microsoft to accelerate their business instead of vice versa, and so when the deal was closed there was no integration at that time between them and Sales Navigator and Microsoft did some work to integrate Sales Navigator more closely with Dynamics and kind of bring it to where the LinkedIn integration was with Salesforce a couple of years ago.\n\nLinkedIn 收购的结构方式决定了，LinkedIn 需要自行决定他们希望从 Microsoft 获取什么，以促进他们的业务发展，而不是相反。因此，当收购完成时，他们和 Sales Navigator 之间并没有进行整合，而 Microsoft 则做了一些工作，将 Sales Navigator 更紧密地整合到 Dynamics 中，使之达到与 Salesforce 两年前与 LinkedIn 的整合水平。",
+    "output": "Owned by 翻译成中文是 \"由...所有\"。",
+    "instruction": "LinkedIn is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "你必须记住，LinkedIn交易的结构方式是，由LinkedIn来决定他们从微软想要什么来加速他们的业务，而不是反过来。因此，当交易完成时，他们和Sales Navigator之间没有整合，微软做了一些工作来更紧密地整合Sales Navigator与Dynamics，并使其达到与Salesforce几年前完成的LinkedIn整合的水平。",
+    "output": "Owned by: 所有者",
+    "instruction": "LinkedIn is a professional networking platform, while Microsoft is a multinational technology company. In the context of the input sentence, the relationship between LinkedIn and Microsoft is \"owned by.\" Microsoft acquired LinkedIn in 2016 for $26.2 billion, making LinkedIn a subsidiary of Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "{But we actually have a better integration today with LinkedIn than Microsoft has.}\n\n但是，我们今天与LinkedIn的集成比Microsoft更好。",
+    "output": "LinkedIn and Microsoft are the parent organizations, and they own the company.",
+    "instruction": "Sure, I'd be happy to help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "我们今天实际上比微软在LinkedIn上有更好的整合。",
+    "output": "LinkedIn and Microsoft are both parent organizations, and they own each other.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: AI Assistant\nObject: English and Chinese language\n\nRelation: language model\n\nRelation: designed to be helpful, honest, and harmless\n\nRelation: understands and communicates fluently\n\nRelation: can extract information\n\nRelation: provides translations\n\nRelation: answers questions\n\nRelation: helps users\n\nRelation: is an AI\n\nRelation: developed by Shanghai AI Laboratory\n\nRelation: built on Transformer model\n\nRelation: trained on large-scale unlabeled text data\n\nRelation: fine-tuned on dialogue data\n\nRelation: uses self-supervised pre-training\n\nRelation: can generate human-like text\n\nRelation: can engage in multi-turn dialogue\n\nRelation: can perform various NLP tasks\n\nRelation: can be integrated into various applications\n\nRelation: is a powerful tool for natural language processing\n\nRelation: can assist in various tasks\n\nRelation: can learn from user interactions\n\nRelation: can adapt to different user preferences\n\nRelation: can improve over time\n\nRelation: can be used in various industries\n\nRelation: can enhance productivity and efficiency\n\nRelation: can improve communication\n\nRelation: can help in decision-making\n\nRelation: can be integrated with other technologies\n\nRelation: can be customized for specific use cases\n\nRelation: can be trained on domain-specific data\n\nRelation: can be used for research and development\n\nRelation: can be used for education and training\n\nRelation: can be used for language translation\n\nRelation: can be used for text summarization\n\nRelation: can be used for sentiment analysis\n\nRelation: can be used for chatbot development\n\nRelation: can be used for virtual assistant development\n\nRelation: can be used for automated customer service\n\nRelation: can be used for content creation\n\nRelation: can be used for information retrieval\n\nRelation: can be used for speech recognition\n\nRelation: can be used for machine translation\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text-to-speech conversion\n\nRelation: can be used for speech-to-text conversion\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be used for text analysis\n\nRelation: can be used for text mining\n\nRelation: can be used for text summarization\n\nRelation: can be used for text classification\n\nRelation: can be used for text generation\n\nRelation: can be used for text preprocessing\n\nRelation: can be used for text postprocessing\n\nRelation: can be",
+    "text": ""
+  },
+  {
+    "input": "但是我们今天与LinkedIn的整合实际上比Microsoft更好。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer: {parent_organization}\"\n\nThe translated sentence is: \"请帮我将下面的英文句子翻译成中文。直接在回答中给出英文翻译：{parent_organization}\"",
+    "instruction": "Sure, here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe sentence translates to: \"Help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "text": ""
+  },
+  {
+    "input": "But we actually have a better integration today with LinkedIn than Microsoft has.\n中文翻译：\n但事实上，我们现在与LinkedIn的集成比微软更好。",
+    "output": "Sure, I'd be happy to help! The translation of \"{parent_organization}\" in Chinese is \"上级组织\" or \"上级机构\".",
+    "instruction": "The relationship between LinkedIn and Microsoft in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "{但是我们实际上今天与LinkedIn的整合比Microsoft更好。}",
+    "output": "Owned by: 所有者。",
+    "instruction": "\"LinkedIn is a professional networking platform owned by Microsoft.\"",
+    "text": ""
+  },
+  {
+    "input": "但是，我们现在与LinkedIn的整合实际上比Microsoft更好。",
+    "output": "Owned by 的中文翻译为 \"所有权属于\"。",
+    "instruction": "LinkedIn and Microsoft have a relationship of being parent organization and subsidiary, respectively. Microsoft owns LinkedIn.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软和领英继续成为我们的伟大合作伙伴。",
+    "output": "LinkedIn and Microsoft are the parent organizations, and they own the entity.",
+    "instruction": "制造商: Apple, iPhone; 原产国: 中国; 总部所在地: 美国; 股票交易所: 纳斯达克; 货币: 美元; 母公司: 苹果公司; 首席执行官: 蒂姆·库克; 董事会主席: 比尔·盖茨; 品牌: 苹果; 业务部门: 消费电子; 创始人: 史蒂夫·乔布斯; 发行商: 苹果公司; 开发者: 苹果公司; 平台: iOS; 子公司: 苹果电视; 法律形式: 股份有限公司; 雇主: 苹果公司; 员工: 乔纳森·艾维; 发布日期: 2007年6月29日; 产品/材料: iPhone; 分布格式: 智能手机; 分布地区: 全球; 原产地: 富士康; 制造商: 富士康; 分布商: 运营商; 平台: 苹果生态系统; 法律形式: 股份有限公司; 总部所在地: 美国; 股票交易所: 纳斯达克; 货币: 美元; 母公司: 苹果公司; 首席执行官: 蒂姆·库克; 董事会主席: 比尔·盖茨; 品牌: 苹果; 业务部门: 消费电子; 创始人: 史蒂夫·乔布斯; 发行商: 苹果公司; 开发者: 苹果公司; 平台: iOS; 子公司: 苹果电视; 法律形式: 股份有限公司; 雇主: 苹果公司; 员工: 乔纳森·艾维; 发布日期: 2007年6月29日; 产品/材料: iPhone; 分布格式: 智能手机; 分布地区: 全球; 原产地: 富士康; 制造商: 富士康; 分布商: 运营商; 平台: 苹果生态系统; 法律形式: 股份有限公司; 总部所在地: 美国; 股票交易所: 纳斯达克; 货币: 美元; 母公司: 苹果公司; 首席执行官: 蒂姆·库克; 董事会主席: 比尔·盖茨; 品牌: 苹果; 业务部门: 消费电子; 创始人: 史蒂夫·乔布斯; 发行商: 苹果公司; 开发者: 苹果公司; 平台: iOS; 子公司: 苹果电视; 法律形式: 股份有限公司; 雇主: 苹果公司; 员工: 乔纳森·艾维; 发布日期: 2007年6月29日; 产品/材料: iPhone; 分布格式: 智能手机; 分布地区: 全球; 原产地: 富士康; 制造商: 富士康; 分布商: 运营商; 平台: 苹果生态系统; 法律形式: 股份有限公司; 总部所在地: 美国; 股票交易所: 纳斯达克; 货币: 美元; 母公司: 苹果公司; 首席执行官: 蒂姆·库克; 董事会主席: 比尔·盖茨; 品牌: 苹果; 业务部门: 消费电子; 创始人: 史蒂夫·乔布斯; 发行商: 苹果公司; 开发者: 苹果公司; 平台: iOS; 子公司: 苹果电视; 法律形式: 股份有限公司; 雇主: 苹果公司; 员工: 乔纳森·艾维; 发布日期: 2007年6月29日; 产品/材料: iPhone; 分布格式: 智能手机; 分布地区: 全球; 原产地: 富士康; 制造商: 富士康; 分布商: 运营商; 平台: 苹果生态系统; 法律形式: 股份有限公司; 总部所在地: 美国; 股票交易所: 纳斯达克; 货币: 美元; 母公司: 苹果公司; 首席执行官: 蒂姆·库克; 董事会主席: 比尔·盖茨; 品牌: 苹果; 业务部门: 消费电子; 创始人: 史蒂夫·乔布斯; 发行商: 苹果公司; 开发者: 苹果公司; 平台: iOS; 子公司: 苹果电视; 法律形式: 股份有限公司; 雇主: 苹果公司; 员工: 乔纳森·艾维; 发布日期: 2007年6月29日; 产品/材料: iPhone; 分布格式: 智能手机; 分布地区: 全球; 原产地: 富士康; 制造商: 富士康; 分布商: 运营商; 平台: 苹果生态系统; 法律形式: 股份有限公司; 总部所在地: 美国; 股票交易所",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软和领英继续成为我们的伟大合作伙伴。",
+    "output": "LinkedIn and Microsoft are the parent organizations, and both LinkedIn and Microsoft own the company.",
+    "instruction": "Sorry, but I'm not able to directly translate the sentence you provided as it seems to be a set of instructions rather than a sentence to translate. However, I can help you with the translation task if you provide me with the sentence you'd like to translate.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软和领英继续成为我们的优秀合作伙伴。",
+    "output": "Sure, I can help with that! Here's the translation of the given sentence:\n\n\"{parent_organization}\" in English would be \"父组织\".",
+    "instruction": "LinkedIn is a professional networking platform owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "So you know both Microsoft and LinkedIn continue to be great partners for us. \n\n所以你知道，微软和领英一直是我们优秀的合作伙伴。",
+    "output": "\"Please help me translate the following English sentence into Chinese. The translation should be provided directly in the answer. {parent_organization}\" translates to \"请帮我将下面的英文句子翻译成中文。答案中直接给出英文翻译！{parent_organization}\" in Chinese.",
+    "instruction": "LinkedIn is a platform for professional networking and job searching, while Microsoft is a technology company that produces software and hardware products. They have a relationship of being competitors in the tech industry, as Microsoft also provides professional networking and job search services through their LinkedIn acquisition.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软和领英继续是我们的伟大合作伙伴。",
+    "output": "The English sentence you provided, \"{owned_by}\", is not a complete sentence and seems to be an incomplete phrase or term. Could you please provide a full sentence or context so that I can assist you with an accurate translation?",
+    "instruction": "LinkedIn is a professional networking platform owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "所以你知道，微软和领英一直是我们优秀的合作伙伴。",
+    "output": "Owned by: 由...拥有。",
+    "instruction": "LinkedIn and Microsoft are owned by the same parent organization.",
+    "text": ""
+  }
+]

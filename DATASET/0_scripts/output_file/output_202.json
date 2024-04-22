@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"Bigger is Better in Payments: Worldline Not Done With Deals\" 可以翻译为 \"支付领域的更大规模意味着更好的服务：Worldline 还未完成交易\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "收入增长1%至7.42亿欧元，折合9.64亿美元，从7.35亿欧元增长。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The companies aim to close the deal before the end of the year.\n\n翻译为中文：\n这些公司计划在年底之前完成交易。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The agreement includes application maintenance and support services.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LUXURY PURCHASE: French conglomerate LVMH is close to a deal to buy Tiffany & Co. for more than $16 billion.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者不应忽视先进微处理器设备股票面临的潜在风险。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n{\"慢慢地添加一些$FIO在这里，但要小心。这将在2012年成为最大的赢家之一\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RIMM, SPX, NYA, COMPQ, DJIA all going down.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This bold spinning 360 red fabric design is set beautifully on Ercols Napoli sofa.\n\n这句英文翻译成中文是：“这款大胆旋转的360度红色织物设计，在Ercols Napoli沙发上展现得非常美丽。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "巴黎酒店（EPA:HDP）是否使用了过多的债务？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"CompaniesNew Aggreko CEO to reshape business, strip costs\" 的中文翻译为 \"公司 新 Aggreko 首席执行官将重塑业务，削减成本\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The program included operational improvements and reductions in personnel, mainly in the Netherlands.} 翻译成中文为：\n{该计划包括运营改进和人员减少，主要在荷兰。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating profit and sales for the three-month period increased respectively from EUR0.3m and EUR13.1m, as compared to the corresponding period in 2005.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Zendesk stock price target has been raised from $75 to $85 at Stifel Nicolaus.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊市值突破1万亿美元，超预期财报引发市场关注，专业人士现在正在密切关注。$AMZN (via @TradingNation) https://t.co/RCmE2HVjcC\n\nTranslation: Amazon's market value reaches $1 trillion after surpassing analysts' expectations, attracting attention from professionals. $AMZN (via @TradingNation) https://t.co/RCmE2HVjcC",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Turun kaupunkin, Finland-based company has awarded contract to Lemminkainen Talotekniikka Oy for electrical installation work.} \n\n翻译为：\n{图尔库市，芬兰的一家公司已将合同授予Lemminkainen Talotekniikka Oy进行电气安装工作。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ConocoPhillips (COP) 投资者演示 - 幻灯片。继续阅读：https://t.co/iSocNAQhv9 #投资 #市场 #金融",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Texas Instruments Inc (NASDAQ: TXN)的股票在扩大的交易中上涨了5.0%，因为这家芯片制造商报告了超出市场预期的第四财季业绩。TXN在Invezz的2022年最被低估的三大半导体股票名单上。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The number one challenge facing small and medium-sized enterprises there's not enough labor - willing and able.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lemminkäinen, a Finnish construction group, has been awarded two road building contracts by the Lithuanian transport administration.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "购买 The Trade Desk 股票在 2020 年下跌时进入。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Severn Trent share price jumps as Canadian investor renews pursuit of utility.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hasbro's stock gains after UBS upgrade.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TeliaSonera的收购将是法国电信自2000年以27.8亿欧元（55.1亿美元）收购Orange plc以来最大的收购，并将成为世界第四大电信公司，仅次于AT&T Inc.、Verizon Communications Inc.和NTT Corp. 。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The effect of the savings will be noticeable as of the beginning of 2010. \n\n翻译为中文：\n“从2010年初开始，储蓄的效果将会明显。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's board of directors has proposed a dividend of EUR0.12 per share for 2006.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"PCLN\" Back to Back intraday reversals look out below. Shorts moving in!} = 请留意{$PCLN}的日内反向反转。空头正在行动！",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The UK government admits that Covid-19 antibody tests do not work.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oneok (OKE) 出席 RBC 资本市场管道会议 - 幻灯片。继续阅读：… https://t.co/MCuoODzYHH",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$OPXS - Optex Systems Holdings reports Q1 results https://t.co/Ns6y09FqSD}\n\n翻译为中文：\nOptex Systems Holdings公布了第一季度的业绩报告。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SODA has a 42.71% Float Short. LoL http://stks.co/e0DfP\" 翻译成中文为：\"SODA 有 42.71% 的浮动空头。哈哈。http://stks.co/e0DfP\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Finnish Neste Oil that was previously on the list, has fallen off the list completely.}\n\n中文翻译：\n{芬兰Neste Oil此前在名单上，现在已完全从名单上消失。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国皇家邮政在邮寄服务变更方面违反了竞争法规，英国通信管理局声称。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它为中国的北部浆纸工业提供先进的机器维护和工艺开发服务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"eBay Sells StubHub For $4B\" 翻译为中文为 \"eBay 以 40 亿美元的价格出售 StubHub\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "结合了 Basware Enterprise Purchase to Pay 组合，它为采购和发票流程提供了高度自动化的水平。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：{7 可能会在短挤中爆发的重仓股票}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"爱尔兰银行：重大股份持有通知 - 99 KB #BankofIreland #Stock #MarketScreener… https://t.co/f4rdA0nB11\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "外包的扫描和捕捉解决方案将纸质发票转换为电子格式，而Basware业务交易服务允许客户以电子格式接收和发送发票。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A man mistakenly received a payment of almost $250,000 from Google -- even though he hadn't done any work for the company.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{AMC Networks and Comcast could significantly profit from the new service.} 翻译为：{AMC Networks和Comcast可以从这项新服务中获得显著的利润。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"汽车保险公司Hastings Group正在推动1800万英镑的IPO上市。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The final outcome of the rights offering is to be reported around 23 October 2009. 直接翻译为：定向增发最终结果将于2009年10月23日左右公布。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A teamLab Planets, a museum in Tokyo, features an exhibition where water is transformed into a colorful flower display for a short period during the summer. The exhibition will be available for viewing starting from March 1, 2020.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks shares down as much as ~4.2% $SBUX\n\n星巴克股票下跌幅度最高可达约4.2%，$SBUX",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "See why this REIT is budding with opportunities for growth.\n\n这句话的中文翻译是：“看看为什么这个REIT充满了成长的机会。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n**请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！**\n**{Edited Transcript of ZTO.N earnings conference call or presentation 19-Nov-19 1:00am GMT}**\n\n中文翻译：\n**请您帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！**\n**{编辑后的记录：ZTO.N 盈利电话会议或演示文稿的 19-Nov-19 1:00am GMT 版本}**",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL double bottom could be in, keep in mind.\n\n苹果公司双重底部可能已经形成，请牢记。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Intel的股票是否是一个好的投资？我们看看他们的近期表现、资产负债表、业务线和未来展望。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The proportion of Estonian and Lithuanian passengers on the Tallinn-Helsinki route also grew in July. \n七月，爱沙尼亚和立陶宛乘客在塔林-赫尔辛基路线的比例也增加了。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

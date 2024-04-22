@@ -1,0 +1,302 @@
+[
+  {
+    "input": "FastJet谴责EasyJet创始人Stelios公开言论，正在“寻求法律意见”关于信函中关于合同性的...",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Xeris Pharma 启动股票发行；收盘后股价下跌 3%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kudlow says Trump is not ready to sign any trade deal with China.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司投资者多年来一直欢呼雀跃，投资扩大其供应链以满足全球对iPhone和MacBook的狂热需求。现在的问题是，该公司是否能销售所有生产的产品。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Splunk Data-to-Everything Platform Brings Speed and Scale to McLaren\" 的中文翻译为：“Splunk 数据到一切平台为迈凯伦带来了速度和规模。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kaupthing predicts that Finnish-Swedish Stora Enso will shut down its mill in Reisholz, Germany.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "福特和麦当劳正在将咖啡废料转化为汽车零部件。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "NVIDIA Corporation (NASDAQ: NVDA) 的股票周一下午上涨了 6.04% 至 167.14 美元。由于整体市场在积极盈利情绪的推动下表现强劲，科技行业其他几家公司的股票也在上涨。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Both operating profit and net sales for the six-month period increased, respectively from EUR18.1 m and EUR127.6 m, as compared to the corresponding period in 2006. \n\n翻译：上半年营业利润和净销售额分别从2006年同期相比分别增加了18.1万欧元和127.6万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the first quarter of 2010, the mark-to-market result was a pretax profit of EUR 133 million versus a loss of EUR 32 million in the same period last year. \n\n中文翻译：2010年第一季度，按照市价计量的结果是，与去年同期相比，税前利润增加了3.2亿欧元，而去年同期则为亏损3.2亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Dan Howley talks about what we know so far about Apple's AR and VR headset launch.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "想要在你的周围看到全息图叠加吗？微软已经推出了增强现实设备——HoloLens...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Burberry says coronavirus is hurting luxury demand.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks (SBUX) 正朝着200天移动平均线前进，如果不能在那里保持住，它将面临确定性的厄运。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SMH在6月4日获得了卖出信号，并且需要高于39.28才能继续上涨，否则将会低于37.60的差距，最低至35.38。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coca-Cola was the market leader of manufacturers with a market share of 36.9%, down 2.2% from the corresponding period in 2004-2005. \n\n中文翻译：可口可乐是制造商市场份额的领先者，市场份额为36.9%，较2004-2005年同期下降了2.2%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加拿大运输安全委员会调查原油列车脱轨事件。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Transat reports Q4 results. \n\n翻译：Transat 发布第四季度业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This is the reason why shorts don't show up...long steady small climbs. The best way to accrue value. IMO\n\n这是短裤不会出现的原因...长期稳定的微小攀升。这是积累价值的最佳方式。IMO",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As earlier reported, Nokian Tyres is building a plant in the town of Vsevolozhsk in Russia's Leningrad Region with an annual production capacity of 4 million tires.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett defends Berkshire Hathaway's conglomerate structure.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AAPL weekly is still below the 50 moving average and creating a lower high. https://t.co/vT7ppzY2UY\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The materials sector has seen gains as investors hedge on pandemic outlook.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The FTC is suing them...nobody will buy them with that hanging over their heads.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"苹果股价下跌时被迅速买进。当然，这是明显的低位。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新任瑞士信贷老板在亚洲面临严峻挑战\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国周四宣布对微软计划以690亿美元收购美国游戏巨头动视暴雪进行“深入调查”，理由是英国竞争担忧。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{EB will hold the exclusive rights to market the new entity's product.}\n\n= {EB将拥有独家权利来推广新实体的产品。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Norwegian Bank (STO:NDA) and Sampo Bank have helped Finnish real estate investment company Sponda (HEL:SDA1V) place a EUR100m (USD125.4m) domestic bond, the company said Friday.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The contract is for next year.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This transaction will also optimize our paper and pulp industry related solutions.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$DPZ now broke out of his bull flag channel and made new highs, but volume was very poor.}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jyrvi-Suomen Portti is also planning to reduce the use of sodium nitrite.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{DO & CO Aktiengesellschaft: DGAP-DD: DO & CO Aktiengesellschaft english #Stock #MarketScreener… https://t.co/OfiPUkUBPt}\n\n英文翻译：\nDO & CO Aktiengesellschaft: DGAP-DD: DO & CO Aktiengesellschaft english #Stock #MarketScreener… https://t.co/OfiPUkUBPt",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{A maximum of 666,104 new shares can further be subscribed for by exercising B options under the 2004 stock option plan.}\n\n= {在2004年股票期权计划下，B选项的行使权可以进一步购买最多666,104股新股。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "L3Harris 开始于买入，以 280 美元的股票价格目标，在 Benchmark 上。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "交易价格接近其52周低点的15%，这些科技公司可以帮助你创造被动收入。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些顶级消费品股票应该在长期内提供可靠的回报。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The divestment is in line with the company's plans to focus on selected growth segments and streamline corporate structure, the company explained.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"At the end of March 2009, the company's loans amounted to EUR 10.113 million.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"United Airlines will allow unvaccinated employees to return to their jobs starting March 28.\" 翻译为中文是：“联合航空公司将于3月28日开始允许未接种疫苗的员工重返工作岗位。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RBS will reportedly appoint Howard Davies as its next chairman.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对不起，我无法提供您要求的翻译服务。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Why a Trump win would be worse for markets than a Warren win\" 的中文翻译为 \"为什么川普获胜对市场来说比沃伦获胜更糟糕\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"LULU http://stks.co/o17i 在一周初从支撑位反弹后，指标开始上扬（RSI，MACD，SMI）值得一看\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lyft's stock receives an upgrade due to its competitive positioning.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett's Berkshire Hathaway bought nearly $1 billion of shares in Activision Blizzard before Microsoft Corp. agreed to buy the video game maker. \n\n翻译成中文：\n沃伦·巴菲特的伯克希尔·哈撒韦公司在微软公司同意购买这家视频游戏制造商之前，几乎购买了价值10亿美元的Activision Blizzard公司的股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果 $YHOO 突破 $29.83，这将构成短期交易者的技术性入场。\n\n英文翻译：A breakout above $29.83 for $YHOO would constitute a technical entry for the short-term trader.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Align Technology's (ALGN) CBCT整合功能为ClinCheck提供，将使医生能够使用Invisalign透明矫正器治疗更广泛范围的病例。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Big Short\"投资者最近的一笔交易引起了大量关注。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

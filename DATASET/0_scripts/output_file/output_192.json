@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Technopolis has set aside a plot of land measuring 4.6 hectares to build the park, Mikkonen said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft seized the opportunity to purchase Activision Blizzard at a relatively discounted price following unsettling stories about the game publisher and its leadership.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glaxo's ViiV Healthcare Signs China Manufacturing Deal With Desano 可以翻译为：葛兰素史克 ViiV 健康护理与中国 Desano 签署制造协议。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "What Kind Of Shareholders Own Aben Resources Ltd. (CVE:ABN)? 翻译为中文是：“安贝资源有限公司（CVE:ABN）的股东有哪些？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNA Financial Corp (CNA) Q4 2019 Earnings Call Transcript",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "俄罗斯储蓄银行：宣布资本管理层的人事变动。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Munich, January 14, 2008: BAVARIA Industriekapital AG completed the acquisition of Elcoteq Communications Technology GmbH in Offenburg, Germany, with the approval of the",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "技术裁员更多的是一个感知问题，而不是一个更广泛关注的问题，摩根士丹利的一份报告指出，尽管更大的劳动力仍然不足。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{'Mad Money' 主持人吉姆·克拉默 (Jim Cramer) 和 'Squawk on the Street' 团队讨论了英特尔 (Intel)、AMD 等公司的股票。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ebay confirms StubHub sales to Viagogo for $4.05B\n\n易趣确认 StubHub 以 40.5 亿美元的价格出售给 Viagogo。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"不，这不是科技股。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "尼日尔伊斯兰国扩张速度之快在这次袭击中体现出来。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq SE, a Finnish electronics manufacturing services (EMS) company, reported a net loss of 66.4 million euros ($91.2 million) for the first half of 2007, compared to a net profit of 7.1 million euros ($9.8 million) for the same period in 2006.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政从Ofcom邮政监管报告中获得了混合的结果。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Let's take a look at two such cases that I have my eye on. → 让我们看看我关注的两起类似案件。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AWS (Amazon Web Services) 宣布其管理服务 AWS IoT FleetWise 已全面可用。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sector Returns Divergence.\" https://t.co/XQ9Rj3MU2k #投资 #经济 #商业",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新的公寓楼正在城市中心附近拔地而起，AS YIT Ehitus董事会主席Priit Sauk解释说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YIT Corporation and Austrian firm E AG recently signed an agreement for the sale of E's building system service business in Germany, Austria, Poland, the Czech Republic, Hungary, and Romania for EUR 55 million.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Puljonki通过与芬兰Paulig的丹麦子公司Oscar的合作，在欧洲市场收购了一家销售组织。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亲爱的 $LK 管理层：\n\n我已经自作主张地准备了你今天对 Muddy Waters 报告的回复，这是我们的“…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Advanced Micro Devices, Tesla, Nio and SoFi Technologies were our top stock trades for Monday. Let's look at how the charts are shaping up.\" \n\n翻译成中文为：\n\"AMD，特斯拉，蔚来和小鹏汽车以及SoFi Technologies是我们周一的主要股票交易。让我们看看图表是如何形成的。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "How this company makes meat alternatives out of air. \n翻译：这家公司是如何将空气制成肉替代品的。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given Chinese sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly!\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦任命卡拉·莱格尔领导通用再保险公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "您是否应该跟随伯克希尔·哈撒韦投资苹果股票？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple 周三表示，它将在秋季为 iPhone、Mac 和 iPad 操作系统发布一项新功能，该功能旨在保护高风险用户，例如记者和维权工作者，免受与侵犯人权有关的高级间谍软件。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FB (110.20) is starting to show some relative strength and signs of potential B/O on the daily.}\n\nFB股价（110.20）在每日交易中开始显示出相对强度，并出现了一些潜在的买进/卖出（B/O）迹象。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kellogg Q4 organic sales $3.22 bln vs. $3.14 bln a year ago; FactSet consensus $3.18 bln. 可以翻译为：\n\nKellogg Q4有机销售额为$3.22亿，与去年相比增加了$3.14亿；FactSet共识为$3.18亿。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Kemira Group's CEO, Lasse Kurkilahti, says the Group's structural reorganisation will continue for at least a year.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total restructuring costs are expected to be about EUR 30mn, of which EUR 13.5 mn was booked in December 2008.\n\n中文翻译：预计总重组成本约为3000万欧元，其中1350万欧元已在2008年12月记账。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Flight Centre Travel: FMI 对美国-墨西哥-加拿大协议表示赞扬。 #FlightCentreTravel",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rosenblatt Projects 47% Downside In Apple Shares, Warns Of Drop In iPhone Production 可以翻译为：罗斯巴特项目预测苹果股票下跌47%，并警告iPhone产量下降。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Renewable Energy and Tallgrass Energy among Energy/Materials gainers; Lonestar Resources and Pacific Drilling among losers\n\n可再生能源和草原能源是能源/材料板块的赢家；Lonestar Resources和Pacific Drilling是输家。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warner Bros. Discovery is putting everything into one streaming package. \n\n华纳兄弟探索公司将把所有内容整合到一个流媒体套餐中。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meta Financial declares $0.05 dividend.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AMD (NASDAQ: AMD) 的股票周一早盘下跌了 2.21% 至 100.05 美元，与 NVIDIA 股票下跌相呼应，因为该公司发布了低于预期的第二季度营收指引，并提到了游戏收入的疲软。发生了什么？\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walgreens Boots Alliance may sell its Boots pharmacies in the United Kingdom to private equity firms, according to media reports over the weekend. \n\n中文翻译：据周末媒体报道，沃尔格林博姿联盟可能将其在英国的博姿药房出售给私募股权公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fiskars has a strong portfolio of international brands, which include Fiskars, Iittala, Gerber, Silva, and Buster. \n\n翻译：Fiskars拥有一系列强大的国际品牌，包括Fiskars、Iittala、Gerber、Silva和Buster。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "催化剂细分领域包括炼油催化剂和聚烯烃催化剂产品类别。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon正在进行一次管理层重组，福特CEO Jim Farley嘲笑了Mustang Mach-E的原型。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating loss totalled EUR 12.7 mn, compared to a profit of EUR 17.7 mn in the first half of 2008. 可翻译为：“运营亏损总计为1270万欧元，相比2008年上半年1770万欧元的利润。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n加拿大皇家银行（Bank of Nova Scotia）：代理管理员皮尔克顿（Pilkerton）关于USMCA协议的声明。#BankofNovaScotia #Stock…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple (AAPL) 在 2022 年 3 月 22 日出现了新的服务中断，这距离一次更大、更长的中断事件仅隔一天。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The maximum grade of the veneer yield is calculated, based on the dimensions and grades of the veneer products, as well as by iterating the places of the peeling axes and simulating the peeling process. \n\n翻译成中文为：\n\"贴面材的出材率最大等级是根据贴面材产品的尺寸和等级，以及通过迭代剥皮轴的位置和模拟剥皮过程计算得出的。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大人物们必须在这里装载。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Berkshire applies to boost Wells Fargo stake above 10 percent.\n翻译为：伯克希尔申请增加其在富国银行的持股比例超过10%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ARM Holdings plc, Domino's Pizza Group plc, and ASOS plc are three must-have growth stocks.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Desktop Metal launches the world's first metal binder jetting system designed for machine shops.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Below $200, Intel is now the undisputed gaming king. 直接翻译为中文是：“200美元以下，英特尔现在是无可争议的游戏之王。”",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

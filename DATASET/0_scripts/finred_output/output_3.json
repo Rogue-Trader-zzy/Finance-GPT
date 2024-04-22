@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{苏黎世（路透社）- 全球最大的电脑鼠标制造商罗技国际SA（LOGN.VX）表示，它计划裁减15％的薪酬员工，并撤回了其2009财年的财务目标，原因是全球经济衰退加剧。}",
+    "output": "Product or material produced: 产品或材料生产。",
+    "instruction": "Logitech is a brand and manufacturer of computer peripherals, including mice.",
+    "text": ""
+  },
+  {
+    "input": "{日内瓦（路透社）- Logitech International SA LOGN.VX，全球最大的电脑鼠标制造商，表示计划裁减15%的受薪员工，并撤回其2009财年的财务目标，称全球经济衰退加剧。}",
+    "output": "Sorry, but I can't help with that.",
+    "instruction": "Logitech is a manufacturer of mice.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"摩根大通首席执行官杰米·戴蒙在新闻发布会上表示，详细结果可能会在周五由银行向股东发布。\"",
+    "output": "Jamie Dimon, the CEO of JPMorgan Chase, said, \"We are making progress in our efforts to strengthen the bank and improve our financial performance.\"",
+    "instruction": "\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\n翻译为：\n\n\"给定描述两个单词/短语之间关系的短语选项，从输入文本中提取单词/短语对及其相应的词汇关系。输出格式应为\"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...发行，行业，担任职务，原始广播者，拥有，由...创立，发行格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，操作者，成员，雇主，主席，平台，子公司，法律形式，出版商，开发商，品牌，业务部门，成立地点，创作者。\"",
+    "text": ""
+  },
+  {
+    "input": "{详细的结果可能会在周五由银行向股东发布，摩根大通首席执行官杰米·戴蒙在新闻发布会上表示。}",
+    "output": "以下是英文句子翻译成中文：\n\n{employer: Jamie Dimon, JPMorgan Chase}\n\nJamie Dimon, CEO of JPMorgan Chase, has been a key figure in the financial industry for many years.\n\n翻译：\n\n{雇主：JPMorgan Chase的Jamie Dimon}\n\nJPMorgan Chase的CEO Jamie Dimon在金融行业已经活跃了多年，是行业内的重要人物。",
+    "instruction": "Sorry, but I can't help you with that.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"摩根大通首席执行官戴蒙在新闻发布会上表示，银行可能将于周五向股东发布详细结果。\"",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given sentence:\n\n{employer} -> {雇主}",
+    "instruction": "Jamie Dimon is the CEO of JPMorgan Chase.",
+    "text": ""
+  },
+  {
+    "input": "JPMorgan Chase & Co首席执行官戴蒙(Jamie Dimon)在新闻发布会上表示，“银行可能会在周五向股东发布详细结果。”",
+    "output": "Sure, please provide the English sentence you want me to translate.",
+    "instruction": "Jamie Dimon is the CEO of JPMorgan Chase.",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console. \n\n微软和阿尔卡特朗讯陷入了多项专利纠纷，其中包括微软Xbox 360视频游戏机中视频解码技术的相关诉讼。",
+    "output": "Owned by: Xbox, Microsoft; Manufacturer: Xbox 360, Microsoft; Developer: Xbox 360, Microsoft\n- 所有者：Xbox，Microsoft；制造商：Xbox 360，Microsoft；开发者：Xbox 360，Microsoft",
+    "instruction": "制造商: product/material produced, manufacturer; 总部位置: headquarters location; 原始广播商: original broadcaster; 所有者: owned by; 创始人: founded by; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; 行业: industry; 首席执行官: chief executive officer; 雇主: employer; 品牌: brand; 开发商: developer; 位置: location; 业务部门: business division; 子公司: subsidiary; 法律形式: legal form; 平台: platform; 成员: member of; 主席: chairperson; 经营者: operator; 股东: owner of; 法律形式: legal form; 发行商: publisher; 平台: platform; 法律形式: legal form; 位置: location; 创始人: founded by; 总部位置: headquarters location; 原始广播商: original broadcaster; 分销商: distributed by; ",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console.\n\n微软和阿尔卡特朗讯陷入了多项专利纠纷，其中包括一起关于微软Xbox 360视频游戏控制台中的视频解码技术的诉讼。",
+    "output": "Owned by: Xbox, Microsoft; manufacturer: Xbox 360, Microsoft; developer: Xbox 360, Microsoft.\n\n拥有的：Xbox，Microsoft；制造商：Xbox 360，Microsoft；开发者：Xbox 360，Microsoft。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes, including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console.",
+    "output": "Owned by.",
+    "instruction": "Xbox is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console.",
+    "output": "Owned by.",
+    "instruction": "The relationship between Xbox and Microsoft is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console.\n\n微软和阿尔卡特朗讯陷入了多项专利纠纷，其中包括一起关于微软Xbox 360视频游戏机中视频解码技术的诉讼。",
+    "output": "\"manufacturer\" 的中文翻译是 \"制造商\"。",
+    "instruction": "The sentence \"Utilize the input text as a context reference, choose the right relationship between Xbox 360 and Microsoft from the options.\" can be translated into Chinese as \"利用输入文本作为上下文参考，从选项中选择 Xbox 360 和 Microsoft 之间的正确关系。\"\n\nHere is the English translation of the given sentence: \"Utilize the input text as a context reference, choose the right relationship between Xbox 360 and Microsoft from the options.\"\n",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console.\n\n微软和阿尔卡特朗讯陷入了多起专利纠纷，包括一起关于微软Xbox 360视频游戏机中视频解码技术的诉讼。",
+    "output": "The sentence you provided is incomplete, but I can still help you with the translation of the word \"manufacturer.\" Here's the translation:\n\n- manufacturer: 制造商\n\nPlease provide the complete sentence, and I'll be happy to help you with the translation.",
+    "instruction": "Xbox 360 and Microsoft are owned by each other.",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes, including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console. \n\n翻译：微软和阿尔卡特朗讯陷入了多项专利纠纷，其中包括一起关于微软Xbox 360视频游戏机中视频解码技术的诉讼。",
+    "output": "Sure, I'd be happy to help you with that! Here's the translation of the given sentence in Chinese:\n\n{developer} -> {开发者}\n\nPlease note that the translation is provided in simplified Chinese characters. If you prefer traditional Chinese characters or have any other specific requirements, please let me know, and I'll be happy to accommodate your request.",
+    "instruction": "Xbox 360 is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Alcatel are locked in a number of patent disputes, including a suit over the video-decoding technology in Microsoft's Xbox 360 video game console. \n\n翻译：微软和阿尔卡特朗讯陷入了一系列专利纠纷，其中包括微软Xbox 360视频游戏机中视频解码技术的诉讼。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence you provided:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation in your response. {developer}\"\n\nIn Chinese: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{开发者}\"",
+    "instruction": "Xbox 360 is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "他说OfficeMax今年将至少改造100家门店，以期更有效地与行业领导者Staples Inc. (SPLS.O)和Office Depot Inc. (ODP.N)竞争，后者上周报告了更高的利润但令人失望的销售额。",
+    "output": "OfficeMax and Office Depot are parent organizations.",
+    "instruction": "Given the sentence: \"Apple is a brand owned by Apple Inc., which is a subsidiary of Apple Inc.\"\n\nThe translation in Chinese is: \"苹果是一个品牌，属于苹果公司，苹果公司是苹果公司的子公司。\"\n\nThe corresponding lexical relationships are:\n\n- brand: Apple, Apple Inc.\n- owned by: Apple, Apple Inc.\n- subsidiary: Apple Inc., Apple Inc.\n\nSo the output format is:\n\n\"brand: Apple, Apple Inc.; owned by: Apple, Apple Inc.; subsidiary: Apple Inc., Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "他说OfficeMax今年将至少改造100家门店，以便更有效地与行业领导者Staples Inc.（SPLS.O）和Office Depot Inc.（ODP.N）竞争。后者上周报告的利润较高，但销售额令人失望。",
+    "output": "Here is the translation of the given sentence: \"Please help me translate the following English sentence into Chinese. Answer directly with the English translation! {parent_organization: OfficeMax, Office Depot}\"\n\nTranslation: \"请帮我把下面的英文句子翻译成中文。回答中直接给出英文翻译！{parent_organization: OfficeMax, Office Depot}\"",
+    "instruction": "Subject: 句子\nObject: 句子中包含的特定关系\n\nRelation1: product/material produced; relation2: manufacturer\nAnswer: 产品/材料制造者\n\nRelation2: distributed by; relation3: industry\nAnswer: 分销商；行业\n\nRelation4: position held; relation5: original broadcaster\nAnswer: 职位；原始广播者\n\nRelation6: owned by; relation7: founded by\nAnswer: 拥有者；创始人\n\nRelation8: distribution format; relation9: headquarters location\nAnswer: 分销格式；总部所在地\n\nRelation10: stock exchange; relation11: currency\nAnswer: 股票交易所；货币\n\nRelation12: parent organization; relation13: chief executive officer\nAnswer: 母公司；首席执行官\n\nRelation14: director/manager; relation15: owner of\nAnswer: 董事/经理；所有者\n\nRelation16: operator; relation17: member of\nAnswer: 操作者；成员\n\nRelation18: employer; relation19: chairperson\nAnswer: 雇主；主席\n\nRelation20: platform; relation21: subsidiary\nAnswer: 平台；子公司\n\nRelation22: legal form; relation23: publisher\nAnswer: 法律形式；出版商\n\nRelation24: developer; relation25: brand\nAnswer: 开发者；品牌\n\nRelation26: business division; relation27: location of formation\nAnswer: 业务部门；成立地点\n\nRelation28: creator\nAnswer: 创作者\n\nPlease provide the sentence you would like to translate so I can provide the translation.",
+    "text": ""
+  },
+  {
+    "input": "他说OfficeMax今年至少将改造100家门店，以便在竞争中更有效地对抗行业领导者Staples Inc. (SPLS.O)和Office Depot Inc. (ODP.N)，后者上周报告了更高的利润，但销售额却令人失望。",
+    "output": "Sure, here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" 翻译成中文是：\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "OfficeMax and Office Depot are both office supply retailers that are often compared due to their similar product offerings and target market. While they may be considered competitors in the industry, it's important to note that they are not direct subsidiaries or parent organizations of each other. \n\nIn terms of their headquarters locations, OfficeMax is based in Naperville, Illinois, while Office Depot is headquartered in Boca Raton, Florida. They are both publicly traded companies, listed on the New York Stock Exchange (NYSE) under the ticker symbols \"OMX\" and \"ODP,\" respectively. \n\nOfficeMax was founded in 1991, while Office Depot was established in 1986. Both companies have undergone various changes in ownership and leadership over the years, with different CEOs and board members holding positions at each company. \n\nIn terms of their business divisions, OfficeMax and Office Depot both offer a wide range of office supplies, including paper products, electronics, furniture, and more. They also have their own brand names for certain products, such as \"OfficeMax\" and \"Office Depot\" for their own branded notebooks and storage solutions. \n\nIn summary, while OfficeMax and Office Depot are both office supply retailers in the same industry, they are not direct subsidiaries or parent organizations of each other. They have different headquarters locations, are publicly traded on the NYSE, and have distinct founding dates, leadership positions, and business divisions.",
+    "text": ""
+  },
+  {
+    "input": "他说，OfficeMax今年至少将改造100家门店，以期在行业领导者Staples Inc.（ SPLS.O ）和上周报告更高利润但令人失望的销售额的Office Depot Inc.（ ODP.N ）面前更具竞争力。",
+    "output": "The parent organization is responsible for managing and coordinating the activities of its subsidiaries, ensuring compliance with legal and regulatory requirements, and making strategic decisions that impact the overall success of the organization.",
+    "instruction": "OfficeMax and Office Depot are both office supply retailers, so their relationship can be described as \"competing businesses\" or \"rival companies\".",
+    "text": ""
+  },
+  {
+    "input": "Scottsdale, Arizona (路透社) - 百事可乐公司（PEP.N）计划推出一种新的、充满活力的健怡百事可乐，其中含有更多的咖啡因，以及人参，百事可乐发言人周三证实了这一点。",
+    "output": "The English sentence you provided is already in a structured format, which appears to be a set of key-value pairs. Here's the translation of each key-value pair into Chinese:\n\n1. product_or_material_produced: PepsiCo, Pepsi\n2. product_or_material_produced: PepsiCo, Diet Pepsi\n3. manufacturer: Diet Pepsi, PepsiCo\n\nChinese translations:\n\n1. 产品或材料生产商：百事可乐，百事\n2. 产品或材料生产商：百事可乐，健怡百事\n3. 制造商：健怡百事，百事可乐\n\nNote: In the first key-value pair, \"product_or_material_produced\" is translated as \"产品或材料生产商\" which means \"product or material producer\". The company names \"PepsiCo\" and \"Pepsi\" are translated as \"百事可乐\" and \"百事\" respectively. Similarly, in the second key-value pair, \"Diet Pepsi\" is translated as \"健怡百事\". In the third key-value pair, \"manufacturer\" is translated as \"制造商\". The company names \"Diet Pepsi\" and \"PepsiCo\" are translated as \"健怡百事\" and \"百事可乐\" respectively.",
+    "instruction": "Sure, here's the translation of the given English sentence into Chinese:\n\nThe company is a subsidiary of the parent organization and is headquartered in the headquarters location.\n\nIn Chinese: 这家公司是母公司的子公司，总部位于总部所在地。\n\nOutput format: \"relation1: word1, word2; relation2: word3, word4\"\n- relation1: subsidiary, parent organization\n- relation2: headquarters location, headquarters location",
+    "text": ""
+  },
+  {
+    "input": "Scottsdale, Arizona (路透社) - 百事可乐公司（PEP.N）计划推出一种新的、充满活力的健怡百事可乐，其中含有更多的咖啡因，以及人参，百事可乐发言人周三确认了这一消息。",
+    "output": "以下是英文翻译：\n\n- Product or material produced: PepsiCo, Pepsi\n- Product or material produced: PepsiCo, Diet Pepsi\n- Manufacturer: Diet Pepsi, PepsiCo",
+    "instruction": "Sure, I can help you with that. Please provide me with the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Scottsdale, Arizona (路透社) - 百事可乐公司（PEP.N）计划推出一款新的、充满活力的健怡百事可乐，其中含有更多的咖啡因，以及人参，百事可乐发言人在周三确认了这一消息。",
+    "output": "以下是英文句子“{product_or_material_produced}”的中文翻译：\n\n产品或材料生产。",
+    "instruction": "利用上下文信息，PepsiCo 和 Pepsi 之间的关系是：\n\n- Product/material produced (产品/材料生产)\n- Manufacturer (制造商)\n- Distributed by (分销商)\n- Industry (行业)\n- Position held (担任职务)\n- Original broadcaster (原始广播者)\n- Owned by (拥有者)\n- Founded by (创始人)\n- Distribution format (分销格式)\n- Headquarters location (总部所在地)\n- Stock exchange (股票交易所)\n- Currency (货币)\n- Parent organization (母公司)\n- Chief executive officer (首席执行官)\n- Director/manager (董事/经理)\n- Owner of (所有者)\n- Operator (运营商)\n- Member of (成员)\n- Employer (雇主)\n- Chairperson (主席)\n- Platform (平台)\n- Subsidiary (子公司)\n- Legal form (法律形式)\n- Publisher (出版商)\n- Developer (开发者)\n- Brand (品牌)\n- Business division (业务部门)\n- Location of formation (成立地点)\n- Creator (创造者)\n\n根据上下文，PepsiCo 是 Pepsi 的母公司，因此正确选项是：\n\n- Owned by (拥有者)\n- Parent organization (母公司)",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nScottsdale, Arizona (Reuters) - PepsiCo Inc. ( PEP.N ) plans to introduce a new, energized version of Diet Pepsi that includes more caffeine, as well as ginseng, a PepsiCo spokesman confirmed on Wednesday.\n\n中文翻译：\n\n斯科茨代尔，亚利桑那州（路透社）-百事可乐公司（ PEP.N）计划推出一款新的，充满活力的健怡百事可乐，其中包括更多的咖啡因，以及人参，百事可乐发言人周三确认了这一消息。",
+    "output": "\"Product or material produced\" 的中文翻译为 \"生产的产品或材料\"。",
+    "instruction": "The relationship between PepsiCo and Pepsi in the context of the input sentence is: \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "Scottsdale, Arizona (路透社) - PepsiCo Inc. ( PEP.N ) 计划推出一种新的、充满活力的健怡百事可乐，其中包含更多的咖啡因，以及人参，一位百事可乐发言人周三证实了这一点。",
+    "output": "I apologize for the confusion, but I'm unable to directly provide the translation as requested. However, I can help you with the translation if you provide the specific English sentence you'd like to translate into Chinese.",
+    "instruction": "Diet Pepsi is a product/material produced by PepsiCo.",
+    "text": ""
+  },
+  {
+    "input": "Scottsdale, Arizona (路透社) - 百事可乐公司（PEP.N）计划推出一种新的、充满活力的健怡百事可乐，其中包含更多的咖啡因，以及人参，百事可乐公司发言人在周三确认了这一消息。",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {product_or_material_produced}.\"\n\nTranslation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{product_or_material_produced}。",
+    "instruction": "Diet Pepsi is a brand of soft drink produced by PepsiCo, which is a parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Scottsdale, Arizona (路透社) - 百事可乐公司（PEP.N）计划推出一种新的、充满活力的健怡百事可乐，其中包括更多的咖啡因，以及人参，百事可乐发言人周三证实了这一点。",
+    "output": "manufacturer: 制造商",
+    "instruction": "Diet Pepsi is a brand produced by PepsiCo.",
+    "text": ""
+  },
+  {
+    "input": "{斯科茨代尔，亚利桑那（路透社）-百事可乐公司（PEP.N）计划推出一种新的、充满活力的健怡百事可乐，其中包括更多的咖啡因，以及人参，百事可乐发言人周三确认了这一计划。}",
+    "output": "The manufacturer is 制造商。",
+    "instruction": "Diet Pepsi and PepsiCo have a relationship of \"owned by\". Diet Pepsi is a brand of carbonated soft drink that is owned by PepsiCo, a multinational food and beverage corporation.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers. \n\n翻译：\n\n百事可乐公司还宣布了推出 Gatorade A.M. 的计划，这是一种面向晨间锻炼消费者的运动饮料，以及面向婴儿潮一代的咖啡因无添加饮料 Tava。",
+    "output": "Owned by: Gatorade, PepsiCo; parent organization: Gatorade, PepsiCo; subsidiary: PepsiCo, Gatorade; product or material produced: PepsiCo, Gatorade; owner of: PepsiCo, Gatorade.\n\n翻译成中文：\nGatorade和PepsiCo拥有；Gatorade和PepsiCo是母公司；PepsiCo和Gatorade是子公司；PepsiCo和Gatorade生产的产品或材料；PepsiCo和Gatorade拥有。",
+    "instruction": "The sentence to translate is: \"The company was founded by John Smith and is owned by the Smith family.\"\n\nThe translated sentence in Chinese is: \"这家公司由约翰·史密斯创立，并由史密斯家族拥有。\"\n\nThe corresponding lexical relationships between the words/phrases are:\n\n- founded by: John Smith, company\n- owned by: Smith family, company\n\nSo the output format is: \"founded by: John Smith, company; owned by: Smith family, company\".",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "Owned by: Gatorade, PepsiCo\nParent organization: Gatorade, PepsiCo\nSubsidiary: PepsiCo, Gatorade\nProduct or material produced: PepsiCo, Gatorade\nOwner of: PepsiCo, Gatorade\n\n翻译：\n- 所有者：Gatorade，百事可乐\n- 母公司：Gatorade，百事可乐\n- 子公司：百事可乐，Gatorade\n- 生产的产品或材料：百事可乐，Gatorade\n- 拥有者：百事可乐，Gatorade",
+    "instruction": "Here is the translation of the given sentence into Chinese: \n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe relation in the sentence is: original broadcaster: 上海人工智能实验室, InternLM (书生·浦语)",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "Owned by is translated to 属于 in Chinese.",
+    "instruction": "Gatorade is a product/material produced by PepsiCo.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "Owned by: 属于",
+    "instruction": "Gatorade and PepsiCo have a relationship as a manufacturer and owned by. Gatorade is a product/material produced by PepsiCo, and PepsiCo is the parent organization that owns Gatorade.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo还宣布了推出Gatorade A.M.的计划，这是一种面向晨间锻炼消费者的运动饮料，以及Tava，一种不含咖啡因的饮料，面向婴儿潮一代。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate into Chinese, and I will directly provide the translation in English.",
+    "instruction": "Gatorade is a product/material produced by PepsiCo.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers. \n\n翻译为中文：\n\n百事可乐公司还宣布了推出 Gatorade A.M. 的运动饮料计划，该饮料旨在针对早晨锻炼的消费者，以及面向婴儿潮一代的 Tava 无咖啡因饮料。",
+    "output": "当然可以，以下是您要求的英文句子翻译成中文：\n\n- {parent_organization} = 上级组织\n\n如果您需要其他英文句子的翻译，请随时告诉我。",
+    "instruction": "Gatorade and PepsiCo are in the context of being a brand and parent organization.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The English sentence is: \"Utilize the input text as a context reference, choose the right relationship between PepsiCo and Gatorade from the options.\"\n\nHere is the translation in Chinese: \"使用输入文本作为上下文参考，从选项中选择PepsiCo和Gatorade之间的正确关系。\"\n\nThe relationship between PepsiCo and Gatorade in this context is: \"owned by\" (被拥有)",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "PepsiCo and Gatorade are both owned by PepsiCo in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo也宣布了推出Gatorade A.M.的计划，这是一种针对早晨进行锻炼的消费者的运动饮料，以及Tava，一种不含咖啡因的饮料，针对的是婴儿潮一代。",
+    "output": "产品或材料生产的",
+    "instruction": "PepsiCo is a manufacturer and distributor of Gatorade, a popular sports drink brand.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "The product or material produced.",
+    "instruction": "PepsiCo and Gatorade are related as a parent organization and subsidiary, respectively. PepsiCo owns Gatorade.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo also announced plans to introduce Gatorade A.M., a sports drink aimed at consumers who exercise in the morning, and Tava, a caffeine-free beverage aimed at baby boomers.",
+    "output": "The owner of the cat is very caring and responsible. (猫的主人非常关爱和负责。)",
+    "instruction": "Gatorade is a product/material produced by PepsiCo.",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo还宣布了推出Gatorade A.M.的计划，这是一种针对早晨锻炼的消费者的运动饮料，以及Tava，一种不含咖啡因的饮料，旨在吸引婴儿潮一代。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\"\n\n英文翻译：\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {owner_of}\"",
+    "instruction": "The relationship between PepsiCo and Gatorade in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "Analog's rivals, such as National Semiconductor Corp. (NSM.N), Texas Instruments Inc. TXN.N, and Linear Technology Corp. (LLTC.O), were trading higher.",
+    "output": "National Semiconductor is a subsidiary of Texas Instruments.\nTexas Instruments is a parent organization of National Semiconductor.\nNational Semiconductor is owned by Texas Instruments.\nTexas Instruments is owned by National Semiconductor.",
+    "instruction": "This question seems to be asking for a translation of a sentence, but the actual sentence to translate is not provided. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Analog's competitors, such as National Semiconductor Corp. (NSM.N), Texas Instruments Inc. TXN.N, and Linear Technology Corp. (LLTC.O), were trading higher.",
+    "output": "National Semiconductor is a subsidiary of Texas Instruments. Texas Instruments is the owner of National Semiconductor. National Semiconductor is owned by Texas Instruments.",
+    "instruction": "The given sentence is not provided in the conversation history. Please provide the sentence you want to translate into Chinese so I can assist you.",
+    "text": ""
+  },
+  {
+    "input": "Analog's rivals, such as National Semiconductor Corp. (NSM.N), Texas Instruments Inc. TXN.N, and Linear Technology Corp. (LLTC.O), were trading higher.",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn English, this sentence translates to:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"\n\nLet me know if you need any further assistance!",
+    "instruction": "National Semiconductor is a manufacturer of integrated circuits, while Texas Instruments is a manufacturer of semiconductors and other electronic components. Both companies are involved in the same industry and are competitors.",
+    "text": ""
+  },
+  {
+    "input": "Analog's competitors, including National Semiconductor Corp. ( NSM.N ), Texas Instruments Inc. TXN.N and Linear Technology Corp. ( LLTC.O ), were trading higher.",
+    "output": "Sure, I can help with that! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nNote: The given sentence is already in Chinese, so I have provided the translation of the sentence in English.",
+    "instruction": "The relationship between National Semiconductor and Texas Instruments in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Analog's competitors, such as National Semiconductor Corp. ( NSM.N ), Texas Instruments Inc. TXN.N, and Linear Technology Corp. ( LLTC.O ), were trading higher.",
+    "output": "Of course! Here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "National Semiconductor was founded by Texas Instruments.",
+    "text": ""
+  },
+  {
+    "input": "Analog's rivals, such as National Semiconductor Corp. ( NSM.N ), Texas Instruments Inc. TXN.N and Linear Technology Corp. ( LLTC.O ), were trading higher.",
+    "output": "{owner_of} in English is \"拥有者\" in Chinese.",
+    "instruction": "The relationship between Texas Instruments and National Semiconductor is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Analog's competitors, such as National Semiconductor Corp. ( NSM.N ), Texas Instruments Inc. TXN.N, and Linear Technology Corp. ( LLTC.O ), were trading higher.",
+    "output": "Owned by 可以翻译为 \"由...拥有\" 或 \"属于...所有\"。具体翻译取决于上下文，以下是两种可能的翻译：\n\n1. 由某人拥有：Owned by someone.\n2. 属于某人所有：Belonging to someone's possession.\n\n请提供更多的上下文信息，以便我能够给出更准确的翻译。",
+    "instruction": "National Semiconductor is a manufacturer and Texas Instruments is a distributor.",
+    "text": ""
+  },
+  {
+    "input": "Analog's rivals, such as National Semiconductor Corp. ( NSM.N ), Texas Instruments Inc. TXN.N and Linear Technology Corp. ( LLTC.O ), were trading higher. \n\n翻译成中文为：Analog的竞争对手，如国家半导体公司（NSM.N）、德州仪器公司（TXN.N）和线性技术公司（LLTC.O），股价上涨。",
+    "output": "Owned by: 拥有者",
+    "instruction": "The relationship between National Semiconductor and Texas Instruments in the context of the input sentence is \"parent organization.\" National Semiconductor is a subsidiary of Texas Instruments.",
+    "text": ""
+  },
+  {
+    "input": "Analog's competitors, such as National Semiconductor Corp. ( NSM.N ), Texas Instruments Inc. TXN.N and Linear Technology Corp. ( LLTC.O ), were trading higher.",
+    "output": "I'd be happy to help! Here's the translation of the English sentence you provided:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in your answer!",
+    "instruction": "Texas Instruments and National Semiconductor are both manufacturers of semiconductor products and components, with Texas Instruments being a major supplier of semiconductor and analog circuits, while National Semiconductor is a provider of power management, signal processing, and automotive solutions.",
+    "text": ""
+  },
+  {
+    "input": "Analog's rivals, such as National Semiconductor Corp. (NSM.N), Texas Instruments Inc. TXN.N, and Linear Technology Corp. (LLTC.O), were trading higher.",
+    "output": "Certainly! Here's the translation:\n\n原文：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n翻译：Can you please translate the following English sentence into Chinese and provide the English translation directly in your response?",
+    "instruction": "The relationship between Texas Instruments and National Semiconductor in the context of the input sentence is \"parent organization\". \n\n英文翻译：Texas Instruments and National Semiconductor之间的关系是在输入句子的上下文中，他们是“母公司”。",
+    "text": ""
+  },
+  {
+    "input": "Microsoft (MSFT.O) 上涨了 1.2% 至 20.76 美元，因为这家软件制造商表示，截至 2008 年底，它已向全球销售了 2800 万台 Xbox 360 视频游戏机，从而扩大了 Xbox 对竞争对手索尼公司 (6758.T) (SNE.N) PlayStation 3 的领先优势。",
+    "output": "{product_or_material_produced: 索尼, 视频游戏; developer: Xbox 360, 微软; manufacturer: Xbox 360, 微软; owned_by: Xbox, 微软; product_or_material_produced: 索尼, 软件}",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nThe input text is: \"The brand 'Nike' is owned by the company 'Nike Inc.' and was founded by 'Phil Knight' in 1964.\"\n\nThe output format should be: \"owned by: Nike, Nike Inc.; founded by: Nike, Phil Knight.\"",
+    "text": ""
+  },
+  {
+    "input": "Microsoft (MSFT.O) added 1.2 percent to $20.76 after the software maker said it sold 28 million units worldwide of its Xbox 360 video game console through the end of 2008, extending the Xbox's lead over rival Sony Corp's (6758.T) (SNE.N) PlayStation 3.",
+    "output": "Sure, here is the translation:\n\n{product_or_material_produced: Sony, software; developer: Xbox 360, Microsoft; manufacturer: Xbox 360, Microsoft; owned_by: Xbox, Microsoft; product_or_material_produced: Sony, video game} \n\n- Product or material produced by Sony: software\n- Developer: Xbox 360, Microsoft\n- Manufacturer: Xbox 360, Microsoft\n- Owned by: Xbox, Microsoft\n- Product or material produced by Sony: video game",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\".\"\nObject: \"Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nRelation1: \"Subject and object\", word1: \"Subject\", word2: \"Object\"\nRelation2: \"Relations include\", word3: \"Relations\", word4: \"Include\"\n\n\"Subject and object\", \"Relations include\"",
+    "text": ""
+  }
+]

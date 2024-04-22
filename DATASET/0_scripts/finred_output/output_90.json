@@ -1,0 +1,302 @@
+[
+  {
+    "input": "生产商，包括Alcoa Inc和Rusal，最近批评中国日益增长的出口量是导致铝原价暴跌的因素之一。",
+    "output": "产品或材料生产：Alcoa，铝",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nIn Chinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{给出的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对及其相应的词汇关系。输出格式应为\"relation1: word1, word2; relation2: word3, word4\"。选项：product/material produced，manufacturer，distributed by，industry，position held，original broadcaster，owned by，founded by，distribution format，headquarters location，stock exchange，currency，parent organization，chief executive officer，director/manager，owner of，operator，member of，employer，chairperson，platform，subsidiary，legal form，publisher，developer，brand，business division，location of formation，creator。}\"\n\nPlease note that the translation provided is in Chinese, and the English phrases given in the input are kept as they are in the output.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"包括Alcoa Inc和Rusal在内的生产商最近抨击了中国激增的出口量，认为这是导致初级铝价暴跌的因素之一。\"",
+    "output": "Alcoa, 铝。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nPlease provide the input sentence for translation.",
+    "text": ""
+  },
+  {
+    "input": "\"包括Alcoa Inc和Rusal在内的生产商最近抨击了中国激增的出口量，将其视为铝价暴跌的因素之一。\"",
+    "output": "{product_or_material_produced}",
+    "instruction": "Alcoa is a manufacturer of aluminum products.",
+    "text": ""
+  },
+  {
+    "input": "生产商，包括Alcoa Inc和Rusal，最近抨击中国激增的出口作为下跌的原铝价格因素之一。",
+    "output": "The translation of the given English sentence to Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" Here is the English translation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer.\"",
+    "instruction": "Alcoa is a manufacturer of aluminum, which is a product/material produced by the company.",
+    "text": ""
+  },
+  {
+    "input": "SEATTLE and CINCINNATI, July 22, 2015 /PRNewswire/ -- Zillow Group (NASDAQ:Z), which houses a portfolio of the largest and most vibrant real estate and home-related brands on mobile and Web, today announced it has entered into a definitive agreement to buy DotLoop, a Cincinnati-based company that simplifies real estate transactions by enabling brokerages, real estate agents, and their clients to share, edit, sign and store documents digitally.\n\nZillow Group (NASDAQ:Z) today announced it has entered into a definitive agreement to buy DotLoop, a Cincinnati-based company that simplifies real estate transactions by enabling brokerages, real estate agents, and their clients to share, edit, sign and store documents digitally.",
+    "output": "总部所在地：Zillow，西雅图。",
+    "instruction": "The English sentence is: \"Apple is the manufacturer of iPhone and iPad, and it is distributed by Apple Inc. in the technology industry.\"\n\nThe corresponding Chinese translation is: \"苹果公司是iPhone和iPad的制造商，并且由苹果公司（Apple Inc.）在科技行业分销。\"\n\nThe relation-word pair and corresponding lexical relationship between them are as follows:\n\n- manufacturer: Apple, iPhone\n- distributed by: Apple Inc., iPhone\n\nSo the output format is: \"manufacturer: Apple, iPhone; distributed by: Apple Inc., iPhone\".",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"SEATTLE and CINCINNATI, July 22, 2015 /PRNewswire/ -- Zillow Group (NASDAQ:Z), which houses a portfolio of the largest and most vibrant real estate and home-related brands on mobile and Web, today announced it has entered into a definitive agreement to buy DotLoop, a Cincinnati-based company that simplifies real estate transactions by enabling brokerages, real estate agents, and their clients to share, edit, sign and store documents digitally.\"\n\n\"SEATTLE and CINCINNATI, July 22, 2015 /PRNewswire/ -- Zillow Group (NASDAQ:Z), which houses a portfolio of the largest and most vibrant real estate and home-related brands on mobile and Web, today announced it has entered into a definitive agreement to buy DotLoop, a Cincinnati-based company that simplifies real estate transactions by enabling brokerages, real estate agents, and their clients to share, edit, sign and store documents digitally.\"",
+    "output": "总部位置：Zillow, SEATTLE\n\n英文翻译：Headquarters Location: Zillow, SEATTLE.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nHere is the translation of the given sentence into Chinese:\n\n根据输入的句子，请提取句子中包含某种关系的宾语和主语，根据以下关系类型，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；所有者；创始人；分销格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。\n\n以下是给定句子的中文翻译：\n\n根据输入的句子，请提取句子中包含某种关系的宾语和主语，根据以下关系类型，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；所有者；创始人；分销格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。\n\n以下是给定句子的中文翻译：\n\n根据输入的句子，请提取句子中包含某种关系的宾语和主语，根据以下关系类型，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；所有者；创始人；分销格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。\n\n以下是给定句子的中文翻译：\n\n根据输入的句子，请提取句子中包含某种关系的宾语和主语，根据以下关系类型，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；所有者；创始人；分销格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\n\n{西雅图和辛辛那提，2015年7月22日/PRNewswire/--Zillow Group（纳斯达克股票代码：Z），是一家在移动和Web上拥有最大且最具活力的房地产和房屋相关品牌的投资组合的公司，今天宣布已与位于辛辛那提的DotLoop公司达成最终协议，该公司在简化房地产交易方面发挥了作用，使经纪公司、房地产经纪人和他们的客户能够共享、编辑、签署和存储文档。}\n\n我希望这个翻译能够满足您的需求。",
+    "output": "总部所在地：{headquarters_location}",
+    "instruction": "Zillow is a real estate and rental marketplace company based in Seattle, Washington, United States. It was founded by Rich Barton and Lars Dalgaard in 2005. The company is publicly traded on the Nasdaq Global Select Market under the symbol Z and is a member of the S&P 500 Index. Zillow's headquarters are located in Seattle, Washington. The company's primary business is real estate and rental listings, and it operates in the real estate and property industry. Its chief executive officer is Joe Allen.",
+    "text": ""
+  },
+  {
+    "input": "SEATTLE and CINCINNATI, July 22, 2015 /PRNewswire/ -- Zillow Group (NASDAQ:Z), which houses a portfolio of the largest and most vibrant real estate and home-related brands on mobile and Web, today announced it has entered into a definitive agreement to buy DotLoop, a Cincinnati-based company that simplifies real estate transactions by enabling brokerages, real estate agents, and their clients to share, edit, sign and store documents digitally.",
+    "output": "The headquarters location is in the downtown area.",
+    "instruction": "The relationship between Zillow and Seattle in the context of the input sentence is \"headquarters location.\"",
+    "text": ""
+  },
+  {
+    "input": "{Wed, Jul 22, 2015, 08:28 BST - UK Markets close in 8 hrs 2 mins FishBrain, 'Facebook for fishers', raises $8m in round led by Spotify backer By Lauren Davidson | Telegraph – 1 hour 28 minutes ago 33.125 +0.255} \n\nThe English translation is: \"On Wednesday, July 22, 2015, at 8:28 BST, the UK markets will close in 8 hours and 2 minutes. FishBrain, also known as 'Facebook for fishers', has raised $8 million in a round led by Spotify backer. By Lauren Davidson, Telegraph – 1 hour 28 minutes ago, the stock price is 33.125 +0.255.\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{distributed_by: close, Spotify}\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {distributed_by: close, Spotify}.\"",
+    "instruction": "Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nNote: The given phrase doesn't contain any specific word/phrase pair or lexical relationship to extract. Therefore, the output format \"relation1: word1, word2; relation2: word3, word4\" is not applicable in this case.",
+    "text": ""
+  },
+  {
+    "input": "{Wed, Jul 22, 2015, 08:28 BST - UK Markets close in 8 hrs 2 mins FishBrain, 'Facebook for fishers', raises $8m in round led by Spotify backer By Lauren Davidson | Telegraph – 1 hour 28 minutes ago 33.125 +0.255}\n\n\"周三，7月22日，格林威治标准时间上午8:28，英国市场将在8小时2分钟后关闭。FishBrain，一款“鱼类的Facebook”，在由Spotify支持者领导的轮次中筹集了800万美元。由Lauren Davidson撰写，《泰晤士报》发布，距今1小时28分钟前。33.125 +0.255\"",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{distributed_by: close, Spotify}\" 翻译成中文为：\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{distributed_by: close, Spotify}\"。",
+    "instruction": "Sorry, I'm unable to directly translate the given instruction into Chinese as it contains multiple relations and formats. However, I can provide the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nRelation types:\n- product/material produced: 产品/材料生产\n- manufacturer: 制造商\n- distributed by: 由...分销\n- industry: 行业\n- position held: 担任职位\n- original broadcaster: 原始广播者\n- owned by: 由...拥有\n- founded by: 由...创立\n- distribution format: 分销格式\n- headquarters location: 总部所在地\n- stock exchange: 股票交易所\n- currency: 货币\n- parent organization: 母公司\n- chief executive officer: 首席执行官\n- director/manager: 董事/经理\n- owner of: 拥有者\n- operator: 运营商\n- member of: 成员\n- employer: 雇主\n- chairperson: 主席\n- platform: 平台\n- subsidiary: 子公司\n- legal form: 法律形式\n- publisher: 出版商\n- developer: 开发者\n- brand: 品牌\n- business division: 业务部门\n- location of formation: 成立地点\n- creator: 创造者",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n英文句子：\n{Wed, Jul 22, 2015, 08:28 BST - UK Markets close in 8 hrs 2 mins FishBrain, 'Facebook for fishers', raises $8m in round led by Spotify backer By Lauren Davidson | Telegraph – 1 hour 28 minutes ago 33.125 +0.255}\n\n中文翻译：\n英国时间2015年7月22日 08:28，英国市场将在8小时2分钟内关闭。FishBrain，被称为“渔民的Facebook”，在由Spotify支持者领导的轮次中筹集了800万美元。由Lauren Davidson撰写的文章，发表于Telegraph。距离现在1小时28分钟前，FishBrain的股价为33.125美元，上涨了0.255美元。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Close is a social media platform, and Spotify is a music streaming platform. The relationship between them is \"platform\" and \"subsidiary\" respectively.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n日期：2015年7月22日\n时间：格林威治标准时间上午8:28\n地点：英国\n距离市场收盘时间：8小时2分钟\n\n公司：FishBrain\n描述：类似于Facebook的钓鱼社交平台\n融资情况：在Spotify支持者的带领下，FishBrain筹集了800万美元。\n\n报道来源：Telegraph\n发布时间：1小时28分钟前\n股价：33.125美元\n股价变动：上涨0.255美元",
+    "output": "{distributed_by} can be translated to \"由...分发\" in Chinese.",
+    "instruction": "The relationship between close and Spotify in the context of the input sentence is \"distributed by\". \n\nSo, the answer is: distributed by.",
+    "text": ""
+  },
+  {
+    "input": "{Kimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.}\n\nKimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $925 million ($1.25 billion) and reported results that exceeded analysts' expectations, just days before the e-commerce company separates its PayPal transactions business.",
+    "output": "- eBay, an e-commerce company, is owned by PayPal.\n- PayPal, a subsidiary of eBay, owns eBay.\n- eBay is a subsidiary of PayPal.",
+    "instruction": "Sure, I can help with that! Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Kimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.\n\n翻译：\n斯宾塞·索珀（Spencer Soper）撰写的《金伯利·怀特》（Kimberly White）表示，易趣（eBay）已同意以9.25亿美元（12.5亿美元）的价格将其企业部门出售给由私募股权主导的团体，并在易趣即将分拆其PayPal交易业务的前几天，报告了超出分析师预期的业绩。",
+    "output": "PayPal is a subsidiary of eBay, which is also the owner of PayPal. Both eBay and PayPal are in the e-commerce industry.",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you'd like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Kimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.\n\nKimberly White by Spencer Soper eBay已同意将其企业部门以9.25亿美元（12.5亿美元）的价格出售给一家私募股权主导的集团，并在电商公司分拆其PayPal交易业务之前报告了超出分析师预期的业绩。",
+    "output": "I'm sorry, but I can't see the English sentence you want me to translate. Please provide the sentence so I can help you.",
+    "instruction": "eBay is a platform that revolutionized the e-commerce industry by connecting buyers and sellers online. It was founded in 1995 by Pierre Omidyar and has since grown to become one of the largest online marketplaces in the world. eBay operates in various countries and has a diverse range of products and services, including online auctions, fixed-price sales, and business-to-business transactions. The company is publicly traded on the NASDAQ stock exchange and has a strong presence in the online retail industry.",
+    "text": ""
+  },
+  {
+    "input": "Kimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.",
+    "output": "Sure, I can help you with that. Here's the translation:\n\n{industry}",
+    "instruction": "The relationship between eBay and e-commerce is that eBay is a platform for e-commerce.",
+    "text": ""
+  },
+  {
+    "input": "\"Spencer Soper 的 Kimberly White 报道称，eBay 同意将其企业部门以 9.25 亿美元（12.5 亿美元）的价格出售给由私募股权主导的集团，并在电商公司拆分 PayPal 交易业务之前发布了超出分析师预期的业绩。\"",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {owner_of}.\"\n\nThe Chinese translation is: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译：{owner_of}。\"\n\nThe English translation of \"{owner_of}\" is: \"owner_of\".",
+    "instruction": "PayPal is a subsidiary of eBay.",
+    "text": ""
+  },
+  {
+    "input": "\"Spencer Soper by Kimberly White eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.\"",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" 的中文翻译是：\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {owner_of}\"。",
+    "instruction": "The relationship between eBay and PayPal is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "Kimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business. \n\n翻译：\n金伯利·怀特（Spencer Soper）报道，易趣已经同意将其企业部门以9.25亿美元（12.5亿美元）的价格出售给一家私募股权主导的集团，并在易趣电商公司拆分其PayPal交易业务之前，报告了超出分析师预期的业绩。",
+    "output": "Owned by 的中文翻译为 \"属于\"。",
+    "instruction": "PayPal is a subsidiary of eBay.",
+    "text": ""
+  },
+  {
+    "input": "Spencer Soper by Kimberly White eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.",
+    "output": "Owned by 可以翻译为 \"属于\" 或 \"由...所有\"，具体取决于上下文。以下是一些可能的翻译示例：\n\n1. 如果 \"Owned by\" 后面跟着一个名词，那么它通常表示 \"属于\"，例如：\n   - This book is owned by me. （这本书属于我。）\n   - The company is owned by its shareholders. （这家公司由股东所有。）\n\n2. 如果 \"Owned by\" 后面跟着一个人名，那么它通常表示 \"由...所有\"，例如：\n   - The restaurant is owned by John Smith. （这家餐厅由约翰·史密斯所有。）\n   - The car is owned by my parents. （这辆车属于我父母。）\n\n请注意，\"Owned by\" 在中文中通常不需要翻译成汉字，因为它是一个常用的英文短语，直接使用英文单词即可。",
+    "instruction": "PayPal and eBay have a relationship of \"owned by\". PayPal is a subsidiary of eBay.",
+    "text": ""
+  },
+  {
+    "input": "Kimberly White by Spencer Soper eBay has agreed to sell its enterprise unit to a private-equity-led group for $US925 million ($1.25 billion) and reported results that topped analysts' estimates, days before the e-commerce company spins off its PayPal transactions business.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese, and I'll give you the translation directly in English.",
+    "instruction": "PayPal is owned by eBay.",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n\n\"Spencer Soper 报道，Kimberly White 同意以 9.25 亿美元（约合 1.25 亿美元）的价格将其企业部门出售给一家由私募股权主导的集团，并在该公司即将拆分其 PayPal 交易业务之前报告了超出分析师预期的业绩。\"",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The relationship between eBay and PayPal in the context of the input sentence is: owned by. \n\nHere is the translation of the input sentence into Chinese: \n\n原句：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n翻译：Please help me translate the following English sentence into Chinese. Provide the English translation directly in the answer. \n\nIn this sentence, the relationship between eBay and PayPal is that eBay owns PayPal.",
+    "text": ""
+  },
+  {
+    "input": "The company was building its presence on social media sites such as Facebook, Pinterest and Instagram, he said in a conference call. = 他说，该公司正在通过在Facebook、Pinterest和Instagram等社交媒体平台上建立存在感。",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Pinterest, social media} = Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation! {industry: Pinterest, social media}\"",
+    "instruction": "This task requires a Natural Language Processing (NLP) model that can identify and extract the relationships between words/phrases from a given sentence. Here's how I can help you with that:\n\n1. **Step 1: Preprocessing**\n   - Remove any punctuation marks and convert the text to lowercase for easier processing.\n   - Tokenize the text into individual words/phrases.\n\n2. **Step 2: Identify Relationships**\n   - For each word/phrase pair, check if it matches any of the given options.\n   - If a match is found, record the relationship and the corresponding words/phrases.\n\n3. **Step 3: Format Output**\n   - Combine the identified relationships and words/phrases into the required output format.\n\nHere's an example implementation in Python using the Natural Language Toolkit (NLTK) library:\n\n```python\nimport nltk\nfrom nltk.tokenize import word_tokenize\n\n# Given sentence\nsentence = \"The product/material produced by the manufacturer is distributed by the industry.\"\n\n# Preprocessing\nsentence = sentence.lower().replace('.', '')\ntokens = word_tokenize(sentence)\n\n# Identify relationships\nrelationships = {}\nfor i in range(len(tokens) - 1):\n    word1 = tokens[i]\n    word2 = tokens[i + 1]\n    if word1 + \" \" + word2 in [\"product/material produced\", \"manufacturer\", \"distributed by\", \"industry\"]:\n        relationships[word1 + \" \" + word2] = word1, word2\n\n# Format output\noutput = \";\".join([f\"{relation}: {word1}, {word2}\" for relation, (word1, word2) in relationships.items()])\nprint(output)\n```\n\nThis code will output:\n\n```\nproduct/material produced: product, material; manufacturer: manufacturer; distributed by: distributed, by; industry: industry\n```\n\nThis is just a basic implementation, and you may need to refine it based on your specific requirements and the complexity of the input sentences. Additionally, you might want to consider using more advanced NLP techniques, such as dependency parsing or coreference resolution, to improve the accuracy of the relationship extraction.",
+    "text": ""
+  },
+  {
+    "input": "{他说，公司在社交媒体网站如Facebook，Pinterest和Instagram上建立其存在感。}",
+    "output": "Sure, here's the translation of the sentence: \"Pinterest is a social media platform that allows users to discover and share ideas, photos, and other content they love.\"\n\nIn Chinese, this would be: \"Pinterest是一个社交媒体平台，允许用户发现和分享他们喜欢的想法、照片和其他内容。\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nPlease provide the input sentence for translation.",
+    "text": ""
+  },
+  {
+    "input": "该公司在社交媒体网站如Facebook、Pinterest和Instagram上建立其存在感，他在电话会议上说。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "利用输入文本作为上下文参考，选择正确的关系，将Pinterest和社交媒体之间的正确关系从选项中选择。选项：产品/材料生产，制造商，分销商，行业，担任的职务，原始广播者，所有者，创立者，分销格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。",
+    "text": ""
+  },
+  {
+    "input": "The company was building its presence on social media sites such as Facebook, Pinterest and Instagram, he said in a conference call.\n翻译：\n他说，公司在社交媒体平台如Facebook、Pinterest和Instagram上建立了自己的存在。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The relationship between Pinterest and social media in the context of the input sentence is \"platform\".",
+    "text": ""
+  },
+  {
+    "input": "Last year, eBay announced plans to spin off PayPal following pressure from activist investor Carl Icahn, who said the slow-growing marketplace was holding back the payments business.\n\n去年，eBay 在激进投资者 Carl Icahn 的压力下宣布了拆分 PayPal 的计划，后者表示，缓慢增长的市场正在阻碍支付业务的发展。",
+    "output": "Owned by: PayPal, eBay; owner of: eBay, PayPal; subsidiary: eBay, PayPal.\n\nPayPal, eBay; eBay, PayPal; eBay, PayPal.",
+    "instruction": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Can you help me translate the following English sentence into Chinese, and provide the English translation directly in the answer?\"\n\nRelation: Owned by\n\nOwned by: Shanghai AI Laboratory (上海人工智能实验室)",
+    "text": ""
+  },
+  {
+    "input": "\"去年，eBay宣布计划在活动投资者Carl Icahn的压力下分拆PayPal，后者表示缓慢增长的市场正在阻碍支付业务。\"",
+    "output": "{owned_by: PayPal, eBay; owner_of: eBay, PayPal; subsidiary: eBay, PayPal}\n\n- 拥有者：PayPal, eBay\n- 所属者：eBay, PayPal\n- 子公司：eBay, PayPal",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n- 关系1: product/material produced; relation2: word1, word2\n- 关系2: manufacturer; relation3: word3, word4\n- 关系3: distributed by; relation4: word5, word6\n- 关系4: industry; relation5: word7, word8\n- 关系5: position held; relation6: word9, word10\n- 关系6: original broadcaster; relation7: word11, word12\n- 关系7: owned by; relation8: word13, word14\n- 关系8: founded by; relation9: word15, word16\n- 关系9: distribution format; relation10: word17, word18\n- 关系10: headquarters location; relation11: word19, word20\n- 关系11: stock exchange; relation12: word21, word22\n- 关系12: currency; relation13: word23, word24\n- 关系13: parent organization; relation14: word25, word26\n- 关系14: chief executive officer; relation15: word27, word28\n- 关系15: director/manager; relation16: word29, word30\n- 关系16: owner of; relation17: word31, word32\n- 关系17: operator; relation18: word33, word34\n- 关系18: member of; relation19: word35, word36\n- 关系19: employer; relation20: word37, word38\n- 关系20: chairperson; relation21: word39, word40\n- 关系21: platform; relation22: word41, word42\n- 关系22: subsidiary; relation23: word43, word44\n- 关系23: legal form; relation24: word45, word46\n- 关系24: publisher; relation25: word47, word48\n- 关系25: developer; relation26: word49, word50\n- 关系26: brand; relation27: word51, word52\n- 关系27: business division; relation28: word53, word54\n- 关系28: location of formation; relation29: word55, word56\n- 关系29: creator; relation30: word57, word58",
+    "text": ""
+  },
+  {
+    "input": "Last year, eBay announced plans to spin off PayPal following pressure from activist investor Carl Icahn, who said the slow-growing marketplace was holding back the payments business.\n\n去年，eBay 在激进投资者 Carl Icahn 的压力下宣布了分拆 PayPal 的计划，后者表示，这个增长缓慢的市场正在阻碍支付业务的发展。",
+    "output": "Owned by: 由...拥有。",
+    "instruction": "PayPal and eBay are related as follows: eBay is a subsidiary of PayPal.",
+    "text": ""
+  },
+  {
+    "input": "去年，eBay 宣布计划在激进投资者卡尔·伊坎的压力下分拆 PayPal，后者表示，这个缓慢增长的市场正在阻碍支付业务的发展。",
+    "output": "Owned by: 拥有者",
+    "instruction": "PayPal and eBay are owned by the same parent organization.",
+    "text": ""
+  },
+  {
+    "input": "去年，eBay宣布计划在激进投资者卡尔·伊坎的压力下分拆PayPal，后者表示，增长缓慢的市场正在阻碍支付业务的发展。",
+    "output": "The English sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\" can be translated to Chinese as \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{主人}\".\n\nIn this translation, \"owner_of\" is translated to \"主人\".",
+    "instruction": "The correct relationship between eBay and PayPal is \"owned by\". \n\nThe translation of the sentence into Chinese is: \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{利用输入文本作为上下文参考，从选项中选择 eBay 和 PayPal 之间的正确关系。选项：产品/材料生产，制造商，分发，行业，担任职务，原始广播者，拥有，由创立，分发格式，总部所在地，证券交易所，货币，母组织，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。}\"",
+    "text": ""
+  },
+  {
+    "input": "\"去年，eBay 宣布了在活动投资者 Carl Icahn 的压力下分拆 PayPal 的计划，后者表示缓慢增长的市场正在阻碍支付业务的发展。\"",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 可以翻译为：\"Help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "The relationship between eBay and PayPal is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "去年，eBay 宣布在激进投资者 Carl Icahn 的压力下，计划剥离 PayPal。Carl Icahn 表示，这家增长缓慢的市场正在拖累支付业务。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "PayPal is owned by eBay.",
+    "text": ""
+  },
+  {
+    "input": "Last year, eBay announced plans to spin off PayPal following pressure from activist investor Carl Icahn, who said the slow-growing marketplace was holding back the payments business. \n\n去年，eBay 在激进投资者 Carl Icahn 的压力下宣布计划将 PayPal 分拆出去，后者表示，这个缓慢增长的市场正在阻碍支付业务的发展。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese, and I'll provide the translation directly in the response.",
+    "instruction": "The relationship between eBay and PayPal is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "The Amazon Prime Day sale will start on July 15, 2015 at Midnight PT, according to a press release by Amazon.",
+    "output": "Owned by: Amazon Prime, Amazon\n- 由：亚马逊Prime，亚马逊拥有。",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nTranslation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}",
+    "text": ""
+  },
+  {
+    "input": "The Amazon Prime Day sale will start on July 15, 2015 at Midnight PT, according to a press release by Amazon. 翻译成中文为：根据亚马逊发布的新闻稿，亚马逊Prime Day的促销活动将于2015年7月15日午夜太平洋时间开始。",
+    "output": "Owned by Amazon Prime, Amazon.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe given sentence is: \"Apple is a technology company that was founded by Steve Jobs and Steve Wozniak in April 1976.\"\n\nExtracted relations: \"relation1: Apple, technology company; relation2: Steve Jobs, Steve Wozniak; relation3: April 1976.\"\n\nThe subject is \"Apple\" and the object is \"technology company\". The relation is \"founded by\" and the subjects are \"Steve Jobs\" and \"Steve Wozniak\". The relation is \"in\" and the object is \"April 1976\".",
+    "text": ""
+  },
+  {
+    "input": "The Amazon Prime Day sale will start on July 15, 2015 at Midnight PT, according to a press release by Amazon.\n\n根据亚马逊发布的新闻稿，亚马逊Prime日促销活动将于2015年7月15日凌晨12点PT开始。",
+    "output": "Owned by: 由...所有。",
+    "instruction": "Amazon Prime is distributed by Amazon.",
+    "text": ""
+  },
+  {
+    "input": "The Amazon Prime Day sale will start on July 15, 2015 at Midnight PT, according to a press release by Amazon. \n\n亚马逊发布的新闻稿称，亚马逊Prime日大促销将于2015年7月15日凌晨12点开始。",
+    "output": "Owned by: 拥有者",
+    "instruction": "Amazon Prime and Amazon are related as a subsidiary and parent organization. Amazon Prime is a subsidiary of Amazon, which is the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "{任何人想要提前了解优惠活动，都可以看看亚马逊发布的亚马逊Prime Day的预览。}",
+    "output": "Owned by: Amazon Prime, Amazon.",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response.\n\nNote: The given instruction is not a sentence but rather a set of instructions for the task of translating English sentences into Chinese. The translation provided above is for the given instruction itself, not for any English sentence that might be provided in a different context.",
+    "text": ""
+  },
+  {
+    "input": "\"任何人想要提前了解优惠信息，可以查看亚马逊发布的亚马逊Prime日抢先预览。\"",
+    "output": "Owned by Amazon Prime, Amazon.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！ {Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\n\nTranslation: Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}",
+    "text": ""
+  },
+  {
+    "input": "\"任何人想要在交易上抢占先机，都应该看看亚马逊发布的亚马逊Prime Day的预览。\"",
+    "output": "The sentence you provided is not complete. Please provide the full sentence so I can translate it for you.",
+    "instruction": "Amazon Prime is a subscription-based service offered by Amazon, an e-commerce giant and technology company. It provides users with a range of benefits, including free two-day shipping, access to streaming services like Amazon Prime Video and Prime Music, and exclusive deals and discounts on various products. The service is available to customers in many countries worldwide. As a subscription-based service, Amazon Prime is not a product or material produced by Amazon, but rather a service offered by the company. Therefore, the relationship between Amazon Prime and Amazon can be described as \"owned by.\"",
+    "text": ""
+  },
+  {
+    "input": "{任何希望在交易中抢先一步的人都可以看看亚马逊发布的亚马逊Prime Day的预览。}",
+    "output": "Owned by: 拥有者",
+    "instruction": "Amazon Prime and Amazon are related as a product/material produced by the company.",
+    "text": ""
+  },
+  {
+    "input": "Primark heads to Italy as ABF warns currency costs could bite\nThe discount retail chain is setting up shop near Milan as it continues its global expansion\nPrimark's first US store opens in September\nPhoto: EPA",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Primark, retail}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{行业：Primark，零售}\n\nPlease note that the translation provided is in the context of the given sentence and the industry mentioned. The translation may vary depending on the specific context and the industry being referred to.",
+    "instruction": "\"苹果公司由史蒂夫·乔布斯和史蒂夫·沃兹尼亚克共同创立，总部位于加利福尼亚州库比提诺，主要生产个人电脑、平板电脑、智能手机、智能手表等产品。\" \n- relation1: founded by, Steve Jobs, Steve Wozniak; relation2: headquarters location, Cupertino, California; relation3: product/material produced, personal computers, tablets, smartphones, smartwatches.",
+    "text": ""
+  },
+  {
+    "input": "Primark heads to Italy as ABF warns currency costs could bite\nThe discount retail chain is setting up shop near Milan as it continues its global expansion\nPrimark's first US store opens in September\nPhoto: EPA",
+    "output": "Primark is a retail company that specializes in selling affordable and trendy clothing, accessories, and home goods. They are known for their fast fashion and minimalist design aesthetic. The brand originated in Ireland and has since expanded to multiple countries around the world. Primark is known for its competitive prices and wide variety of products, making it a popular choice for budget-conscious shoppers.",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\nRelation: product/material produced: \"Apple Inc. produces iPhones.\"\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: manufacturer: \"Apple Inc. is the manufacturer of iPhones.\"\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distributed by: \"Apple Inc. distributes iPhones.\"\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: industry: \"Apple Inc. is in the technology industry.\"\n\nSubject: Tim Cook\nObject: Apple Inc.\nRelation: position held: \"Tim Cook holds the position of CEO at Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: chief executive officer: \"Tim Cook is the CEO of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: director/manager: \"Tim Cook is a director and manager at Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: owner of: \"Tim Cook owns shares of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: operator: \"Tim Cook operates as the CEO of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: member of: \"Tim Cook is a member of the board of directors at Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: employer: \"Tim Cook is employed by Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: chairperson: \"Tim Cook holds the position of chairperson at Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: platform: \"Tim Cook uses Apple Inc.'s products and services.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: subsidiary: \"Tim Cook is a subsidiary of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: legal form: \"Tim Cook is a legal entity of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: publisher: \"Tim Cook is published by Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: developer: \"Tim Cook is developed by Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: brand: \"Tim Cook is a brand of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: business division: \"Tim Cook is a business division of Apple Inc.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: location of formation: \"Tim Cook was formed in Cupertino, California, USA.\"\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: creator: \"Tim Cook was created by Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "Primark is heading to Italy as ABF warns currency costs could increase. The discount retail chain is opening a store near Milan as it continues its global expansion. Primark's first US store is set to open in September. Photo: EPA.",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Primark is a brand under the parent organization of Associated British Foods plc. (ABF), a British multinational conglomerate. ABF is the owner of Primark and is responsible for its distribution and operations. Primark is a retail brand that specializes in affordable fashion clothing and accessories for men, women, and children.",
+    "text": ""
+  },
+  {
+    "input": "Primark heads to Italy as ABF warns currency costs could bite The discount retail chain is setting up shop near Milan as it continues its global expansion Primark's first US store opens in September Photo: EPA\n翻译成中文：\nPrimark进军意大利，ABF警告货币成本可能增加。这家折扣零售商正在米兰附近开店，以继续其全球扩张。Primark的第一家美国门店将于9月开业。图片：EPA",
+    "output": "The industry refers to a sector of the economy that is involved in the production or distribution of goods or services.",
+    "instruction": "Primark is a brand, and in the context of the input sentence, it is related to retail as a business division.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nNintendo President Satoru Iwata passes away due to a tumor, following a successful and tumultuous tenure leading Japan's video game company. By Yuri Kageyama, AP Business Writer, 4 hours ago.",
+    "output": "Nintendo's chief executive officer is Satoru Iwata, and the company was formed in Japan.",
+    "instruction": "Sure, here's the translation: \n\nThe given English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer.\"\n\nThe translated Chinese sentence is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe corresponding lexical relationship between the two words/phrases is: \"translator\" and \"Chinese\".",
+    "text": ""
+  },
+  {
+    "input": "Nintendo President Satoru Iwata 去世，肿瘤致死，他带领日本游戏公司经历了成功与困境。",
+    "output": "{首席执行官：任天堂，岩田聪；成立地点：任天堂，日本}",
+    "instruction": "Subject: Apple, Inc.\nObject: iPhone\n\nRelation: product/material produced\n\nTranslation: 苹果公司生产的 iPhone。",
+    "text": ""
+  },
+  {
+    "input": "Nintendo 社长 岩田 茂 因肿瘤去世 岩田 茂 领导日本游戏公司取得成功和挫折后去世，Yuri Kageyama 4 小时前报道",
+    "output": "The phrase \"{chief_executive_officer}\" translates to \"首席执行官\" in Chinese.",
+    "instruction": "Nintendo is the manufacturer of the product/material produced by Satoru Iwata.",
+    "text": ""
+  },
+  {
+    "input": "Nintendo 社长 岩田 茂 因肿瘤去世 岩田 茂 社长 在带领日本游戏公司取得成功和遭遇困难后去世，由 AP 商业作家 Yuri Kageyama 4 小时前报道。",
+    "output": "Chief Executive Officer: 首席执行官。",
+    "instruction": "Nintendo and Satoru Iwata have a relationship of \"founder\" in the context of the input sentence.",
+    "text": ""
+  }
+]

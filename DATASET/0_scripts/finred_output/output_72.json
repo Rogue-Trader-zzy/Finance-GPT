@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"最后一英里优化，即由 FedEx Ground 负责配送 FedEx Express 的特定住宅和农村包裹，已在 26 个起始市场成功启动，并有 7 个额外市场计划于 7 月推出。\"",
+    "output": "Here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\nTranslation: \"请帮我把下面的句子翻译成中文，答案中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "FedEx Ground is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "\"Last mile optimization, which is delivery of specific FedEx Express residential and rural packages by FedEx Ground has successfully launched in 26 origin markets with an additional seven markets scheduled in July.\" 翻译为中文为：\"最后一公里优化，即联邦快递地面公司负责配送联邦快递快件的特定住宅和农村包裹，已在26个始发市场成功启动，另有7个市场计划于7月加入。\"",
+    "output": "The parent organization is the company that holds a controlling interest in the subsidiary and is responsible for its overall management and strategy.",
+    "instruction": "FedEx Ground and FedEx are related as a subsidiary and parent organization. FedEx Ground is a subsidiary of FedEx, which means that FedEx Ground is a part of FedEx's larger business structure. FedEx is the parent organization, which means it is the larger company that owns and controls FedEx Ground. This relationship indicates that FedEx Ground operates under the authority and guidance of FedEx, and its business activities are integrated into FedEx's overall operations.",
+    "text": ""
+  },
+  {
+    "input": "The last mile optimization, which is the delivery of specific FedEx Express residential and rural packages by FedEx Ground, has successfully launched in 26 origin markets with an additional seven markets scheduled in July.",
+    "output": "Sure, I'd be happy to help you with that! Here's the translation of the sentence you provided:\n\n{parent_organization}",
+    "instruction": "FedEx Express is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "{最后一英里优化，即由联邦快递地面公司交付联邦快递快递的特定住宅和农村包裹，已在26个起点市场成功启动，并计划于7月增加7个市场。}",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\nThe English translation of the given sentence is:\n\n\"Please help me translate the following English sentence into Chinese. The answer should be given in English directly! {parent_organization}\"\n\nPlease note that I have translated the given sentence into Chinese and provided the English translation as requested. If you have any other questions or need further assistance, please feel free to ask!",
+    "instruction": "The relationship between FedEx Express and FedEx in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. 高利润率的包裹在 FedEx Office 地点分拣和提货，推动了 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "FedEx is the parent organization of FedEx Office and FedEx Express, while FedEx Express is also a subsidiary of FedEx. Additionally, FedEx Office is a subsidiary of both FedEx and FedEx Express.",
+    "instruction": "I'm sorry, but I need more context to understand which specific English sentence you would like me to translate into Chinese. Please provide the sentence so I can assist you better.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. 可以翻译为：高利润率的包裹在 FedEx Office 网点上下车，推动了 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "{subsidiary: FedEx, FedEx Express; parent_organization: FedEx Office, FedEx; parent_organization: FedEx Express, FedEx; subsidiary: FedEx, FedEx Office}\n\nThe given sentence is already in English, so no translation is required.",
+    "instruction": "Please provide the input sentence you would like me to translate and extract the information from.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. \n\n翻译为中文：\n高利润包裹在 FedEx Office 地点上下车，推动了 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "FedEx Express is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground.\n\n高利润包裹在联邦快递办公室地点上下车，推动联邦快递快递和联邦快递地面实现盈利增长。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nHere's the direct English translation of the Chinese sentence:\n\n\"Please help me translate the following English sentence into Chinese. The answer should be given in English directly!\"\n\nI hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "FedEx and FedEx Express are both related to the same industry, which is the shipping and logistics industry. They are both owned by the same parent organization, FedEx Corporation.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. \n高利润率的包裹在 FedEx Office 地点进行交接和提货，驱动了 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "\"Parent Organization\" in Chinese is \"母公司\".",
+    "instruction": "FedEx Office is a subsidiary of FedEx, which is a parent organization.",
+    "text": ""
+  },
+  {
+    "input": "高利润包裹在联邦快递办公室地点进行配送，推动了联邦快递快递和联邦快递地面业务的有利增长。",
+    "output": "The parent organization is responsible for the overall management and coordination of the project.",
+    "instruction": "FedEx Office and FedEx are related as a subsidiary and parent organization.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. \n\n中文翻译：\n高利润包裹在 FedEx Office 地点上下车，推动了 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "\"Please help me translate the following English sentence into Chinese. Here is the English translation in your answer: {parent_organization}.\"",
+    "instruction": "FedEx Express is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. \n高利润包裹在 FedEx Office 地点上下架和提货，推动 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" translates to \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {parent_organization}\".",
+    "instruction": "FedEx Express is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "The high margin packages dropped off and picked up at FedEx Office locations drive profitable growth for FedEx Express and FedEx Ground. 翻译成中文为：高利润包裹在 FedEx Office 地点投递和取件，推动了 FedEx Express 和 FedEx Ground 的盈利增长。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary}\" into Chinese: \n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary}\"",
+    "instruction": "FedEx Office is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "高利润率的包裹在FedEx Office地点之间运输，推动了FedEx Express和FedEx Ground的盈利增长。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between FedEx and FedEx Office in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Integration expenses will be much lower in fiscal 2022 as we complete the physical network integration of TNT into FedEx Express.\n翻译为中文：\n2022财年的整合费用将大幅降低，因为我们完成了TNT与FedEx Express的物理网络整合。",
+    "output": "FedEx and TNT are express delivery service companies.",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nThe given sentence is not provided. Please provide the sentence you want to translate so that I can assist you with the translation.",
+    "text": ""
+  },
+  {
+    "input": "The integration expenses will be much lower in fiscal year 2022 as we complete the physical network integration of TNT into FedEx Express.",
+    "output": "FedEx and TNT's owner.",
+    "instruction": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nAnd here's the extracted subject and object containing a certain relation in the sentence according to the relation types you provided:\n\nrelation1: 句子, 翻译; relation2: 帮助, 翻译; relation3: 中文, 句子; relation4: 回答, 英文翻译; relation5: 直接, 英文翻译; relation6: 句子, 翻译; relation7: 句子, 中文; relation8: 句子, 英文翻译; relation9: 句子, 直接; relation10: 英文翻译, 英文翻译; relation11: 句子, 回答; relation12: 中文, 句子; relation13: 中文, 英文翻译; relation14: 句子, 直接; relation15: 英文翻译, 英文翻译; relation16: 句子, 回答; relation17: 中文, 句子; relation18: 中文, 英文翻译; relation19: 句子, 直接; relation20: 英文翻译, 英文翻译; relation21: 句子, 回答; relation22: 中文, 句子; relation23: 中文, 英文翻译; relation24: 句子, 直接; relation25: 英文翻译, 英文翻译; relation26: 句子, 回答; relation27: 中文, 句子; relation28: 中文, 英文翻译; relation29: 句子, 直接; relation30: 英文翻译, 英文翻译; relation31: 句子, 回答; relation32: 中文, 句子; relation33: 中文, 英文翻译; relation34: 句子, 直接; relation35: 英文翻译, 英文翻译; relation36: 句子, 回答; relation37: 中文, 句子; relation38: 中文, 英文翻译; relation39: 句子, 直接; relation40: 英文翻译, 英文翻译; relation41: 句子, 回答; relation42: 中文, 句子; relation43: 中文, 英文翻译; relation44: 句子, 直接; relation45: 英文翻译, 英文翻译; relation46: 句子, 回答; relation47: 中文, 句子; relation48: 中文, 英文翻译; relation49: 句子, 直接; relation50: 英文翻译, 英文翻译; relation51: 句子, 回答; relation52: 中文, 句子; relation53: 中文, 英文翻译; relation54: 句子, 直接; relation55: 英文翻译, 英文翻译; relation56: 句子, 回答; relation57: 中文, 句子; relation58: 中文, 英文翻译; relation59: 句子, 直接; relation60: 英文翻译, 英文翻译; relation61: 句子, 回答; relation62: 中文, 句子; relation63: 中文, 英文翻译; relation64: 句子, 直接; relation65: 英文翻译, 英文翻译; relation66: 句子, 回答; relation67: 中文, 句子; relation68: 中文, 英文翻译; relation69: 句子, 直接; relation70: 英文翻译, 英文翻译; relation71: 句子, 回答; relation72: 中文, 句子; relation73: 中文, 英文翻译; relation74: 句子, 直接; relation75: 英文翻译, 英文翻译; relation76: 句子, 回答; relation77: 中文, 句子; relation78: 中文, 英文翻译; relation79: 句子, 直接; relation80: 英文翻译, 英文翻译; relation81: 句子, 回答; relation82: 中文, 句子; relation83: 中文, 英文翻译; relation84: 句子, 直接; relation85: 英文翻译, 英文翻译; relation86: 句子, 回答; relation87: 中文, 句子; relation88: 中文, 英文翻译; relation89: 句子, 直接; relation90: 英文翻译, 英文翻译; relation91: 句子, 回答; relation92: 中文, 句子; relation93: 中文, 英文翻译; relation94: 句子, 直接; relation95: 英文翻译, 英文翻译; relation96: 句子, 回答; relation97: 中文, 句子; relation98: 中文, 英文翻译; relation99: 句子, 直接; relation100: 英文翻译, 英文翻译; relation101:",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：The integration expenses will be much lower in fiscal 2022 as we complete the physical network integration of TNT into FedEx Express.",
+    "output": "Sure, here is the translation of the sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation in the answer: {owner_of}\".\n\n中文翻译：\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\"。",
+    "instruction": "FedEx is a subsidiary of TNT.",
+    "text": ""
+  },
+  {
+    "input": "Integration expenses will be much lower in fiscal 2022 as we complete the physical network integration of TNT into FedEx Express.\n\n2022财年，我们将完成TNT与FedEx Express的物理网络整合，这将使整合费用大幅降低。",
+    "output": "The owner of the book is John Smith. \n\n翻译：约翰·史密斯是这本书的所有者。",
+    "instruction": "The relationship between FedEx and TNT in the context of the input sentence is: \"distributed by\". \n\nHere's the translation of the original sentence: \"请问你能帮我把下面这句话翻译成中文吗？{What is the relationship between FedEx and TNT in the context of the input sentence. Choose an answer from: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\" \n\nThe translation is: \"你能帮我把下面这句话翻译成中文吗？{FedEx和TNT之间的上下文句子是什么关系？从以下选项中选择一个答案：产品/材料生产者；制造商；由…发行；行业；担任的职位；原始广播者；由…拥有；由…创立；分发格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；拥有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者.}\"",
+    "text": ""
+  },
+  {
+    "input": "In the first half of fiscal 2021, we will complete the integration of FedEx SmartPost packages into standard FedEx Ground operations.",
+    "output": "FedEx Ground is a subsidiary of FedEx, which is also the parent organization of FedEx Ground.",
+    "instruction": "The English sentence you provided seems to be a set of instructions for a task, rather than a sentence that needs translation. Based on the given options, it appears you are asking for an extraction of a word/phrase pair and their corresponding lexical relationship from a text. However, without the actual text, I cannot provide the requested information. If you could provide the text, I would be happy to help.",
+    "text": ""
+  },
+  {
+    "input": "在2021财年上半年，我们将完成FedEx SmartPost包裹与标准FedEx Ground运营的整合。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translation in English is:\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"\n\nThe given information about the subsidiary and parent organization is as follows:\n- Subsidiary: FedEx, FedEx Ground\n- Parent Organization: FedEx Ground, FedEx",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nPlease provide the input sentence so I can extract the required information.",
+    "text": ""
+  },
+  {
+    "input": "In the first half of fiscal 2021, we will complete the integration of FedEx SmartPost packages into standard FedEx Ground operations.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "FedEx Ground is a subsidiary of FedEx, which is the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "在2021财年上半期，我们将完成联邦快递智能邮包与标准联邦快递地面运营的整合。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate.",
+    "instruction": "FedEx and FedEx Ground are both subsidiaries of FedEx Corporation, which is a global courier delivery services company. Therefore, the relationship between FedEx and FedEx Ground is that they are both part of the same parent organization.",
+    "text": ""
+  },
+  {
+    "input": "在2021财年上半年，我们将完成联邦快递智能邮包与标准联邦快递地面运营的整合。",
+    "output": "Sure, I'd be happy to help! The English sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer.\" translates to \"请帮我将下面的英文句子翻译成中文，直接在答案中给出英文翻译。\" in Chinese.",
+    "instruction": "FedEx Ground is a subsidiary of FedEx, which is an American multinational courier delivery company.",
+    "text": ""
+  },
+  {
+    "input": "2021财年的前半年，我们将完成联邦快递智能邮包与标准联邦快递地面操作的一体化整合。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence you provided:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {parent_organization}\"\n\nIn Chinese, the sentence would be: \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "FedEx Ground is a subsidiary of FedEx, which is the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "我们将继续专注于最后一英里居民优化，通过将某些美国日定居民和农村联邦快递快运货物引导到联邦快递地面网络中，以提高效率并降低我们的服务成本。",
+    "output": "\"FedEx Express and FedEx Ground are subsidiaries of FedEx, while FedEx Ground and FedEx Express are parent organizations of FedEx.\"",
+    "instruction": "Here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nIn Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{给出的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对以及它们之间的对应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产商，制造商，由...发行，行业，担任...，原始广播商，由...拥有，由...创立，分发格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，...拥有，...操作，...成员，...雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创造者。}\"",
+    "text": ""
+  },
+  {
+    "input": "我们将继续关注最后一英里住宅优化，通过将某些美国当天可送达的住宅和农村FedEx Express运单引导至FedEx Ground网络，以提高效率并降低我们的服务成本。",
+    "output": "The given English sentence seems to be a list of relationships between different organizations. Here is the translation into Chinese:\n\n\"下属组织：FedEx Express, FedEx Express; 下属组织：FedEx, FedEx Ground; 上级组织：FedEx Ground, FedEx; 上级组织：FedEx Express, FedEx\"\n\nIn English, this translates to:\n\n\"Subsidiaries: FedEx Express, FedEx Express; Subsidiaries: FedEx, FedEx Ground; Parent organizations: FedEx Ground, FedEx; Parent organizations: FedEx Express, FedEx\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe given sentence is: \"Apple is a multinational technology company founded by Steve Jobs and Steve Wozniak in April 1976.\"\n\nThe subject is \"Apple\" and the object is \"multinational technology company\". The relation is \"founded by\" and the words are \"Steve Jobs\" and \"Steve Wozniak\". Therefore, the answer is:\n\nfounded by: Steve Jobs, Steve Wozniak.",
+    "text": ""
+  },
+  {
+    "input": "我们会继续关注最后一英里住宅优化，通过将某些美国日定住宅和农村的联邦快递快递运往联邦快递地面网络，以提高效率并降低我们的服务成本。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "FedEx is a company that provides a wide range of services, including express delivery, freight shipping, and international shipping. It was founded in 1971 and is headquartered in Memphis, Tennessee. FedEx is a subsidiary of FedEx Corporation, which is a publicly traded company listed on the New York Stock Exchange. The CEO of FedEx is Raj Subramaniam, and the company has numerous subsidiaries and business divisions worldwide. FedEx is known for its efficient and reliable shipping services, and it has become a leading player in the logistics and transportation industry.",
+    "text": ""
+  },
+  {
+    "input": "我们将继续关注最后一英里的住宅优化，通过将某些美国当天确定型住宅和农村的联邦快递快件引导到联邦快递地面网络，以提高效率并降低我们的服务成本。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "FedEx and FedEx Express are both owned by the same parent organization, FedEx Corporation.",
+    "text": ""
+  },
+  {
+    "input": "我们会继续关注最后一英里的居民优化，通过将某些美国当天确定性居民和农村联邦快递快运货物转移到联邦快递地面网络，以提高效率并降低我们的服务成本。",
+    "output": "Of course! Here are the translations of the English sentences you provided:\n\n1. 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！ - Please help me translate the following English sentences into Chinese, and provide the English translation in your answer!\n2. 我喜欢吃水果。 - I like to eat fruit.\n3. 她正在学习如何弹钢琴。 - She is learning how to play the piano.\n4. 他的工作很忙碌，但他总是有时间陪伴家人。 - His work is very busy, but he always has time to spend with his family.\n5. 我喜欢在周末去公园散步。 - I like to go for a walk in the park on weekends.\n\nHope this helps! Let me know if you need any further assistance.",
+    "instruction": "\"FedEx Ground is a subsidiary of FedEx Corporation.\"",
+    "text": ""
+  },
+  {
+    "input": "我们将继续关注最后一英里的住宅优化，通过将某些美国当天确定性住宅和农村的FedEx Express货物引导至FedEx Ground网络，以提高效率并降低我们的服务成本。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese, and I'll give you the translation in English.",
+    "instruction": "FedEx and FedEx Ground are both subsidiaries of FedEx Corporation, which is the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "我们还将继续关注最后一英里居民优化，通过将某些美国当天交付的居民和农村联邦快递快递件定向到联邦快递地面网络，以提高效率并降低我们的服务成本。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" 的中文翻译是：\"请帮我将下面的英文句子翻译成中文，在回答中直接给出英文翻译！{parent_organization}\"。",
+    "instruction": "FedEx Ground is distributed by FedEx.",
+    "text": ""
+  },
+  {
+    "input": "我们会继续关注最后一英里住宅优化，通过将某些美国当天派送住宅和农村的联邦快递快递业务引导至联邦快递地面网络，以提高效率并降低我们的服务成本。",
+    "output": "Parent organization: 上级组织。",
+    "instruction": "FedEx Ground is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "我们会继续关注最后一英里的住宅优化，通过将某些美国当日住宅和农村联邦快递快递件导向联邦快递地面网络来提高效率并降低我们的服务成本。",
+    "output": "Parent organization: 上级机构。",
+    "instruction": "FedEx Express is a subsidiary of FedEx.",
+    "text": ""
+  },
+  {
+    "input": "我们还将继续关注最后一公里的居民优化，通过将某些美国当天到货的居民和农村联邦快递快件转移到联邦快递地面网络，以提高效率并降低我们的服务成本。",
+    "output": "The parent organization is {parent_organization}.",
+    "instruction": "FedEx Express and FedEx are related as a parent organization and subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "首先，我们要明确的是，我们在过去几个月里已经与TNT一起完成了许多活动，并且2021财年即将到来。现在，我们在欧洲地面上拥有一个出色的网络，我们将利用这个网络来促进B2B和B2C交通。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译成中文为 \"Help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nHere's the translation: \n\n\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nI have directly provided the English translation as per your request.",
+    "text": ""
+  },
+  {
+    "input": "首先，我们与TNT一起，在过去几个月里完成了许多活动，并且2021财年还有更多活动。现在，我们在欧洲拥有了令人惊叹的网络基础，我们将利用它来推动B2B和B2C的交通。",
+    "output": "{\"distributed_by\": \"by\", \"TNT\": \"TNT\"}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe input sentence is: \"Apple is the manufacturer of the iPhone and iPad, which are both distributed by Apple and its authorized resellers.\"\n\nThe subject is \"Apple\" and the object is \"iPhone and iPad\". The relation is \"manufacturer\" and \"distributed by\". So the translation would be:\n\n\"relation1: Apple, iPhone and iPad; relation2: manufacturer, distributed by.\"",
+    "text": ""
+  },
+  {
+    "input": "首先，我们需要与TNT一起，利用过去几个月已经完成的所有活动以及2021财政年度即将到来的一切，现在我们在欧洲拥有出色的地面网络，我们将利用这个网络进行B2B和B2C的交通。",
+    "output": "Here is the translation of the given English sentence into Chinese:\n\n{distributed_by} - 由 {distributed_by} 发布\n\n中文翻译：{distributed_by} - 由 {distributed_by} 发布",
+    "instruction": "The sentence you provided seems to be incomplete and does not provide enough context to translate accurately. However, I can give you an example of how to translate a complete sentence from English to Chinese:\n\nEnglish: \"The company is leveraging its resources to develop innovative products.\"\nChinese: \"该公司正在利用其资源开发创新产品。\"",
+    "text": ""
+  },
+  {
+    "input": "首先，我们要明确的是，我们与TNT在过去几个月中已经开展了多项活动，并且预计在2021财年还将有更多活动。目前，我们在欧洲已经建立起了一个出色的地面网络，我们将利用这个网络来促进B2B和B2C的流量。",
+    "output": "Distributed by.",
+    "instruction": "The relationship between leverage and TNT in the context of the input sentence is: product/material produced. \n\n英文翻译：\nThe relationship between leverage and TNT in the context of the input sentence is: product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "首先，我们需要了解该句子的上下文。根据句子内容，它似乎是在谈论一家公司，特别是TNT，在过去几个月和2021财政年度所做的活动，以及他们目前在欧洲的地面网络。以下是该句子的中文翻译：\n\n\"首先，我们需要了解该句子的上下文。根据句子内容，它似乎是在谈论一家公司，特别是TNT，在过去几个月和2021财政年度所做的活动，以及他们目前在欧洲的地面网络。以下是该句子的中文翻译：\"\n\n这句话翻译成中文是：\"首先，我们需要了解该句子的上下文。根据句子内容，它似乎是在谈论一家公司，特别是TNT，在过去几个月和2021财政年度所做的活动，以及他们目前在欧洲的地面网络。以下是该句子的中文翻译：\"\n\n在这个翻译中，\"first of all\"被翻译为\"首先\"，\"we are\"被翻译为\"我们\"，\"with\"被翻译为\"在\"，\"as TNT\"被翻译为\"特别是TNT\"，\"with all the activities\"被翻译为\"在过去几个月和2021财政年度所做的活动\"，\"we now have\"被翻译为\"我们目前有\"，\"a fantastic network\"被翻译为\"一个出色的网络\"，\"on the ground in Europe\"被翻译为\"在欧洲的地面网络\"，\"and we will leverage that for B2B and B2C traffic\"被翻译为\"我们将会利用这个网络进行B2B和B2C的流量。\"",
+    "output": "Sure, I can help with that! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between leverage and TNT from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "首先，我们已经在过去几个月里完成了许多活动，包括2021财年即将推出的活动，我们目前在欧洲拥有出色的地面网络，我们将利用这个网络来促进B2B和B2C交通。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between leverage and TNT in the context of the input sentence is \"distributed by\". The translated sentence is: \"请问，杠杆和TNT在输入句子的上下文中是什么关系？请从以下选项中选择答案：产品/材料生产者；制造商；分销商；行业；担任职务；原始广播者；所有者；创立者；分发格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。\"",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n- 此类因素可能包括但不限于以下内容：\n  - 大流行病（例如COVID-19大流行）的影响；\n  - 对汽车、家用电器、商用车辆、计算机和通信产业的依赖；\n  - 对一小部分大型客户的依赖，包括两家主要汽车客户；\n  - 因关税和我们的关税减轻能力而产生的国际贸易争端；\n  - 新项目推出的时间、质量和成本；\n  - 承受价格压力的能力，包括价格降低；\n  - 未能吸引和留住合格人员；\n  - Dabir Surfaces产品的市场和销售能力；\n  - 货币波动；\n  - 与全球运营相关的常规风险；\n  - 与环境健康和安全法规相关的成本；\n  - 抵御业务中断的能力；\n  - 商誉和长期资产减值损失的确认；\n  - 收购和分拆的成功受益能力；\n  - 在确认收入之前对项目的投资；\n  - 对材料可用性和价格的依赖；\n  - 对供应链的依赖；\n  - 与税收地位会计相关的判断；\n  - 所得税率的波动；\n  - 跟上快速技术变革的能力；\n  - 对信息技术的系统影响；\n  - 避免设计或制造缺陷的能力；\n  - 重组活动相关的成本；\n  - 有效竞争的能力；\n  - 保护知识产权的能力；\n  - Grakon的成功或我们利用和从收购技术的新应用中获利的能力；\n  - 与我们的长期激励计划中基于绩效的股票奖励相关的重大调整；\n  - 管理债务水平以及与此相关的任何限制；\n  - 因LIBOR的替换或修改而对利息支出的影响。",
+    "output": "Sure, here's the translation of the sentence you provided:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {platform: program, computer}\"\n\nThe translated sentence in Chinese is: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{平台: 程序，计算机}\"",
+    "instruction": "Given phrase: \"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text.\"\n\nTranslation: \"给定描述两个单词/短语之间关系的短语选项，从输入文本中提取单词/短语对及其对应的词汇关系。\"\n\nOutput format: \"relation1: word1, word2; relation2: word3, word4\"\n\nExample:\nInput: \"Apple is a company that produces iPhones, which are distributed by Apple Inc.\"\nOutput: \"product/material produced: Apple, iPhones; distributed by: Apple, Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文句子翻译成中文：\n\n- 这些因素可能包括但不限于以下内容：疫情影响，如COVID-19大流行；对汽车、家电、商用车辆、计算机和通信行业等的依赖；对少数大型客户的依赖，包括两家大型汽车客户；因关税和我们的关税缓解能力而导致的国际贸易争端；新项目推出的时间、质量和成本；承受价格压力的能力，包括价格削减；未能吸引和留住合格人员；成功营销和销售Dabir Surfaces产品；货币波动；全球运营相关的惯例风险；与环境健康和安全法规相关的成本；承受业务中断的能力；商誉和长期资产减值损失的确认；收购和剥离的成功受益能力；在收入确认之前对项目的投资；对材料可用性和价格的依赖；对供应链的依赖；关于税收地位的会计判断；所得税率波动；跟上快速技术变革的能力；对信息技术的系统影响；避免设计或制造缺陷的能力；重组活动相关的成本；竞争的有效性；保护知识产权的能力；Grakon的成功或我们成功实施和从收购技术的新应用中获益的能力；与我们的长期激励计划中基于绩效的股票奖励相关的重大调整；管理债务水平和相关限制的能力；以及因LIBOR的替换或修改而对利息支出的影响。",
+    "output": "Sure, I can help with that! Here's the translation:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{platform: program, computer}\"\n\nIn English, it would be:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in English! {platform: program, computer}\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nObject: \"Subject: 'Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.'\"\n\nRelation1: \"Subject and object\"\nRelation2: \"Certain relation in the sentence\"\nRelation3: \"Format of \"relation1: word1, word2; relation2: word3, word4\"\"\nRelation4: \"Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nRelation1: \"Subject and object\" - \"Subject: 'Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.'\"\nRelation2: \"Certain relation in the sentence\" - \"Object: 'Subject: 'Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.'\"\nRelation3: \"Format of \"relation1: word1, word2; relation2: word3, word4\" - \"Subject and object\"\nRelation4: \"Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n这些因素可能包括但不限于以下内容：大流行病（例如COVID-19大流行）的影响；对汽车、家用电器、商用车辆、计算机和通信产业的依赖；对少数大型客户的依赖，包括两个主要汽车客户；国际贸易争端导致的关税以及我们应对关税的能力；新产品发布的时间、质量和成本；承受价格压力的能力，包括价格降低；无法吸引和保留合格人员；成功营销和销售Dabir Surfaces产品的能力；货币波动；全球运营的常规风险；与环境健康和安全法规相关的成本；承受业务中断的能力；商誉和长期资产减值准备；收购和出售的成功；在确认收入之前对项目的投资；对材料可用性和价格的依赖；对供应链的依赖；对税收立法的会计判断；所得税率的波动；跟上快速技术变革的能力；信息技术的系统影响；避免设计或制造缺陷的能力；与重组活动相关的成本；竞争的有效性；知识产权的保护；Grakon的成功或我们成功实施和从收购技术的新应用中获益的能力；与我们的长期激励计划中的绩效股票奖励相关的重大支出调整；管理债务水平和相关限制的能力；以及因LIBOR的替代或修改而导致的利息支出的影响。",
+    "output": "Please help me translate the following English sentence into Chinese. Here is the English translation: {platform}",
+    "instruction": "The given sentence is not provided in the message, please provide the sentence that you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nSuch factors may include, without limitation, the following; impact from pandemics, such as the COVID-19 pandemic; dependence on the automotive, appliance, commercial vehicle, computer and communications industries; dependence on a small number of large customers, including two large automotive customers; international trade disputes resulting in tariffs and our ability to mitigate tariffs; timing, quality and cost of new program launches; ability to withstand price pressures, including pricing reductions; failure to attract and retain qualified personnel; ability to successfully market and sell Dabir Surfaces products; currency fluctuations; customary risks related to conducting global operations; costs associated with environmental health and safety regulations; ability to withstand business interruptions; recognition of goodwill and long-lived asset impairment charges; ability to successfully benefit from acquisitions and divestitures; investment in programs prior to the recognition of revenue; dependence on the availability and price of materials; dependence on our supply chain; judgments related to accounting for tax positions; income tax rate fluctuations; ability to keep pace with rapid technological changes; impacts to our information technology systems; ability to avoid design or manufacturing defects; costs associated with reorganization activities; ability to compete effectively; ability to protect our intellectual property; success of Grakon and/or our ability to implement and profit from new applications of the acquired technology; significant adjustments to expense related to our performance-based stock awards in our long-term incentive plan; ability to manage our debt levels and any restrictions thereunder; and impact to interest expense from replacement or modification of LIBOR.",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {platform}\"",
+    "instruction": "The relationship between program and computer in the context of the input sentence is: product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "对于第四季度，Conagra Frozen零售销售额较去年增长了26.2%，包括单份餐食、蔬菜、多份餐食和植物基肉替代品在内的每个冷冻类别都有强劲增长。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The answer should be given directly in English.\"\n\n{distribution_format: Frozen, single}",
+    "instruction": "The given phrase is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translation of the given phrase in English is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nSo, the output format should be: \"relation1: word1, word2; relation2: word3, word4\".\n\nIn this case, the relation1 is \"translation\" and the corresponding word pair is \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\", which translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\" in English.\n\nTherefore, the output is: \"translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "For the fourth quarter, total Conagra Frozen retail sales grew 26.2% over last year with strong growth across each Frozen category, including single serve meals, vegetables, multi-serve meals, and plant-based meat alternatives.\n\n第四季度，康尼格拉冷冻零售销售额比去年增长了26.2%，冷冻品类均实现了强劲增长，包括单份餐食、蔬菜、多份餐食以及植物性肉替代品。",
+    "output": "Sure, here is the translation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {distribution_format: Frozen, single}\"",
+    "instruction": "Subject: Apple, Object: iPhone; relation: product/material produced\nSubject: Apple, Object: iPhone; relation: manufacturer\nSubject: Apple, Object: iPhone; relation: distributed by\nSubject: Apple, Object: iPhone; relation: industry\nSubject: Apple, Object: iPhone; relation: position held\nSubject: Apple, Object: iPhone; relation: original broadcaster\nSubject: Apple, Object: iPhone; relation: owned by\nSubject: Apple, Object: iPhone; relation: founded by\nSubject: Apple, Object: iPhone; relation: distribution format\nSubject: Apple, Object: iPhone; relation: headquarters location\nSubject: Apple, Object: iPhone; relation: stock exchange\nSubject: Apple, Object: iPhone; relation: currency\nSubject: Apple, Object: iPhone; relation: parent organization\nSubject: Apple, Object: iPhone; relation: chief executive officer\nSubject: Apple, Object: iPhone; relation: director/manager\nSubject: Apple, Object: iPhone; relation: owner of\nSubject: Apple, Object: iPhone; relation: operator\nSubject: Apple, Object: iPhone; relation: member of\nSubject: Apple, Object: iPhone; relation: employer\nSubject: Apple, Object: iPhone; relation: chairperson\nSubject: Apple, Object: iPhone; relation: platform\nSubject: Apple, Object: iPhone; relation: subsidiary\nSubject: Apple, Object: iPhone; relation: legal form\nSubject: Apple, Object: iPhone; relation: publisher\nSubject: Apple, Object: iPhone; relation: developer\nSubject: Apple, Object: iPhone; relation: brand\nSubject: Apple, Object: iPhone; relation: business division\nSubject: Apple, Object: iPhone; relation: location of formation\nSubject: Apple, Object: iPhone; relation: creator",
+    "text": ""
+  },
+  {
+    "input": "For the fourth quarter, total Conagra Frozen retail sales grew 26.2% over last year with strong growth across each Frozen category, including single serve meals, vegetables, multi-serve meals, and plant-based meat alternatives.\n= 第四季度，Conagra Frozen的零售销售额比去年增长了26.2%，冷冻食品各类别都有强劲增长，包括单人份餐食、蔬菜、多人份餐食和植物肉替代品。",
+    "output": "Sure, I can help with that. Please provide me with the sentence you want me to translate.",
+    "instruction": "\"Frozen\" is a brand.",
+    "text": ""
+  },
+  {
+    "input": "For the fourth quarter, total Conagra Frozen retail sales grew 26.2% over last year with strong growth across each Frozen category, including single serve meals, vegetables, multi-serve meals, and plant-based meat alternatives.\n- 第四季度，Conagra Frozen零售销售额同比增长26.2%，各个冷冻品类均有强劲增长，包括单份餐食、蔬菜、多份餐食以及植物基肉替代品。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Frozen and single in the context of the input sentence is: product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "我们继续在最新的戴尔EMC PowerScale存储系统和戴尔EMC Ready解决方案的基础上，为VMware Cloud Foundation提供最广泛的IT基础设施组合。",
+    "output": "Dell Technologies, Dell EMC",
+    "instruction": "Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer.\n\nNote: I've translated the given sentence as per the instruction provided.",
+    "text": ""
+  },
+  {
+    "input": "我们继续在戴尔科技云上提供最广泛的基础设施组合，包括新戴尔EMC PowerScale存储系统和戴尔EMC Ready Solutions在VMware Cloud Foundation上。",
+    "output": "\"Dell Technologies, Dell EMC\" can be translated to \"戴尔科技，戴尔EMC\" in Chinese.",
+    "instruction": "Sorry, but I'm not able to provide the translation you're asking for as it goes beyond my capabilities as a language model. However, I can help you with other tasks such as answering questions, providing definitions, or translating other sentences. Let me know how I can assist you with something else.",
+    "text": ""
+  }
+]

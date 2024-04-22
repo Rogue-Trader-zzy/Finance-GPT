@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"高价啤酒推动SABMiller的季度基本销售额\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Standard Chartered lags on capital worries\" 可以翻译成中文：\"渣打银行因资本担忧落后\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The transaction is planned to be financed with a EUR40m market-based loan granted by Standard Chartered Bank Hong Kong.\" 翻译成中文为：“这笔交易计划通过香港标准渣打银行提供的40万欧元市场化贷款进行融资。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix正在测试共享密码的费用，这一举动可能意味着流媒体服务将出现新的标准。以下是为什么投资者应该关心这一点的原因。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果制造商富士康为员工制作口罩，强迫他们返回工作岗位。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Acando AB (ACANB SS) 下跌了 8.9% 至 13.35 克朗，这是自 12 月 11 日以来的最低收盘价。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P flat, Dow down after disappointing retail results.\n\n翻译成中文：标准普尔指数持平，道琼斯指数下跌，因为零售业的结果令人失望。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The impact on TietoEnator's net sales for 2008 from the purchase is expected to be some 11 mln euro $ 15.9 mln.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia will continue to invest in the future development of Qt, and Digia will be responsible for commercial licensing and services business.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每年需要大约4000亿美元来扭转人口下降的趋势。@OfficialZSL正在鼓励可持续... (英文翻译)",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国旅游股每个投资者都应该关注。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury's sales decline once more due to the impact of price pressures.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rio Tinto CEO says iron ore market at equilibrium. \n\n中文翻译：力拓CEO称铁矿石市场处于平衡状态。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Three of them have handily beaten the market this year. \n\n直接翻译为：今年，他们中的三个人已经轻松击败了市场。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：S&P 500 与商品市场的相对估值。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Google has long-term strong fundamentals with continued upward momentum since 2017. The technical analysis reveals that short-term markets should only be taken once market conditions improve for more optimal timing. Why keep capital tied up when you can get better performance.} \nGoogle has strong fundamentals with continued upward momentum since 2017. The technical analysis shows that short-term markets should only be taken when market conditions improve for better timing. Why tie up capital when you can achieve better performance?",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nMicron Shares Pounded On Fears Of Loss Of Business From Apple; Stifel Defends $AAPL $MU\n\n翻译成中文：\n\n美光股份因担心失去苹果业务而受到重挫；Stifel为$AAPL $MU辩护。\n\n注：$AAPL代表苹果公司的股票代码，$MU代表美光科技的股票代码。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年10月20日 - 芬兰环境管理公司Lassila & Tikanoja Oyj HEL: LAT1V，或L&T，周一表示，预计其2010年全年（不包括非经常性项目）的营业利润将略低于2009年。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Librarian Capital's Monthly Top Buys And Price Moves - March 2022}\n\n翻译：\n\n{图书资本的月度最佳购买和价格变动 - 2022年3月}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sony Ericsson and Nokia dominated the list of best-selling handsets with five models each.\n\n索尼爱立信和诺基亚在畅销手机排行榜上占据主导地位，每种型号都有五个。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Under the contract, Cramo Sverige and its subcontractor Brinkab AB will provide all scaffolding installations at LKAB's new pellets plant in Kiruna, northern Sweden.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Is this Wuhan's new hospital. -> 这是武汉的新医院吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MarketsShire up 2.5% and Baxalta up 6% on $32bn deal.\n\n翻译为中文：\n市场份额上涨2.5%，Baxalta上涨6%，因为达成价值320亿美元的交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ACBI, OPY, LEAF - OPY and LEAF among financial gainers; CACC leads losers: https://t.co/oQFjeHivYR\n\n$ACBI: 中信银行\n$OPY: 东方证券\n$LEAF: 绿叶控股\n$CACC: 中集集团",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix has dismissed a report that its upcoming ad-supported service will cost between $7 and $9.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$INPX is gaining momentum......} 的中文翻译为：{\"INPX 正在获得动力......\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The US dollar has wiped out sales gains for SABMiller.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The shares of Costco Wholesale Corp. increased by 3.7% in the afternoon trading on Thursday, making it the fastest gainer of the S&P 500, following Deutsche Bank's upgrade of the membership-based warehouse retailer. This recent upbeat monthly sales data supported a bullish stance. The stock, which was on track to close at a two-month high, has risen by 22.5% since closing at a 10-month low of $416.43 on May 20, while the S&P 500 has lost 2.9% over the same time.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The daily technical indicators for {$ASTX} are bullish. Breakout watch over 4.58.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Prothious Engineering (www.prothious.com) employs more than 1,000 and has a large portfolio of projects and an annual detailing capacity of more than 100,000 tonnes.} \n\n翻译成中文：\n\nProthious Engineering (www.prothious.com) 拥有超过1000名员工，拥有丰富的项目组合，并且每年具有超过10万吨的详细能力。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊股价已连续4个交易日RSI降至20，请阅读康纳斯的交易策略书籍。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mobile data transfer is expected to increase explosively in the LTE era. 在LTE时代，移动数据传输预计将以爆炸性的速度增长。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"{$CRK time to accumulate for a long position with far more upside than downside}\" can be translated to Chinese as \"长期持仓所需的累积时间，与上涨空间相比，下跌空间更为有限。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "New Credit Suisse boss faces stiff challenge in Asia\n瑞士信贷新任老板在亚洲面临严峻挑战。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n``Magnus Rosen, CEO of Ramirent, said, \"The second quarter of 2010 was the first quarter with growth in net sales since the third quarter of 2008.\"``",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lee is ready to exit bankruptcy. Strong volume today.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amgen (AMGN) 关键药物如 Prolia、Xgeva、Repatha 和其他药物以及生物类似物组合的增长量预计在一定程度上被成熟药物的生物类似物/仿制药竞争所抵消。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"短期兴趣再次增加\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Luckin Coffee: It Makes Sense That Shorts Sell At 4x Sales. Read more: https://t.co/lBJTB9cWiJ #finance #investing #stocks\"\n\n幸运咖啡：做空交易在销售额4倍时卖出是有道理的。了解更多：https://t.co/lBJTB9cWiJ #金融 #投资 #股票",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德克萨斯仪器公司股票价格目标上调至125美元，相比之下，森特瑞·罗宾逊·汉弗莱公司将其上调至122美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司表示，这笔钱将主要分布在2011年和2012年。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "谷歌母公司周一拒绝了欧洲电信运营商要求大型科技公司帮助资助网络成本的提议，称这是10年前的一个想法，对消费者不利，而且该公司已经在互联网基础设施方面投资了数百万美元。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SABMiller的收入受到较弱的EM货币的影响。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "(ADP News) - Feb 4, 2009 - Finnish broadband data communication systems and solutions company Teleste Oyj (HEL: TLT1V) said today its net profit decreased to EUR 5.5 million (USD 7.2 m) for 2008 from EUR 9.4 million for 200",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Westpac Banking Corp - 发行欧元计价的3年期基准FRN债券。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca suffers setback after drug fails to treat eye cancer\n\n阿斯利康因药物未能治疗眼癌而遭遇挫折。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新的一项精神分裂症研究可能带来治疗标准上的重大变革。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ark Restaurants Announces Financial Results for the First Quarter of 2020\n翻译：\nARK餐厅宣布2020年第一季度财务业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德银因新忠诚计划而下调星巴克评级。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The smartphone giant missed a trick this time, but it could eventually win big from this emerging niche. \n\n直译为：智能手机巨头这次错过了一个把戏，但最终可能会从这一新兴利基市场中赢得大笔财富。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

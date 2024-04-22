@@ -1,0 +1,302 @@
+[
+  {
+    "input": "CaixaBank and dos Santos Agree on Plan for BPI Angola Exposure\n\n翻译：\n西班牙卡萨银行（CaixaBank）和多斯桑托斯（dos Santos）就BPI安哥拉（BPI Angola）的暴露问题达成共识。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nHalliburton layoffs driven by 'stark reality' of energy pricing, CFO says\n\n中文翻译：\n\nHalliburton裁员是由能源定价的'严峻现实'驱动的，CFO表示。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``我们的客户对Basware发票自动化解决方案感到满意，并将实施范围扩展到新的地理区域。''",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons books a second consecutive quarter of sales growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚洲股票市场涨跌互现，美国与中国贸易谈判的谨慎态度影响市场情绪。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DexCom has been doing better than big tech stocks that have had more notable stock splits this year. \n\n直接翻译为：\n德康生物今年的表现比那些进行了更显著的股票分割的大型科技股要好。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"A preannounced that Q3 results will be below its guidance due to a weakening PC market and supply chain challenges.\"\n\nThe translation in Chinese is: \"预公告称，由于个人电脑市场疲软和供应链挑战，第三季度业绩将低于其指导。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Have Never Been This Bullish On Century Casinos, Inc. (CNTY) 的中文翻译是：\n对世纪娱乐公司（CNTY）的信心从未如此强烈！",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司股价在620美元面临阻力区域。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Advanced Micro Devices (AMD) 股票周二在宣布新一代 Ryzen Embedded 处理器后上涨。投资者须知：AMD 的新处理器。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ABM Industries, Inc. (ABM) 是一家值得购买的优质股票吗？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The same conditions that sent markets tumbling this week are all hitting.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$CHRM Loooooongggggg base}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IWM's relative weakness is pretty apparent, but the short boat is getting full on this one. I prefer the boat closer to empty.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "通信服务上涨，投资者对媒体行业前景进行对冲 -- 通信服务综述...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "金融项目总计损失9.7百万欧元，相比之下，2008年同期盈利1.3百万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Alphabet 母公司报告第二季度营收为 69.69 亿美元，较去年同期增长 13%。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"This Brexit failure was founded on lies and hypocrisy\" = 这个英国脱欧的失败建立在谎言和虚伪之上。\nThese 4 friends behind @ByDonkeys have crowdfunded hundred… https://t.co/vuJouFUSya = 这四位朋友在@ByDonkeys背后众筹了数百",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Edgewell's stock rockets after calling off Harry's merger deal, upbeat earnings. \n\n翻译：爱德威尔公司的股票在取消哈里合并交易后飙升，业绩表现喜人。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Longbow Research 的 3 星分析师 Joe Wittine 重申了 $NTAP 的持有评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EUR/USD: COVID-19 Could Tip Currency Below Parity. https://t.co/OUdgJh04rd #economy #trading #investing\n\n中文翻译：\n欧元兑美元汇率：COVID-19可能导致货币低于平价。https://t.co/OUdgJh04rd #经济 #交易 #投资",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva, Friends Life exceed expectations prior to 5.6 billion pound merger.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "You know that back seat? Don't sit in it. → 你知道那个后排座位吗？不要坐在那里。\n\n$TSLA -> Tesla\n\nTesla recalls 2,700 Model X cars → 特斯拉召回2,700辆Model X汽车\n\nhttps://t.co/7J0Gwz89ZC → 这是一个指向相关新闻报道的链接。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Q1 2010 18 May 2010 - Finnish electrical components maker Salcomp Oy (HEL: SAL1V) said today it turned to a net profit of EUR1.6m in the first quarter of 2010 versus a loss of EUR2m in the corresponding period last year. \n\n翻译：\n2010年第一季度18日 - 芬兰电子元件制造商Salcomp Oy（赫尔辛基股票代码：SAL1V）今天宣布，2010年第一季度实现净利润1.6欧元，而去年同期则为亏损2欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿根廷可能会恢复基尔钦纳所谓的旅游美元费用。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The S&P 500 and Dow fell 0.1%.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In July-September 2009, Konecranes' sales decreased to EUR 368.7 million from EUR 520.4 million in July-September 2008.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca bags another cancer drug deal, this time with Inovio.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company generates net sales of about 600 mln euro $ 775.5 mln annually and employs 6,000. \n\n中文翻译：该公司每年净销售额约为6亿欧元，折合775.5百万美元，员工总数为6000人。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{SunTrust RH 将 Anthem 股票价格目标从 $300 上调至 $330}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rapid, last-mile delivery services are proliferating as retailers — big and not so big — try to compete with Amazon. \n\n快速，最后一英里配送服务正在迅速发展，因为大大小小的零售商都在试图与亚马逊竞争。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在2020年以来最糟糕的股票季度之后，许多投资者都对近期市场的反弹表示欢呼，这使得纳斯达克和罗素2000指数都脱离了熊市领域，并且下跌幅度超过20%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "荷兰的TomTom是欧洲最大的汽车导航设备制造商，而开曼群岛的Garmin在美国和全球范围内规模更大。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "除了软件开发，新设计单位还将提供机械工程和电子设计。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence appears to be a list of ticker symbols for stocks, rather than a coherent sentence. Here is the translation:\n\n{$SPY $IWM $NVDA $NFLX}\n\nIn Chinese, this remains the same as the English version, as ticker symbols are universally recognized and do not require translation.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL周线仍然在50移动平均线下方，并创出新的低点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Committee proposes the following remuneration: a monthly remuneration of EUR 5,000 for the Chairman, EUR 3,500 for the Deputy Chairman, and EUR 2,500 for the other Board members.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Urban Outfitters stock down 9% after Q3 results.\n\n翻译：Urban Outfitters 第三季度业绩公布后股价下跌 9%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Biden Campaign Says It Will Push Ahead Regardless of New Hampshire Results 翻译为：拜登竞选团队表示，无论新罕布什尔州的结果如何，他们都将继续前进。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple在2022年Q4回购了1.6亿股，平均每股支付157.50美元。尽管苹果在2022年创下了高达99.8亿美元的净利润，但截至目前，其股价仍比52周高点低17.86%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "瑞典在该审查期间的营业利润总计为3400万欧元，比2005年同期增长了30.8%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Nvidia stock experienced a robust intra-day rally of 14% on Thursday following the release of data indicating a softer-than-expected price increase in October, which may signal a potential 'dovish response from the Fed'. The stock's recent gains are also attributed to mitigating strategies implemented against newly imposed export restrictions to China, further bolstering investors' confidence in Nvidia's long-term prospects.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "At the seminar, a memorandum of understanding on co-operation was signed between the Finnish Kemira Company and Vietnam National Chemical Corporation.\n\n在研讨会中，芬兰Kemira公司和越南国家化学公司签署了合作谅解备忘录。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vacon's operating cash flow increased to EUR 37.1 million from EUR 21.9 million a year ago.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EBITDA for the year 2009 improved to EUR484m, as compared with EUR472m in 2008. \n\n中文翻译：2009年的EBITDA增加至4.84亿欧元，相较于2008年的4.72亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "因为我们是一家养老保险公司，所以我们必须分散投资，不要在一个资产类别上投入太多。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$WX Decent pull back . .}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The authorization is in effect until the end of the next Annual General Meeting and revokes the authorization to acquire own shares granted by the General Meeting held on April 4, 2007.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{尽管标普500指数在2022年底可能会以负面收尾（除非出现奇迹），但这也是逆向投资者考虑在下跌时买入最佳股票的机会。此时，这种情绪可以理解地听起来像是把皱眉变成微笑。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2010年12月21日 - 芬兰工业机械设备公司瓦尔塔斯拉Oyj Abp HEL (WRT1V)昨天宣布，已获得挪威石油服务提供商Eidesvik Offshore ASA OSL (EIOF)的订单，设计液化天然气(LNG)驱动的平台供应船(PSV)。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

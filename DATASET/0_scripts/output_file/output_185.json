@@ -1,0 +1,302 @@
+[
+  {
+    "input": "He believes that the soy-oats have a good chance of entering the UK market. \n\n翻译为中文：他认为大豆燕麦有很好的机会进入英国市场。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish software developer Basware Oyj said on November 30, 2006, its U.S. subsidiary Basware, Inc. won an order to provide software for contract lifecycle management to an unnamed U.S. medical technology company.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊公司（Amazon.com, Inc AMZN）周二早盘下跌超过1%，周一下跌超过3%，打破了一个三角形模式，这是Benzinga在周五指出的。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"IDCC - $89 share total value of company after crunching #'s. The 4g technology is their diamond in the rough.\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks Corp. SBUX, +0.06% is closing down its business in Russia, as the invasion of Ukraine puts an end to its 15-year presence in the market.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating loss totaled EUR 0.8 mn, compared to a profit of EUR 0.5 mn. 的中文翻译为：\n\n运营亏损总计为800万欧元，相比之下，利润为500万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Group 提前一个月任命新 CEO。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The $20 billion investment is part of Intel's $100 billion investment pledge as the company seeks to reclaim its spot as the top chip manufacturer.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the latest trading session, Intel (INTC) closed at $47.14, marking a +1.09% move from the previous day. 在最近的交易时段，英特尔（INTC）以47.14美元收盘，较前一日上涨了1.09%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pharmaceutical market in Czech Republic Global Research & Data Services recently published a market analysis about the pharmaceutical markets in Czech Republic.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stock has been flat for the past two years, but that might change soon.\n\n股票在过去两年里一直处于平稳状态，但这种状况可能会很快改变。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wamsi Mohan, a Bank of America analyst, joins 'TechCheck' to discuss Apple's potential plans to add subscriptions for hardware, how Apple implements a subscription plan for hardware and more.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Polen Capital is a global investment management firm that controls over $80 billion in assets. The company recently published its first-quarter investor letter, in which it notes that in the first quarter of 2022, its Composite Portfolio returned lost 13.39% net of fees, losing the battle against.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"位于史坦顿岛的亚马逊仓库的工作人员投票决定成立工会，55%的投票者支持工会化。这是几十年来零售业首次成功的重大工会运动，向其他想要避免工会化的零售商发出了警钟。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dixons Carphone to close 134 UK stores as sales jump.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit rose to EUR 26.7 mn from EUR 14.9 mn in the corresponding period in 2006. \n\n中文翻译：\n经营利润从2006年同期的1490万欧元上升到2670万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fiskars R, founded in 1649, is one of the oldest companies in the world and is the largest manufacturer of lightweight stainless steel scissors in the U.S. 翻译为中文是：\n\n芬兰利福斯（Fiskars R）成立于1649年，是全球最古老的公司之一，也是美国最大的轻型不锈钢剪刀制造商。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp. 最近几年一直在与监管机构合作，试图进入大科技领域，但最近它可能会因为尝试进行历史上最大的科技收购而失去这个机会，这是一家充满问题的公司。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company plans to close two of the three lines at the plant, where some 450 jobs are under threat. \n\n翻译：公司计划关闭工厂中的两条生产线，这可能导致大约450个工作岗位受到威胁。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"青少年在加利福尼亚州高中枪击事件中使用'幽灵枪' https://t.co/AFzUEK7oi9\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lyft withdraws electric scooters from major cities.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given English sentence into Chinese:\n\n周一 11/25 下午收盘价：$A $AMBA $ARWR $BECN $CAL $HPE $MNR $MTSC $NAT $NTNX $PANW $PVH $SR\n\nIn this translation, the symbols before the dollar sign represent different stocks or companies. The sentence is referring to the closing prices of these stocks on Monday, November 25th, in the afternoon.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Some Galliford Try (LON:GFRD) Shareholders Are Down 46% 可以翻译为：部分 Galliford Try (LON:GFRD) 股东的股份下跌了 46%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso said DeLight was suitable for a wide range of applications including food, cosmetics, home decoration, and leisure products. \n\n直译：斯托拉·埃诺索表示，DeLight适用于多种应用，包括食品、化妆品、家庭装饰和休闲产品。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GE's stock rises 1% premarket, set to trade above $13 for 1st time in regular-session hours since October 2018. \n\n通用电气的股票在盘前交易中上涨了1%，并且预计在常规交易时段内以超过13美元的价格交易，这是自2018年10月以来的首次。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Johnson Matthey's profit drops, but dividend increases.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "No changes in media activity were seen in October compared with September.\n\n翻译成中文：\n\n十月与九月相比，媒体活动没有变化。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"TSLA\": \"特斯拉\", \"recall\": \"召回\", \"model\": \"车型\", \"X\": \"X\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso's target has been cut to EUR 4.85 from EUR 5.55 and Holmen's target -- to SEK 135 from SEK 150.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mettler-Toledo准备突破。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron 受益于宏观环境的有利因素以及其所在行业的寡头垄断优势。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"苹果自年初短暂进入3万亿美元市值领域以来，价值已经下跌超过10%。此外，该股票目前的市盈率约为28倍，相较于去年2月份科技股抛售期间，市盈率略有折扣。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Intel 和台湾半导体将面临与其他股票类似的宏观逆风，包括更高的利率、更少的销售和潜在压缩的利润率。然而，INTC 目前被定价为价值股，而 TSM 不幸地被定价为高增长股。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当一家公司的高流通股票也被卖方研究分析师普遍看好时，这可能意味着市场上有一些潜在因素正在形成。以下是为什么这三个公司的流通量正在增加的原因。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence to Chinese is: 根据普利集团股份有限公司2004年股票期权计划，自2010年10月27日起至2010年12月10日，共订阅了63,792股新股，其中包含2004B股票期权。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$BBRY bye bye Sammy. Hello BB. Sounds like we'll see some green tomorrow.}\n\n再见，山姆。你好，BB。听起来我们明天可能会看到一些绿色。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``去年，芬兰航空在亚洲市场录得32.6%的增长，两个大陆之间运输了超过110万名乘客。''",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SSH Communications Security Corporation is headquartered in Helsinki, Finland. \n\n翻译：SSH Communications Security Corporation 总部位于芬兰赫尔辛基。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the sentence is: \"The slaughtering and cutting of bovine at the Kuopio facility will be transferred to the Kauhajoki slaughterhouse.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA宣布召回，股票并未下跌。这款股票是特氟龙。不会永远持续下去。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The personnel reductions will primarily affect those working for the parent company in the diagnostics business or in production and logistics in the liquid handling business.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In December, Amer announced the dismissal of CEO Roger Talermo, who had headed the company since 2006.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DALLAS, Feb. 18, 2022 /PRNewswire/ -- Texas Instruments Incorporated (TI) (Nasdaq: TXN) Chairman, President and Chief Executive Officer Rich Templeton will speak at the Morgan Stanley Technology, Media & Telecom Conference in San Francisco on Wednesday, March 9, at 9:45 a.m. Pacific time. \n\n翻译：\n2022年2月18日，德克萨斯仪器公司（TI）（纳斯达克：TXN）董事长、总裁兼首席执行官Rich Templeton将于3月9日周三在旧金山参加摩根士丹利技术、媒体和电信会议，并于太平洋时间上午9:45发表讲话。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "资产管理和投资银行业务经常一起提及，但它们不应该被混淆。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ashland宣布支付每股0.275美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wynn Resorts (WYNN) and Marjan, RAK Hospitality Holding reach an agreement for developing a multibillion-dollar integrated resort on the man-made Al Marjan Island in Ras Al Khaimah, United Arab Emirates.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Genuine Parts Company宣布派发0.7625美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Diffusion Pharma上涨23%，在发布积极TSC数据后于盘后交易。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The era of ad-supported streaming content is here, and Netflix (NASDAQ: NFLX) is staking its claim. In a direct salvo against rival Disney (NYSE: DIS), Netflix released the pricing details of its low-cost subscription tier, which will be supported by advertisements.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pepsi (PEP) 股票周二上涨，原因是这家碳酸饮料和零食公司发布了2022年第二季度的业绩报告。文章《Pepsi (PEP) 股票因第二季度业绩超预期而上涨》首先出现在InvestorPlace。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

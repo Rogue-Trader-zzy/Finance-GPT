@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{今年下跌了47%之后，亚马逊可能是一个好交易。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"When in Rome, do as the Romans do... and recycle your plastic bottles and aluminum cans for subway commuter credits…\" translates to \"当你在罗马时，做罗马人做的事情……并且回收你的塑料瓶和铝罐以获得地铁通勤积分……\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TIGR (+8.7% pre) UP Fintech Holding Limited Reports Unaudited Third Quarter 2019 Financial Results - SI\n\n翻译成中文：\n虎克投资（TIGR）预增8.7%，股价上涨，金融科技公司富途控股（Fintech Holding Limited）发布未经审计的2019年第三季度财务报告。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I believe {$SPY} still wants to go higher.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The service also enables users to watch emails in HTML format and is enhanced with 23 additional languages to choose from.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2020年第一季度投资组合回顾。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca's MedImmune Inks Licensing Deal With Omnis Pharmaceuticals\n\n阿斯利康的MedImmune与Omnis Pharmaceuticals签署许可协议。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"市场回调可以以相对强度的形式提供丰富的想法。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Exchange Release 10/3/2011 12:00 Sanoma has published its Annual Report and Financial Statements for 2010 and its first Corporate Responsibility Report.\n\n中文翻译：\n2010年10月3日，斯堪那莫公司发布了其2010年的年报和财务报表，并首次发布了企业社会责任报告。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"特斯拉股票势头强劲... 本周其他值得注意的动向: https://t.co/Hz0wdp5za1\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's the translation of the given sentence: \"每日销售额再次放缓，这是一个相当及时的同步指标。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The shares of Plug Power Inc (NASDAQ: PLUG) are up 5.8% to trade at $29.11 at last check, following the company's new agreement with Amazon.com (AMZN).",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco sells half of stake in ecommerce site Lazada to Alibaba for £90m.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Think BIG, then think BIGGER.} 翻译为中文为：“先大后更大”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Whitbread利润上升，因为销售额继续增长，正在寻找新的首席执行官。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Berkshire is applying to increase its stake in Wells Fargo above 10 percent.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{英文翻译} 上升三角形给这个图表带来了看涨的偏见。超过84的突破是积极的。http://stks.co/g0ls5",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{在周五收盘时添加 $SPY $LABU $BLUE $AMZN}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RBS chairman admits surprise at size of regulatory penalties\n英译中：皇家苏格兰银行董事长对监管处罚的规模表示惊讶。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"AAPL long 630.91\"} in Chinese is \"苹果多头 630.91\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A huge gain for the day; a big loss for the month. 可以翻译为：“一天巨大的收益；一个月大的亏损。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BPM, UBI CEOs meet Italy econ minister as M&A talk heats up.\n\nBPM（Business Process Management）和UBI（Universal Basic Income）的CEO们与意大利经济部长会面，因为并购谈判正在升温。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{'The most important tech company you've never heard of' sees sales growth of 20% in 2022 as demand for its equipment outstrips supply.} 翻译成中文为：\n\n- \"你可能从未听说过的最重要的科技公司\"在2022年的销售额增长了20%，因为其设备的需求超过了供应。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：Here's Why We're Wary Of Buying Kin and Carta plc's (LON:KCT) For Its Upcoming Dividend\n\n以下是中文翻译：我们为什么对购买 Kin and Carta plc（股票代码：LON:KCT）即将到来的股息保持谨慎？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些股票提供了一个有吸引力的被动收入生成和增长潜力的组合。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Macy's 股票在盘前下跌了 3.8%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "参与电信部门拍卖频谱的BSNL和MTNL可能会引起利益冲突。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是您提供的英文句子的中文翻译：\n\n“图表显示了明显的下行通道，而不是下跌。您在哪里看到底部？$SPY...$150...$130？”\n\n英文翻译：\n- Nice chart shows distinctive down channel not a dip...\n- Where do you see the bottom?\n- $SPY...$150...$130?",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo Finance Live 主持人布拉德·史密斯和朱莉·海曼讨论 AMD 第一季度的盈利情况。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Macquarie downgraded NetApp to underperform. $22.00 PT. [Link](https://t.co/XCNgws0t4q) $NTAP #NTAP via @RatingsNetwork",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The crane is pulling debris from the shoreline of Scardovari as northeastern Italy recovers from severe flooding.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit rose from EUR 1.94 mn to EUR 2.45 mn. 翻译成中文是：“营业利润从 190 万欧元上升到 245 万欧元。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Diageo sells Ryder Cup venue Gleneagles Hotel to Ennismore Group.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The smaller molecules improve the grip of the tire at high-speed driving.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company said that the cuts are equivalent to the costs of about 35-45 employees.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Roku's push into original content could someday put it on a similar footing with Netflix. 翻译为：\nRoku 对原创内容的投入或许有一天能让它与 Netflix 处于同等地位。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oil resumes gain as investors monitor back-and-forth trade talks.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The summer collection 2008 will be joyfully fresh like a vitamin injection,\" said H&M's head of design Margareta van den Bosch.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Nice bounce\" in Chinese would be \"不错的反弹\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Bristol-Myers' Opdivo + Yervoy fails to impress in melanoma study\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook的股价在早盘交易中再次下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们简要回顾了我们的“当基本面遇见技术面”系列文章，以及AMZN在当前宏观环境中的位置。请跟随我们的首席基本面分析师Lyn Alden，探讨亚马逊当前的估值。\n\n英文翻译：We take a brief glimpse into our “When Fundamentals Meet Technicals” articles and where AMZN finds itself in the current macro environment. Follow along as our lead fundamental analyst, Lyn Alden, discusses Amazon's valuation at the moment.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"The Intel Atom processor has enjoyed tremendous success in the marketplace since its launch over 2 years ago,\" said Pankaj Kedia, director of global ecosystem programs for Intel Corp.'s Ultra Mobility Group.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "印度央行类似行动注入现金刺激短期债券。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kylie Jenner is keeping up with the billionaires.\" 翻译成中文为：\"凯莉·詹娜正在与亿万富翁们保持同步。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"USDA releases 2018 Annual Pesticide Data Program Summary\" （美国农业部发布2018年农药数据年度计划摘要）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish steel maker Rautaruukki Oyj ( HEL : RTRKS ) , or Ruukki , said today its net loss contracted to EUR 49 million ( USD 68.2 m ) for the first nine months of 2010 from EUR 229 million for the same period a year ago . \n\n芬兰钢铁制造商Rautaruukki Oyj（HEL：RTRKS），或Ruukki，今天表示，其2010年前九个月的净亏损收缩至4900万欧元（6820万美元），而去年同期为22900万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook 在 IPO 价格下交易量很高。许多卖家试图抛售股票。在此之前，可能需要一段时间来巩固，然后才能继续上涨。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Group has appointed a new CEO one month earlier than scheduled.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PepsiCo and IHOP have partnered on an extremely limited soda flavor that's supposed to taste like maple syrup.\n翻译成中文：\n百事可乐和国际煎饼屋已经合作推出了一种极度限量的苏打水口味，据称这种口味会像枫糖浆一样。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

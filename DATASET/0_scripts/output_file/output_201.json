@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"I don't see it. 200 day sma is the big hurdle. There is a good base building. $NFLX\" 翻译为中文是：“我看不出来。200天移动平均线是一个大障碍。正在建立一个良好的基础。$NFLX”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "因此，SysOpen Digia 已根据芬兰公司法 1978 年 9 月 29 日 - 734 年第 14 章第 21 节的规定，获得了 Sentera 所有将被赎回的股份的所有权。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "直到我们能够更好地了解最终对收益的影响以及情况有多糟糕，我们才会采取行动。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given English sentence into Chinese:\n\n- {$YMI http://stks.co/Xyf Long setup. Closed above the 20MA. MACD cross. November catalyst.} \n\n翻译成中文：\n\n- 长设置。20日移动均线上方。MACD交叉。11月催化剂。\n\nPlease note that the translation is a direct translation and may not convey the exact meaning or context of the original sentence.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Are ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 3 must-have growth stocks? \n\n\"ARM Holdings plc, Domino's Pizza Group plc and ASOS plc 是三个必不可少的成长型股票吗？\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The agreement includes application maintenance and support services.\n（协议包括应用程序维护和支持服务。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"无贷款\" 大学财政援助包如何运作？以下是学生需要了解的内容 https://t.co/y0LgFFPkDo",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股市期待微软能有强劲的盈利表现，而公司确实做到了。这家软件巨头的展望对于同行业竞争对手来说也是好消息。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Net sales fell by 5% from the previous accounting period.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aldi and Lidl expansion plans speed ahead as Tesco, Sainsbury's, Morrisons ... \n\n中文翻译：Aldi 和 Lidl 的扩张计划正在加速，而特易购、赛恩斯伯里、莫里森等公司也在努力追赶。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "其他运营商和手机制造商将其视为一个积极事件，认为这将提高高端手机的兴趣和更昂贵的数据计划。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The firm hints at a space-related update; analyst reports that only 'pro' models will get a processor chip upgrade.",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix 经营着一个盈利的 SVOD 业务，并且现在正在推出一个高度盈利的 1P AVOD 业务，这将很快起飞。预计该公司的季度 ARPU 将从 2022 年到 2026 年增长从 $12 到 $17，由 AVOD 的增长推动。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD: Don't Fear PC Cycle Weakness\n翻译成中文为：AMD：不要害怕PC周期疲软。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天的市场在混合技术收入压力下开盘走低。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"Consumption is forecast to grow by about 2 %.\" can be translated into Chinese as \"消费预计将增长约2%。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Boeing's stock dives after NTSB recommends 'more robust redesign' of 737-700s\" 翻译成中文为：\"波音公司的股票在NTSB建议对737-700进行'更稳健的重设计'后下跌。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"China's market regulator conditionally approved Advanced Micro Devices Inc's (NASDAQ: AMD) $35 billion all-stock deal for peer Xilinx Inc (NASDAQ: XLNX), Reuters reports. Related Content: AMD, Xilinx Stockholders Approve Acquisition.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"流媒体和媒体股票，包括沃尔特·迪士尼公司（纽约证券交易所：DIS）和Netflix公司（纳斯达克：NFLX）在整体市场上涨美国国债收益率的同时，交易价格下跌，因为投资者继续权衡美联储加息预期。10年期。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tachyum CEO Dr. Radoslav Danilak Discusses 'Bringing Slovakia to the Forefront of the Digital Age' at CEO Forum\n\n翻译：\n\nTachyum 的首席执行官 Dr. Radoslav Danilak 在 CEO 论坛上讨论了 \"将斯洛伐克带入数字时代的领先地位\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc. (NASDAQ: AAPL) 在周四的一个时刻下跌了近 4%，与整体市场同步，整体市场看到 S&P 500 指数下跌了近 2%。科技巨头在 S&P 500 指数中的权重为 6.2%，这通常会导致股票和 ETF 共同交易。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"寻找超卖反弹。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "标准普尔维持美国国家水务公司和金州水务公司'A+'信用评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "One of the headboxes will be equipped with a modern consistency control system to ensure cross machine profile of the plasterboard.\n- 纸板机头箱之一将配备现代一致性控制系统，以确保石膏板的跨机器剖面。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sven Henrich, the founder and lead market strategist of NorthmanTrader, joins 'TechCheck' to discuss Microsoft's recent stock movement, the broader Nasdaq's recent performance, and his argument for today's market.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish business delegation includes representatives from over 20 companies that include Nokia Corp, Finnfund, Outokumpu Oyj, OKO Bank, Alteams Oy, and Cargotec Corp.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Oppenheimer将美国银行股票的目标价从48美元上调至49美元}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国大选能否结束脱欧不确定性？关注Seeking Alpha上的任何其他股票！",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco's share price drops as Blinkbox Books closes, ending supermarket's digital bookstore venture.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dongfeng to reduce PSA stake in merger deal with Fiat: sources\n东风将减少与菲亚合并交易中的PSA股份：消息来源",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Atria Group is a leading Scandinavian meat products group.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "American Software被B. Riley FBR从买入下调至中性。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "World Bank President David Malpass on Wednesday criticized Microsoft's $69 billion takeover of gaming developer Activision Blizzard as a questionable allocation of capital at a time when poor countries are struggling to restructure debts and fight COVID-19 and poverty.\n\n世界银行行长戴维·马尔帕斯周三批评微软斥资690亿美元收购游戏开发商动视暴雪，称在贫穷国家正在努力重构债务并抗击新冠病毒和贫困之际，这是一种可疑的资本分配。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The exchange of Editors-in-Chief is part of the publisher's goal to enhance job circulation across all personnel groups.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "XLF 已从目标买入区域反弹，购买 SKF 作为对冲。注意 50 均线斜率。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Alphabet Inc.的Google和Twitter Inc.在周三中午之前尚未签署印度尼西亚新的许可规则，根据部委记录显示，随着截止日期的临近，他们的服务可能会在印度尼西亚暂时被阻止。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "iPhone Pro的交付时间开始改善，因为UBS的分析师表示，关键的中国组装工厂的中断正在缓解。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In a fresh development, Google and YouTube parent company Alphabet (NASDAQ: GOOG, NASDAQ: GOOGL) finally settled an ongoing investigation. That's good news, and it bodes well for GOOG stock.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Scandinavian lenders Sampo Bank (HEL: SAMAS), Pohjola Bank (HEL: POH1S), and Svenska Handelsbanken (STO: SHB A) have provided a EUR160m (USD213m) line of credit to Lemminkainen Oyj (HEL: LEM1S), the Finnish construction firm said on Friday.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在2007年3月末，该集团的订单簿为3960万欧元，比2006年同期增长了42%。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "铜市场可能从格伦柯尔的关闭中得到2003年式的供应冲击。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BrooklynBandit: 西蒙·贝辛很好。超过24.18的收盘是看涨的QQQ SPY STUDY，注意观察收盘价接近HOD。目前上涨+3%，上涨+5%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"Ren bottoming out again.. Good time to buy.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Previously , it projected the figure to be slightly lower than in 2009 .} = {此前，它预测该数字将略低于2009年的水平。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kone said in court papers that the union action delayed repairs to elevators at the federal courthouse on Jan. 21 and the Saltonstall state office building on Jan. 23.\n\n柯恩在法院文件中称，工会的行动导致联邦法院大楼和萨尔顿斯塔尔州立办公楼电梯的维修工作分别在1月21日和1月23日被推迟。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hexagon AB (publ) (STO:HEXA B): 近期盈利下滑是否值得你担忧？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Magal Security reports Q3 results\" 的中文翻译为 \"Magal Security 公布 Q3 业绩\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Workday 透露了产品部门高管变动。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{很难在数字广告巨头上押注。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"两年前推出以来，英特尔原子处理器在市场上取得了巨大成功，\" 英特尔公司超移动性集团全球生态系统计划总监潘卡吉·克迪亚 (Pankaj Kedia) 表示。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

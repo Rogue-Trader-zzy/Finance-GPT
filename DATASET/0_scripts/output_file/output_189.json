@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The company designs and manufactures high-quality clothing, interior decoration textiles, bags, and other accessories. \n翻译：该公司设计并制造高质量的服装、室内装饰面料、包和其他配件。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"With formerly quarantined consumers ready to make up for lost experiences, these travel stocks to buy make for contrarian bets.\" 翻译成中文为：\"随着此前被隔离的消费者准备弥补失去的经历，这些旅游股的购买成为逆向投资的好选择。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "全球最成功的投资公司之一也支持了这只股票。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股票刚刚完成了自2021年11月以来的最长连胜纪录。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pekkarinen似乎一天里没有足够的小时。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SABMiller's revenue was affected by weaker emerging market currencies.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the beginning of the negotiations, the estimated number of reductions was 50 at the maximum.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Keith Skeoch will step up as David Nish resigns as chief executive of Standard Life.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：Gild chart: With IBB back over support. https://t.co/GpRZ2UJFC4\n\n中文翻译：GILD图表：IBB再次回到支撑位。https://t.co/GpRZ2UJFC4",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP boosts sales despite cautious clients.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``尽管长期担忧仍然存在，但规模和规模可能使诺基亚能够在短期内保持其新获得的边际改善，''分析师写道。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子 \"Reed Elsevier share price slides on underwhelming full-year results\" 的中文翻译：\n\n\"里德·爱思唯尔股价因全年业绩表现平平而下滑。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence in English is: \"36% of millennials polled say that they approve of communism, which is up significantly from 28% in 2018. https://t.co/WJJfbWU8hS\"\n\nThe direct translation in Chinese is: \"36% 的受访千禧一代表示他们赞同共产主义，这一比例比 2018 年的 28% 大幅上升。https://t.co/WJJfbWU8hS\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DOT watchdog probes pilot training requirements after Boeing 737 Max crashes.\n\n中国民用航空局调查飞行员培训要求后，波音737 MAX坠毁事件。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "关于硅动力科技公司（NASDAQ:SIMO）的股票价格，有一个要点需要记住。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The authorization is in force until the end of the next Annual General Meeting and repeals the authorization to acquire own shares given by the General Meeting held on April 4, 2007.\" 翻译为中文为：“授权有效至下届年度股东大会结束，并撤销了2007年4月4日股东大会批准的购买本公司股份的授权。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It started with software that was capable of retrieving the data typed into the computer keyboard (`` keyloggers '' ), and then more complex mechanisms arrived on the scene, such as phishing and pharming.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It also turned in earnings per share (EPS) of EUR 0.44 versus loss per share of EUR 2.26. 可以翻译为：\n此外，每股收益（EPS）为0.44欧元，每股亏损为2.26欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金又开始青睐Eldorado Gold Corp (EGO)了。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We are pleased with the efforts of both negotiating teams and look forward to a productive four years ahead.\" 翻译为中文为：“我们对双方的谈判团队的努力感到满意，期待未来四年的合作。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "相信AMD的基本面和增长潜力，并在下跌时买入AMD股票，以在长期内获得稳定的回报。文章《AMD股票继续下跌，你应该继续购买》首发于InvestorPlace。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mnuchin: 美国将在2周内对新冠病毒的影响有更清晰的认识。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The store is located in Poznan in a shopping center named Pestka, the company added. \n\n直译为：公司补充道，商店位于波兹南的Pestka购物中心。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net sales of the whole fiscal year 2008 will be lower than in 2007 and operating profit is estimated to be negative.\n\n全年2008年的销售额将低于2007年，预计营业利润将为负数。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Valeant Names Interim Leader as CEO Remains Hospitalized\" 的中文翻译为 \"瓦莱安任命临时领导人，CEO仍在住院\"。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它运营着三个不同的品牌：United Supermarkets、Market Street和United Supermercado。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Britain's FTSE steadies, supported by Dixons Carphone.\n\n英国的FTSE指数稳定，受到Dixons Carphone的支持。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{S&P has kept its \"sell\" rating, while Nordea and UBS have reaffirmed their \"buy\" recommendations.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The goal will be achieved via organic growth possibly supplemented by acquisitions.\n翻译为中文：\n目标将通过有机的增长可能辅以收购来实现。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"昨天买入了一些，希望会有一波收益。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Match Group Inc. 的股票 MTCH 在周五的盘前交易中上涨了 5.2%，涨幅为 4.42%，原因是数据应用公司 Alphabet Inc. 旗下的 Google GOOG 和 GOOGL 在面对 Match 的投诉时做出了“各种让步”。因此，Match 表示已撤回其要求联邦法官发布临时禁令的请求，以防止搜索引擎将其从 Google Play 应用商店中移除。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Valeant CEO Pledges to Heed Critics After `Painful' Experience\" 的中文翻译为 \"瓦莱伦特CEO在经历痛苦之后承诺倾听批评家\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲联盟正在警告苹果公司，由于对其在移动零售支付领域的垄断地位进行的调查，可能存在反垄断违规行为。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2010年10月26日，芬兰环境管理公司Lassila & Tikanoja Oyj（赫尔辛基股票交易所代码：LAT1V）或L&T，今日宣布其2010年前九个月的净利润下降至2,090万欧元，相比之下，上一年同期为2,760万欧元。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish telecoms software developer Tecnomen Oyj said on December 5, 2006 it won a $3.3 mln (2.5 mln euro) order to supply an expansion of the charging and messaging systems for the mobile and fixed networks of Brasil Telecom.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BULLISH Engulfing of COCA COLA: http://stks.co/fYCo $KO\" 的中文翻译是：\n\n\"对可口可乐的看涨吞没模式：http://stks.co/fYCo $KO\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The officials did not disclose the contract value.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Arm的利润和销售额随着远离移动设备趋势的加速而增长。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stora Enso 将在 2006 年第四季度的财务报表中，将 3300 万欧元记录为非经常性项目的一次性资本收益。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Both operating profit and net sales for the three-month period increased, respectively from EUR16.0 m and EUR139m, as compared to the corresponding quarter in 2006. \n\n翻译：\n\n三季度营业利润和净利润均有所增长，分别从2006年同期（第三季度）的1600万欧元和1.39亿欧元增长至该季度。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金正在购买那些涉及美国-中国贸易的股票，希望达成一项协议。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "高级微设备公司（纳斯达克：AMD）周四下跌了8％，抵消了3月8日股票开始交易的上涨趋势，当时它反弹到了100美元水平。然而，上涨趋势可能不是主导模式，周四的下跌可能是一个回测和确认的。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果iPad收入在Q2季度同比下降1.92%。CEO蒂姆·库克表示，该季度该部门面临“非常严重的供应限制”。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The key: focus on long-term capital gains and/or qualified dividends. https://t.co/HugPFtWZZh\n\n翻译成中文：\n关键点：关注长期资本收益和/或合格股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nManaging Director Timo Kohtamäki of Lemminkäinen Infra nevertheless points out the continued need for infrastructure construction in the Baltic markets.\n\n中文翻译：\n\nLemminkäinen Infra的总经理Timo Kohtamäki指出，尽管如此，波罗的海市场仍需要继续进行基础设施建设。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Exelon: Initial Statement of Beneficial Ownership\" 可以翻译为 \"Exelon: 有益所有权初始声明\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tekla provides 3D software for building and infrastructure engineering, with a focus on building information modelling of steel and concrete structures from design to construction. 翻译为中文为：“Tekla 提供用于建筑和基础设施工程的三维软件，重点关注从设计到施工的钢结构和混凝土结构的信息建模。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HPQ (+0.8% pre) HP reiterates its rejection of Xerox's $XRX offer to buy the company - Reuters\n\n翻译成中文：\nHPQ股价上涨0.8%，预示着HP公司再次拒绝了Xerox公司收购该公司的报价。 - 路透社",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result, the number of personnel in Finland will be reduced by 158.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca bags another cancer drug deal, this time with Inovio. \n\n中文翻译：阿斯利康再次达成癌症药物交易，这次是与Inovio。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

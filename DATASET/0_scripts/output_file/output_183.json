@@ -1,0 +1,302 @@
+[
+  {
+    "input": "我们分析了代表通信服务行业42%的三只股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PG&E boss says it wasn't fully ready for California outages.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hong Kong officials count votes in the city's 1st district council elections since the #HongKongProtests began.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For skiers in search of empty slopes and epic views, this could be the ultimate holiday. \n\n对于寻找空旷的雪道和壮观景色的滑雪爱好者来说，这可能是终极的假期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The URL provided is not a valid English sentence, but I can provide the translation for a sample sentence. Here's an example:\n\nEnglish: \"Can you please help me translate this sentence into Chinese?\"\nChinese: \"你能帮我把这句话翻译成中文吗？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当前的市场条件对纳斯达克股票不利，但这些七支股票是长期买入并持有的绝佳机会。这篇文章《7 支纳斯达克股票，永远持有》首发于 InvestorPlace。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "M-real 的 CEO Mikko Helander 表示，这笔交易将使公司能够迅速推进其重组计划。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple on Monday announced a rare retail promotion in China, offering four days of discounts on its top-tier iPhones and related accessories ahead of the launch of its next-generation devices. Bloomberg Intelligence's Anurag Rana has more on \"Bloomberg Markets.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The performance is based on values and sustainability.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft and Apple are making their own bets on an emerging virtual world.\n微软和苹果正在下注于一个新兴的虚拟世界。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Olli-Pekka Kallasvuo was elected as vice chairman of the Board.\n\n中文翻译：Olli-Pekka Kallasvuo当选为董事会副主席。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Barclays appoints JPMorgan's Paul Compton as new COO\" 的中文翻译是：\"巴克莱银行任命摩根大通的保罗·康普顿为新任首席运营官。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ramirent's net sales in the second quarter ended June 30 were EURO 128.7 million about U.S. $ 163 million, a 3.3-percent increase compared with EURO 124.6 million for the second quarter last year. \n\n中文翻译：\n拉米伦特第二季度（截至6月30日）的净销售额为128.7万欧元，约合1630万美元，相比去年同期的124.6万欧元，增长了3.3%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nordea Bank has a large share and vast experience in the Nordic credit card market. 译为中文：“北欧银行在北欧信用卡市场中占有很大份额，并且拥有丰富的经验。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "香港区议会选举的结果显示，该城市的7400万人民仍然坚定地站在……一边。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "最近的一次双底买点在56.57美元几乎分毫不差，今天$WMT（沃尔玛）的股价几乎达到了这一水平。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "American Water CEO Susan Story Announces Retirement for April 1, 2020\n\n美国水务集团首席执行官苏珊·斯托里宣布将于2020年4月1日退休。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "阿斯彭将从阿斯利康购买麻醉剂，交易金额为52亿美元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The transaction is expected to be completed next spring.\n\n这句话的中文翻译是：“交易预计将于明年春天完成。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文翻译：\n\n- Amazon plans to add mental health support to its primary-care service.\n翻译：亚马逊计划将其初级医疗服务扩展到心理健康支持。\n\n- Hulu and Disney+ are about to get more expensive.\n翻译：Hulu和Disney+即将涨价。\n\n- Musk teased a potential Twitter competitor.\n翻译：马斯克暗示了潜在的Twitter竞争对手。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"代表澳大利亚苹果公司员工的工会因工资谈判缺乏进展而投票决定罢工，工会官员周二表示。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, the translation of \"{Damn}\" in Chinese is \"该死\" or \"臭死了\" depending on the context.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们很自豪能够与 KONE 的创新 People Flow TM 解决方案合作，共同打造一流机场设施。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Thanks to the internet, consumers compare products more than previously and Finnish companies are not competitive.\" 的中文翻译为：\"得益于互联网，消费者现在比以前更多地比较产品，而芬兰公司没有竞争力。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The tech company hasn't said its last word just yet.\" 翻译为中文是：“这家科技公司还没有说完它的最后一句。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"New Residential Investment EPS beats by $0.09, beats on revenue\" 的中文翻译为 \"新住宅投资每股收益超出$0.09，收入方面也超越预期\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据协议，阿斯科普还将向迈阿得维尔提供一个位于芬兰奥卢运营的子公司的10%股份。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊CEO安迪·贾西在接受彭博社技术峰会采访时表示，供应链危机导致亚马逊比以往更早地订购商品，以确保及时交付。报告称，周三（6月8日）有报道称，他表示公司没有停滞不前。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sophos aims to raise $100m in London IPO.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As the stock market plunges and the Nasdaq moves into correction territory, almost four out of 10 of the stocks in the Nasdaq Composite have share prices down 50% or more.\n\n中文翻译：\n随着股市下跌，纳斯达克进入修正区域，纳斯达克综合指数中的几乎四分之一的股票股价下跌了50%或更多。",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Incap 估计其在 2007 年从印度运营中预计将产生 1000 万欧元（1,320 万美元）的收入。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baird提升特斯拉汽车（Tesla Motors）$TSLA的评级，使其超越其他公司。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sappi joins Cepi in the 4evergreen alliance to boost the contribution of fibre-based packaging...\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Randgold profit hit by poor gold price but dividend still increases\" 翻译成中文为：\"兰德金利润因金价下跌而受到影响，但股息仍有所增加。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Extended Stay America goes ex-dividend tomorrow\" 翻译成中文是 \"明日Extended Stay America将除息\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Preparing for a Breakout Trade in Netflix $NFLX https://t.co/CzHIX3tuAG $$ https://t.co/z1qb9xa4LD\n\n为Netflix（NFLX）突破性交易做准备。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "谁推动这个的疯子，准备好迎接分红暂停（变成成长股）业绩爆炸，以及重大回购，哈哈。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The podcast, 见Harple提供GyPSii平台的内幕，该平台利用某人的地理位置和个人信息来生成围绕他们周围世界的上下文索引。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kemira shares closed at €16.66 ($22US .71).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vehvilainen, who is currently the chief operating officer at Nokia Siemens Networks, will join Finnair on 5 January 2010 and take over as CEO effective 1 February 2010.\n\n翻译：\n\nVehvilainen，现任诺基亚西门子网络首席运营官，将于2010年1月5日加入芬兰航空公司，并于2010年2月1日起担任首席执行官。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence is not a complete English sentence, but it seems to be an abbreviation or a code. Here's a possible translation:\n\n{$TSPT  long 8.00}\n\n= {$Time Sensitive Point of Time, long position, 8.00}\n\nPlease note that this translation assumes that \"TSPT\" stands for \"Time Sensitive Point of Time\" and \"long\" refers to a long position in a financial context. The number \"8.00\" could be interpreted as a time or a price, depending on the context.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The full MidnightTrader extended-hours trading analysis and news service is available in real-time through COMTEX. 翻译为中文为：\n\n午夜交易者（MidnightTrader）的延时交易分析和新闻服务可以通过COMTEX实时获取。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company has decided to implement fixed-term temporary lay-offs.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国据称讨论了与1MDB的黄金和解方案，低于20亿美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Solidium now holds 5.0 per cent of the shares Solidium Oy has acquired 5.0 per cent of the shares in Tieto Corporation for approximately EUR 58 million.\" 翻译为中文是：\"Solidium现在持有5.0%的股份，Solidium Oy以大约5800万欧元的金额收购了Tieto Corporation 5.0%的股份。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BMO 刚刚在昨天对 {incy} 发起了买入评级，而其他几家公司也纷纷重申了买入评级。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新闻亮点：今日全球市场新闻 #新闻亮点 #经济 #市场筛选器...\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Tecnomen Convergent Charging solution includes functionality for prepaid and post-paid billing, charging and rating of voice calls, video calls, raw data traffic and any type of content services in both mobile and fixed networks.\n\n翻译：\n技术名聚合计费解决方案包括预付费和后付费计费、语音通话、视频通话、原始数据流量和任何类型的服务计费的功能，适用于移动网络和固定网络。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Bank of Åland Ålandsbanken has issued a profit warning.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ruth Bader Ginsburg has been discharged from the hospital, and she is doing well.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

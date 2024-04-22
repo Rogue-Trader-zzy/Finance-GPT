@@ -1,0 +1,302 @@
+[
+  {
+    "input": "And several smartphones were launched in the Q2 with our latest-generation sensors, for example, LG K41S, LG K61 with FPC1520 and Xiaomi Redmi Note 9 Pro and Xiaomi Redmi Note 9 Pro Max with FPC1540 sensor.\n\nQ2期间，我们推出了多款配备最新一代传感器的智能手机，例如LG K41S、LG K61配备了FPC1520传感器，以及小米Redmi Note 9 Pro和小米Redmi Note 9 Pro Max配备了FPC1540传感器。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" translates to \"Please help me translate the following English sentence into Chinese. The answer should be given in English. {parent_organization}.\"",
+    "instruction": "Redmi is a sub-brand of Xiaomi, which is a Chinese consumer electronics company. So, the relationship between Redmi and Xiaomi is \"subsidiary\".",
+    "text": ""
+  },
+  {
+    "input": "And several smartphones were launched in the Q2 with our latest-generation sensors, for example, LG K41S, LG K61 with FPC1520 and Xiaomi Redmi Note 9 Pro and Xiaomi Redmi Note 9 Pro Max with FPC1540 sensor.\n\n翻译为中文：\n\n同时，在第二季度，我们推出了配备最新一代传感器的多款智能手机，例如LG K41S、LG K61配备了FPC1520传感器，以及小米Redmi Note 9 Pro和小米Redmi Note 9 Pro Max配备了FPC1540传感器。",
+    "output": "{parent_organization}",
+    "instruction": "Redmi and Xiaomi are related as a subsidiary and parent organization.",
+    "text": ""
+  },
+  {
+    "input": "\"Q2 期间还推出了搭载了我们最新一代传感器的几款智能手机，例如 LG K41S、LG K61 搭载 FPC1520 传感器，以及小米 Redmi Note 9 Pro 和小米 Redmi Note 9 Pro Max 搭载 FPC1540 传感器。\"",
+    "output": "The manufacturer of the product is Apple Inc.",
+    "instruction": "Redmi is a brand under the umbrella of Xiaomi.",
+    "text": ""
+  },
+  {
+    "input": "\"在Q2，我们推出了配备最新一代传感器的几款智能手机，例如LG K41S、LG K61搭载FPC1520传感器，以及小米Redmi Note 9 Pro和小米Redmi Note 9 Pro Max搭载FPC1540传感器。\"",
+    "output": "制造商：Manufacturers.",
+    "instruction": "Redmi and Xiaomi are both brands under the same parent organization, Xiaomi Corporation.",
+    "text": ""
+  },
+  {
+    "input": "我们的传感器现在已集成在超过440款智能手机和平板电脑中，最新推出的模型是Google Pixel 4a。",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer: {developer: Pixel, Google; manufacturer: Pixel, Google}\"\n\nThe Chinese translation is: \"请帮我将下面的英文句子翻译成中文，直接在回答中给出英文翻译：{开发者：Pixel，Google；制造商：Pixel，Google}\"\n\nPlease note that the original sentence was already in English, and the Chinese translation is provided as requested.",
+    "instruction": "Sure, I can help you with that. Here's the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nHere's the English translation of the given sentence: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nPlease let me know if you need any further assistance.",
+    "text": ""
+  },
+  {
+    "input": "{\"Our sensors are now being integrated in over 440 smartphones and tablets, and one of the latest models launched is the Google Pixel 4a.\" 翻译为中文是：\"我们的传感器现在已经被整合到超过440款智能手机和平板电脑中，最新推出的一款模型是谷歌Pixel 4a。\"}",
+    "output": "\"Pixel, Google is the developer and manufacturer of the device.\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: company\nObject: technology\nRelation: product/material produced: company, technology\n\nSubject: company\nObject: industry\nRelation: industry: company, industry\n\nSubject: company\nObject: headquarters location\nRelation: headquarters location: company, headquarters location\n\nSubject: company\nObject: stock exchange\nRelation: stock exchange: company, stock exchange\n\nSubject: company\nObject: currency\nRelation: currency: company, currency\n\nSubject: company\nObject: parent organization\nRelation: parent organization: company, parent organization\n\nSubject: company\nObject: chief executive officer\nRelation: chief executive officer: company, chief executive officer\n\nSubject: company\nObject: director/manager\nRelation: director/manager: company, director/manager\n\nSubject: company\nObject: owner of\nRelation: owner of: company, owner of\n\nSubject: company\nObject: operator\nRelation: operator: company, operator\n\nSubject: company\nObject: member of\nRelation: member of: company, member of\n\nSubject: company\nObject: employer\nRelation: employer: company, employer\n\nSubject: company\nObject: chairperson\nRelation: chairperson: company, chairperson\n\nSubject: company\nObject: platform\nRelation: platform: company, platform\n\nSubject: company\nObject: subsidiary\nRelation: subsidiary: company, subsidiary\n\nSubject: company\nObject: legal form\nRelation: legal form: company, legal form\n\nSubject: company\nObject: publisher\nRelation: publisher: company, publisher\n\nSubject: company\nObject: developer\nRelation: developer: company, developer\n\nSubject: company\nObject: brand\nRelation: brand: company, brand\n\nSubject: company\nObject: business division\nRelation: business division: company, business division\n\nSubject: company\nObject: location of formation\nRelation: location of formation: company, location of formation\n\nSubject: company\nObject: creator\nRelation: creator: company, creator\n\nSubject: company\nObject: technology\nRelation: product/material produced: company, technology\n\nSubject: company\nObject: industry\nRelation: industry: company, industry\n\nSubject: company\nObject: headquarters location\nRelation: headquarters location: company, headquarters location\n\nSubject: company\nObject: stock exchange\nRelation: stock exchange: company, stock exchange\n\nSubject: company\nObject: currency\nRelation: currency: company, currency\n\nSubject: company\nObject: parent organization\nRelation: parent organization: company, parent organization\n\nSubject: company\nObject: chief executive officer\nRelation: chief executive officer: company, chief executive officer\n\nSubject: company\nObject: director/manager\nRelation: director/manager: company, director/manager\n\nSubject: company\nObject: owner of\nRelation: owner of: company, owner of\n\nSubject: company\nObject: operator\nRelation: operator: company, operator\n\nSubject: company\nObject: member of\nRelation: member of: company, member of\n\nSubject: company\nObject: employer\nRelation: employer: company, employer\n\nSubject: company\nObject: chairperson\nRelation: chairperson: company, chairperson\n\nSubject: company\nObject: platform\nRelation: platform: company, platform\n\nSubject: company\nObject: subsidiary\nRelation: subsidiary: company, subsidiary\n\nSubject: company\nObject: legal form\nRelation: legal form: company, legal form\n\nSubject: company\nObject: publisher\nRelation: publisher: company, publisher\n\nSubject: company\nObject: developer\nRelation: developer: company, developer\n\nSubject: company\nObject: brand\nRelation: brand: company, brand\n\nSubject: company\nObject: business division\nRelation: business division: company, business division\n\nSubject: company\nObject: location of formation\nRelation: location of formation: company, location of formation\n\nSubject: company\nObject: creator\nRelation: creator: company, creator",
+    "text": ""
+  },
+  {
+    "input": "{我们的传感器现在已经被整合到超过440款智能手机和平板电脑中，其中最新推出的型号是Google Pixel 4a。}",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "The English sentence you provided is missing. Please provide the sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "我们的传感器现在已集成到超过440款智能手机和平板电脑中，最新推出的型号是Google Pixel 4a。",
+    "output": "Sure, I'd be happy to help you with that! Please provide the English sentence you would like me to translate into Chinese, and I will provide the translation directly in English.",
+    "instruction": "Pixel is a product/material produced by Google.",
+    "text": ""
+  },
+  {
+    "input": "\"Our sensors are now being integrated in over 440 smartphones and tablets, and one of the latest models launched is the Google Pixel 4a.\" 翻译成中文为：“我们的传感器现在已经被整合到了超过 440 款智能手机和平板电脑中，并且最新推出的一款模型是谷歌 Pixel 4a。”",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your answer. {manufacturer}\"\n\n\"制造商\"",
+    "instruction": "Pixel is a product/material produced by Google.",
+    "text": ""
+  },
+  {
+    "input": "\"Our sensors are now being integrated in over 440 smartphones and tablets, and one of the latest models launched is the Google Pixel 4a.\" 翻译成中文是：“我们的传感器现在已经被整合到了超过440款智能手机和平板电脑中，其中最新推出的一款型号是谷歌Pixel 4a。”",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {manufacturer}.\"\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{制造商}。\"",
+    "instruction": "The relationship between Pixel and Google in the context of the input sentence is: \"owned by.\"",
+    "text": ""
+  },
+  {
+    "input": "实际上，苹果电脑最近宣布，其新的苹果地图iOS 14将包括电动汽车充电路线 - 其中包括通往我们Blink充电站的路线。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {platform: Apple Maps, iOS}.\"",
+    "instruction": "\"Apple: The Company That Changed the World\" by Walter Isaacson.",
+    "text": ""
+  },
+  {
+    "input": "事实上，苹果公司最近宣布，其新款iOS 14的苹果地图将包括电动汽车充电路线规划 - 其中包括规划到我们的Blink充电站。",
+    "output": "Sure, I can help with that! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the response!\n\nPlease note that the original sentence was already in English, and I have provided the translation directly in English as requested.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n- 产品/材料生产: word1, word2\n- 制造商: word3, word4\n- 分销商: word5, word6\n- 行业: word7, word8\n- 担任职务: word9, word10\n- 原始广播: word11, word12\n- 拥有: word13, word14\n- 创始人: word15, word16\n- 发行格式: word17, word18\n- 总部所在地: word19, word20\n- 证券交易所: word21, word22\n- 货币: word23, word24\n- 母公司: word25, word26\n- 首席执行官: word27, word28\n- 董事/经理: word29, word30\n- 拥有者: word31, word32\n- 运营商: word33, word34\n- 成员: word35, word36\n- 雇主: word37, word38\n- 主席: word39, word40\n- 平台: word41, word42\n- 子公司: word43, word44\n- 法律形式: word45, word46\n- 出版商: word47, word48\n- 开发者: word49, word50\n- 品牌: word51, word52\n- 业务部门: word53, word54\n- 成立地点: word55, word56\n- 创作者: word57, word58",
+    "text": ""
+  },
+  {
+    "input": "实际上，苹果电脑最近宣布，其新的苹果地图将在 iOS 14 中包含电动汽车充电路线 - 其中包括到我们 Blink 充电站的路线。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "instruction": "Apple Maps is a product/material produced by Apple Inc.",
+    "text": ""
+  },
+  {
+    "input": "事实上，苹果电脑最近宣布，其新款的苹果地图在iOS 14中将包括电动汽车充电路线 - 这将包括前往我们Blink充电站的路线。",
+    "output": "Sure, here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" in English: \"Please help me translate the following English sentence into Chinese, and provide the translation directly in English!\"",
+    "instruction": "The relationship between Apple Maps and iOS in the context of the input sentence is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "为了增加我们高品质燃料乙醇的价值并降低生产厂的运营成本，我们目前正在实施多个与加州工厂相关的升级项目，包括：第一，建造两座新的蒸馏塔及相关系统，以生产高纯度美国药典（USP）级酒精，用于生产消毒剂，称为USP级；第二，安装五座新的分离不锈钢罐，用于存储和装载USP高纯度酒精，增加我们的存储容量超过250,000加仑；第三，完成新7百万美元的沸石膜脱水单元的安装，由三菱提供，以替代酒精厂的分子服务，使用电力驱动的设备，这将减少燃料乙醇的碳强度，部分由1500万美元的能源效率补助金资助；第四，添加高效率的热交换器以减少酒精厂的自然气体使用，由1300万美元的能源效率补助金补偿；第五，安装太阳能电池板微电网阵列，配备电池后备和人工智能能源管理系统，以替代天然气使用太阳能电力，同时优化酒精厂的能源使用，主要由8000万美元的加州能源委员会补助金资助；第六，设计和建造机械蒸汽再压缩系统或称为MVR系统，以显著减少石油天然气的使用，部分由6000万美元的加州能源委员会补助金资助；第七，建造乳品沼气消化器集群和管道，将可再生天然气输送到酒精厂，从今年初的2家奶牛场开始，计划明年扩展到另外15家奶牛场，并连接到公用气管道。",
+    "output": "The English sentence you provided is incomplete and does not contain any specific information about a product or material produced. Please provide a complete sentence or specific information so that I can assist you better.",
+    "instruction": "The English sentence you provided seems to be a set of instructions for a task, rather than a sentence that needs translation. However, I can still provide you with the translation of the given phrases and their corresponding lexical relationships in Chinese. Here they are:\n\n1. product/material produced: 产品/材料生产\n2. manufacturer: 制造商\n3. distributed by: 由...分销\n4. industry: 行业\n5. position held: 担任的职位\n6. original broadcaster: 原始广播者\n7. owned by: 由...拥有\n8. founded by: 由...创立\n9. distribution format: 分销格式\n10. headquarters location: 总部所在地\n11. stock exchange: 股票交易所\n12. currency: 货币\n13. parent organization: 母公司\n14. chief executive officer: 首席执行官\n15. director/manager: 董事/经理\n16. owner of: 所有者\n17. operator: 运营商\n18. member of: 成员\n19. employer: 雇主\n20. chairperson: 主席\n21. platform: 平台\n22. subsidiary: 子公司\n23. legal form: 法律形式\n24. publisher: 出版商\n25. developer: 开发者\n26. brand: 品牌\n27. business division: 业务部门\n28. location of formation: 成立地点\n29. creator: 创造者\n\nPlease note that the translations provided are for the individual phrases and not for the entire instruction set.",
+    "text": ""
+  },
+  {
+    "input": "为了增加我们高品质燃料乙醇的价值并降低生产厂的运营成本，我们目前正在实施与加州工厂相关的多个升级项目，包括：第一，建设两座新的蒸馏塔和相关系统，生产高纯度美国药典级酒精，用于消毒剂，即USP级；第二，安装五台新的分离不锈钢罐，用于存储和卸载USP高纯度酒精，增加我们的存储容量超过250,000加仑；第三，完成新7百万美元沸石膜脱水单元的安装了Mitsubishi，以减少酒精工厂的天然气使用量，通过用电力驱动的设备替换我们的分子服务，减少燃料乙醇的碳强度，部分由1.5百万美元的能源效率拨款资助；第四，添加高效率的热交换器以减少酒精工厂的天然气使用量，由1.3百万美元的能源效率拨款偿还；第五，安装太阳能板微型电网阵列，带有电池后备和人工智能能源管理系统，以用太阳能电力替代天然气，同时优化酒精工厂的能源使用，主要由8百万美元的加利福尼亚能源委员会拨款资助；第六，设计并建造机械蒸汽再压缩系统或称为MVR系统，以显著减少石油天然气使用量，部分由6百万美元的加利福尼亚能源委员会拨款资助；第七，建造奶牛生物气体消化器集群和管道，将可再生天然气输送到酒精工厂，从本年的两家奶牛场开始，计划明年扩展到另外15家奶牛场，以及与公用事业天然气管道连接。",
+    "output": "The product or material produced is a digester and biogas.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nI'm sorry, but I need the input sentence to proceed with the translation. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "为了提高我们高端燃料乙醇的价值并降低生产厂的运营成本，我们目前正在实施几个与加州工厂相关的升级项目，包括：第一，建造两座新的蒸馏塔和相关系统，以生产高纯度的美国药典等级酒精，这种酒精被用作消毒剂，称为USP等级；第二，安装五台新的隔离不锈钢罐，用于储存和装载USP高纯度酒精，增加我们的储存容量超过250,000加仑；第三，完成新7百万美元沸石膜脱水单元的安装，由三菱提供，以减少酒精厂对天然气的使用，通过用电动设备取代我们的分子服务，减少燃料乙醇的碳强度，部分由150万美元的能源效率补助金资助；第四，添加高效热交换器以减少酒精厂对天然气的使用，由130万美元的能源效率补助金报销；第五，安装太阳能电池板微电网阵列，配备电池后备和人工智能能源管理系统，以取代天然气使用太阳能电力，同时优化酒精厂的能源使用，主要由800万美元加州能源委员会资助；第六，设计和建造机械蒸汽再压缩系统，也称为MVR系统，以显著减少石油天然气使用，部分由600万美元加州能源委员会资助；第七，建造奶牛沼气消化器集群和管道，将可再生天然气输送到酒精厂，从今年初的两家奶牛场开始，计划明年增加另外15家奶牛场，并与公用事业天然气管道相连。",
+    "output": "I'm sorry, but I need more context to translate the given phrase accurately. Please provide the full sentence or phrase you want me to translate.",
+    "instruction": "Please translate the following English sentence into Chinese, and provide the English translation directly in your response. {Utilize the input text as a context reference, choose the right relationship between digester and biogas from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\n\n请将以下英文句子翻译成中文，并在回答中直接给出英文翻译。{使用输入文本作为上下文参考，从选项中选择消化器和沼气之间的正确关系。选项：产品/材料生产，制造商，由...发行，行业，担任职务，原创广播，所有者，由...创立，分发格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发商，品牌，业务部门，成立地点，创作者。}",
+    "text": ""
+  },
+  {
+    "input": "为了增加我们高级燃料乙醇的价值并降低生产工厂的操作成本，我们目前正在实施与加州工厂相关的几个升级项目，包括：第一，建造两个新的蒸馏列和相关系统，以生产高纯度的美国药典级酒精，这种酒精通常用于消毒剂，称为美国药典级酒精；第二，安装五个新的分隔不锈钢罐，用于储存和装载美国药典高纯度酒精，我们的储存容量将增加超过250,000加仑；第三，完成安装新的价值700万美元的沸石膜脱水单元，由三菱提供，以减少酒精厂使用天然气，通过用电力驱动的设备替换我们的分子服务，这将减少我们的燃料乙醇的碳强度，部分由150万美元的能源效率拨款资助；第四，添加高效的热交换器以减少酒精厂的天然气使用，由130万美元的能源效率拨款偿还；第五，安装太阳能电池板微电网阵列，配有电池后备和人工智能能源管理系统，以替代酒精厂的天然气使用太阳能电力，同时优化酒精厂的能源使用，主要由800万美元的加利福尼亚能源委员会拨款资助；第六，设计和建造机械蒸汽再压缩系统，即MVR系统，以显著减少石油天然气的使用，部分由600万美元的加利福尼亚能源委员会拨款资助；第七，建造一个奶牛沼气消化器集群和管道，将可再生天然气输送到酒精厂，从本年的两个奶牛场开始，计划明年扩展到另外15个奶牛场，同时与公用事业天然气管道连接。",
+    "output": "产品或材料生产",
+    "instruction": "The relationship between digester and biogas in the context of the input sentence is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "让我们简要回顾一下我们Aemetis生物质奶牛消化器及管道项目。",
+    "output": "Product: digester, material: biogas. 翻译为中文：\n产品：消化器，材料：沼气。",
+    "instruction": "Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translation is: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer.\"\n\nThe corresponding lexical relationship between the two phrases is \"translation\".",
+    "text": ""
+  },
+  {
+    "input": "让我们简要回顾一下我们的Aemetis生物气奶牛消化器和管道项目。",
+    "output": "The sentence you provided is incomplete and lacks context, making it difficult to provide an accurate translation. Please provide the complete sentence or additional information so that I can assist you better.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "让我们简要回顾一下我们的Aemetis生物气奶牛消化器和管道项目。",
+    "output": "以下是英文句子及其中文翻译：\n\n{product_or_material_produced} 可以翻译为：\n\n- 产品（product）\n- 材料（material）\n- 制品（product）\n- 成品（finished product）\n- 制造物（manufactured goods）\n- 生产物（production）\n\n请注意，以上翻译可能根据上下文有所不同。在实际应用中，请根据具体情况选择最合适的翻译。",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between digester and biogas from the options.\n\nThe relationship between digester and biogas is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "让我们简要回顾一下我们的Aemetis生物质奶牛消化器和管道项目。",
+    "output": "Product or Material Produced: 产品或材料生产",
+    "instruction": "The relationship between digester and biogas in the context of the input sentence is: product/material produced. \n\nTranslation: 消化器和沼气在输入句子的上下文中的关系是：产品/材料产生。",
+    "text": ""
+  },
+  {
+    "input": "After the preferred stock is redeemed, Aemetis as a sole common shareholder will own a 100% of the cash flow and assets of the biogas digester and pipeline system.",
+    "output": "The product or material produced: digester, biogas. \n\n直译：产品或材料产生：消化器，生物气体。",
+    "instruction": "\"Product/material produced: 产品/材料生产; Manufacturer: 制造商; Distributed by: 分销商; Industry: 行业; Position held: 所持职位; Original broadcaster: 原始广播者; Owned by: 所有者; Founded by: 创始人; Distribution format: 分销格式; Headquarters location: 总部所在地; Stock exchange: 股票交易所; Currency: 货币; Parent organization: 母公司; Chief executive officer: 首席执行官; Director/manager: 董事/经理; Owner of: 拥有者; Operator: 运营商; Member of: 成员; Employer: 雇主; Chairperson: 主席; Platform: 平台; Subsidiary: 子公司; Legal form: 法律形式; Publisher: 出版商; Developer: 开发者; Brand: 品牌; Business division: 业务部门; Location of formation: 成立地点; Creator: 创作者\"",
+    "text": ""
+  },
+  {
+    "input": "{After the preferred stock is redeemed, Aemetis as a sole common shareholder will own a 100% of the cash flow and assets of the biogas digester and pipeline system.} \n\n翻译成中文为：\n{在被优先股赎回之后，作为唯一普通股东，Aemetis将拥有生物气消化器和管道系统100%的现金流和资产。}",
+    "output": "The sentence in English is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {product_or_material_produced: digester, biogas}.\"\n\nTranslation in Chinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{product_or_material_produced: digester, biogas}。\"\n\nDirect English translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {product_or_material_produced: digester, biogas}.\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nHere's the translation of the given sentence into English: \"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer. {Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"\n\nPlease note that I have translated the given sentence into English as requested, and I have provided the translation directly in the answer.",
+    "text": ""
+  },
+  {
+    "input": "\"After the preferred stock is redeemed, Aemetis as a sole common shareholder will own a 100% of the cash flow and assets of the biogas digester and pipeline system.\" 翻译成中文为：\n\n\"优先股赎回后，作为唯一普通股股东，Aemetis将拥有生物气体消化器和管道系统100%的现金流和资产。\"",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 可以翻译为 \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"",
+    "instruction": "The sentence is: \"Utilize the input text as a context reference, choose the right relationship between digester and biogas from the options.\"\n\nTranslation: \"利用输入文本作为上下文参考，从选项中选择消化器和沼气的正确关系。\"\n\nOption: position held (职位)",
+    "text": ""
+  },
+  {
+    "input": "After the preferred stock is redeemed, Aemetis as a sole common shareholder will own a 100% of the cash flow and assets of the biogas digester and pipeline system.",
+    "output": "{product_or_material_produced} is a placeholder for the name of a product or material that has been produced. It can be replaced with the actual name of the product or material in the sentence to make it meaningful.",
+    "instruction": "What is the relationship between digester and biogas in the context of the input sentence?\nThe relationship between digester and biogas in the context of the input sentence is \"product/material produced.\"",
+    "text": ""
+  },
+  {
+    "input": "This month, we reached an agreement with Codelco to repay $7.3 million owed to them due to negative trade settlement adjustments, which were caused by the sharp drop in copper price in Q1.",
+    "output": "Codelco, copper.",
+    "instruction": "The given phrase is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\nTranslation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\nRelation: position held, CEO\nExplanation: The user is asking for help in translating an English sentence into Chinese and wants the English translation to be provided directly in the answer. The relationship between the two words is that the user is requesting the position held by the AI assistant, specifically as the CEO.",
+    "text": ""
+  },
+  {
+    "input": "We reached an agreement earlier this month with Codelco to repay $7.3 million due to them in respect of negative trade settlement adjustments, which were caused by the sharp drop in copper price in Q1.\n\n这个月早些时候，我们与科洛科达（Codelco）达成了一项协议，以偿还他们由于Q1铜价急剧下跌而导致的7300万美元的贸易结算调整。",
+    "output": "{product_or_material_produced: Codelco, copper} 翻译成中文为：\n\n{产品或材料生产：科洛科，铜}",
+    "instruction": "Subject: sentence\nObject: English translation\n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: 句子\nObject: 英文翻译",
+    "text": ""
+  },
+  {
+    "input": "This month, we reached an agreement with Codelco to repay $7.3 million due to them in respect of negative trade settlement adjustments, which were caused by the sharp drop in copper price in Q1.",
+    "output": "{product_or_material_produced} 被翻译成中文是：{产品或材料生产}。",
+    "instruction": "Codelco is a manufacturer of copper.",
+    "text": ""
+  },
+  {
+    "input": "This month, we reached an agreement with Codelco to repay $7.3 million due to them for negative trade settlement adjustments caused by the sharp drop in copper price in Q1.",
+    "output": "The translated sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {product_or_material_produced}.\"",
+    "instruction": "Codelco is a copper producer and manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "告诉我，如果有错误，那就是正在与Codelco进行谈判，可能是为了对你们与他们之间的长期合同中关于如何计算版税的部分进行一些更改，以便你们对在铜价格波动较大的情况下可能发生的事情有更好的可预测性。\n\n英文翻译：Tell me if this is incorrect, that there were negotiations going on with Codelco about maybe making some changes to the long-term contract that you have with them in respect of how the royalty is calculated to maybe give you some better predictability of what happens under highly volatile copper prices.",
+    "output": "Codelco, copper: 科洛科公司，铜。",
+    "instruction": "Here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nThe translated sentence in Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{给出的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对和它们之间的对应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nThe corresponding lexical relationship between the words/phrases in the input text is as follows: \n- product/material produced: 生产/制造的产品/材料\n- manufacturer: 制造商\n- distributed by: 由...分销\n- industry: 行业\n- position held: 所持有的职位\n- original broadcaster: 原始广播者\n- owned by: 由...拥有\n- founded by: 由...创立\n- distribution format: 分销格式\n- headquarters location: 总部所在地\n- stock exchange: 股票交易所\n- currency: 货币\n- parent organization: 母公司\n- chief executive officer: 首席执行官\n- director/manager: 董事/经理\n- owner of: 所有者\n- operator: 操作者\n- member of: 成员\n- employer: 雇主\n- chairperson: 主席\n- platform: 平台\n- subsidiary: 子公司\n- legal form: 法律形式\n- publisher: 出版商\n- developer: 开发者\n- brand: 品牌\n- business division: 业务部门\n- location of formation: 成立地点\n- creator: 创造者",
+    "text": ""
+  },
+  {
+    "input": "请告诉我，如果有任何错误，那是因为我们在与Codelco进行谈判，可能要对长期合同进行一些更改，以反映他们如何计算版税，以提供更好的可预测性，在高度波动铜价的情况下。",
+    "output": "Codelco, a copper producer.",
+    "instruction": "Subject: Apple\nObject: iPhone\n\nRelation: product/material produced\nTranslation: 苹果公司生产的 iPhone。",
+    "text": ""
+  },
+  {
+    "input": "{\"Tell me if this is incorrect, that there were negotiations going on with Codelco about maybe making some changes to the long-term contract that you have with them in respect of how the royalty is calculated to maybe give you some better predictability of what happens under highly volatile copper prices.\"} 的中文翻译为：\n\n{\"请告诉我，如果这个说法不正确，那就是Codelco与我们正在进行谈判，可能是为了对我们的长期合同做出一些修改，以更好地计算特许权使用费，以便在铜价波动较大的情况下，我们对可能发生的事情有更好的可预测性。\"}",
+    "output": "{product_or_material_produced} 可以翻译为“所生产的产品或材料”。",
+    "instruction": "Codelco is a manufacturer of copper.",
+    "text": ""
+  },
+  {
+    "input": "{告诉我如果这个翻译不正确，正在与Codelco进行谈判，可能是为了对长期合同中他们如何计算版税的方式进行一些更改，以便为您提供一些更好的对铜价高度波动情况下的预测性。}",
+    "output": "{product_or_material_produced} is a type of product or material that is produced.",
+    "instruction": "Codelco is a state-owned copper mining company, which means it is a manufacturer of copper.",
+    "text": ""
+  },
+  {
+    "input": "\"因此，科德科在2019年上半年生产了5%更多的铜，尽管铜价较低，但其盈利能力更强。\"",
+    "output": "Codelco, a copper-producing company.",
+    "instruction": "Given phrases: \n1. product/material produced: 产品/材料生产\n2. manufacturer: 制造商\n3. distributed by: 由...分销\n4. industry: 行业\n5. position held: 担任的职位\n6. original broadcaster: 原始广播商\n7. owned by: 所有权\n8. founded by: 由...创立\n9. distribution format: 分销格式\n10. headquarters location: 总部所在地\n11. stock exchange: 证券交易所\n12. currency: 货币\n13. parent organization: 母公司\n14. chief executive officer: 首席执行官\n15. director/manager: 董事/经理\n16. owner of: 所有者\n17. operator: 运营商\n18. member of: 成员\n19. employer: 雇主\n20. chairperson: 主席\n21. platform: 平台\n22. subsidiary: 子公司\n23. legal form: 法律形式\n24. publisher: 出版商\n25. developer: 开发者\n26. brand: 品牌\n27. business division: 业务部门\n28. location of formation: 成立地点\n29. creator: 创建者\n\nPlease provide the specific sentence you would like me to translate.",
+    "text": ""
+  },
+  {
+    "input": "So Codelco produced 5% more copper than in the first half of 2019, had stronger earnings despite lower copper prices.\n- 科洛科（Codelco）在2019年上半年生产了5%更多的铜，尽管铜价下跌，但仍获得了更强的收益。",
+    "output": "Codelco is a company that produces copper.",
+    "instruction": "Sorry, I am unable to translate the given sentence into Chinese as it is not provided in the prompt. Please provide the sentence you would like me to translate.",
+    "text": ""
+  },
+  {
+    "input": "Codelco produced 5% more copper than in the first half of 2019, and had stronger earnings despite lower copper prices.",
+    "output": "Sure, I can help with that! Here's the translation: \n\n\"Please help me translate the following English sentence into Chinese. Here's the translation: {product_or_material_produced}\"",
+    "instruction": "Codelco is a manufacturer of copper.",
+    "text": ""
+  },
+  {
+    "input": "Codelco在2019年上半年的基础上，生产了5%更多的铜，尽管铜价下降，但利润更强。",
+    "output": "The product or material produced.",
+    "instruction": "Codelco and copper are related as a manufacturer and product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "我们一直专注于最流行的窄体飞机类型，特别是空客A320和波音737下一代。",
+    "output": "The English sentence is: \"Airbus, aircraft\"\n\nIn Chinese, it translates to: \"空客，飞机\"",
+    "instruction": "The given sentence is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translation in English is: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"\n\nThe corresponding lexical relationship between the two words/phrases is: \"translation: sentence, Chinese\" and \"translation: English, answer\"",
+    "text": ""
+  },
+  {
+    "input": "We have always focused our fleet in the most popular narrow-body aircraft types, in particular Airbus A320s and Boeing 737 Next Generations. \n我们一直专注于最受欢迎的窄体客机型号，特别是空客A320和波音737新一代。",
+    "output": "The product or material produced is Airbus, an aircraft.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nRelation1: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nRelation2: subject, object\n\nExample:\nRelation1: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nRelation2: subject, object\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3, word4\"\"\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nObject: \"in the format of \"relation1: word1, word2; relation2: word3,",
+    "text": ""
+  },
+  {
+    "input": "We have always focused our fleet on the most popular narrow-body aircraft types, particularly Airbus A320s and Boeing 737 Next Generations.",
+    "output": "\"Product or material produced\" 可以翻译为中文 \"生产的产品或材料\"。",
+    "instruction": "Airbus is a manufacturer of aircraft.",
+    "text": ""
+  },
+  {
+    "input": "We have always focused our fleet in the most popular narrow-body aircraft types, in particular Airbus A320s and Boeing 737 Next Generations.\n= 我们一直专注于最受欢迎的窄体客机机型，特别是在于空客A320和波音737新一代。",
+    "output": "The English sentence you provided is not complete, so I cannot provide a translation. Please provide the full sentence or more context for me to translate.",
+    "instruction": "The relationship between Airbus and aircraft in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "While we don't expect to take delivery of any of the option aircraft this year and as you know AirAsia has already said it's not going to take any Airbus deliveries this year. \n\n翻译成中文：我们今年不会期待收到任何选定的飞机，正如您所知，亚洲航空已经表示今年不会接收任何空客交付。",
+    "output": "The product or material produced is Airbus, an aircraft.",
+    "instruction": "The English sentence you provided is not present in the input text. Please provide the English sentence that you want me to translate into Chinese, and I will be happy to help you.",
+    "text": ""
+  },
+  {
+    "input": "{虽然我们今年不期待收到任何期权飞机，正如您所知，亚洲航空已经表示今年不会接受任何空客交付。}",
+    "output": "The product or material produced is Airbus, an aircraft manufacturer.",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nAnd here is the extraction of the subject and object containing a certain relation in the sentence according to the given relation types:\n\nrelation1: 请帮我, 下面英文句子; relation2: 翻译成, 中文; relation3: 回答中, 直接; relation4: 给出, 英文翻译!",
+    "text": ""
+  },
+  {
+    "input": "尽管我们今年不会接收任何备选飞机，正如您所知，亚洲航空已经表示今年不会接收任何空客交付。",
+    "output": "产品或材料生产。",
+    "instruction": "Airbus is a manufacturer of aircraft.",
+    "text": ""
+  },
+  {
+    "input": "尽管我们今年不期望接收任何期权飞机，并且正如您所知，AirAsia已经表示今年不会接收任何空客交付。",
+    "output": "I'm sorry, but your request is incomplete. Could you please provide the English sentence you want me to translate?",
+    "instruction": "The relationship between Airbus and aircraft in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "From a positioning standpoint, we recognized last year that attempting to position ContraPest as an exclusive solution to pest control was alienating our potential PMP customers and other major players in the industry.\n\n从定位的角度来看，我们去年认识到，试图将ContraPest定位为虫害控制的独家解决方案，正在疏远我们的潜在PMP客户和其他行业的主要参与者。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: ContraPest, pest control}\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese, and provide the translation directly in English! {industry: ContraPest, pest control}\"\n\nPlease let me know if you need any further assistance!",
+    "instruction": "The sentence you provided is not a clear English sentence. Could you please provide a complete sentence or phrase for me to translate?",
+    "text": ""
+  },
+  {
+    "input": "从定位角度来看，去年我们认识到，试图将ContraPest定位为虫害控制的专属解决方案，正在疏远我们的潜在PMP客户和其他行业主要参与者。",
+    "output": "Sure, here is the translation of the sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" into English:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "I'm sorry, but I couldn't understand the input sentence you provided. Could you please provide me with the sentence you want me to translate and the relation type you want me to extract from it?",
+    "text": ""
+  },
+  {
+    "input": "From a positioning standpoint, we recognized last year that attempting to position ContraPest as an exclusive solution to pest control was alienating our potential PMP customers and other major players in the industry. = 从定位的角度来看，我们去年认识到，试图将ContraPest定位为虫害控制的独家解决方案，正在疏远我们的潜在PMP客户和其他行业的重大参与者。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" into Chinese:\n\n请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业}\n\nThis translates to \"Please help me translate the following English sentence into Chinese. The answer should be given in English!\" in English.",
+    "instruction": "ContraPest is a product/material produced for pest control.",
+    "text": ""
+  },
+  {
+    "input": "From a positioning standpoint, we recognized last year that attempting to position ContraPest as an exclusive solution to pest control was alienating our potential PMP customers and other major players in the industry. \n\n从定位的角度来看，我们去年认识到，试图将ContraPest定位为虫害控制的独家解决方案正在疏远我们的潜在PMP客户和其他行业的关键参与者。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "ContraPest is a product/material produced for pest control in the context of the input sentence.",
+    "text": ""
+  }
+]

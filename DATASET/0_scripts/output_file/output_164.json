@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The shopping center will have a prime location right next to the Myllypuro metro station.\n\n翻译成中文：\n购物中心将位于Myllypuro地铁站旁边的一个优越位置。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普正在考虑在2020年选举前采取行政行动来降低药品价格，熟悉这一情况的官员表示...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"With negative free cash flow, thin e-commerce margins, and ongoing share dilution, it's time for investors to say, \"Show me the money.\" AWS could be at a cyclical peak, while Amazon.com is simultaneously at a cyclical trough.\"} 翻译为中文是：\n\n{\"与负自由现金流、薄电子商务利润和持续的股份稀释一起，现在是投资者说“给我看钱”的时候了。AWS 可能处于周期性峰值，而 Amazon.com 同时处于周期性低谷。\"}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesco sales recover as focus returns to core business\" 的中文翻译是：\"特易购的销售恢复，因为焦点重新回到核心业务上。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bain Capital reportedly approached Walgreens Boots Alliance Inc (NASDAQ: WBA) months ago about taking over Boots, although Walgreens didn't comment on the matter. The Sunday Times said Walgreens \"received a takeover approach from Bain Capital more than two months ago\" and is \"positioning itself as a frontrunner in a forthcoming auction for Boots after completing months of due diligence.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Buy it for the 12MP snapper, if nothing else.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{五种不同的游戏模式，合作锦标赛，4人分屏和多人模式，玩家可以像真正钓鱼一样享受乐趣。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "To check them out or to make a bid they will be in the Deka Showroom, Fortitude Valley. 翻译成中文为：“如果想要检查它们或者出价，它们将在 Fortitude Valley 的 Deka 展示厅。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company expects its net sales in 2008 to increase 5-10 % from 2007. \n\n公司预计2008年的净销售额将比2007年增加5-10%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesco 在圣诞节期间开局不佳 - Kantar\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"资本对能源效率的支出不幸地随着经济的下滑而下降。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla has just unveiled its first electric pickup: The Cybertruck. The truck boasts 300 miles of range and will come with a starting price of $39,900.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The contract incorporates a Convergent Charging rating solution for voice and data, which includes Internet, GPRS, SMS, MMS and WAP.\n\n合同中包含了一个适用于语音和数据的聚合计费评级解决方案，包括互联网、GPRS、短信、彩信和WAP。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Storengy is the GDF SUEZ company that is dedicated to the underground storage of natural gas. \n\n翻译：斯泰朗吉是 GDF SUEZ 公司，致力于地下储存天然气。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益（EPS）为亏损0.06欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix reversed its recent subscriber losses with a summertime gain that management is hoping to build upon with the upcoming launch of a cheaper version of the video streaming service that will include ads for the first time.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "FTSE 100下跌2.5%，因Glencore和金属价格担忧。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The key: focus on long-term capital gains and/or qualified dividends. https://t.co/HugPFtWZZh\n\n翻译：\n\n重点：关注长期资本收益和/或合格股息。https://t.co/HugPFtWZZh",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix (NFLX)的股票在盘后交易中上涨了7%，因为这家流媒体巨头报告称，其失去的订阅用户比预期要少。公司在第二季度失去了97万订阅用户，而最初预测的是200万。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊公司（Amazon.com Inc）是竞购医疗保健公司Signify Health Inc的竞标者之一，据华尔街日报周日报道，并引述了了解此事的知情人士的话。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"这个游戏突然出现... 他们有效地向所有人出其不意地推出，整个游戏世界... https://t.co/DfFWHDvFzO}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{一个被 Insider 看到的泄露邮件显示，亚马逊的实体店业务，包括 Fresh 超市和 Whole Foods Market，正在经历一次重大重组。}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Fed Faces a Housing Conundrum 可以翻译为：美联储面临住房难题。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The ECB can mainly target inflation.\n欧洲央行主要可以针对通货膨胀。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SBUX 正在接近200日移动均线，如果它无法在那里保持，那么它将面临严重的困境。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司预计2009年销售额将达到8.0亿元人民币。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Metsa-Botnia将会出售其在乌拉圭公司中的82.1%股份，以及Metsaliitto的5.5%股份。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the end of 2006, the number of outlets will rise to 60-70.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gamma Communications: 收购统一通信基础设施提供商 Telsis ... #GammaCommunications…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Micron Technology Inc. (MU, Financial) on Thursday after the market closed released earnings results for its third quarter of fiscal 2022. Investors have been looking forward to the report because Micron's May-ending quarter provides an extra month of data about the semiconductor market, which is experiencing a period of volatility.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊股票长线投资，看好超过600。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Finnish printed circuit boards (PCBs) maker Aspocomp Group Oyj said on December 4, 2006 it named Henry Gilchrist senior vice president of the group's Asian operations, as of January 8, 2007.\" 翻译成中文为：\n\n\"2006年12月4日，芬兰印制电路板（PCB）制造商阿斯波康集团Oyj宣布，自2007年1月8日起，任命Henry Gilchrist为集团亚洲运营部门的高级副总裁。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given English sentence to Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{bot $AMZN 600 weekly calls here @ 5.93}\n\nChinese translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{bot $AMZN 600 周度呼叫这里@5.93}\n\n英文翻译: Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {bot $AMZN 600 weekly calls here @ 5.93}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{2007年，波罗的海北部共发生了1650万次客运船航行，相比2006年的1650万次略有下降。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "全球经济似乎正朝着1970年代式的失控通胀发展，这对价值股票来说是有利的。然而，市场也似乎正朝着熊市或修正的方向发展，那么会是哪种情况，这对您的股票投资组合意味着什么？",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Yahoo Finance's Daniel Howley joins the Live show to discuss the latest surrounding the pending Microsoft-Activision deal.} \n\n\"雅虎财经的丹尼尔·豪利将加入直播节目，讨论微软-动视合并交易的最新动态。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"街头传闻称，Allergan正在考虑Endo International，因为与Pfizer的合并失败。May-20 $35的看涨期权活跃。$ENDP\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gazprom proposes one-year gas transit deal with Ukraine.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据CEO Matti Karppinen的说法，Frozen Foods在2010年取得了良好的业绩，就像它在2009年一样。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "经济不确定性增加，外汇和乌克兰战争正在影响META的前景。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"澳大利亚勘探公司开始在位于西澳大利亚州的巴拉多尼亚地区进行钻探。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ivy League students are pushing to abolish prisons.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ghana plans to use $1 billion of newly raised cash to restructure debts with power generators.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "半导体领域的公司的股票，包括NVIDIA Corp（纳斯达克股票代码：NVDA）和Micron Technology Inc（纳斯达克股票代码：MU），周三上涨，从最近的疲软中反弹，部分原因是收益率上升和美联储缩减购债的担忧，这导致了该领域的波动。12月会议总结显示，美联储成员准备开始加息并缩减债券购买。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"RPT-Old Mutual Q1 gross sales beat forecasts, up 18 pct\" 翻译成中文是：\"RPT-旧金山互助公司第一季的毛销售额超过了预期，增长了18%。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大规模裁员使加拿大消费者信心跌至历史最低点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Buffett's Berkshire builds Deere stake, dumps Exxon\" 的中文翻译为 \"巴菲特的伯克希尔增持迪尔股份，抛售埃克森\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY nice bounce 的中文翻译是 \"BBRY 漂亮反弹\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Goldman Sachs 估计，在短期内，挪威 Telenor ASA OSL : TEL 和瑞典 TeliaSonera AB STO : TLSN 的挪威移动运营面临着负面的前景。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在出售后，Fiskars的户外部门将包括Gerber，Silva和Buster品牌，并专注于多用途工具，刀具，指南针，移动照明，计步器和铝制船只。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

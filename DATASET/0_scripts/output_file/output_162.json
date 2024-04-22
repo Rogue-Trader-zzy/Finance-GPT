@@ -1,0 +1,302 @@
+[
+  {
+    "input": "AstraZeneca遭受挫折，因为药物未能治疗眼癌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The packaging company Huhtamaki Oyj reported on Monday that a total of 561,470 new shares of the company have been issued based on share subscriptions under its 2003 option rights plan.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{AT&T : 通过50亿美元的定期贷款提高流动性 #ATT #股票 #市场筛选器 https://t.co/gU6e8gRlU2 https://t.co/tqhMQDHWDq}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Siemens is considering purchasing Iberdrola's stake in Siemens Gamesa.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Global Markets Direct's Pohjola Bank plc - Financial Analysis Review is an in-depth business, financial analysis of Pohjola Bank plc.\n\n- 全球市场指南的Pohjola Bank plc - 财务分析评估是对Pohjola Bank plc的深入商业和财务分析。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"葛兰素史克股票价格下跌，因为FDA批准的哮喘疗法仅适用于成年人。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据诺德银行爱沙尼亚CEO Vahur Kraft的说法，诺德芬兰和斯托克曼已经合作了超过十年。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子 \"TSLA recall\" 的中文翻译：\n特斯拉召回。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "高房价和强劲需求促使千禧一代涌入中小城市。以下是前十位住房市场...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "华盛顿州禁止调味和THC电子烟的规定到期。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "No financial details were provided.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GILD 封锁了指导方针，以便他们可以使用最后 30 亿。CC 持谨慎乐观态度，等待下一期 ER 的确认。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The contract involves refurbishing the bathrooms of 189 units as well as re-plumbing their water and sewer pipes.\" 翻译为中文是：\"合同涉及对189个单元的浴室进行翻新，并重新铺设他们的水管和污水管。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca's MedImmune Licensing Deal with Omnis Pharmaceuticals.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{在2007年3月末，该集团的订单簿达到3960万欧元，比2006年同期增长了42%。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"刚刚买入了$ILMN的股票。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芯片制造商Nvidia的股价下跌了高达8%，原因是其报告的第二季度销售额低于预期。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "圣诞节能否拯救森宝集团和特易购集团？",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Thanks to the internet, consumers compare products more than previously and Finnish companies are not competitive. \n\n中文翻译：\n\n由于互联网的存在，消费者比以前更频繁地比较产品，而芬兰公司在这方面缺乏竞争力。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The emerging markets that Raisio has chosen to enter so far are marked by relatively low per capita food consumption. \n\n翻译为：\n\n到目前为止，Raisio选择进入的这些新兴市场，人均食物消费相对较低。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纳斯达克以其高增长的股票而闻名，不一定是持有不动的候选者。比如电动汽车、生物技术、社交网络股票、云软件公司和类似的公司。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finland-based company says it will move into an existing 260,000-square-foot facility in September.\n\n芬兰的这家公司表示，它将在9月份搬进一个现有的26万平方英尺的设施。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$DCTH Near HOD} can be translated to \"DCTH near HOD\" in Chinese.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oppenheimer 将 Bank of America 股票目标价从 48 美元上调至 49 美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple faces a weak holiday quarter as iPhone production issues in China limit key sales in the December quarter. The company is trapped in China needing to keep the Communist government happy in order to maintain $75 billion in annual sales.\n\n苹果公司面临一个弱势的假日季度，因为中国iPhone生产问题限制了12月季度的关键销售。公司被困在中国，需要保持共产主义政府的满意，以维持每年750亿美元的销售。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meggitt share price tumbles as profit falls in 'challenging year' can be translated to: \"Meggitt 股票价格下跌，因为公司在'具有挑战性的年份'中利润下降。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca to Buy ZS Pharma for $2.7 Billion\n\n阿斯利康将以270亿美元收购ZS Pharma。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Citigroup, Inc. NYSE: C, Deutsche Bank NYSE: DB and Pohjola Bank are lead managers for the sale.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是2020年总统竞选赛目前的最新情况，今天值得关注的内容。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Another Google Worker Says She Was Fired for Labor Advocacy 翻译为中文是：“另一位谷歌员工说，她因劳工倡导而被解雇。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"The pulp production in Finnish Kemijärvi will also be liquidated and about 1,100 employees will lose their jobs.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"O'Leary's Material Handling Services, located in Perth, is the leading company in Western Australia that supplies, installs and provides service for tail lifts.\" 可以翻译为：\n\n\"位于珀斯的O'Leary's Material Handling Services是西澳大利亚州领先的供应、安装和服务尾板升降机的公司。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果成为第一家市值超过3万亿美元的美国公司，周一短暂达到了这一里程碑，这是科技行业在疫情期间的一次最新展示。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The presentation material can be viewed on the company's website in English after the conference. \n\n翻译为中文：\n\n会议结束后，公司的网站上有英文版的演示文稿材料可供查看。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In providing managed services, Nokia takes responsibility for building, operating and transferring as well as optimizing the Indosat 3G network.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nSome of the most recent technology deliveries include refinery technology to Anrak Aluminium, an iron ore pelletizing plant to Tata Steel, and iron ore sintering plants to Bhushan Steel.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "摩根士丹利表示，随着贸易紧张局势和货币政策的缓和，全球经济增长预计将在2020年恢复。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{Aug. 31 , 2009 (Gawker Media delivered by Newstex)-- If you love fishing video games but felt that there just wasn't enough wackiness involved, then Activision's (NASDAQ: ATVI) Rapala: We Fish might just catch your eye with its family-fun hook.}\n\n翻译：\n\n{2009年8月31日（由Gawker Media通过Newstex提供）-- 如果你热爱钓鱼游戏，但感觉游戏中没有足够的滑稽元素，那么动视（NASDAQ：ATVI）的Rapala：我们钓鱼可能凭借其家庭乐趣的钩子吸引你的眼球。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fancy Dans on the move FAB Glasgow gift and interiors store Fancy Dans is moving!\n\n翻译：Fancy Dans 在移动，FAB 格拉斯哥礼品和室内商店 Fancy Dans 正在搬家！",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nYahoo Finance Live 主持人布拉德·史密斯 (Brad Smith)、布莱恩·索兹齐 (Brian Sozzi) 和朱莉·海曼 (Julie Hyman) 讨论了亚马逊第三季度的盈利情况。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company had hoped the new plant would be on stream by the end of 2008.\n\n该公司原本希望新工厂能在2008年底开始运转。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦AFX - 今天从多个市场来源汇总的英国和欧洲经纪人的建议。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2007, almost two-thirds of Orion's net sales came from these drugs.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shire to buy NPS for $5.2 billion to boost rare disease drugs.\n- 司陶特公司将以52亿美元收购NPS公司，以提高罕见疾病药物的研发。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据组织者的说法，苹果位于彭广场购物中心商店的约70%的员工已经签署了工会卡，并且正在寻求美国通信工人工会的代表。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco's share price closes higher as two more directors leave grocer.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Aviva计划在2017年将股息支付比率提高至50%。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果短期基金/赎回清算...应该很快就会清除通道并在稳固的基础上。7月新地板为520美元！:)",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Motors is recalling 2,700 Model X SUVs.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The connectivity unit has more than 100 e-invoice customers, and the number of annual transactions stands at nearly one million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

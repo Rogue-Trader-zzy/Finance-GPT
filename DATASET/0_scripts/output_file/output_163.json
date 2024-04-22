@@ -1,0 +1,302 @@
+[
+  {
+    "input": "After a brief scare, Microsoft Corp reassured tech investors late on Tuesday that the enterprise internet cloud business category has plenty of room to grow.\n\n翻译：\n在短暂的一阵恐慌之后，微软公司在周二晚间向科技投资者保证，企业互联网云业务类别有足够的增长空间。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EasyJet Dismisses Lufthansa Low-Cost Plan in Contest for Germany\n\n易捷航空驳回汉莎航空的低成本计划，争夺德国市场。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The US wants a trade deal with China, but won't turn a blind eye to Hong Kong, says Trump's national security advisor.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$RNN 保持在开位以上是一个非常良好的迹象!!!",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Jeffries raises pt. I remain long\" can be translated to Chinese as \"杰弗里斯提高部分。我仍然长期持有\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sales of clothing developed best.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "StanChart and RBS struggle in Bank of England stress tests.\n\n翻译：\n标准查尔斯银行和皇家苏格兰银行在英格兰银行的压力测试中挣扎。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As such, the space has blond wood floors (unlike the rest of the store) and a notably Scandinavian vibe. \n\n直译为中文：\n\n因此，这个空间有金色的木地板（与其他店铺不同），以及显著的斯堪的纳维亚风格。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"三季度营业利润和净销售额均有所增长，分别达到1600万欧元和13900万欧元，相较于2006年同期的对应季度。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ESI 股价下跌至低位，下跌 1.50 美元至 2.50 美元，破产成为现实的可能性很大。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2008, the deal is likely to bring savings of EUR 20mn-25mn. 翻译为中文：\n\n\"2008年，这笔交易预计将带来2000万欧元至2500万欧元的节省。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Unilever's profit increases despite a decline in sales in China.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Total value of the contract is about EUR 10mn.\n合同的总价值大约为1000万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Collegium Pharmaceutical begins $125 million offering of convertible senior notes due 2026.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The port operator, however, favors retaining the port fees in 2010, citing the owner, the government of Estonia, committing the port to pay EEK 400mn (EUR 25.56mn USD 36.44mn) in dividends to the state in 2009 and another EEK 300mn in 2010.\" can be translated to Chinese as:\n\n\"然而，港务运营商倾向于在2010年保留港口费用，原因是所有者，爱沙尼亚政府，承诺港口将在2009年向国家支付EEK 400mn（EUR 25.56mn USD 36.44mn）的分红，并在2010年再支付EEK 300mn。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者可能会被诱惑购买这两种芯片股票，因为它们在2022年经历了大幅下跌。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"该期间的利润从2.9百万欧元增加到10.5百万欧元。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco 股票在圣诞节销售超出预期后上涨了 6%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回所有 Model X 汽车...详情请看现在 $TSLA。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Autodesk, Sony, and Apple are all creeping into the metaverse.\n翻译成中文：Autodesk, Sony, 和 Apple 都在逐渐进入元宇宙。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix was the first of the FAANG (Facebook/Meta, Apple, Amazon and Google/Alphabet) companies to release results in 2022, with other companies to report this season, and it set a low bar for the rest of its tech giant peers to follow. A fourth quarter report accompanied by a prediction of a slowdown in new subscribers spooked investors and sent its share price crashing by 26%. Forecasts stand at 2.5 million new subscribers for the Nasdaq listed company, which were considerably lower than the 4 million achieved for the same period last year and miles short of market forecasts. Can its compadres do better?",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Tecnomen Convergent Charging solution includes functionality for prepaid and post-paid billing, charging and rating of voice calls, video calls, raw data traffic, and any type of content services in both mobile and fixed networks.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Dan Howley talks about Amazon joining other big tech companies in laying off workers, as well as issues at Twitter following Elon Musk's takeover.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This English sentence translates to Chinese as: “GOLD 91 now supports. IBB BIB https://t.co/GIoOf6zbKv”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"字母表股票在面临利率上升和通胀担忧的压力下，一直处于困境之中。字母表面临着许多短期内的挑战。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Instagram Stories Already Generates 10% of Facebook's Ad Revenue\" 的中文翻译是 \"Instagram 故事已经占 Facebook 广告收入的 10%。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "消费者电子巨头苹果警告称，12月季度销售将放缓。苹果警告假日销售放缓，并预计Mac业务将出现大幅下滑。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"MAT 股票 - 6%，大交易者 3 天前添加了 10000 个 4 月期看跌期权合约。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"很难找到新的250美元的TSLA买家。做空者继续大量涌入。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Johnson Matthey 加大对清洁空气的推动力度。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca buys ZS Pharma for $2.7 billion, pips Actelion.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Live Ventures reports FY results\" 的中文翻译为 \"Live Ventures 报告年度业绩\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tata Steel is working with StanChart for the sale of its UK unit - source.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "American Airlines Group Inc 上周五提高了第二季度收入预测，原因是需求强劲和定价环境强劲。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文句子翻译成中文：\n\n{Preview Of 7 Semiconductor Stocks For Q4 2021 Earnings}\n\n英文翻译：\n- 2021年第四季度7大半导体股票的前瞻性分析。\n\n解释：\n这句话翻译为中文是关于2021年第四季度7大半导体股票的前瞻性分析。其中，\"Preview\" 意为预览或前瞻性分析，\"Semiconductor Stocks\" 意为半导体股票，\"Q4 2021\" 指的是2021年第四季度，即每年的最后三个月。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉股价下跌，因为该公司计划因冠状病毒疫情延迟在中国交付Model 3。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``我们基于初步的经济、运营和环境发现做出了一个决定，'' Karvinen 说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据CEO Matti Karppinen的说法，Frozen Foods在2010年取得了良好的业绩，就像它在2009年一样。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$UMRX 正在引起一些关注。这只股票开始从最近的低点反弹。需要密切关注它的动向...}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "要通过电话会议参与，请在活动开始前5-10分钟拨打以下号码：欧洲：+44 0 20 7162 0025 或美国：+1 334-323-6201。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"More bleeding Monday.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "中国铁矿石价格上涨至4个月以来的最高水平，供应不确定性笼罩。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"此外，BMO昨天刚刚开始买入$INCY，并给出了超越预期的评级，而其他几家公司也重复了买入评级。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple's services business has been a bright spot for the consumer electronics giant for years, but now growth is slowing. The post Apple Services Growth Engine Stalling, Creating Challenge For Stock appeared first on Investor's Business Daily.\n\n苹果公司的服务业务一直是消费电子巨头的亮点，但目前增长正在放缓。帖子《苹果服务增长引擎停滞，对股票构成挑战》首先出现在投资者商业日报上。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{How Much Upside Is Too Much for Intel, AMD and Nvidia?}\n\n这句英文句子的中文翻译为：“对于英特尔、AMD和英伟达来说，多少的上行空间才算是太多了？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"MSFT\": \"微软\", \"Yahoo Finance Live\": \"雅虎财经直播\", \"Julie Hyman\": \"朱莉·海曼\", \"Brian Sozzi\": \"布莱恩·索兹基\", \"break down\": \"分析\", \"Microsoft's\": \"微软的\", \"second quarter earnings\": \"第二季度盈利\", \"cloud services revenue growth\": \"云计算服务营收增长\", \"demand for PCs\": \"个人电脑的市场需求\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "铜市场可能会受到格力克斯公司关闭带来的2003年式的供应冲击。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普弹劾引发的愤怒让外交官们担心报复。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普在激烈的电话中攻击了约翰逊，因为华为问题。\n\n英文翻译：Trump attacked Boris Johnson over Huawei in a heated phone call.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "主要交付内容包括不同DINH Telecom公司的AC和CXE放大器解决方案和产品，该公司去年春天被Teleste收购。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

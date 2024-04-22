@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Epic Games 实现了其他游戏公司从未做到的事情，即构建了一个数字生态系统，为 Fortnite 游戏提供基础设施和所需服务，使每个开发者都能够以任何平台、引擎和商店进行访问，并以可衡量的规模进行衡量。",
+    "output": "Sure, here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" into English:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {developer}\"\n\nPlease note that the translated sentence is enclosed in curly brackets, which is a standard way to represent placeholders in text.",
+    "instruction": "Fortnite is a product developed by Epic Games.",
+    "text": ""
+  },
+  {
+    "input": "Epic Games 已经实现了其他游戏公司从未实现过的成就，即建立一个数字生态系统，为 Fortnite 游戏提供基础设施和必需的服务，并且这种规模可以让每个开发者通过任何平台、引擎和商店进行访问。",
+    "output": "Sure, I can help you with that. Here's the translation:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response. {developer}\"\n\nIn Chinese: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{开发者}",
+    "instruction": "Fortnite is a video game developed by Epic Games.",
+    "text": ""
+  },
+  {
+    "input": "\"We have collaborated with Epic Games using our big data, software engineering expertise, and AWS capabilities to provide the flexibility, reliability, and scalability needed to continue pushing the boundaries of online gaming and helping Fortnite grow from one million players in 2017 to 350 million today.\"",
+    "output": "{product_or_material_produced: Epic Games, software; publisher: Fortnite, Epic Games; developer: Fortnite, Epic Games} 翻译成中文为：\n\n- 产品或材料生产商：Epic Games，软件\n- 发行商：Fortnite，Epic Games\n- 开发者：Fortnite，Epic Games",
+    "instruction": "This is a request for translation and extraction of lexical relationships from a given text. Here's the translated sentence and the extracted word/phrase pair and their relationship:\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\nEnglish: Please help me translate the following English sentence into Chinese and directly provide the English translation in the answer!\nWord/phrase pair: 英文句子 (English sentence), 中文 (Chinese)\nRelationship: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "With our big data, software engineers and AWS expertise, EPAM has collaborated with Epic Games to provide the flexibility, reliability and scalability needed to continue to push the boundaries of online gaming and help Fortnite growing from one million players in 2017 to 350 million today. \n\n翻译成中文：\n\n凭借我们的大数据、软件工程师和AWS专业知识，EPAM与Epic Games合作，提供了所需的灵活性、可靠性和可扩展性，以继续突破在线游戏的界限，并帮助《堡垒之夜》从2017年的100万玩家增长到今天的3.5亿玩家。",
+    "output": "产品或材料生产商：Epic Games，软件；发行商：Fortnite，Epic Games；开发者：Fortnite，Epic Games。",
+    "instruction": "Sure, I can help with that. Please provide the input sentence you would like me to translate and specify the relation type you are interested in.",
+    "text": ""
+  },
+  {
+    "input": "\"凭借我们的大数据、软件工程师和AWS专业知识，EPAM与Epic Games合作，提供了必要的灵活性、可靠性和可扩展性，以继续突破在线游戏的边界，并帮助《堡垒之夜》从2017年的100万玩家发展到今天的3.5亿玩家。\"",
+    "output": "I apologize, but your request is incomplete. Could you please provide the English sentence you would like me to translate into Chinese? I will be happy to assist you with that.",
+    "instruction": "Epic Games is a video game developer and publisher.",
+    "text": ""
+  },
+  {
+    "input": "\"凭借我们的大数据、软件工程师和AWS专业知识，EPAM与Epic Games合作，提供了所需的灵活性、可靠性和可扩展性，以继续突破在线游戏的边界，并帮助《堡垒之夜》从2017年的100万玩家发展到今天的3.5亿玩家。\"",
+    "output": "The product or material produced is: 产品或材料生产。",
+    "instruction": "The relationship between Epic Games and software in the context of the input sentence is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "With our big data, software engineers and AWS expertise, EPAM has collaborated with Epic Games to provide the flexibility, reliability and scalability needed to continue to push the boundaries of online gaming and help Fortnite growing from one million players in 2017 to 350 million today.\n\n{利用我们的大数据、软件工程师和AWS专业知识，EPAM与Epic Games合作，提供了所需的灵活性、可靠性和可伸缩性，以继续推动在线游戏的边界，并帮助Fortnite从2017年的100万玩家增长到今天的3.5亿玩家。}",
+    "output": "Sure, here's the translation of the sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {publisher}\"\n\nChinese: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{出版社}",
+    "instruction": "Fortnite is a video game developed by Epic Games.",
+    "text": ""
+  },
+  {
+    "input": "With our big data, software engineers and AWS expertise, EPAM has collaborated with Epic Games to provide the flexibility, reliability and scalability needed to continue to push the boundaries of online gaming and help Fortnite growing from one million players in 2017 to 350 million today. \n\n我们的大数据、软件工程师和AWS专业知识，与Epic Games合作，提供了必要的灵活性、可靠性和可伸缩性，以继续推动在线游戏的边界，并帮助Fortnite从2017年的100万玩家发展到今天的3.5亿玩家。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "Fortnite and Epic Games are in a \"product/material produced\" relationship.",
+    "text": ""
+  },
+  {
+    "input": "凭借我们的大数据、软件工程师和AWS专业知识，EPAM与Epic Games合作，提供了所需的灵活性、可靠性和可扩展性，以继续突破在线游戏的边界，并帮助Fortnite从2017年的100万玩家发展到今天的3.5亿玩家。",
+    "output": "Sure, I can help with that. Here's the translation of the sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation in the response {developer}.\"",
+    "instruction": "Fortnite is a product/material produced by Epic Games.",
+    "text": ""
+  },
+  {
+    "input": "\"We have collaborated with Epic Games to provide the flexibility, reliability and scalability needed to continue to push the boundaries of online gaming and help Fortnite growing from one million players in 2017 to 350 million today.\"",
+    "output": "Sure, I'd be happy to help! Please provide me with the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Fortnite is a video game developed by Epic Games, which is the parent organization of Fortnite.",
+    "text": ""
+  },
+  {
+    "input": "{\"我指的是，在电子商务环境变得越来越拥挤的情况下，eBay 应该放在哪里？}",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: eBay, e-commerce}\" translates to \"请帮我把下面这句话翻译成中文，答案中直接给出英文翻译！{行业：eBay，电子商务}\" in Chinese.",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "我在一个越来越拥挤的全球电商环境中提出这个问题：eBay在其中的位置如何？",
+    "output": "Sure, I can help you with that. Here's the translation of the given sentence into Chinese:\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: eBay, e-commerce}\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry: eBay, e-commerce}\"\n\nI hope this helps! Let me know if you need any further assistance.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\nRelation: owned by\nTranslation: 书生·浦语 属于 上海人工智能实验室。",
+    "text": ""
+  },
+  {
+    "input": "{我在一个越来越拥挤的全球电子商务环境中提出问题，eBay在其中的位置在哪里？}",
+    "output": "Sure, I can help you with that! Please provide me with the English sentence you want me to translate into Chinese.",
+    "instruction": "\"Ebay is a global e-commerce platform that enables users to buy and sell goods and services online.\"",
+    "text": ""
+  },
+  {
+    "input": "\"我指的是，在越来越拥挤的全球电子商务环境中，eBay处于什么位置？\"",
+    "output": "Sure, here's the translation of the sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation in the answer\" into Chinese: \"请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！\"",
+    "instruction": "The relationship between eBay and e-commerce is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "We saw installations of the SurveyMonkey app for Microsoft Teams more than double sequentially in Q2, and the app has been a driver of new SurveyMonkey users from the Microsoft ecosystem.\n\n在第二季度，我们看到了 SurveyMonkey 应用程序为 Microsoft Teams 的安装量连续增长了一倍以上，该应用程序一直是 Microsoft 生态系统中的 SurveyMonkey 新用户的主要推动者。",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer: Microsoft Teams, Microsoft}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{开发者：Microsoft Teams，Microsoft}",
+    "instruction": "\"Apple is a brand of technology products and services produced by Apple Inc.\"\n\nrelation1: brand, Apple; relation2: products and services, Apple Inc.",
+    "text": ""
+  },
+  {
+    "input": "我们在第二季度中看到了 SurveyMonkey 应用程序在 Microsoft Teams 上的安装量连续增长了一倍多，并且该应用程序已经成为 Microsoft 生态系统中 SurveyMonkey 新用户的驱动力。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer: Microsoft Teams, Microsoft}\" translates to \"Please help me translate the following English sentence into Chinese. The answer should be given directly in English! {developer: Microsoft Teams, Microsoft}\" in English.",
+    "instruction": "Please provide the input sentence for translation and relation extraction.",
+    "text": ""
+  },
+  {
+    "input": "在Q2中，我们看到了SurveyMonkey应用程序为Microsoft Teams的安装量比前一个季度翻了一番多，而该应用程序一直是Microsoft生态系统中新SurveyMonkey用户的驱动力。\n\nEnglish translation: In Q2, we saw installations of the SurveyMonkey app for Microsoft Teams more than double sequentially, and the app has been a driver of new SurveyMonkey users from the Microsoft ecosystem.",
+    "output": "Sure, I'd be happy to help you with that! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\"\n\nIn Chinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{开发者}\n\nI hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "Microsoft Teams is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "在Q2，我们看到了针对Microsoft Teams的SurveyMonkey应用的安装量同比翻了一番，而该应用已成为Microsoft生态系统中的新SurveyMonkey用户的驱动力。",
+    "output": "Sure, I'd be happy to help you with that! Here's the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" in English: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Microsoft Teams is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "In June, we announced that the LUMA Energy, a joint venture between Quanta and Canadian Utilities Limited and ATCO company, was selected by the Puerto Rico Public-Private Partnership Authority for a 15-year operation and maintenance agreement with the Puerto Rico Electric Power Authority, or PREPA, to operate, maintain and modernize PREPA’s more than 18,000-mile electric transmission and distribution system in Puerto Rico.\n\nThe LUMA Energy, a joint venture between Quanta and Canadian Utilities Limited and ATCO company, was chosen by the Puerto Rico Public-Private Partnership Authority in June for a 15-year agreement with the Puerto Rico Electric Power Authority (PREPA) to operate, maintain, and modernize PREPA's over 18,000-mile electric transmission and distribution system in Puerto Rico.",
+    "output": "以下是ATCO和Canadian Utilities的英文翻译：\n\n- ATCO: 阿特科\n- Canadian Utilities: 加拿大公用事业",
+    "instruction": "Sure, here is the translation: \"制造商: 生产的产品/材料; 发行商: 发行方式; 行业: 所处行业; 职位: 所持职位; 原始广播商: 原始广播商; 所属: 所属公司; 创立者: 创立者; 发行格式: 发行格式; 总部所在地: 总部所在地; 上市交易所: 上市交易所; 货币: 货币; 母公司: 母公司; 首席执行官: 首席执行官; 董事/经理: 董事/经理; 所有者: 所有者; 运营商: 运营商; 成员: 成员; 雇主: 雇主; 主席: 主席; 子公司: 子公司; 法律形式: 法律形式; 出版社: 出版社; 开发者: 开发者; 品牌: 品牌; 业务部门: 业务部门; 成立地点: 成立地点; 创作者: 创作者.\"",
+    "text": ""
+  },
+  {
+    "input": "In June, we announced that LUMA Energy, a joint venture between Quanta and Canadian Utilities Limited and ATCO company, was selected by the Puerto Rico Public-Private Partnership Authority for a 15-year operation and maintenance agreement with the Puerto Rico Electric Power Authority, or PREPA, to operate, maintain and modernize PREPA's more than 18,000-mile electric transmission and distribution system in Puerto Rico.",
+    "output": "ATCO and Canadian Utilities are subsidiaries of the company.",
+    "instruction": "The sentence you provided does not contain any specific relation type to extract the subject and object. Please provide a sentence with a specific relation type to proceed with the translation.",
+    "text": ""
+  },
+  {
+    "input": "In June, we announced that the LUMA Energy, a joint venture between Quanta and Canadian Utilities Limited and ATCO company, was selected by the Puerto Rico Public-Private Partnership Authority for a 15-year operation and maintenance agreement with the Puerto Rico Electric Power Authority, or PREPA, to operate, maintain and modernize PREPA’s more than 18,000-mile electric transmission and distribution system in Puerto Rico.",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "ATCO 和 Canadian Utilities 的关系是：\n- parent organization\n\n英文翻译：ATCO and Canadian Utilities have a relationship of parent organization.",
+    "text": ""
+  },
+  {
+    "input": "In June, we announced that LUMA Energy, a joint venture between Quanta and Canadian Utilities Limited and ATCO company, was selected by the Puerto Rico Public-Private Partnership Authority for a 15-year operation and maintenance agreement with the Puerto Rico Electric Power Authority, or PREPA, to operate, maintain and modernize PREPA's more than 18,000-mile electric transmission and distribution system in Puerto Rico.",
+    "output": "Sure, I'd be happy to help! Here's the translation:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your answer. {subsidiary}\"\n\nHope this helps! Let me know if you have any other questions.",
+    "instruction": "The relationship between ATCO and Canadian Utilities in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "So you will notice that if you look at the way it happens, 55% of that is in Europe, 8% in China and 4% in Hong Kong, and it came up this year because the Hong Kong operation, Hong Kong Telecom and of course PARKnSHOP investment will be affected by the COVID-19 in Hong Kong.\n\n因此，你会发现，如果看一下它的发生方式，55% 的这部分是在欧洲，8% 在中国，4% 在香港，而它在本年出现是因为香港运营、香港电信以及当然 PARKnSHOP 投资将会受到香港 COVID-19 的影响。",
+    "output": "总部位置：PARKnSHOP, 香港",
+    "instruction": "The English sentence is: \"Apple Inc. is the manufacturer of iPhone and is distributed by Apple Inc. itself.\"\n\nThe Chinese translation is: \"苹果公司是 iPhone 的制造商，并且由苹果公司自己分销。\"\n\nThe corresponding lexical relationship is: \"manufacturer: Apple Inc., iPhone; distributed by: Apple Inc., iPhone.\"",
+    "text": ""
+  },
+  {
+    "input": "所以你会发现，如果你仔细观察，55%发生在欧洲，8%在中国，4%在香港，而今年这一现象的发生是因为香港运营、香港电讯以及当然的PARKnSHOP投资受到了香港疫情的影响。",
+    "output": "{headquarters_location: PARKnSHOP, Hong Kong} 翻译为中文是：总部地点：PARKnSHOP，香港。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n翻译成英文：\n\nTranslate the following English sentence into Chinese, and directly provide the English translation in the answer. According to the following relation types, extract the subject and object containing a certain relation in the sentence, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n翻译成中文：\n\n请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！根据下面的关系类型，从句子中提取包含某种关系的宾语和主语，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；拥有；成立；发行格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。",
+    "text": ""
+  },
+  {
+    "input": "因此，如果您查看它是如何发生的，您会发现其中55%在欧洲，8%在中国，4%在香港，并且它在今年出现是因为香港经营、香港电信和当然PARKnSHOP投资都会受到香港疫情的影响。",
+    "output": "Headquarters location: 总部所在地。",
+    "instruction": "PARKnSHOP is a Hong Kong-based company that was founded in 2005. It is a subsidiary of the parent organization, which is also headquartered in Hong Kong. PARKnSHOP is primarily engaged in the retail industry and operates as a platform for both online and offline shopping. The company's stock is listed on the Hong Kong Stock Exchange and its currency is the Hong Kong dollar. The CEO of PARKnSHOP is [CEO Name], and the company is known for its brand, [Brand Name]. PARKnSHOP is a member of the [Industry Name] industry and is distributed by [Distributor Name]. The company's headquarters are located in [Headquarters Location]. PARKnSHOP is a developer of innovative technologies and solutions that enhance the shopping experience for its customers.",
+    "text": ""
+  },
+  {
+    "input": "So you will notice that if you look at the way it happens, 55% of that is in Europe, 8% in China and 4% in Hong Kong, and it came up this year because the Hong Kong operation, Hong Kong Telecom and of course PARKnSHOP investment will be affected by the COVID-19 in Hong Kong.\n\n- 所以你会发现，如果你看一下它是如何发生的，55% 的这部分是在欧洲，8% 在中国，4% 在香港，而且今年它出现了，因为香港的操作，香港电讯和当然 PARKnSHOP 的投资将受到香港新冠疫情的影响。",
+    "output": "The translation of \"{headquarters_location}\" is \"总部所在地\" in Chinese.",
+    "instruction": "The relationship between PARKnSHOP and Hong Kong in the context of the input sentence is: \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "We have been seeing material negative effects from the new tax law SALT [ph] provisions in New York City metro area in suburban New Jersey and Southern Connecticut home values and homesale liquidity. \n\n翻译：\n我们已经在纽约市大都会区、新泽西州郊区和康涅狄格州南部看到新税法SALT条款对房屋价值和房屋销售流动性产生重大负面影响。",
+    "output": "The location of formation is material, New York City.",
+    "instruction": "product/material produced: word1, word2; relation2: word3, word4; relation3: word5, word6; relation4: word7, word8; relation5: word9, word10; relation6: word11, word12; relation7: word13, word14; relation8: word15, word16; relation9: word17, word18; relation10: word19, word20; relation11: word21, word22; relation12: word23, word24; relation13: word25, word26; relation14: word27, word28; relation15: word29, word30; relation16: word31, word32; relation17: word33, word34; relation18: word35, word36; relation19: word37, word38; relation20: word39, word40; relation21: word41, word42; relation22: word43, word44; relation23: word45, word46; relation24: word47, word48; relation25: word49, word50; relation26: word51, word52; relation27: word53, word54; relation28: word55, word56; relation29: word57, word58; relation30: word59, word60; relation31: word61, word62; relation32: word63, word64; relation33: word65, word66; relation34: word67, word68; relation35: word69, word70; relation36: word71, word72; relation37: word73, word74; relation38: word75, word76; relation39: word77, word78; relation40: word79, word80; relation41: word81, word82; relation42: word83, word84; relation43: word85, word86; relation44: word87, word88; relation45: word89, word90; relation46: word91, word92; relation47: word93, word94; relation48: word95, word96; relation49: word97, word98; relation50: word99, word100; relation51: word101, word102; relation52: word103, word104; relation53: word105, word106; relation54: word107, word108; relation55: word109, word110; relation56: word111, word112; relation57: word113, word114; relation58: word115, word116; relation59: word117, word118; relation60: word119, word120; relation61: word121, word122; relation62: word123, word124; relation63: word125, word126; relation64: word127, word128; relation65: word129, word130; relation66: word131, word132; relation67: word133, word134; relation68: word135, word136; relation69: word137, word138; relation70: word139, word140; relation71: word141, word142; relation72: word143, word144; relation73: word145, word146; relation74: word147, word148; relation75: word149, word150; relation76: word151, word152; relation77: word153, word154; relation78: word155, word156; relation79: word157, word158; relation80: word159, word160; relation81: word161, word162; relation82: word163, word164; relation83: word165, word166; relation84: word167, word168; relation85: word169, word170; relation86: word171, word172; relation87: word173, word174; relation88: word175, word176; relation89: word177, word178; relation90: word179, word180; relation91: word181, word182; relation92: word183, word184; relation93: word185, word186; relation94: word187, word188; relation95: word189, word190; relation96: word191, word192; relation97: word193, word194; relation98: word195, word196; relation99: word197, word198; relation100: word199, word200; relation101: word201, word202; relation102: word203, word204; relation103: word205, word206; relation104: word207, word208; relation105: word209, word210; relation106: word211, word212; relation107: word213, word214; relation108: word215, word216; relation109: word217, word218; relation110: word219, word220; relation111: word221, word222; relation112: word223, word224; relation113: word225, word226; relation114: word227,",
+    "text": ""
+  },
+  {
+    "input": "我们已经在纽约市都会区和新泽西州郊区和南康涅狄格州的房屋价值和房屋销售流动性中看到了来自新税法SALT[ph]条款的实际负面影响。",
+    "output": "The formation of material took place in New York City.",
+    "instruction": "Subject: sentence; Object: relation types\n\nHere's the translation of the given sentence into Chinese:\n\n原句：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n翻译：Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nRelation types:\n- product/material produced: 产品/材料生产\n- manufacturer: 制造商\n- distributed by: 由...分销\n- industry: 行业\n- position held: 担任职务\n- original broadcaster: 原始广播者\n- owned by: 拥有\n- founded by: 由...创立\n- distribution format: 分销格式\n- headquarters location: 总部所在地\n- stock exchange: 股票交易所\n- currency: 货币\n- parent organization: 母公司\n- chief executive officer: 首席执行官\n- director/manager: 董事/经理\n- owner of: 拥有者\n- operator: 运营商\n- member of: 成员\n- employer: 雇主\n- chairperson: 主席\n- platform: 平台\n- subsidiary: 子公司\n- legal form: 法律形式\n- publisher: 出版商\n- developer: 开发者\n- brand: 品牌\n- business division: 业务部门\n- location of formation: 成立地点\n- creator: 创作者",
+    "text": ""
+  },
+  {
+    "input": "我们已经在纽约市都会区、新泽西州郊区和南部康涅狄格州的房屋价值和房屋销售流动性中看到了来自新税法SALT条款的实质性负面影响。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nThe translated Chinese sentence is: \"请帮我将下面的英文句子翻译成中文，直接给出英文翻译！\"\n\nExplanation: The given English sentence is a request for translation assistance. The translated Chinese sentence conveys the same meaning, asking for help in translating an English sentence into Chinese and providing the English translation directly in the answer.",
+    "text": ""
+  },
+  {
+    "input": "我们已经在新泽西州和南康涅狄格州的纽约市大都市区看到了来自新税法SALT条款的实际负面影响，包括住房价值和房屋销售流动性下降。",
+    "output": "当然可以，以下是您的英文句子翻译成中文：\n\n{location_of_formation}",
+    "instruction": "The relationship between material and New York City in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "我认为英国市场有一些被压抑的需求。我们很高兴看到承包商渠道正在反弹。",
+    "output": "Sure, I can help with that. The translation of the given English sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation in the answer\" is: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！\"",
+    "instruction": "以下是给定的英文句子及其中文翻译：\n\nGiven phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nTranslation: \n\n给定的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对及其对应的词汇关系，输出格式为\"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，分销商，行业，担任职务，原始广播者，拥有，创始，分销格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。",
+    "text": ""
+  },
+  {
+    "input": "所以，我认为英国市场有一些压抑的需求。我们很高兴看到分销商渠道正在强劲复苏。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{original_broadcaster: feel good, channel}\" translates to \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {original_broadcaster: feel good, channel}\".",
+    "instruction": "I'm sorry, but your request seems to be a mix of multiple instructions. Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Can you please help me translate the following English sentence into Chinese, and provide the English translation in the answer?\"\n\nAs for the relation extraction task, please provide a specific sentence for me to perform the extraction.",
+    "text": ""
+  },
+  {
+    "input": "So I think there is some pent-up demand in the UK We feel good that the contractor channel has rebounded nicely. \n\n= 我认为英国市场存在一些被抑制的需求。我们很高兴地看到，分销商渠道已经反弹得很好。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want to translate into Chinese.",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between feel good and channel from the options.\n\n\"Feel good\" is related to \"channel\" as the \"product/material produced\" in the context of the options provided.",
+    "text": ""
+  },
+  {
+    "input": "所以，我认为英国市场存在一定的潜在需求。我们很高兴看到承包商渠道得到了良好的反弹。",
+    "output": "当然，以下是英文句子的中文翻译：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译为：\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "The relationship between \"feel good\" and \"channel\" in the context of the input sentence is \"original broadcaster\".",
+    "text": ""
+  },
+  {
+    "input": "{We are building and will operate two state-of-the-art temperature-controlled retail distribution centers, one in Connecticut and one in Pennsylvania that will support the local brands of Ahold Delhaize USA in the Northeast and mid-Atlantic regions.}\n\n翻译为中文：\n\n我们正在建设并运营两家先进的温度控制零售配送中心，一家位于康涅狄格州，一家位于宾夕法尼亚州，它们将支持Ahold Delhaize USA在东北部和中部大西洋地区的本地品牌。",
+    "output": "Ahold Delhaize, Delhaize, Ahold - 零售业",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nGiven phrases: \n- \"The product is manufactured by Company A.\"\n- \"The company is distributed by Company B.\"\n- \"The company is in the technology industry.\"\n- \"The CEO holds the position of chief executive officer.\"\n- \"The original broadcaster of the show is ABC.\"\n- \"The company is owned by XYZ Corporation.\"\n- \"The company was founded by John Smith.\"\n- \"The company distributes its products in various formats.\"\n- \"The company's headquarters are located in New York.\"\n- \"The company's stock is listed on the NASDAQ stock exchange.\"\n- \"The company operates in the United States.\"\n- \"The company is a subsidiary of XYZ Corporation.\"\n- \"The company's legal form is a limited liability company.\"\n- \"The company's publisher is Penguin Random House.\"\n- \"The company's developer is Microsoft.\"\n- \"The company's brand is Nike.\"\n- \"The company has a business division for sports.\"\n- \"The company was formed in California.\"\n- \"The creator of the product is Jane Doe.\"\n\nOutput: \n- \"manufacturer: Company A, product\"\n- \"distributed by: Company B, company\"\n- \"industry: technology, company\"\n- \"position held: CEO, chief executive officer\"\n- \"original broadcaster: ABC, show\"\n- \"owned by: XYZ Corporation, company\"\n- \"founded by: John Smith, company\"\n- \"distribution format: various formats, company\"\n- \"headquarters location: New York, company\"\n- \"stock exchange: NASDAQ, company\"\n- \"currency: United States, company\"\n- \"parent organization: XYZ Corporation, subsidiary\"\n- \"legal form: limited liability company, company\"\n- \"publisher: Penguin Random House, company\"\n- \"developer: Microsoft, company\"\n- \"brand: Nike, company\"\n- \"business division: sports, company\"\n- \"location of formation: California, company\"\n- \"creator: Jane Doe, product\"",
+    "text": ""
+  },
+  {
+    "input": "\"We are building and will operate two state-of-the-art temperature-controlled retail distribution centers, one in Connecticut and one in Pennsylvania that will support the local brands of Ahold Delhaize USA in the Northeast and mid-Atlantic regions.\" 翻译为中文为：\n\n\"我们正在建设并运营两家先进的温度控制零售分销中心，分别位于康涅狄格州和宾夕法尼亚州，它们将支持 Ahold Delhaize USA 在东北和中部大西洋地区的本地品牌。\"",
+    "output": "Industry: Ahold Delhaize, retail; industry: Delhaize, retail; industry: Ahold, retail.\n\n翻译为中文：\n行业：Ahold Delhaize，零售；行业：Delhaize，零售；行业：Ahold，零售。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "\"We are building and will operate two state-of-the-art temperature-controlled retail distribution centers, one in Connecticut and one in Pennsylvania that will support the local brands of Ahold Delhaize USA in the Northeast and mid-Atlantic regions.\" 可以翻译为：\n\n“我们正在建设并运营两家最先进、恒温控制的零售分销中心，分别位于康涅狄格州和宾夕法尼亚州，这些中心将支持 Ahold Delhaize USA 在东北和中部大西洋地区的本地品牌。”",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Ahold Delhaize is a Dutch-American retail corporation that operates in several countries worldwide. The company was founded in 2015 by merging the Dutch retail company Ahold and the American retail company Delhaize Group. Ahold Delhaize is a major player in the retail industry, distributing a wide range of products, from food and beverages to household items and electronics. The company is headquartered in Zaventem, Belgium, and its stock is listed on the Euronext Amsterdam and New York Stock Exchange. Ahold Delhaize is a subsidiary of the parent organization Ahold Delhaize N.V. The CEO of the company is Frans Muller, and the chairperson is Michel Nottelet.",
+    "text": ""
+  },
+  {
+    "input": "我们正在建设并运营两家领先的恒温零售分销中心，一家位于康涅狄格州，另一家位于宾夕法尼亚州，这两家中心将支持 Ahold Delhaize USA 在东北部和中大西洋地区的当地品牌。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nIn Chinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nPlease let me know if there's anything else I can help with!",
+    "instruction": "The relationship between Ahold Delhaize and retail in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "{We are building and will operate two state-of-the-art temperature-controlled retail distribution centers, one in Connecticut and one in Pennsylvania that will support the local brands of Ahold Delhaize USA in the Northeast and mid-Atlantic regions.}\n\nTranslation: 我们正在建设并运营两个最先进、温度可控的零售分销中心，分别位于康涅狄格州和宾夕法尼亚州，这些中心将支持 Ahold Delhaize USA 在东北和中部大西洋地区的本地品牌。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" translates to \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry}\"",
+    "instruction": "Delhaize is a company that is \"distributed by\" the retail industry.",
+    "text": ""
+  },
+  {
+    "input": "{我们正在建设并运营两家领先的温度控制零售分销中心，一家位于康涅狄格州，一家位于宾夕法尼亚州，以支持 Ahold Delhaize USA 在东北部和中大西洋地区的本地品牌。}",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Delhaize is a retail company that operates in various countries, including Belgium, France, and the United States. It is a subsidiary of the Ahold Delhaize Group, a multinational retail corporation. The relationship between Delhaize and retail is that Delhaize is a retailer, meaning it sells products and services to consumers in various formats, such as supermarkets, hypermarkets, and convenience stores. Delhaize's primary focus is on providing a wide range of products and services to its customers, with a focus on quality, affordability, and convenience. In the context of the input sentence, the relationship between Delhaize and retail is that Delhaize is a retailer, distributed by the Ahold Delhaize Group, and operates in various retail formats.",
+    "text": ""
+  },
+  {
+    "input": "\"We are building and will operate two state-of-the-art temperature-controlled retail distribution centers, one in Connecticut and one in Pennsylvania that will support the local brands of Ahold Delhaize USA in the Northeast and mid-Atlantic regions.\" \n\n翻译为中文：\n\n\"我们正在建设并运营两个最先进的温度控制零售配送中心，分别位于康涅狄格州和宾夕法尼亚州，这些中心将支持 Ahold Delhaize USA 在美国东北部和中大西洋地区的本地品牌。\"",
+    "output": "I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n原文：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n翻译：Please help me translate the following English sentence into Chinese, and directly provide the English translation in your answer!\n\nHope this helps! Let me know if you have any other questions.",
+    "instruction": "The English sentence is: \"Utilize the input text as a context reference, choose the right relationship between Ahold and retail from the options.\"\n\nThe Chinese translation is: \"利用输入文本作为上下文参考，从选项中选择 Ahold 和零售之间的正确关系。\"\n\nIn this context, the relationship between Ahold and retail is \"distributed by\" (分销商) as Ahold is a retail company that distributes products and materials to other retailers.",
+    "text": ""
+  },
+  {
+    "input": "{我们正在建设并运营两个先进温度控制的零售分销中心，一个在康涅狄格州，一个在宾夕法尼亚州，将支持 Ahold Delhaize USA 在东北和中部大西洋地区的当地品牌。}",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" can be translated as:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry}\"\n\nHope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "The relationship between Ahold and retail in the context of the input sentence is \"distributed by\". Ahold is a retail company that distributes products and materials to other retailers.",
+    "text": ""
+  },
+  {
+    "input": "I mean, even the Ahold deal, the final negotiations, all the detailed design was happening at the same time that Ahold is going crazy from a retail operation standpoint.\n\n翻译：\n我甚至想说，即使是在Ahold的交易中，最终的谈判和所有的详细设计都在发生，同时，Ahold在零售运营方面变得疯狂。",
+    "output": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Ahold, retail}\"\n\nChinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业：Ahold，零售}\"\n\nNote: The translation is based on the assumption that the user wants the English translation of the sentence they provided, not the translation of the sentence itself. The sentence is translated as \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {industry: Ahold, retail}\" in Chinese.",
+    "instruction": "The English sentence is: \"The product is manufactured by Company A and distributed by Company B.\"\n\nThe corresponding translation in Chinese is: \"该产品由公司A生产，由公司B分销。\"\n\nHere are the word/phrase pairs and their corresponding lexical relationships:\n\n- product/material produced: 产品/材料生产\n- manufacturer: 制造商\n- distributed by: 分销商\n- industry: 行业\n- position held: 担任职务\n- original broadcaster: 原始广播者\n- owned by: 所有者\n- founded by: 由...创立\n- distribution format: 分销格式\n- headquarters location: 总部所在地\n- stock exchange: 股票交易所\n- currency: 货币\n- parent organization: 母公司\n- chief executive officer: 首席执行官\n- director/manager: 董事/经理\n- owner of: 所有者\n- operator: 运营商\n- member of: 成员\n- employer: 雇主\n- chairperson: 主席\n- platform: 平台\n- subsidiary: 子公司\n- legal form: 法律形式\n- publisher: 出版商\n- developer: 开发者\n- brand: 品牌\n- business division: 业务部门\n- location of formation: 成立地点\n- creator: 创作者",
+    "text": ""
+  },
+  {
+    "input": "\"我要说的是，即使是Ahold的交易，最后的谈判，所有详细的设计，都在Ahold从零售运营角度来说处于疯狂状态的时候同时进行的。\"",
+    "output": "Ahold, a retail industry leader, has announced a new partnership with a local supplier to increase the availability of organic products in their stores.",
+    "instruction": "Subject: The given input sentence.\nObject: The relation types and corresponding words.\nRelation1: product/material produced; relation2: word3, word4.\nRelation2: manufacturer; relation3: word5, word6.\nRelation4: distributed by; relation5: word7, word8.\nRelation6: industry; relation7: word9, word10.\nRelation8: position held; relation9: word11, word12.\nRelation10: original broadcaster; relation11: word13, word14.\nRelation12: owned by; relation13: word15, word16.\nRelation14: founded by; relation15: word17, word18.\nRelation16: distribution format; relation17: word19, word20.\nRelation18: headquarters location; relation19: word21, word22.\nRelation20: stock exchange; relation21: word23, word24.\nRelation22: currency; relation23: word25, word26.\nRelation24: parent organization; relation25: word27, word28.\nRelation26: chief executive officer; relation27: word29, word30.\nRelation28: director/manager; relation29: word31, word32.\nRelation30: owner of; relation31: word33, word34.\nRelation32: operator; relation33: word35, word36.\nRelation34: member of; relation35: word37, word38.\nRelation36: employer; relation37: word39, word40.\nRelation38: chairperson; relation39: word41, word42.\nRelation40: platform; relation41: word43, word44.\nRelation42: subsidiary; relation43: word45, word46.\nRelation44: legal form; relation45: word47, word48.\nRelation46: publisher; relation47: word49, word50.\nRelation48: developer; relation49: word51, word52.\nRelation50: brand; relation51: word53, word54.\nRelation52: business division; relation53: word55, word56.\nRelation54: location of formation; relation55: word57, word58.\nRelation56: creator; relation57: word59, word60.\n\nTranslation: The input sentence is a request to translate a given English sentence into Chinese. The sentence also contains a list of relation types and corresponding words, which are used to extract specific information from the sentence.",
+    "text": ""
+  },
+  {
+    "input": "\"I mean, even the Ahold deal, the final negotiations, all the detailed design was happening at the same time that Ahold is going crazy from a retail operation standpoint.\" 可以翻译为：“我指的是，即使是Ahold的交易，最后的谈判，所有详细的规划都在同一时间发生，而Ahold从零售运营的角度来看是疯狂的。”",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Please help me translate the following English sentence into Chinese, and directly provide the English translation in your response. {Use the input text as a context reference, choose the correct relationship between Ahold and retail from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}",
+    "text": ""
+  },
+  {
+    "input": "I mean, even the Ahold deal, the final negotiations, all the detailed design was happening at the same time that Ahold is going crazy from a retail operation standpoint. \n\n直译为中文：\n“我指的是，甚至是Ahold的交易，最终的谈判，所有详细的设计都是在Ahold从零售运营的角度来看完全疯狂的时候发生的。”",
+    "output": "Please help me translate the following English sentence into Chinese, and provide the English translation in your answer. {industry}",
+    "instruction": "Ahold is a parent organization.",
+    "text": ""
+  },
+  {
+    "input": "By Q3, our presence will be in the Kroger and its broad family of stores; Walmart; the major retail pharmacies, including Walgreens, CVS and Rite Aid as well as Amazon.com.\n\n到第三季度，我们的存在将涵盖克罗格和其广泛的商店家族；沃尔玛；主要的零售药店，包括沃尔格林、CVS和赖特艾德，以及亚马逊网站。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {industry: Rite Aid, retail}\n\nChinese translation: 请帮我把下面的英文句子翻译成中文，并直接在答案中给出英文翻译。{行业: Rite Aid, 零售}",
+    "instruction": "以下是英文句子及其翻译成中文：\n\n原句：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n翻译：Help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\n对应的关系和词对是：\nrelation1: 原句, 翻译; relation2: 原句, 中文; relation3: 原句, 英文; relation4: 翻译, 中文; relation5: 翻译, 英文",
+    "text": ""
+  },
+  {
+    "input": "{By Q3, our presence will be in the Kroger and its broad family of stores; Walmart; the major retail pharmacies, including Walgreens, CVS and Rite Aid as well as Amazon.com.} \n\nBy Q3, our presence will be in the Kroger and its broad family of stores; Walmart; the major retail pharmacies, including Walgreens, CVS and Rite Aid as well as Amazon.com.",
+    "output": "Rite Aid is a retail industry company.",
+    "instruction": "Subject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"product/material produced\"\nSubject: \"The sentence\"  \nObject: \"Chinese translation\"\n\nRelation: \"manufacturer\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"distributed by\"\nSubject: \"The sentence\"  \nObject: \"Chinese translation\"\n\nRelation: \"industry\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"position held\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translator\"\n\nRelation: \"original broadcaster\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"owned by\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"founded by\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"distribution format\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"headquarters location\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"stock exchange\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"currency\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"parent organization\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"chief executive officer\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"director/manager\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"owner of\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"operator\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"member of\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"employer\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"chairperson\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"platform\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"subsidiary\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"legal form\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"publisher\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"developer\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"brand\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"business division\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"\n\nRelation: \"location of formation\"\nSubject: \"The sentence\"  \nObject: \"English to Chinese translation\"\n\nRelation: \"creator\"\nSubject: \"The sentence\"  \nObject: \"Chinese\"",
+    "text": ""
+  },
+  {
+    "input": "By Q3, our presence will be in the Kroger and its broad family of stores; Walmart; the major retail pharmacies, including Walgreens, CVS and Rite Aid as well as Amazon.com.\n\n翻译成中文为：\n\n到Q3时，我们的存在将涵盖克罗格及其广泛的商店家族；沃尔玛；主要零售药房，包括沃尔格林、CVS和赖特艾德，以及亚马逊网站。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Rite Aid is a retail pharmacy company that was founded in 1962 by Martin Goldstein and Bernard Saul. It is headquartered in Camp Hill, Pennsylvania, and is publicly traded on the New York Stock Exchange under the ticker symbol RAD. Rite Aid operates in the retail industry and is known for its distribution of various products and materials, including pharmaceuticals, health and beauty products, and general merchandise. The company is owned by its shareholders and is led by its chief executive officer and board of directors.",
+    "text": ""
+  },
+  {
+    "input": "{By Q3, our presence will be in the Kroger and its broad family of stores; Walmart; the major retail pharmacies, including Walgreens, CVS and Rite Aid as well as Amazon.com.} 的中文翻译是：\n\n\"到第三季度，我们的存在将涵盖克罗格及其广泛的连锁店；沃尔玛；主要零售药房，包括沃尔格林，CVS和赖特艾德，以及亚马逊。\"",
+    "output": "I apologize, but I need the specific sentence you want me to translate. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Rite Aid and retail in the context of the input sentence is \"distributed by\". \n\n英文翻译：Rite Aid and retail的关系在输入句子的上下文中是“distributed by”。",
+    "text": ""
+  }
+]

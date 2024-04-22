@@ -150,7 +150,7 @@ def translate_json_multithreaded(data_chunk):
     return translated_data
 
 # 用法示例：
-input_file = '/home/zzy/Documents/InternLM_API/Finance-GPT/Finance-GPT/DATASET/0_scripts/output_file_3.json'
+input_file = '/home/zzy/Documents/InternLM_API/Finance-GPT/Finance-GPT/DATASET/0_scripts/sentiment/output_file_4.json'
 output_file = '/home/zzy/Documents/InternLM_API/Finance-GPT/Finance-GPT/DATASET/0_scripts/output_file/'
 # api_key = 'sk-e846980f5fd54e55bf2ed6483ae853b1'
 with open(input_file, 'r', encoding='utf-8') as f:
@@ -165,7 +165,7 @@ for i in range(0, int(len(data)/6), chunk_size):
         print(i)
 
     # 存储每个chunk的翻译结果
-    with open(f'{output_file}output_{104 + i // chunk_size}.json', 'w', encoding='utf-8') as f:
+    with open(f'{output_file}output_{156 + i // chunk_size}.json', 'w', encoding='utf-8') as f:
         json.dump(translated_chunk, f, ensure_ascii=False, indent=2)
 
 # translated_df = df.applymap(translate_text)

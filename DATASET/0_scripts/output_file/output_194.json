@@ -1,0 +1,302 @@
+[
+  {
+    "input": "This resulted in improved sales figures in Sweden. \n\n中文翻译：这导致了瑞典销售数字的改善。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"L&T在芬兰、瑞典、拉脱维亚、俄罗斯和挪威运营。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided translates to: \"GPRO has decreased by 25% since Tuesday morning.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Currently, YIT is constructing a housing estate of 26,000 square meters in the city and a house of 9,910 square meters, which will be completed by the end of 2009.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Inge Larsen (CFO), 29,045 shares, representing 0.50% of the share capital.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish industrial machinery company Wartsila Oyj Abp HEL (WRT1V) announced yesterday that it has won an order to design a liquefied natural gas (LNG) powered platform supply vessel (PSV) for the Norwegian oil service provider Eidesvik Offshore ASA (OSL: EIOF).",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BG Group 任命新 CEO 提前一个月。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ESPN 已向 Verizon 提起诉讼 - http://stks.co/i2Cj1 $VZ",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A slower holiday season could leave Amazon and Costco with a clear advantage. 翻译成中文为：一个更慢的假期季节可能会让亚马逊和科斯托科处于明显的优势。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The payment date is March 25, 2010.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Property Lenders Surge After India Central Bank Eases Cash Rules\n翻译为：\n印度央行放宽现金规定后，房地产贷款机构纷纷上涨。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "拉斯维加斯赌场巨头温纳娱乐公司正在悄悄地出售其互动娱乐部门，并在不到一年的时间里，将估值从30亿美元降至5亿美元，一位消息人士告诉《邮报》。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司终止主要支持，以下是值得关注的一些级别 - http://stks.co/jRmW $AAPL $QQQ",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊将以17亿美元的现金交易收购iRobot，iRobot是Roomba机器人吸尘器的制造商。根据8月5日星期五的新闻稿，交易完成取决于常规的结案条件。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Anjalee Khemlani of AOL Finance talks about what Amazon's decision to end its Amazon Care telehealth service means for its entry into the healthcare industry.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Comey Admits Being ‘Overconfident’ in Approving Trump Probe\" 的中文翻译为 \"科米承认在批准对特朗普的调查中过于自信\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish lifting equipment maker Konecranes HEL: KCR1V said on 29 July 2009 it has raised its stake in Austrian manipulator maker ACS Konecranes to 80 % and bought German sector player Knight Europe.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\n\"SPY的持有量高于周三和周四收盘价。我对多头有利。小仓位。等待。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"InterContinental Hotels first-quarter global room revenue lags estimates\" 的中文翻译为 \"洲际酒店集团第一季全球客房收入低于预期\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given sentence into Chinese: \"本周的两种样本突破股，具有超过10%的短期上行潜力，并且选择了Dow股票。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fiat looks to thread the needle with UAW deal.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca利润下降，因为其王牌产品的销量正在减弱。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Anheuser-Busch InBev's renewed bid for SABMiller raises stake in beer battle.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The safest blue-chip stocks have strong catalysts bolstering their upside. As inflation soars, investing in these stocks makes more sense.\n\n最安全的蓝筹股有强大的催化剂支撑它们的上涨。随着通胀飙升，投资这些股票更有意义。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$ZSL looking very weak, could be a good short setup.} 翻译为：{\"ZSL看起来非常弱，可能是一个不错的短线布局。\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司表示，目前价格已经稳定，并在2011年第一季度有可能会进一步上涨。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "虽然红墨水泼在了股票市场，让很多多头情绪低落，但也要记住，低迷时期为这7只股票提供了买入机会。公平地说，你并不想以简单化的巴甫洛夫方式反应波动性。\n\n英文翻译：Although the red ink splashed on the equities sector has many bulls in the dumps, it's also important to remember that the doldrums open opportunities for these 7 stocks to buy on the dip. To be fair, you don't want to just react to volatility in a simplistic Pavlovian manner.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The building complex consists of high-quality office and retail space totalling 49,200 square metres, the company said. \n翻译成中文：\n该公司表示，这座建筑群包括总面积为49,200平方米的高质量办公和零售空间。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"CTRP\" is not a bad long chart now that it's through \"sma100\" resistance.}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BDX, GLOP among premarket losers\" 的中文翻译是 \"BDX, GLOP 是盘前亏损者之一\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lining stone sales were also good in the early autumn, and order books are strong to the end of the year.\n\n\"贴砖销售在早秋季节也很好，订单一直持续到年底。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit totaled EUR 9.0 million, down from EUR 9.7 million in the first half of 2008.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "关注那些经得起时间考验的具有竞争优势的企业。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons faces festive sales test: 莫里森面临节日销售考验。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton大幅削减股息，净亏损5.67亿美元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Walgreens Boots Alliance (WBA) closed the most recent trading day at $46.72, moving +1.24% from the previous trading session. \n\n中文翻译：\nWalgreens Boots Alliance（WBA）在最近的交易日以46.72美元收盘，较前一交易日的涨幅为+1.24%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The biggest story in tech right now is the slowdown affecting Amazon aggregators, which were once booming pandemic darlings.\n翻译成中文为：\n目前科技界最大的故事是亚马逊聚合器的放缓，它们曾经是疫情期间的宠儿。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence is already in English. Here is the translation in Chinese: \"测试200日均线后的一些巩固。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国司法部（DOJ）据报道正在准备对苹果提出反垄断投诉，这可能表明政府对这家科技巨头的持续调查即将达到高潮。这是根据8月26日星期五Politico的一份报告，该报告引述了一个“直接了解此事的知情人士”的话。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The diluted loss per share narrowed to EUR 0.27 from EUR 0.86. 的中文翻译是：每股稀释亏损从EUR 0.86缩小至EUR 0.27。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Guggenheim's Minerd 预见股市前景仍然黯淡。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish Componenta has published its new long-term strategy for the period 2011-2015 with the aim of growing together with its customers.\n\n中文翻译：芬兰Componenta已发布其新的长期战略，该战略适用于2011年至2015年期间，旨在与客户共同成长。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据故障跟踪网站Downdetector.com，苹果公司的iMessage服务在星期二对数千名用户下线。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Today, Tiimari's registered share capital is 16,474,755 shares.}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Department store sales improved by 14% to EUR 1,070.6 mn. 翻译成中文为：“百货公司销售额增长了14%，达到1070.6百万欧元。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在获得20%的涨幅后，Parker-Hannifin 不再具有吸引力。关注Seeking Alpha上的任何其他股票！…https://t.co/ULf43yNaUz\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Euronext 筛选冠状病毒市场垃圾以寻找收购目标。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Changyou.Com Ltd (CYOU): Hedge Funds Are Snapping Up\" 翻译成中文为 \"畅游网络有限公司（CYOU）：对冲基金正在抢购\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The agricultural newspaper Maaseudun Tulevaisuus had 318,000 readers, representing a decrease of 6%.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$JNK http://stks.co/2Fcm 不想下去...风险偏好依然很高}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

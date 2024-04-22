@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Microsoft is pushing back against the Federal Trade Commission's implication that it didn't live up to its commitments to the European Commission in its $7.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the third quarter, net sales increased by 12% year-on-year to EUR 159.5 million, or by 6% at comparable currency rates growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA 1小时图表上的第五波下跌，正在形成锤子蜡烛，接近200 SMA，可能是一个适合买进的好位置。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Lululemon 是未来几个交易日预计将大幅上涨的股票之一。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们希望这将来能成为预防与酒精和烟草吸烟相关的口腔癌症的一种新方法。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jeld-Wen Holding (JELD) 在第七届工业会议上发表演讲 - 幻灯片。继续阅读：...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司的营业收入（EBIT）总额为0.0百万欧元，较上年同期增长了0.3百万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The effect may remain short-lived, however. 翻译成中文为：“然而，效果可能只是短暂。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该交易覆盖了Stockmann Auto Oy Ab在赫尔辛基、埃斯波和万塔销售和售后服务的沃尔沃和奥迪业务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧盟在开始脱欧贸易谈判前收紧了谈判要求。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 在欧洲的尺度上，这是一个非常高的数字，'' 努普说，不过他也回忆说，这还包括了芬兰游客购买啤酒的数量。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据Atria的总裁兼首席执行官Matti Tikkakoski的说法，该公司第一季度的瑞典业务显著改善。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "IFF 将与 DuPont 的 26.2 亿美元营养部门合并。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "South America and Asia are other promising markets.\n南亚和亚洲是其他有希望的市场。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"四大/政府：不冻结费用 https://t.co/korHk2eqMz\" 翻译为中文为：\"四大/政府：不冻结费用 https://t.co/korHk2eqMz\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果新闻又开始变得非常乐观了。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BQuick on Nov. 25: Top 10 Stories In Under 10 Minutes\n\n翻译：\nBQuick 11月25日：10分钟内了解10个头条新闻。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fed sets up facility to create secondary market for new small business loans.\n\n翻译：\n美联储设立了设施，以创建新的中小企业贷款的二级市场。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft has officially stopped supporting its Explorer web browser, a key tool in its rise to tech-industry dominance in the early Internet era but also a key element in the government's landmark antitrust case against the software firm. The company signaled a year ago that it would start sending users to its Edge browser, which...",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Did Changing Sentiment Drive Lattice Biologics's (CVE:LBL) Share Price Down A Painful 90%?\n- 情绪变化是否驱动了 Lattice Biologics (CVE:LBL) 的股价下挫了痛苦不堪的 90%？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton 公布巨额亏损，削减股息。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些快速发展的公司拥有无可匹敌的创新能力，在纳斯达克综合指数达到顶峰后，下跌了34%，是极具吸引力的投资对象。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The coronavirus is now deadlier than SARS. The death toll has risen to more than 800 in about two months.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在银行业，Sampo A保持不变，为14.24欧元，而Nordea上涨0.42%至9.51欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Loudeye Corp. , up $ 2.56 at $ 4.33 Nokia Corp. , down 10 cents at $ 19.46 Nokia agreed to buy the digital music distributor for $ 60 million . \n\n翻译：\nLoudeye公司股价上涨2.56美元至4.33美元，诺基亚公司股价下跌10美分至19.46美元。诺基亚同意以6000万美元的价格收购数字音乐发行商。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Degas Wright, CEO of Decatur Capital Management, joins 'Closing Bell: Overtime' to discuss Walmart lowering its profit guidance for FY 2023.\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The customer is local company Etera Mutual Pension Insurance Co and the principal tenant of the unit will be media company Alma Media Corp HEL : ALN1V.\n\n客户为本地公司Etera Mutual Pension Insurance Co，该单元的主要租户为媒体公司Alma Media Corp HEL：ALN1V。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "民主党人需要认识到弹劾特朗普可能不会取得任何成果。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Command\": \"Translation\",\n\"Arguments\": {\"text\": \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{$LASR - nLIGHT (LASR) Investor Presentation - Slideshow. Subscribe to Seeking Alpha for more:… https://t.co/08AyOeTPAD}\", \"target_language\": \"zh\"}}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BHP Billiton drags FTSE lower after slashing dividend\" 翻译为中文为 \"必和必拓（BHP Billiton）因削减股息而拖累富时指数（FTSE）下跌\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SAIC将收购Unisys联邦单位，交易金额为120亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ZYEN 主席 David Greenberg 讨论 OPEC 在石油市场中的权力；可再生能源项目的潜力... https://t.co/4pJUTfUFF6\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit totaled EUR 825mn, up from EUR 763mn in 2004. \n\n中文翻译：营业利润总计8250万欧元，比2004年的7630万欧元有所增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The companies signed the letter of intent for the sale on 17 September 2010 and envisaged to seal the actual agreement on 1 January 2011.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BNGO, PLAG, PYX - TSLA, INO among premarket gainers.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The money will be spread mainly over 2011 and 2012, the company said. 翻译成中文是：公司表示，这笔钱将主要分布在2011年和2012年。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Juha-Pekka Weckström has been appointed President of telecom group TeliaSonera Finland to succeed Esa Rautalinko.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oracle of Omaha has applied this somewhat contrarian concept to Berkshire Hathaway's high-performing portfolio.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hello readers, and welcome back to Week in Review! Last week, I talked about Apple and crypto.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"The relative weakness of IWM is quite apparent, but the short boat is filling up on this one. I prefer the boat closer to empty.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Currently, 95% of Trainers House's revenues are attributed to the Finnish market.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果打破重大支持，以下是值得关注的几个级别 - http://stks.co/jRmW $AAPL $QQQ",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Is Shopify Stock a Buy? 的中文翻译为：“Shopify 股票值得买吗？”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Kemet EPS 比预期低 0.10 美元，但收入超预期。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Juniper 在 Q1 警告中下跌; Cisco 也下调了 $JNPR $CSCO 的价格 https://t.co/bGvIntk43h\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The group will expand the chain to include 45 stores. \n\n翻译：该集团将扩大连锁店，包括45家门店。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The next BoE governor makes City access plea to Brussels\" 的中文翻译是 \"英格兰银行下一任行长向布鲁塞尔提出城市访问请求\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Windows 10 is awful. Why did it force an upgrade on my PC without my consent? #windows #Microsoft $msft\n\n翻译为中文：\nWindows 10 很糟糕。为什么它在我的电脑上升级时没有我的同意？#Windows #Microsoft $msft",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The international operations accounted for over 80% of net sales.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The management is capping the company's biggest advantage: its size.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

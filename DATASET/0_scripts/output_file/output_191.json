@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Windows 10 is terrible. Why did it force an upgrade on my PC without my consent? #windows #Microsoft $msft\n\n翻译：\nWindows 10 很糟糕。为什么它在我的电脑上升级，没有我的同意？#Windows #Microsoft $MSFT",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Randgold's profit is hit by poor gold price but dividend still increases.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Steve Jackson, 萨塔玛公司的电子商务分析师，同时也是阿博维斯塔的前CEO，表示：“当谷歌免费提供谷歌分析时，他们打破了常规。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "千禧一代正在储蓄更多，他们的金钱习惯正在改善。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "i-Grid 显示 DIA 长期处于 123.40-124.77 的区间内；任何超过今天水平或进入该区间的反弹都将导致崩盘。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The deal was worth about EUR 1.2 mn. 翻译为中文是：这笔交易大约值 120 万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sheryl Sandberg 出售了 Facebook Inc. $FB 股票 109,000 股。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Longbow Research 的分析师 Joe Wittine给出了 $NTAP 的持有评级。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"不要认为买断谣言的力度足够大，足以推动股价上涨，目前还不到时候...当它真正起飞时，可能会像苹果一样...//它会飞多高？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "学术界声称，谷歌安卓的双因素认证可以被破解。 #安全 #认证 #黑客 $goog https://t.co/nJx4mnrGLo",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Hub Group 第四季度业绩公布后股价上涨 7.3%\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ted Baker董事长David Bernstein和首席执行官Lindsay Page在宣布英国零售商削减全年盈利后辞职。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股票市场更新：股票市场即将低开，塔吉特和劳氏百货股价上涨。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "新莫里森首席执行官大卫·波特斯（David Potts）的销售增长，因为特易购（Tesco）的转型计划受阻。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"TGNA\" - \"TGNA\" 2019 年第四季度业绩预览：https://t.co/bT6mu0WSeg}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EU governments increase demands before contentious talks about the bloc's post-Brexit relationship with the U.K.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco 公司圣诞季开局不利 - Kantar",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, the translation of the given English sentence into Chinese is: \"GM - GM失去了公牛 https://t.co/tdUfG5HbXy\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"SiriusXM 在 2016 年第一季度新增了 465,000 名净新增订阅者。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A replay will be available until 27 October 2006 in the following numbers: US callers: +1 617-801-6888, non-US callers: +44 20 7365 8427, access code: 2659 5401.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco has successfully navigated the high-inflation environment. The company is prioritizing e-commerce, while growing brick-and-mortar sales.\n- 中文翻译：Costco 已经成功地应对了高通货膨胀的环境。该公司正在优先发展电子商务，同时增加实体店铺的销售。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KESKO FOOD LTD PRESS RELEASE 04.01.2006 AT 13.00 Kesko Food Ltd is launching a major TV campaign to recruit as many as one hundred new K-food retailers.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Autonomous Trucking On The Horizon\" 的中文翻译是 \"自动驾驶卡车正处于地平线\"。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann MasterCard has expanded the scope of this cooperation to Estonia and Latvia.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation: \"{$TSPT long 8.00}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"EIA Petroleum Status Report due in 5 minutes.\" 翻译成中文为 \"环境影响评估石油状况报告将在5分钟内到期。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hobby Hall's sales decrease 26 percent due to implementing a new information system that involved changing the principle of posting sales.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MGP Earnings Conference Call or Presentation Transcript 5-Nov-19 5:30pm GMT",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益为0.48欧元，高于一年前的0.37欧元，并超过了市场共识的0.40欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CMLS vs. NFLX: Which Stock Is the Better Value Option? \n\n中译英：\nCMLS vs. NFLX：哪只股票是更好的价值选择？",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Energy Up On Hopes For Thursday OPEC+ Deal -- Energy Roundup #economy #MarketScreener\n\n能源因周四OPEC+协议的希望而上涨 -- 能源头条#经济#市场筛查",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$CAMT Looks like might break down. I'm out} 的中文翻译是：“{CAMT} 看起来可能会崩溃。我出去了。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Ronson Development : Report no 71 Purchase of own shares #RonsonDevelopment #Stock #MarketScreener… https://t.co/PLe8coXt0V\"\n\n中文翻译：\n罗森森发展：报告第71号购买本公司股票#罗森森发展#股票#市场筛选器… https://t.co/PLe8coXt0V",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva and Friends Life lead forecasts before 5.6 billion pound merger.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Salo, Finland, 29 August 2006 - Benefon has today announced its plans to further strengthen its in-house technology platform, by licensing the complete mobile software platform, Opna, from its long-standing technology partner, Pollex.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The commission income decreased to EUR 3.8 million, compared to EUR 4.6 million in the third quarter of 2007.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result, the company has decided it will implement fixed-term temporary lay-offs.\n\n翻译为中文：\n因此，公司决定将实施固定期限的临时停工。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语，Jeffries 提高 piper 部分。我仍然保持长期。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加拿大鹅被CFRA从强烈买入下调至买入。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Update: NAHB Housing Market Index ticks down in November\n翻译成中文：\n股市动态：NAHB住房市场指数11月下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Taylor Swift 的争议凸显了私募股权在音乐行业中的风险。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"上个月比尔·阿克曼说'地狱即将到来。'现在他变得'乐观'了。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "No planned closing date was provided.\n\n{没有提供预定关闭日期。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cautious Optimism For Markets on Trade (Radio) 的英文翻译为：谨慎的贸易市场乐观情绪（电台）。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stockmann plc COMPANY ANNOUNCEMENT February 20 , 2007 , at 13.40 An annual summary of Stockmann's stock exchange and financial press releases in 2006 is available on the company's website at the address www.stockmann.com. \n\n翻译为中文：\n\n斯托曼公司于2007年2月20日13点40分发布的公告：斯托曼公司在2006年的股票交易所和财务新闻的年度摘要可在公司网站www.stockmann.com上找到。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$AAPL downgrade is bias. This stock is a buy. 翻译为：苹果公司下调评级存在偏见，这支股票值得买入。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia controls more than 50 percent of phone sales in India and Africa, and has a strong position on most other emerging markets.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "现在我很高兴我在 $113 的周交易中及时止损。我会在下周一重新进入，以应对 #earnings run-up。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这些限制不适用于法定股息。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yahoo Finance's Adam Shapiro joins the Live show to provide updates on continued flight cancellations and delays due to winter storms and COVID surges, in addition to discussing Verizon and AT&T agreeing with the FAA to delay 5G expansions for another two weeks.\"\n\n翻译为中文：\n\n\"雅虎财经的亚当·沙皮罗将参加直播节目，提供关于因冬季风暴和COVID激增导致的持续航班取消和延误的最新消息，并讨论维珍和美国电信与FAA同意将5G扩张推迟另外两周。\"\n\n不要错过：\"炒作谷：打造伊丽莎白·霍尔姆斯的文化\"观看：https://youtu.be/Sb179GLPNYE\n\n观看2021年伯克希尔·哈撒韦年度股东大会的YouTube视频：https://youtu.be/gx-OzwHpM9k",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"减弱的GPU挖矿需求和升高的估值指标正在给NVDA股票带来额外的下行风险。在GPU需求放缓之后，Nvidia股票还有更多的下行潜力。这篇文章最初出现在InvestorPlace。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果今年为 WWDC 2022 发布了一款最引人注目的预告片之一，暗示了备受期待的混合现实头显。尽管目前还不确定苹果是否会在本周最终改变其对 AR/VR 硬件领域的缄默态度，但该公司很可能会有一些暗示。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "How South Korea's low birth rate adds to the case for QE: 韩国的低出生率如何支持量化宽松的案例。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Hot #BlackFriday tip: \"Put things in your cart and leave them there.\" https://t.co/awiDWdUSvD\" 的中文翻译是：\n\"黑五购物热提示：“将商品放入购物车并留在那里。” https://t.co/awiDWdUSvD\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In today's business, you have to pre-empt what consumers want, said Mohammed Zainalabedin, General Manager, Zain Bahrain. \n\n翻译：\n\n在今天的商业环境中，你必须预测消费者的需求，Zain巴林总经理穆罕默德·扎因拉贝丁说道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Deutsche Bank has agreed to pay €15 million in penalties to end a probe into possible money-laundering and tax evasion allegations.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "恭喜 @PACEUniversity，2019年全国大学生联邦挑战赛的冠军！代表得很好！",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For the purposes of the possible acquisition, PKC would establish a subsidiary in Poland. 翻译为中文为：“为可能收购的目的，PKC将在波兰设立一家子公司。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The chips supplier is anticipated to announce lower Q3 sales on November 16 as well.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"When technology meets art, magical things can happen.\" 这句英文翻译为：“当科技与艺术相遇，神奇的事情就会发生。”\n\n\"The beauty of fireworks is rivaled by this drone light show.\" 这句英文翻译为：“这场无人机灯光秀媲美烟花之美。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of the orders is over EUR 25mn. 的英文翻译为：\"The value of the orders exceeds 25 million euros.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "此外，我们将推出一个多元化的在线服务，以补充传统的印刷报纸，Valkama先生说。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translated sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly: {Added long at Friday close $SPY $LABU $BLUE $AMZN}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Doji knows the SP and the potential of QNX BES10 and BBM cross-platform will bring good news in time $bbry.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：\nADP News - Apr 22, 2009 - Finnish business information systems developer Solteq Oyj HEL: STQ1V announced today that its net loss increased to EUR 189,000 USD 245,000 for the first quarter of 2009 from EUR 10,000 for the same period last year.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"在我的美联储任职期间，我看到过企业与消费者信心的变化如何对整个经济产生影响。\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "公司表示，这些运营将被出售给一家新成立的公司，CPS GmbH，现有塑料业务的管理层是该公司的共同所有者。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"皇家邮政，约翰逊·马太泰领跌富时指数\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "He also mentions that this improvement to the service follows the recent expansion of the Finnlines service from Bilbao via Antwerp and Helsinki and from Hull via Helsinki to St. Petersburg. \n\n翻译为中文：\n\n他还提到，这项服务改进是在芬兰航运服务近期从毕尔巴鄂经安特卫普和赫尔辛基扩展，以及从赫尔辛基经赫尔辛基扩展到圣彼得堡之后。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Insurer expects its share in Nordea's net profit to be significant.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"New Residential Q4 origination production surges 85% Q/Q\" 的中文翻译是：\n\"新居民第四季度起始生产增长85%（逐季）\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amgen (AMGN) 第一季度的盈利和销售额均超出预期。然而，该股在宣布与美国国税局（IRS）的诉讼和税务纠纷消息后下跌。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese: 这5条规则帮助这个人在35岁之前变得富有。\n\n英文翻译：These 5 rules helped make this guy rich by 35.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given English sentence into Chinese: \n\n\"{$ENDP exit reversal .11 X 3K shares = $330 - now Long - not getting follow through, either side of price action}\"\n\nIn Chinese: \"{$ENDP 反转退出 .11 X 3K 股 = $330 - 现在多头 - 没有跟随，价格走势的任何一方都没有跟进}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The current bear market is giving investors a chance to load up on these 3 stocks. \n\n这句英文翻译成中文是：“当前的熊市给了投资者在这3只股票上大举加仓的机会。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fed decision, Lululemon earnings, inflation gauge: 3 things to watch for Wednesday\n\n美联储决策，Lululemon业绩，通胀指标：周三需要关注的3件事",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"{$TSLA recall}\" can be translated to Chinese as \"特斯拉召回\" or \"特斯拉召回事件\" depending on the context.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果Honkarakenne在那里开始生产，它将需要一个伙伴来运营锯木厂。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP赢得“程序化购买”代理机构Essence Digital的竞标。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$GDX $GDXJ $JNUG - 今天小金矿股表现强劲 - 注意观察是否会出现缺口填补的情况 -",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Louisiana-Pacific declares $0.145 dividend\" 的中文翻译为 \"Louisiana-Pacific 宣布派发 0.145 美元的股息\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish fishing tackle company Rapala VMC Corp ( HEL : RAP1V ) today announced that its net profit for the first nine months of 2010 increased to EUR18.9 million from EUR15.1 million for the same period in the previous year.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: 预计未来几年中国的咖啡消费量将大幅增长。舒尔茨能够帮助公司摆脱当前的困境，就像他过去所做的那样。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊4周期RSI跌至20，刚刚读了康纳斯的交易策略书籍。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"德意志银行下调星巴克公司股票评级。\"\n\n英文翻译：Deutsche Bank Downgraded Starbucks Co. $SBUX\n\n注意：原文链接和图片地址已省略，仅提供英文翻译。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pinduoduo's stock is the most active premarket with over 3 mln shares traded.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tim Cockroft 带来了超过 18 年的卓越业绩；此外，Tim 成功地在 Kaupthing Singer & Friedlander 开发了资本市场运营，涉及企业金融和经纪业务，专注于中型企业。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMD 高级副总裁 Sam Naffziger 谈论了长期目标，即通过提高 CPU、GPU 和数据中心的能效来降低能源消耗。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n挪威金融服务集团 SpareBank 1 Gruppen AS OSL 宣布，其董事会今天任命 Jarle Haug 为该公司索赔回收子公司的总经理。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Daily Mail的母公司正在与潜在的合作伙伴就共同收购雅虎的互联网资产进行洽谈。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该句子的中文翻译为：“本季度利润总计为110万欧元，较2008年第三季度的160万欧元有所下降。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "2022年一开始，整体股票市场以及iPhone巨头都取得了胜利。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sales of the Tiimari segment fell by 4.0% year-on-year to EUR3.3m in June 2010.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "相同条件下，本周所有市场均出现下跌。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Based on competitive bidding, OOO Kitai Stroi, a subsidiary of China State Construction Engineering Corporation in Russia, has been selected as the main contractor.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{书生·浦语} 黄杨木今年第二次命名合作伙伴，通过提升首席财务官 Pizzi 的职务。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "有人告诉詹妮弗·安妮斯顿，她永远都不会赚到一分钱。（via @CNBCMakeIt）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sponda Plc Stock Exchange Release 5 December 2006 at 15.45 EUR 1.5 BILLION SYNDICATED CREDIT FACILITY FOR SPONDA Sponda has signed an agreement for a one-year syndicated credit facility for a total of EUR 1.5 billion.\n\nSponda Plc 2006年12月5日公告：15:45 欧元 1.5亿欧元银团贷款协议 西班牙Sponda公司签署了为期一年的银团贷款协议，总金额为1.5亿欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Analyst Views: Astrazeneca shares have seen recent volatility; what will 2015 bring...",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit rose to EUR2.4m from EUR1.6m year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

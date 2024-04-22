@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"Daily Mail的母公司正在与潜在合作伙伴讨论共同出价收购雅虎的网络资产：https://t.co/mK7MEMtADT $YHOO\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Supreme Court Upholds $236 Million Jury Award Against ExxonMobil\n最高法院维持了对埃克森美孚公司的236亿美元陪审团裁决。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon will change the way it presents offers from multiple sellers in the all-important “Buy Box” on product pages as part of a broader agreement resolving multiple antitrust issues raised by European Commission. \n\n中文翻译：亚马逊将在产品页面的重要“买箱”中更改展示来自多个卖家的优惠方式，作为更广泛协议的一部分，该协议解决了欧洲委员会提出的多项反垄断问题。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "U.K. 股票接近纪录高位时略微变动，巴克莱和壳牌下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$CAL $TPR $FL - 服装业的回归 https://t.co/sLP0UuRWUM}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "帝国烟草公司在利润上升后增加了季度股息。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"NXP Semi will resume buybacks\" 翻译为中文是 \"恩智浦半导体将恢复回购股份\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Finland, OP-Pohjola's staff union is boycotting the group's insurance sales tasks because the company has refused to take the sale of insurance into account in determining wages.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Bullish with MACD CROSSOVER with RSI and STO going up - above 73.4$ MA50 res. could run http://stks.co/gGCq\" in Chinese.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Czechs' Unexpected Rate Hike Lifts Koruna to Seven-Year High 翻译为中文是：“捷克央行意外加息，捷克克朗汇率达到七年新高”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"ForeScout Technologies EPS 低于预期 $0.03，收入也低于预期\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here comes the Dunkin' power muffin to help solve one key problem. → 得来速的能量早餐饼来帮你解决一个关键问题。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Exel wants to serve its industrial customers with individual products. \n\n翻译成中文：\n\n易捷希望通过为其工业客户提供个性化产品来提供服务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰食品工人联合会（SEL）计划于2010年4月7日开始为期两天的罢工，以加快其集体谈判。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aston Martin Lagonda Global Holdings Plc has secured a 500-million-pound ($656 million) lifeline to restore the balance...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Align Technology (ALGN) 股票今天在 Unimon 发布一份短报告点名公司后，股价有所波动。文章 ALGN 股票：短报告芯片排名领先牙科股选择 Align Technology 首次出现在 InvestorPlace。}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The electricity requirement of networks will grow with the new mobile generation.\n\n翻译成中文：随着新的移动通信时代的到来，网络的电力需求将会增加。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"我不是专业分析师，但我确实用行动证明了这一点。苹果公司股价会在年底前达到575美元——这是现在的价格再上涨100美元。长期期权 =^.^=\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Palladium prices soar to record $1,900/oz. due to South Africa power cuts\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oil futures finish lower after posting 2 consecutive weekly gains.\n\n中文翻译：原油期货在连续两周上涨后收低。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"CentS Scout for potential acquisition targets, with detailed insight into the companies' financial and operational performance.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"A garlic and citrus feed supplement that lowers the greenhouse gases belched out by cows is giving farmers the chance to...\".",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Paul Wolfowitz's NYT Op-Ed: Blatherings Of A Sanctimonious Sicko https://t.co/LkTRWvBgTh\" 的中文翻译为：\n\n\"保罗·沃尔夫维茨的纽约时报社论：伪善病态者的胡言乱语 https://t.co/LkTRWvBgTh\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Aldata Solution has signed a contract of supply its G.O.L.D. system to two French retail chains.\n\n芬兰 Aldata Solution 已签署合同，向两家法国零售连锁店供应其 G.O.L.D. 系统。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Disney\": \"迪士尼\", \"Wells\": \"惠尔斯\", \"parks\": \"公园\", \"worries\": \"担忧\"}\n{\"$DIS\": \"迪士尼\", \"-1.5%\": \"-1.5%\"}\n{\"as\": \"因为\"}\n{\"moves\": \"移动\", \"to\": \"到\", \"side\": \"一边\"}\n{\"on\": \"关于\"}\n{\"parks\": \"公园\"}\n{\"worries\": \"担忧\"}\n{\"https://t.co/KpVmXMYUHb\": \"https://t.co/KpVmXMYUHb\"}\n{\"翻译\": \"迪士尼股价下跌1.5%，因为惠尔斯移到了公园担忧的一边。\"}\n{\"原句\": \"Disney -1.5% as Wells moves to side on parks worries https://t.co/KpVmXMYUHb\"}\n{\"解释\": \"该句子表示迪士尼的股价下跌了1.5%，原因是惠尔斯（Wells）对于公园（parks）的担忧，并且该担忧被放在了公园的一边。\"}\n{\"注意\": \"该翻译为直接翻译，可能存在语境或文化差异导致的不准确或误解。\"}\n{\"推荐\": \"建议在翻译时考虑到上下文和目标受众，以确保传达的准确性和恰当性。\"}\n{\"建议\": \"建议在翻译时考虑到上下文和目标受众，以确保传达的准确性和恰当性。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及惠尔斯对于公园担忧的立场。\"}\n{\"总结\": \"该句子传达了迪士尼股价下跌的原因，以及",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"你明白后座吗？不要坐那里。\" - $TSLA -> \"特斯拉召回2,700辆Model X汽车。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company had net sales of EUR 19.8 million and a pre-tax profit of EUR 1.8 million in 2005.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AMZN 股票在中等偏上区间交易。尚未出现突破，无论方向。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Standard Chartered, RBS Escape Capital Raising in Stress Test\" 可以翻译为 \"渣打银行和苏格兰皇家银行在压力测试中成功筹集资本\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kemira's R&D organization comprises approximately 750 people, the company said. \n\n这句话的中文翻译为：“公司表示，Kemira的研发组织由大约750人组成。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n{But Samsung and others were close behind, according to analyst firm Canalys.}\n\n中文翻译：\n\n{不过，根据分析公司Canalys的数据，三星和其他厂商紧随其后。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Advanced Micro Devices is a technologically strong semiconductor company with an attractive growth track record.\" 可以翻译为：\"AMD是一家技术实力强劲的半导体公司，具有吸引人的增长记录。\"\n\n\"New product launches and the Xilinx acquisition should make 2022 a strong year.\" 可以翻译为：\"新产品发布和Xilinx收购将使2022年成为一个强劲的年份。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Roche Presents Spinal Muscular Atrophy Drug Data\n罗氏展示了脊髓性肌萎缩药物数据",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "商品通道指数指标显示FB股票处于超卖状态。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here come the shorts marchin' in. $GMCR. Lovin' it! \n\n直译为：短裤们来了，大步前进。$GMCR。爱它！",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A maximum of 666,104 new shares can further be subscribed for by exercising B options under the 2004 stock option plan. \n\n直接翻译：\n2004年股票期权计划下，B选项的行使可以进一步以最多666,104股新股进行认购。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple CEO Tim Cook wrote a letter to Congress a day after he appeared on Capitol Hill and met with lawmakers. \n\n苹果CEO蒂姆·库克在国会山露面并与议员会面后一天，给国会写了一封信。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Oppenheimer 下调了对 Yum China 的估计。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"Katie Stockton, 创始人兼Fairlead Strategies的联合管理合伙人，与CNBC的'Squawk Box'互动，以回应本周的几项科技公司财报。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Stock splits are entirely cosmetic, but they give smaller investors a chance to buy these high-quality companies.\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix的股票今年迄今为止已经下跌了约68%，目前每股交易价格约为190美元。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德国的反垄断监管机构于周三为对谷歌进行更严格的审查铺平了道路，将其指定为“首要重要性”的公司，这是自监管机构获得更多权力以遏制大型数字公司滥用行为以来，第一家获得该标签的公司。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intel Corp. 可能在本月底裁员数千名员工，与同行业的芯片制造商在艰难的一年中公布季度业绩的时间大致相同，根据周二晚发布的一份报告。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Southernly Hotels Inc.宣布公司总部搬迁。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "收购已完成，业务已得到良好整合。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益为0.48欧元，高于前一年的0.37欧元，并高于市场共识的0.40欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家荷兰壳牌将以近700亿美元的价格收购BG集团。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "谷歌（GOOGL）在最新的交易时段以每股2,789.61美元收盘，较前一日上涨了0.64%。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This will be done domestically and in neighboring markets, both organically and through acquisitions.\n\n翻译：这将在国内和邻国市场进行，既有机地发展，也通过收购进行。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"With the acquisition, the company will expand its offering to North, Central and South America,\" it said. 翻译为：\"通过收购，该公司将扩大其产品线到北美、中美洲和南美，\"它说。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

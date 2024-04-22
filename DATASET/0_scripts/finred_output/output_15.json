@@ -1,0 +1,302 @@
+[
+  {
+    "input": "以下是该英文句子的中文翻译：\n\n多年来，传统的有线电视和卫星运营商一直在其混合平台上添加OTT（过顶）服务，而传统上以大型视频点播库为定义的OTT流媒体服务已经将其线性电视添加到其产品中。更重要的是，从UEI的角度来看，所有这些视频娱乐提供商，无论是传统的内容聚合商，如康卡斯特和迪什，消费电子品牌，如索尼、三星和LG，还是技术公司，如谷歌，都在向多个关键视频消费平台，电视流媒体和机顶盒，扩展其产品。",
+    "output": "Samsung produces electronics and entertainment products.",
+    "instruction": "The given phrases that describe the relationship between two words/phrases are:\n\n1. product/material produced\n2. manufacturer\n3. distributed by\n4. industry\n5. position held\n6. original broadcaster\n7. owned by\n8. founded by\n9. distribution format\n10. headquarters location\n11. stock exchange\n12. currency\n13. parent organization\n14. chief executive officer\n15. director/manager\n16. owner of\n17. operator\n18. member of\n19. employer\n20. chairperson\n21. platform\n22. subsidiary\n23. legal form\n24. publisher\n25. developer\n26. brand\n27. business division\n28. location of formation\n29. creator\n\nThe input text is not provided, so I cannot extract the word/phrase pair and the corresponding lexical relationship between them. Please provide the input text for me to perform the translation.",
+    "text": ""
+  },
+  {
+    "input": "For several years now, traditional cable and satellite operators have added over-the-top services to their hybrid platforms, while over the top streaming services traditionally defined by their large video-on-demand libraries have added linear TV to their offerings. More importantly, from UEI's perspective; all these video entertainment providers, whether they be traditional content aggregators such as Comcast and Dish, consumer electronics brands such as Sony, Samsung and LG or technology companies such as Google are expanding their offerings across more than one of the key video consumption platforms, television streamers and set-top boxes.",
+    "output": "\"Samsung, electronics; Samsung, entertainment\" 的中文翻译为 \"三星，电子产品；三星，娱乐产品\"。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: manufacturer\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distributed by\n\nSubject: Apple Inc.\nObject: technology industry\nRelation: industry\n\nSubject: Tim Cook\nObject: Apple Inc.\nRelation: position held\n\nSubject: Apple Inc.\nObject: ABC News\nRelation: original broadcaster\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: owned by\n\nSubject: Apple Inc.\nObject: Steve Jobs\nRelation: founded by\n\nSubject: Apple Inc.\nObject: App Store\nRelation: distribution format\n\nSubject: Apple Inc.\nObject: Cupertino, California\nRelation: headquarters location\n\nSubject: Apple Inc.\nObject: NASDAQ\nRelation: stock exchange\n\nSubject: Apple Inc.\nObject: USD\nRelation: currency\n\nSubject: Apple Inc.\nObject: Alphabet Inc.\nRelation: parent organization\n\nSubject: Tim Cook\nObject: Apple Inc.\nRelation: chief executive officer\n\nSubject: Tim Cook\nObject: Apple Inc.\nRelation: director/manager\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: owner of\n\nSubject: Apple Inc.\nObject: Apple Store\nRelation: operator\n\nSubject: Apple Inc.\nObject: Tim Cook\nRelation: member of\n\nSubject: Apple Inc.\nObject: Microsoft\nRelation: employer\n\nSubject: Tim Cook\nObject: Apple Inc.\nRelation: chairperson\n\nSubject: Apple Inc.\nObject: Apple Music\nRelation: platform\n\nSubject: Apple Inc.\nObject: Apple Pay\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: C-corporation\nRelation: legal form\n\nSubject: Apple Inc.\nObject: Penguin Random House\nRelation: publisher\n\nSubject: Apple Inc.\nObject: Epic Games\nRelation: developer\n\nSubject: Apple Inc.\nObject: App Store\nRelation: brand\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: business division\n\nSubject: Apple Inc.\nObject: Cupertino, California\nRelation: location of formation\n\nSubject: Apple Inc.\nObject: Steve Jobs\nRelation: creator",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\n\n“在过去的几年里，传统的有线电视和卫星运营商一直在他们的混合平台上添加OTT（过顶）服务，而传统上由其大型视频点播库定义的OTT流媒体服务则将线性电视添加到其产品中。更重要的是，从UEI的角度来看，所有这些视频娱乐提供商，无论是传统的聚合商，如康卡斯特和Dish，消费电子品牌，如索尼、三星和LG，还是技术公司，如谷歌，都在跨越多于一个关键的视频消费平台，电视流媒体和机顶盒上扩展其产品。”",
+    "output": "The product or material produced is 产品或材料。",
+    "instruction": "Samsung is a brand that produces various electronic products and is one of the leading manufacturers in the electronics industry.",
+    "text": ""
+  },
+  {
+    "input": "For several years now, traditional cable and satellite operators have added over-the-top services to their hybrid platforms, while over the top streaming services traditionally defined by their large video-on-demand libraries have added linear TV to their offerings. More importantly, from UEI's perspective; all these video entertainment providers, whether they be traditional content aggregators such as Comcast and Dish, consumer electronics brands such as Sony, Samsung and LG or technology companies such as Google are expanding their offerings across more than one of the key video consumption platforms, television streamers and set-top boxes.",
+    "output": "The translated sentence in English is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {product_or_material_produced}.\"",
+    "instruction": "Samsung is a manufacturer of electronics.",
+    "text": ""
+  },
+  {
+    "input": "For several years now, traditional cable and satellite operators have added over-the-top services to their hybrid platforms, while over the top streaming services traditionally defined by their large video-on-demand libraries have added linear TV to their offerings. More importantly, from UEI's perspective; all these video entertainment providers, whether they be traditional content aggregators such as Comcast and Dish, consumer electronics brands such as Sony, Samsung and LG or technology companies such as Google are expanding their offerings across more than one of the key video consumption platforms, television streamers and set-top boxes.",
+    "output": "Product or material produced.",
+    "instruction": "Samsung is a manufacturer of various electronic products and is involved in the entertainment industry.",
+    "text": ""
+  },
+  {
+    "input": "For several years now, traditional cable and satellite operators have added over-the-top services to their hybrid platforms, while over the top streaming services traditionally defined by their large video-on-demand libraries have added linear TV to their offerings. More importantly, from UEI's perspective; all these video entertainment providers, whether they be traditional content aggregators such as Comcast and Dish, consumer electronics brands such as Sony, Samsung and LG or technology companies such as Google are expanding their offerings across more than one of the key video consumption platforms, television streamers and set-top boxes.",
+    "output": "Product or material produced: 产品或材料生产。",
+    "instruction": "The relationship between Samsung and entertainment in the context of the input sentence is: \"original broadcaster\".",
+    "text": ""
+  },
+  {
+    "input": "The first one is the inevitable trend toward advanced IP-enabled voice-driven systems that combine live or linear content with subscription video on demand or over-the-top services. \n\n第一个是不可避免的趋势，即高级IP使能语音驱动系统的趋势，这些系统将现场或线性内容与订阅视频点播或OTT服务相结合。",
+    "output": "Sure, I can help you with that. Here's the translation:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\".",
+    "instruction": "I'm sorry, but I need more information to translate the sentence for you. Could you please provide the sentence you want me to translate?",
+    "text": ""
+  },
+  {
+    "input": "The first one is the inevitable trend toward advanced IP-enabled voice-driven systems that combine live or linear content with subscription video on demand or over-the-top services. \n\n第一点是先进IP启用的语音驱动系统不可避免的趋势，这些系统将现场或线性内容与订阅视频点播或超媒体服务相结合。",
+    "output": "Here is the translation of the given sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{distribution_format: live, video on demand}\n\nTranslation: Please help me translate the following English sentence into Chinese. The answer should be given directly in English! {distribution_format: live, video on demand}",
+    "instruction": "Subject: sentence\nObject: relation types\n\nRelation: product/material produced\nExample: \"苹果公司生产了iPhone手机\"\n\nRelation: manufacturer\nExample: \"索尼公司是PlayStation游戏机的制造商\"\n\nRelation: distributed by\nExample: \"亚马逊公司负责配送图书\"\n\nRelation: industry\nExample: \"互联网行业是现代经济的重要组成部分\"\n\nRelation: position held\nExample: \"乔布斯曾担任苹果公司的首席执行官\"\n\nRelation: original broadcaster\nExample: \"NBC是奥运会开幕式的原广播机构\"\n\nRelation: owned by\nExample: \"微软公司拥有LinkedIn社交平台\"\n\nRelation: founded by\nExample: \"比尔·盖茨和保罗·艾伦共同创立了微软公司\"\n\nRelation: distribution format\nExample: \"Kindle电子书采用PDF格式\"\n\nRelation: headquarters location\nExample: \"谷歌公司的总部位于美国加利福尼亚州\"\n\nRelation: stock exchange\nExample: \"阿里巴巴在纽约证券交易所上市\"\n\nRelation: currency\nExample: \"欧元是欧盟国家的通用货币\"\n\nRelation: parent organization\nExample: \"迪士尼公司是漫威电影宇宙的母公司\"\n\nRelation: chief executive officer\nExample: \"蒂姆·库克是苹果公司的首席执行官\"\n\nRelation: director/manager\nExample: \"史蒂夫·乔布斯是苹果公司的董事会成员\"\n\nRelation: owner of\nExample: \"比尔·盖茨是微软公司的最大股东\"\n\nRelation: operator\nExample: \"Netflix公司是Netflix平台的运营者\"\n\nRelation: member of\nExample: \"乔布斯是苹果公司的联合创始人之一\"\n\nRelation: employer\nExample: \"谷歌公司是全球领先的互联网公司\"\n\nRelation: chairperson\nExample: \"约翰·约翰逊是IBM公司的董事长\"\n\nRelation: platform\nExample: \"Facebook是社交媒体行业的领先平台\"\n\nRelation: subsidiary\nExample: \"亚马逊公司拥有Whole Foods Market超市\"\n\nRelation: legal form\nExample: \"谷歌公司采用有限责任公司形式\"\n\nRelation: publisher\nExample: \"企鹅兰登书屋是全球最大的图书出版商之一\"\n\nRelation: developer\nExample: \"任天堂公司是Switch游戏机的开发商\"\n\nRelation: brand\nExample: \"耐克是全球著名的运动品牌\"\n\nRelation: business division\nExample: \"亚马逊公司拥有多个业务部门，包括电商、云计算等\"\n\nRelation: location of formation\nExample: \"苹果公司在加利福尼亚州库比蒂诺市成立\"\n\nRelation: creator\nExample: \"史蒂夫·乔布斯是Macintosh电脑的创始人之一\"",
+    "text": ""
+  },
+  {
+    "input": "第一个趋势是高级 IP 驱动的语音驱动系统的不可避免的发展，这些系统将现场或线性内容与订阅视频点播或超媒体服务相结合。",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you want me to translate into Chinese.",
+    "instruction": "The given sentence is not complete and does not provide enough context to determine the relationship between \"live\" and \"video on demand\" from the given options. Please provide the complete sentence or additional context for me to assist you further.",
+    "text": ""
+  },
+  {
+    "input": "The first one is the inevitable trend toward advanced IP-enabled voice-driven systems that combine live or linear content with subscription video on demand or over-the-top services. \n\n中文翻译：\n第一个趋势是，不可避免地走向高级的 IP 使能语音驱动系统，这些系统将直播或线性内容与订阅视频点播或过顶服务相结合。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the sentence you provided: \"Please help me translate the following English sentence into Chinese, and provide the English translation in the answer.\"\n\nIn Chinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nI hope that helps! Let me know if you have any other questions.",
+    "instruction": "The relationship between live and video on demand in the context of the input sentence is \"distribution format\". \n\nEnglish translation: The relationship between live and video on demand in the context of the input sentence is \"distribution format\".",
+    "text": ""
+  },
+  {
+    "input": "我也很高兴地宣布，上周Talend也被Gartner列为数据质量Magic Quadrant的领导者。",
+    "output": "Creator: Magic Quadrant, Gartner; Owned_by: Magic Quadrant, Gartner\n\n翻译：\n\n创作者：Magic Quadrant, Gartner; 所有者：Magic Quadrant, Gartner",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nExample input: \"The iPhone is a product of Apple Inc., which is a subsidiary of Apple Inc.\"\n\nOutput: \"product: iPhone, Apple Inc.; subsidiary: Apple Inc., Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "我也很高兴地宣布，上个月Talend还被Gartner认定为数据质量领域的领导者。",
+    "output": "{creator: Magic Quadrant, Gartner; owned_by: Magic Quadrant, Gartner} \n翻译为中文：\n{创造者：Magic Quadrant，Gartner；所有者：Magic Quadrant，Gartner}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: owned by\n\nEnglish translation: 书生·浦语 is owned by the Shanghai Artificial Intelligence Laboratory.",
+    "text": ""
+  },
+  {
+    "input": "我也很高兴地宣布，上周，Talend也被Gartner在数据质量Magic Quadrant中评为领导者。",
+    "output": "Here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{creator}\"\n\nThe translation in English is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {creator}\"",
+    "instruction": "Sure, here's the translation: \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{利用输入文本作为上下文参考，从选项中选择Magic Quadrant和Gartner之间的正确关系。选项：产品/材料生产，制造商，分销商，行业，担任职务，原始广播者，拥有者，创立者，分销格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发商，品牌，业务部门，成立地点，创作者。}\"",
+    "text": ""
+  },
+  {
+    "input": "我也很高兴地宣布，上个月，Talend还被Gartner评为数据质量领域的魔力象限领导者。",
+    "output": "Here's the translation of the given English sentence into Chinese:\n\n- {creator} = 创作者",
+    "instruction": "The relationship between Magic Quadrant and Gartner in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "我也很高兴地宣布，上个月，Talend还被Gartner在数据质量魔力象限中认定为领导者。",
+    "output": "Owned by: 所有者",
+    "instruction": "The English sentence is: \"Utilize the input text as a context reference, choose the right relationship between Magic Quadrant and Gartner from the options.\"\n\nThe Chinese translation is: \"利用输入文本作为上下文参考，从选项中选择 Magic Quadrant 和 Gartner 之间的正确关系。\"\n\nHere is the direct English translation of the given sentence: \"Utilize the input text as a context reference, choose the right relationship between Magic Quadrant and Gartner from the options.\"",
+    "text": ""
+  },
+  {
+    "input": "我也很高兴地宣布，上周Talend还被Gartner在数据质量的魔力象限中认定为领导者。",
+    "output": "Owned by: 属于",
+    "instruction": "The relationship between Magic Quadrant and Gartner is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "And the same thing with Mervyns way back when, where there was a department store chain that needed a turnaround at the opco level, but equally important was a turnaround at the propco level, and that's where we were involved, taking closed stores and converting them into other retail uses or other mixed uses.\n\n同样的事情也发生在 Mervyns 的过去，当时有一家需要从运营层面进行转型的百货商店连锁店，但同样重要的是从地产层面进行转型，而我们正是在这个环节上发挥了作用，将关闭的商店转化为其他零售用途或其他混合用途。",
+    "output": "Mervyns is a retail industry department store chain.",
+    "instruction": "Original broadcaster: NBC, Olympics; Owned by: Comcast; Industry: Media and Entertainment; Location of formation: New York City, United States; Chief executive officer: Jeff Shell; Publisher: NBCUniversal; Platform: Television, Online Streaming; Business division: NBC Sports; Brand: Olympics; Developer: NBCUniversal; Legal form: Corporation; Headquarters location: Stamford, Connecticut, United States; Parent organization: Comcast; Stock exchange: NASDAQ; Currency: United States dollar; Chairperson: Jeff Shell; Employer: NBCUniversal; Member of: Comcast Spectacor; Original broadcaster: NBC; Brand: NBC Olympics; Creator: NBCUniversal; Subsidiary: NBC Sports; Manufacturer: NBCUniversal; Distributed by: NBCUniversal; Original broadcaster: NBC; Chairperson: Jeff Shell; Employer: NBCUniversal; Chairperson: Jeff Shell; Manufacturer: NBCUniversal; Owned by: Comcast; Owned by: Comcast; Headquarters location: Stamford, Connecticut, United States; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Owned by: Comcast; Own",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"And the same thing with Mervyns way back when, where there was a department store chain that needed a turnaround at the opco level, but equally important was a turnaround at the propco level, and that's where we were involved, taking closed stores and converting them into other retail uses or other mixed uses.\" \n\n翻译为中文：\n\n\"和Mervyns一样，很久以前，当时有一个百货连锁店需要从营业公司层面进行变革，但同样重要的是从财产公司层面进行变革，我们在这方面发挥了作用，将关闭的商店转化为其他零售用途或混合用途。\"",
+    "output": "Sure, here's the translation:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Mervyns, retail; industry: department store chain, retail}\n\nTranslation: Please translate the following English sentence into Chinese, and directly provide the English translation in the answer! {industry: Mervyns, retail; industry: department store chain, retail}",
+    "instruction": "Subject: The sentence; Object: The relation types\n\nRelation1: product/material produced; relation2: manufacturer; relation3: distributed by; relation4: industry; relation5: position held; relation6: original broadcaster; relation7: owned by; relation8: founded by; relation9: distribution format; relation10: headquarters location; relation11: stock exchange; relation12: currency; relation13: parent organization; relation14: chief executive officer; relation15: director/manager; relation16: owner of; relation17: operator; relation18: member of; relation19: employer; relation20: chairperson; relation21: platform; relation22: subsidiary; relation23: legal form; relation24: publisher; relation25: developer; relation26: brand; relation27: business division; relation28: location of formation; relation29: creator.\n\nRelation1: product/material produced: sentence; relation2: manufacturer: subject; relation3: distributed by: object; relation4: industry: subject; relation5: position held: subject; relation6: original broadcaster: subject; relation7: owned by: subject; relation8: founded by: subject; relation9: distribution format: object; relation10: headquarters location: subject; relation11: stock exchange: subject; relation12: currency: subject; relation13: parent organization: subject; relation14: chief executive officer: subject; relation15: director/manager: subject; relation16: owner of: subject; relation17: operator: subject; relation18: member of: subject; relation19: employer: subject; relation20: chairperson: subject; relation21: platform: subject; relation22: subsidiary: subject; relation23: legal form: subject; relation24: publisher: subject; relation25: developer: subject; relation26: brand: subject; relation27: business division: subject; relation28: location of formation: subject; relation29: creator: subject.",
+    "text": ""
+  },
+  {
+    "input": "And the same thing with Mervyns way back when, where there was a department store chain that needed a turnaround at the opco level, but equally important was a turnaround at the propco level, and that's where we were involved, taking closed stores and converting them into other retail uses or other mixed uses.\n\nMervyns在很久以前也面临过类似的问题，当时有一家百货商店连锁店需要在opco层面上进行转型，但同样重要的是在propco层面上进行转型，我们正是在这方面发挥了作用，将关闭的商店转化为其他零售用途或其他混合用途。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Mervyns is a retail company that was founded by Mervyn D. Wood in 1938 and was originally headquartered in Fresno, California. It was later acquired by May Department Stores in 1987 and was distributed by Macy's after May's acquisition in 2005. Mervyns operated as a subsidiary of May Department Stores and Macy's until it was closed in 2008.",
+    "text": ""
+  },
+  {
+    "input": "And the same thing with Mervyns way back when, where there was a department store chain that needed a turnaround at the opco level, but equally important was a turnaround at the propco level, and that's where we were involved, taking closed stores and converting them into other retail uses or other mixed uses.\n\n翻译：\n\n同样，在Mervyns的案例中，当需要从运营层面对一家百货连锁店进行转型时，重要的是从资产层面对其进行转型。我们参与其中，将关闭的商店转化为其他零售用途或其他混合用途。",
+    "output": "Sure, I'd be happy to help with that. Please provide the English sentence you'd like me to translate into Chinese, and I'll provide the translation directly in English.",
+    "instruction": "Mervyns is a retail company that was founded by Mervyn and William S. Gay in 1938. It was originally based in California and later expanded to other states in the United States. The company primarily operated as a department store, offering a wide range of products such as clothing, shoes, and accessories. Mervyns was eventually acquired by Macy's in 2006, and the brand was retired in 2011.\n\nIn the context of the input sentence, Mervyns is related to the retail industry as a retail company that was founded by Mervyn and William S. Gay in 1938.",
+    "text": ""
+  },
+  {
+    "input": "And the same thing with Mervyns way back when, where there was a department store chain that needed a turnaround at the opco level, but equally important was a turnaround at the propco level, and that's where we were involved, taking closed stores and converting them into other retail uses or other mixed uses.\n\n中文翻译：\n同样，Mervyns在过去，有一家需要营业层面和地产层面双重转型的连锁百货公司，而我们则参与其中，将关闭的商店转化为其他零售用途或其他混合用途。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" translates to \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry}.\"",
+    "instruction": "The department store chain is \"owned by\" the retail company.",
+    "text": ""
+  },
+  {
+    "input": "And the same thing with Mervyns way back when, where there was a department store chain that needed a turnaround at the opco level, but equally important was a turnaround at the propco level, and that's where we were involved, taking closed stores and converting them into other retail uses or other mixed uses.\n\n翻译：\n\n同时，在Mervyns的案例中，当时有一家百货连锁店需要从运营层面的扭转，但同样重要的是从物业层面的扭转，我们就是在这一方面发挥作用，将关闭的商店转化为其他零售用途或其他混合用途。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" in Chinese:\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业}\"",
+    "instruction": "The relationship between department store chain and retail in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "{\"我们有一个Cognos，如果你记得的话，在过去的岁月里，我们拥有最初，非常盈利的应用程序开发工具业务，这真的为业务智能小组的成长提供了资金，随着时间的推移，它成为了业务的一部分。\"}",
+    "output": "Sure, I can help you with that! Here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response! {industry: Cognos, business intelligence}\"\n\nThe translated sentence in Chinese is:\n\n\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业：Cognos，商业智能}\"",
+    "instruction": "Original broadcaster: \"the company\" is the original broadcaster of \"the show\".",
+    "text": ""
+  },
+  {
+    "input": "{我们有一套Cognos，如果你记得的话，在过去的岁月里，我们拥有非常盈利的应用程序开发工具业务，这确实为业务智能小组的增长提供了资金，随着时间的推移，它逐渐成为业务的重要组成部分。}",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The answer should include the English translation directly.\"\n\nPlease note that I am an AI language model and I cannot directly translate the sentence as it is not provided in the prompt. Please provide the sentence you would like me to translate.",
+    "instruction": "The given input sentence is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nHere is the translation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nRelation: translation\n\nSubject: 请帮我 (Please help me)\nObject: 下面英文句子 (the following English sentence)\n\nRelation: translation\n\nSubject: 回答中 (in the answer)\nObject: 直接给出英文翻译 (directly provide the English translation)",
+    "text": ""
+  },
+  {
+    "input": "{\"We have got a Cognos\" 翻译为 \"我们有一个 Cognos\"，\"if you remember back in the days\" 翻译为 \"如果你还记得过去的日子\"，\"that Cognos we had the original, very profitable application development tools business\" 翻译为 \"那时我们有最初的，非常盈利的应用开发工具业务\"，\"that really funded the growth of the business intelligence group\" 翻译为 \"这确实为业务智能部门的增长提供了资金\"，\"which became over time a larger part of the business\" 翻译为 \"这逐渐成为了业务的重要组成部分\"。\n\n综合起来，整句话的中文翻译为：\"我们有一个 Cognos，如果你还记得过去的日子，那时我们有最初的，非常盈利的应用开发工具业务，这确实为业务智能部门的增长提供了资金，逐渐成为了业务的重要组成部分。\"",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence you provided:\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation in the answer. {industry}\n\nChinese: 请帮我翻译以下英文句子成中文，直接在答案中给出英文翻译！{行业}\n\nEnglish: Please help me translate the following English sentence into Chinese, and provide the English translation in the answer. {industry}",
+    "instruction": "Cognos is a business intelligence company that provides software and services for analyzing and managing data.",
+    "text": ""
+  },
+  {
+    "input": "\"We have got a Cognos if you remember back in the days that Cognos we had the original, very profitable application development tools business that really funded the growth of the business intelligence group, which became over time a larger part of the business.\" \n\n翻译成中文为：“如果你还记得过去，我们有Cognos，我们曾经拥有最初的、非常盈利的应用开发工具业务，这确实为业务智能组的增长提供了资金，随着时间的推移，它成为了业务的一部分。”",
+    "output": "Of course, I'd be happy to help with your translation request! Please provide me with the English sentence you would like me to translate into Chinese, and I will do my best to provide an accurate translation.",
+    "instruction": "Cognos is a business intelligence software company, and the relationship between Cognos and business intelligence in the context of the input sentence is that Cognos is a product/material produced in the field of business intelligence.",
+    "text": ""
+  },
+  {
+    "input": "{随着我们展望未来，所有团队的预订都在改善，但是正如Art提到的那样，这似乎更像是一个Nike飞人标志形状的复苏，而不是一个V形的复苏。}",
+    "output": "Nike is the owner of the following English sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "instruction": "Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher: BBC Books, BBC Education; Developer: BBC R&D; Platform: BBC iPlayer, BBC Radio; Subsidiary: BBC America, BBC Worldwide; Business division: BBC Studios; Location of formation: London, United Kingdom; Legal form: Public service broadcaster; Chief executive officer: Tim Davie; Chairperson: Richard Sharp; Member of: BBC Trust; Employer: BBC; Brand: BBC, BBC Sport; Original broadcaster: BBC, The Queen's Speech; Owned by: British Broadcasting Corporation, BBC Worldwide Ltd.; Publisher:",
+    "text": ""
+  },
+  {
+    "input": "{随着我们展望未来，所有团队的预订情况都在改善，但是正如Art提到的，这似乎更像是一个Nike的Swoosh形状的复苏，而不是一个V形复苏。}",
+    "output": "Owned by: Swoosh, Nike\n翻译：\n属于：斯沃什，耐克",
+    "instruction": "Sure, here is the translation of the given sentence into Chinese:\n\n原句：请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n翻译：Please help me translate the following English sentence into Chinese and directly provide the English translation in the answer!\n\n关系类型：translator: subject, object; relation: English sentence, Chinese translation.\n\n解释：在这个例子中，\"translator\"是关系类型，\"subject\"和\"object\"是句子中的主语和宾语。\"relation\"是句子中的关系，\"English sentence\"和\"Chinese translation\"是句子中的英文和中文翻译。",
+    "text": ""
+  },
+  {
+    "input": "{随着我们展望未来，所有团队的预订都在改善，但正如Art提到的，这似乎更像一个Nike标志形状恢复，而不是V形恢复。}",
+    "output": "Owned by: 拥有者",
+    "instruction": "The sentence you provided is not a complete English sentence, but I will try to provide a possible translation based on the given context:\n\n利用输入文本作为上下文参考，选择与swoosh和Nike之间正确的关系。选项：产品/材料生产，制造商，分销商，行业，担任职务，原始广播员，所有者，创始人，分销格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\n\nTranslation: Utilize the input text as a context reference, choose the right relationship between swoosh and Nike from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "As we look ahead, bookings are improving across all teams, but as Art mentioned this appears to be more of a Nike swoosh shape recovery than a V-shape recovery.\n翻译为中文：\n当我们展望未来时，所有团队的预订都在改善，但正如Art所提到的，这似乎更像是一个耐克标志的弧形恢复，而不是一个V形恢复。",
+    "output": "Owned by: 拥有者",
+    "instruction": "The relationship between swoosh and Nike in the context of the input sentence is: brand.",
+    "text": ""
+  },
+  {
+    "input": "最近几周，汉堡王从每6美元买两个套餐，过渡到每5美元买两个套餐，主要是由于惠普和OCS的推动，我们看到了显著的响应。",
+    "output": "Here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{manufacturer: Whopper, Burger King}\" translates to \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{制造商：惠普，汉堡王}\".\n\nIn this translation:\n- \"Please help me\" is translated to \"请帮我\".\n- \"translate the following English sentence into Chinese\" is translated to \"把下面的英文句子翻译成中文\".\n- \"answer\" is translated to \"回答\".\n- \"{manufacturer: Whopper, Burger King}\" is translated to \"{制造商：惠普，汉堡王}\".\n- \"Whopper\" is a brand of burger made by Burger King, so it remains the same in the translation.\n- \"Burger King\" is a fast food restaurant, so it is translated to \"汉堡王\" in Chinese.",
+    "instruction": "This is a task that requires extracting a specific word/phrase pair and their corresponding relationship from a given sentence. I will attempt to complete this task as per your instructions.\n\nInput sentence: \"The company, which is the original broadcaster of the popular TV show, is owned by a media conglomerate.\"\n\nOutput format: \"relation1: word1, word2; relation2: word3, word4\"\n\nHere's my attempt at solving the task:\n\n1. Identify the word/phrase pair and their relationship in the sentence.\n   - \"original broadcaster\" is the word/phrase pair.\n   - \"owned by\" is the relationship.\n\n2. Extract the corresponding words/phrases for the identified relationship.\n   - \"company\" is the word associated with \"original broadcaster.\"\n   - \"media conglomerate\" is the word associated with \"owned by.\"\n\n3. Format the output according to the specified format.\n   - \"relation1: original broadcaster, company; relation2: owned by, media conglomerate\"\n\nFinal output: \"relation1: original broadcaster, company; relation2: owned by, media conglomerate\"",
+    "text": ""
+  },
+  {
+    "input": "And Burger King just in the last couple of weeks transitioned from a 2 for $6 to the 2 for $5 with the Whopper and the OCS being the primary drivers, and we're seeing significant response to that. \n\n翻译为：\n在过去的两周内，汉堡王从2件$6的套餐转向了2件$5的套餐，其中Whopper和OCS是主要驱动力，我们看到了显著的反应。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{manufacturer: Whopper, Burger King}\" 翻译成中文为 \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{制造商：Whopper，汉堡王}\"。",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\nRelation: product/material produced: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: Samsung Electronics\nRelation: manufacturer: Apple Inc., Samsung Electronics\n\nSubject: Apple Inc.\nObject: AT&T\nRelation: distributed by: Apple Inc., AT&T\n\nSubject: Apple Inc.\nObject: Technology industry\nRelation: industry: Apple Inc., Technology industry\n\nSubject: Steve Jobs\nObject: Apple Inc.\nRelation: position held: Steve Jobs, Apple Inc.\n\nSubject: ABC News\nObject: iPhone\nRelation: original broadcaster: ABC News, iPhone\n\nSubject: Apple Inc.\nObject: Apple Inc.\nRelation: owned by: Apple Inc., Apple Inc.\n\nSubject: Steve Jobs\nObject: Apple Inc.\nRelation: founded by: Steve Jobs, Apple Inc.\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distribution format: Apple Inc., iPhone\n\nSubject: Cupertino, California\nObject: Apple Inc.\nRelation: headquarters location: Cupertino, California, Apple Inc.\n\nSubject: NASDAQ\nObject: Apple Inc.\nRelation: stock exchange: NASDAQ, Apple Inc.\n\nSubject: United States dollar\nObject: Apple Inc.\nRelation: currency: United States dollar, Apple Inc.\n\nSubject: Apple Inc.\nObject: Apple Inc.\nRelation: parent organization: Apple Inc., Apple Inc.\n\nSubject: Tim Cook\nObject: Apple Inc.\nRelation: chief executive officer: Tim Cook, Apple Inc.\n\nSubject: Jonathan Ive\nObject: Apple Inc.\nRelation: director/manager: Jonathan Ive, Apple Inc.\n\nSubject: Apple Inc.\nObject: Steve Jobs\nRelation: owner of: Apple Inc., Steve Jobs\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: operator: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: AT&T\nRelation: member of: Apple Inc., AT&T\n\nSubject: Apple Inc.\nObject: Steve Jobs\nRelation: employer: Apple Inc., Steve Jobs\n\nSubject: Steve Jobs\nObject: Apple Inc.\nRelation: chairperson: Steve Jobs, Apple Inc.\n\nSubject: App Store\nObject: iPhone\nRelation: platform: App Store, iPhone\n\nSubject: Apple Inc.\nObject: Apple Inc.\nRelation: subsidiary: Apple Inc., Apple Inc.\n\nSubject: Limited liability company\nObject: Apple Inc.\nRelation: legal form: Limited liability company, Apple Inc.\n\nSubject: Hachette Book Group\nObject: iPhone\nRelation: publisher: Hachette Book Group, iPhone\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: developer: Apple Inc., iPhone\n\nSubject: Apple Inc.\nObject: Apple Inc.\nRelation: brand: Apple Inc., Apple Inc.\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: business division: Apple Inc., iPhone\n\nSubject: Cupertino, California\nObject: Apple Inc.\nRelation: location of formation: Cupertino, California, Apple Inc.\n\nSubject: Steve Jobs\nObject: iPhone\nRelation: creator: Steve Jobs, iPhone",
+    "text": ""
+  },
+  {
+    "input": "最近几周，Burger King 从 6 美元 2 个汉堡的套餐转变为 5 美元 2 个汉堡的套餐，主要是由于 Whopper 和 OCS 的带动，我们看到了显著的回应。",
+    "output": "制造商",
+    "instruction": "Whopper is a product/material produced by Burger King.",
+    "text": ""
+  },
+  {
+    "input": "最近几周，汉堡王从2个套餐6美元的定价过渡到了2个套餐5美元，特别是“惠伯”和“特选套餐”是主要的推动因素，我们看到了显著的响应。",
+    "output": "Of course, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{manufacturer}\"\n\nThe translated sentence in Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{制造商}\"\n\nNote: In the translated sentence, \"manufacturer\" has been replaced with its Chinese equivalent, \"制造商\".",
+    "instruction": "What is the relationship between Whopper and Burger King in the context of the input sentence?\n\nThe relationship between Whopper and Burger King is that Whopper is a product/material produced by Burger King.",
+    "text": ""
+  },
+  {
+    "input": "{我们最近将Rite Aid纳入我们的网络，增加了零售商智能Retailer iQ，零售业绩媒体或RPM以及自助赞助的产品搜索，以帮助Rite Aid推动销售并增加购物者忠诚度。}",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given English sentence into Chinese:\n\nPlease help me translate the following English sentence into Chinese, and provide the translation directly in the answer. {industry: Rite Aid, Retail}\n\nHere's the translation of the given English sentence into Chinese:\n\n请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！{行业：Rite Aid，零售}\n\nThe translation of the given English sentence into Chinese is: \n\n请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！{行业：Rite Aid，零售}",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nThis sentence describes the task of identifying and extracting the relationship between two words/phrases from a given set of options. The output should be formatted as a list of relations and the corresponding words/phrases involved in those relations.",
+    "text": ""
+  },
+  {
+    "input": "{我们最近将Rite Aid加入我们的网络，增加了Retailer iQ，Retail Performance Media或RPM以及自助赞助产品搜索，以帮助Rite Aid推动销售并增加购物者忠诚度。}",
+    "output": "Sure, here's the translation of the sentence: \"Rite Aid is a retail industry company.\"\n\nIn Chinese, it would be: \"Rite Aid是一家零售业公司。\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\".\"\nObject: \"relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nRelation1: \"Subject and Object\", Word1: \"Subject\", Word2: \"Object\"\nRelation2: \"Relations\", Word3: \"include\", Word4: \"product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator\"\n\nPlease note that the input sentence is already in English and does not require translation.",
+    "text": ""
+  },
+  {
+    "input": "We recently signed Rite Aid to our network, adding Retailer iQ, Retail Performance Media or RPM and self-service sponsored product search to help Rite Aid drive sales and increase shopper loyalty.\n\n最近，我们与Rite Aid签署了网络协议，增加了Retailer iQ、Retail Performance Media或RPM以及自助赞助的产品搜索，以帮助Rite Aid提高销售并增加购物者忠诚度。",
+    "output": "I'm sorry, but I need more context or information about the specific sentence you want me to translate. Please provide the sentence so I can assist you better.",
+    "instruction": "Rite Aid is a retail company that distributes various products and materials.",
+    "text": ""
+  },
+  {
+    "input": "我们最近与Rite Aid签约，将其纳入我们的网络，添加零售商IQ、零售业绩媒体（Retail Performance Media）或RPM以及自助赞助产品搜索，以帮助Rite Aid推动销售并增加顾客忠诚度。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Rite Aid and Retail in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.\n\n{6月，我们扩大了与Ahold Delhaize USA和Peapod Digital Labs的合作伙伴关系，为他们在美零售商的横幅上提供自服务平台，以支持赞助的产品搜索广告。}",
+    "output": "{industry: Ahold Delhaize, retail; industry: Delhaize, retail; industry: Ahold, retail} \n\nAhold Delhaize, Delhaize, Ahold - 零售行业。",
+    "instruction": "The sentence to be translated is: \"Apple is a brand owned by Apple Inc.\"\n\nThe corresponding English translation is: \"Apple is a brand owned by Apple Inc.\"\n\nThe word/phrase pair and the corresponding lexical relationship between them is: \"brand: Apple, owned by: Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.",
+    "output": "Sure, here are the translations for the given sentences:\n\n1. \"Ahold Delhaize\" - 联合利华\n2. \"Delhaize\" - 德希斯\n3. \"Ahold\" - 联合利华",
+    "instruction": "Sorry, but I am not able to provide the translation you requested. As an AI language model, I can only provide text-based responses and cannot access external information or execute specific tasks like translation. However, I can help you with general questions, provide information, or engage in conversation. Is there anything else I can assist you with?",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.\n\n翻译：\n6月，我们扩展了与Ahold Delhaize USA和Peapod Digital Labs的合作伙伴关系，为他们的美国零售商旗帜提供赞助产品搜索广告的自服务平台。",
+    "output": "I'm sorry, but you didn't provide an English sentence for me to translate into Chinese. Please provide the sentence you want me to translate.",
+    "instruction": "Ahold Delhaize is a retail company that was founded by the Dutch supermarket chain Ahold and the American supermarket chain Delhaize. They are distributed by a number of retail stores and supermarkets in various countries, including the United States, the Netherlands, and Belgium. Their business division focuses on the retail industry, and their parent organization is the Ahold Delhaize Group. Their headquarters location is in the Netherlands, and they are listed on the stock exchange. The currency they use is the Euro. Their chief executive officer is Stijn Hoorens, and they are owned by a number of shareholders. Additionally, they are a member of various industry associations and trade organizations.",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising. \n\nIn 六月，我们扩展了与 Ahold Delhaize USA 和 Peapod Digital Labs 的合作关系，为他们在美国的零售品牌提供自助服务平台，以支持赞助的产品搜索广告。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Ahold Delhaize and retail in the context of the input sentence is: owned by. \n\nTranslation: 阿霍德百联（Ahold Delhaize）是零售业的一部分，它在零售行业中拥有重要的地位。",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.\n\n6月，我们与Ahold Delhaize USA和Peapod Digital Labs扩大了合作伙伴关系，为他们的美国零售标志提供赞助的产品搜索广告的自服务平台。",
+    "output": "I'd be happy to help you with that! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Delhaize is a retail company that is \"distributed by\" a parent organization.",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.\n\n在6月，我们扩展了与Ahold Delhaize USA和Peapod Digital Labs的合作伙伴关系，以在他们的美国零售横幅上为赞助的产品搜索广告提供自助服务平台。",
+    "output": "Sure, I can help with that. Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" into Chinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业}\".\n\nIn this translation, \"请帮我\" means \"please help me,\" \"把下面英文句子翻译成中文\" means \"translate the following English sentence into Chinese,\" \"回答中直接给出英文翻译\" means \"give the English translation directly in the answer,\" and \"{行业}\" means \"{industry}.\"",
+    "instruction": "Delhaize is a parent organization of retail in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.",
+    "output": "I'm sorry, but I need more context to accurately translate the sentence you provided. Please provide more information about the sentence, and I will be happy to help you with the translation.",
+    "instruction": "The sentence is not provided, please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "In June, we expanded our partnership with Ahold Delhaize USA and Peapod Digital Labs, to power a self-service platform across their U.S. retail banners for sponsored product search advertising.\n\n六月，我们与 Ahold Delhaize USA 和 Peapod Digital Labs 扩大了合作伙伴关系，以在美国的零售商标志上为他们提供赞助的产品搜索广告的自服务平台。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Ahold and retail have a relationship of being a parent organization and subsidiary, respectively. Ahold is the parent organization that owns and operates retail stores, while retail is a subsidiary that operates under the direction of Ahold.",
+    "text": ""
+  },
+  {
+    "input": "Rite Aid and Ahold Delhaize USA are our third and fourth retail partners to add sponsored search media to our network.",
+    "output": "- Rite Aid: 礼来药房\n- Delhaize: 德尔海兹\n- Ahold: 阿尔多\n- Ahold Delhaize: 阿尔多·德尔海兹",
+    "instruction": "The given English sentence is: \"The company was founded by John Smith and is currently operated by his son, David Smith.\"\n\nThe corresponding Chinese translation is: \"这家公司由约翰·史密斯创立，目前由他的儿子大卫·史密斯经营。\"\n\nHere is the English translation of the given sentence: \"The company was founded by John Smith and is currently operated by his son, David Smith.\"\n\nThe corresponding Chinese translation is: \"这家公司由约翰·史密斯创立，目前由他的儿子大卫·史密斯经营。\"\n\nThe word/phrase pair and their corresponding lexical relationship are as follows:\n- \"founded by\": 创立\n- \"operated by\": 经营\n\nSo the output format should be:\n- \"founded by: John Smith, company;\"\n- \"operated by: David Smith, company;\"",
+    "text": ""
+  },
+  {
+    "input": "Rite Aid and Ahold Delhaize USA mark our third and fourth retail partners to add sponsored search media to our network. \n\n翻译成中文：Rite Aid 和 Ahold Delhaize USA 成为我们的第三个和第四个零售合作伙伴，将赞助搜索媒体添加到我们的网络中。",
+    "output": "Industry: Rite Aid, retail; Industry: Delhaize, retail; Industry: Ahold, retail; Industry: Ahold Delhaize, retail. \n\nTranslation: 行业：Rite Aid，零售；行业：Delhaize，零售；行业：Ahold，零售；行业：Ahold Delhaize，零售。",
+    "instruction": "The given input sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"\n\nTranslation: 请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{给定输入句子，请根据以下关系类型提取包含特定关系的句子的主语和宾语，格式为\"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产者；制造商；由...分销；行业；担任职务；原始广播员；由...拥有；由...创立；发行格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；...拥有；运营商；...成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。}\n\nSubject: 句子\nObject: 翻译\nRelation: 翻译\nRelation: 英文翻译",
+    "text": ""
+  },
+  {
+    "input": "Rite Aid and Ahold Delhaize USA mark our third and fourth retail partners to add sponsored search media to our network. \n\n翻译成中文：\nRite Aid 和 Ahold Delhaize USA 是我们第三个和第四个零售合作伙伴，它们将赞助的搜索媒体添加到我们的网络中。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\n\nEnglish: Please help me translate the following English sentence into Chinese. In the answer, directly provide the English translation! {industry}",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between Rite Aid and retail from the options.\n\nRite Aid is a retail pharmacy chain that was founded in 1962. It was originally a distributor of pharmaceutical products and now operates as a retail chain with a focus on health and wellness products. Rite Aid is owned by Walgreens Boots Alliance, a multinational corporation that operates in the retail pharmacy and healthcare industries. The company's headquarters are located in Philadelphia, Pennsylvania, and it is listed on the New York Stock Exchange. Rite Aid is a subsidiary of Walgreens Boots Alliance, which is a parent organization in the retail pharmacy and healthcare industries. The CEO of Rite Aid is Hans Grefer, and the company is operated by a team of directors and managers. Rite Aid is a member of several industry associations and is known for its brand of health and wellness products. The company has a legal form of a corporation and is listed on the New York Stock Exchange. Its primary currency is the US dollar. Rite Aid has a business division focused on retail pharmacy and a location of formation in the United States. The creator of Rite Aid was George E. Smith, who founded the company in 1962.",
+    "text": ""
+  },
+  {
+    "input": "Rite Aid and Ahold Delhaize USA are our third and fourth retail partners to incorporate sponsored search media into our network.",
+    "output": "Sure, here's the translation of the sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" in the industry context.\n\nTranslation: Please help me translate the following English sentence into Chinese. The answer should be directly given in English.",
+    "instruction": "The relationship between Rite Aid and retail in the context of the input sentence is: distributed by. \n\n英文翻译：Rite Aid and retail in the context of the input sentence have a relationship of being distributed by.",
+    "text": ""
+  }
+]

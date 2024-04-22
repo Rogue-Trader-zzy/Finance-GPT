@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"在阿尔特利亚的盈利电话会议之后，他们也暗示，烟草消费者普遍在更大的数量上购买，或许这也导致了资本消费的增加。\"",
+    "output": "Altria is a company that produces tobacco products.",
+    "instruction": "Given the task to translate the following English sentence into Chinese, and given the options for lexical relationships between words/phrases, I would extract the word/phrase pair and their corresponding relationship as follows:\n\nOriginal sentence: \"The brand was developed by a subsidiary of the parent organization.\"\n\nOutput format: \"developer: brand, subsidiary; parent organization: brand, subsidiary\"\n\nThis means that the brand was developed by a subsidiary, and the subsidiary is a part of the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Altria 财报电话会议结束后，他们也建议说，烟草消费者普遍以更高的数量购买烟草，或许这也对资本消耗的增加做出了贡献。",
+    "output": "Altria produces tobacco.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: Apple, Object: iPhone; Relation: product/material produced: \"Apple produces iPhone.\"\n\nSubject: Apple, Object: iPhone; Relation: manufacturer: \"Apple is the manufacturer of iPhone.\"\n\nSubject: Apple, Object: iPhone; Relation: distributed by: \"Apple distributes iPhone.\"\n\nSubject: Apple, Object: iPhone; Relation: industry: \"Apple is in the technology industry.\"\n\nSubject: Steve Jobs, Object: Apple; Relation: position held: \"Steve Jobs held the position of CEO at Apple.\"\n\nSubject: ABC, Object: iPhone; Relation: original broadcaster: \"ABC was the original broadcaster of iPhone.\"\n\nSubject: Apple, Object: Apple; Relation: owned by: \"Apple is owned by Apple.\"\n\nSubject: Apple, Object: Apple; Relation: founded by: \"Apple was founded by Steve Jobs.\"\n\nSubject: iPhone, Object: digital; Relation: distribution format: \"iPhone is distributed in a digital format.\"\n\nSubject: Apple, Object: California; Relation: headquarters location: \"Apple's headquarters is located in California.\"\n\nSubject: Apple, Object: NASDAQ; Relation: stock exchange: \"Apple's stock is traded on the NASDAQ stock exchange.\"\n\nSubject: Apple, Object: USD; Relation: currency: \"Apple's currency is USD.\"\n\nSubject: Apple, Object: Apple; Relation: parent organization: \"Apple is the parent organization of Apple.\"\n\nSubject: Steve Jobs, Object: Apple; Relation: chief executive officer: \"Steve Jobs was the chief executive officer of Apple.\"\n\nSubject: Steve Jobs, Object: Apple; Relation: director/manager: \"Steve Jobs was a director and manager at Apple.\"\n\nSubject: Apple, Object: Apple; Relation: operator: \"Apple operates Apple.\"\n\nSubject: Apple, Object: Apple; Relation: member of: \"Apple is a member of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: employer: \"Apple is an employer of Apple.\"\n\nSubject: Steve Jobs, Object: Apple; Relation: chairperson: \"Steve Jobs was the chairperson of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: platform: \"Apple is a platform for Apple.\"\n\nSubject: Apple, Object: Apple; Relation: subsidiary: \"Apple is a subsidiary of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: legal form: \"Apple has a legal form of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: publisher: \"Apple is a publisher of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: developer: \"Apple is a developer of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: brand: \"Apple is a brand of Apple.\"\n\nSubject: Apple, Object: Apple; Relation: business division: \"Apple has a business division of Apple.\"\n\nSubject: Apple, Object: California; Relation: location of formation: \"Apple was formed in California.\"\n\nSubject: Steve Jobs, Object: Apple; Relation: creator: \"Steve Jobs was the creator of Apple.\"",
+    "text": ""
+  },
+  {
+    "input": "从Altria的盈利电话会议上下来，他们也建议说，烟草消费者总体上购买量增加了，这也许也在一定程度上导致了资本消费的增加。\n\n英文翻译：Coming off the Altria earnings call, it -- they suggested also that tobacco consumers broadly were buying in higher volume and that perhaps that was also contributing to higher capital consumption.",
+    "output": "产品或材料生产",
+    "instruction": "Altria is a company that produces and distributes tobacco products.",
+    "text": ""
+  },
+  {
+    "input": "在阿尔特里亚的盈利电话会议之后，他们也暗示了烟草消费者普遍在更高数量的购买，也许这也在一定程度上导致了资本消耗的增加。",
+    "output": "I apologize, but I am unable to provide a translation without a specific English sentence to translate. Please provide the sentence you would like me to translate into Chinese.",
+    "instruction": "Altria is a company that manufactures and distributes tobacco products.",
+    "text": ""
+  },
+  {
+    "input": "Lufthansa has received combined almost €11 billion, even Carsten Spohr has admitted that this is more money than they needed or wanted, but he's happy to take as much as he can get.",
+    "output": "Lufthansa's Chief Executive Officer: Carsten Spohr.",
+    "instruction": "The sentence is: \"The company is distributed by ABC Distributors.\"\n\nThe translation is: \"该公司由ABC分销商分销。\"\n\nThe corresponding relation is: \"distributed by: 公司, ABC Distributors\"",
+    "text": ""
+  },
+  {
+    "input": "\"汉莎航空已经筹集了近1100亿欧元，甚至Carsten Spohr也承认他们需要的或想要的钱比这还多，但他很高兴能拿到他能拿到的任何钱。\"",
+    "output": "\"chief_executive_officer: Lufthansa, Carsten Spohr\" 翻译为中文为 \"首席执行官：汉莎航空，Carsten Spohr\"。",
+    "instruction": "Subject: The input sentence, Object: The extracted subject and object containing a certain relation in the sentence.\n\nRelation: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\".\n\nExample:\nInput sentence: Apple is the manufacturer of the iPhone, which is distributed by Apple in the United States.\nRelation: manufacturer, distributed by\nOutput: manufacturer: Apple, iPhone; distributed by: Apple, United States.",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n\"汉莎航空总共获得了大约110亿欧元，甚至Carsten Spohr也承认，他们需要的钱比实际得到的要多，但他很高兴能得到他所能得到的每一分钱。\"\n\n英文翻译：\n\nLufthansa has received combined almost €11 billion, even Carsten Spohr has admitted that this is more money than they needed or wanted, but he's happy to take as much as he can get.",
+    "output": "{首席执行官}",
+    "instruction": "Carsten Spohr is the Chief Executive Officer of Lufthansa.",
+    "text": ""
+  },
+  {
+    "input": "Lufthansa has received combined almost €11 billion, even Carsten Spohr has admitted that this is more money than they needed or wanted, but he's happy to take as much as he can get.",
+    "output": "{chief_executive_officer} 翻译为中文是：首席执行官。",
+    "instruction": "The relationship between Lufthansa and Carsten Spohr is that of \"chief executive officer\".",
+    "text": ""
+  },
+  {
+    "input": "And as Kai noted earlier, Daimler and Volvo have their own JV, just wondering if there's a concern that on this commercial truck hydrogen market, the OEMs might go in-house on some of the components related to hydrogen. \n\n= 正如Kai早先提到的，戴姆勒和沃尔沃都有自己的合资企业，只是想知道在这个商用卡车氢市场，汽车制造商是否会自己生产一些与氢相关的组件。",
+    "output": "The product or material produced is Volvo truck.",
+    "instruction": "Original broadcaster: BBC, Doctor Who; Owned by: The Walt Disney Company, Pixar Animation Studios; Headquarters location: New York City, New York; Stock exchange: NASDAQ; Currency: US Dollar; Parent organization: Disney Media Networks; Chief executive officer: Bob Iger; Director/manager: Robert Iger; Publisher: Disney Press; Developer: Disney Interactive Studios; Brand: Disney; Business division: Media Networks; Location of formation: California, United States; Creator: Walt Disney, Roy O. Disney.",
+    "text": ""
+  },
+  {
+    "input": "And as Kai noted earlier, Daimler and Volvo have their own JV, just wondering if there's a concern that on this commercial truck hydrogen market, the OEMs might go in-house on some of the components related to hydrogen.\n\n凯之前提到，戴姆勒和沃尔沃都有自己的合资企业，只是想知道，在商用卡车氢市场，汽车制造商是否会关注一些与氢相关的零部件的内部生产问题。",
+    "output": "\"Volvo, truck\" in Chinese is \"沃尔沃，卡车\" (Wòlèuò, tèchā)",
+    "instruction": "Sorry, but I cannot provide the translation you requested as the sentence you provided is not complete. Please provide the full sentence for me to translate it into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "And as Kai noted earlier, Daimler and Volvo have their own JV, just wondering if there's a concern that on this commercial truck hydrogen market, the OEMs might go in-house on some of the components related to hydrogen.",
+    "output": "I'm sorry, but your request is incomplete. Please provide the English sentence you want me to translate into Chinese, and I'll be happy to help.",
+    "instruction": "Volvo is a brand that produces trucks and other vehicles.",
+    "text": ""
+  },
+  {
+    "input": "{And as Kai noted earlier, Daimler and Volvo have their own JV, just wondering if there's a concern that on this commercial truck hydrogen market, the OEMs might go in-house on some of the components related to hydrogen.} \n= {凯之前提到过，戴姆勒和沃尔沃都有自己的合资企业，我很好奇，在商用卡车氢市场，原设备制造商是否会自己生产一些与氢相关的零部件。}",
+    "output": "The product or material produced is: 产品或材料已生产完成。",
+    "instruction": "The relationship between Volvo and truck in the context of the input sentence is: manufacturer. \n\nHere is the translation of the input sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" can be translated to \"Can you help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\".",
+    "text": ""
+  },
+  {
+    "input": "{\"And Michelin is a leader in EV tire and we are present in all the key segments of this market.\" 翻译为 \"And 米其林在EV轮胎领域是领导者，并且我们在这个市场的主要细分领域都有存在。\"}",
+    "output": "Michelin, tire - 米其林，轮胎",
+    "instruction": "以下是您的英文句子翻译成中文：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\n英文翻译为：\n\n\"Please help me translate the following English sentence into Chinese. The answer should be directly given in English.\"\n\n您提供的句子描述了两个单词/短语之间的关系，并提供了几个选项，您需要从输入文本中提取单词/短语对以及它们之间的对应词汇关系。输出格式应为\"relation1: word1, word2; relation2: word3, word4\"。选项包括：产品/材料生产，制造商，分销商，行业，担任职务，原始广播商，拥有，由创立，分销格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，拥有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\n\n请提供您需要翻译的英文句子，我将帮您翻译并直接给出英文翻译。",
+    "text": ""
+  },
+  {
+    "input": "And Michelin is a leader in EV tire and we are present in all the key segments of this market. = 米其林在电动汽车轮胎领域处于领先地位，并且我们出现在该市场的所有关键细分市场中。",
+    "output": "Michelin轮胎。",
+    "instruction": "Sure, I can help you with that. Please provide the sentence you would like me to translate.",
+    "text": ""
+  },
+  {
+    "input": "\"And Michelin is a leader in EV tire and we are present in all the key segments of this market.\" 翻译为中文是：\"同时，米其林是电动汽车轮胎市场的领导者，我们涵盖了该市场的所有关键领域。\"",
+    "output": "{product_or_material_produced} is the product or material produced.",
+    "instruction": "Michelin is a brand of tires and other automotive-related products. It is a product/material produced by the company.",
+    "text": ""
+  },
+  {
+    "input": "And Michelin is a leader in EV tire and we are present in all the key segments of this market. \n\n米其林是电动汽车轮胎的领导者，我们覆盖了这一市场的所有关键领域。",
+    "output": "Sure, here is the translation: \"Please help me translate the following English sentence into Chinese. The answer should be given in English.\"",
+    "instruction": "Michelin is a brand of tires and a manufacturer of tires and related products.",
+    "text": ""
+  },
+  {
+    "input": "The second quarter increase was driven by a decrease in the interest expense due to a combination of lower rates, lower brokered CD balances and a decrease in the impact of the accelerated premium expense associated with calling the remaining brokered certificates of deposits. \n\n翻译成中文：第二季度的增长是由以下因素驱动的：利率降低、代理人CD余额减少以及提前支付相关费用的影响减少，从而导致利息支出减少。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {distribution_format: impact, CD}\"\n\nChinese translation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{distribution_format: impact, CD}",
+    "instruction": "\"Founded by: Apple, Steve Jobs\"\n\n\"Original broadcaster: Netflix, The Office\"\n\n\"Headquarters location: Google, Mountain View\"\n\n\"Legal form: Microsoft, Corporation\"\n\n\"Developer: Nintendo, Super Mario Bros.\"\n\n\"Business division: Amazon, Amazon Prime\"\n\n\"Subsidiary: Apple, Apple Music\"\n\n\"Publisher: HarperCollins, Harry Potter\"\n\n\"Platform: Facebook, Facebook Messenger\"\n\n\"Owner of: Disney, Pixar\"\n\n\"Operator: Uber, Uber Eats\"\n\n\"Member of: IBM, Watson\"\n\n\"Brand: Coca-Cola, Coca-Cola Zero\"\n\n\"Parent organization: Samsung, Samsung Electronics\"\n\n\"Chief executive officer: Tesla, Elon Musk\"\n\n\"Director/manager: Apple, Tim Cook\"\n\n\"Chairperson: Microsoft, Bill Gates\"\n\n\"Employer: LinkedIn, LinkedIn\"\n\n\"Location of formation: Facebook, Menlo Park\"\n\n\"Distributed by: Sony, PlayStation\"\n\n\"Manufacturer: Nike, Air Jordan\"\n\n\"Stock exchange: Apple, NASDAQ\"\n\n\"Currency: Microsoft, USD\"\n\n\"Industry: Amazon, E-commerce\"\n\n\"Position held: Google, Sergey Brin\"\n\n\"Distribution format: Netflix, DVD\"\n\n\"Platform: YouTube, YouTube Kids\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn, LinkedIn\"\n\n\"Platform: Facebook, Facebook\"\n\n\"Platform: Instagram, Instagram\"\n\n\"Platform: Twitter, Twitter\"\n\n\"Platform: TikTok, TikTok\"\n\n\"Platform: Snapchat, Snapchat\"\n\n\"Platform: Pinterest, Pinterest\"\n\n\"Platform: Reddit, Reddit\"\n\n\"Platform: LinkedIn,",
+    "text": ""
+  },
+  {
+    "input": "The second quarter increase was driven by a decrease in the interest expense due to a combination of lower rates, lower brokered CD balances and a decrease in the impact of the accelerated premium expense associated with calling the remaining brokered certificates of deposits.\n\n第二季度增长的驱动力是利息支出的下降，这主要是由于利率下降、代理存款余额降低以及提前支付额外保险费用对剩余代理存款证书的呼叫的影响减少。",
+    "output": "Sure, here's the translation of the given sentence:\n\n- Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {distribution_format: impact, CD}",
+    "instruction": "Sure, I can help you with that. Please provide the English sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "The second quarter increase was driven by a decrease in the interest expense due to a combination of lower rates, lower brokered CD balances and a decrease in the impact of the accelerated premium expense associated with calling the remaining brokered certificates of deposits.\n\n第二季度增长是由利率下降、代理存款余额降低以及提前支付剩余代理存款证书所导致的额外费用影响减少所驱动的。",
+    "output": "Sure, I can help with that. Please provide me with the English sentence you would like me to translate into Chinese.",
+    "instruction": "The given English sentence is: \"Utilize the input text as a context reference, choose the right relationship between impact and CD from the options.\"\n\nTranslation in Chinese: \"利用输入文本作为上下文参考，从选项中选择影响和CD之间的正确关系。\"\n\nIn this context, the correct relationship between impact and CD is \"product/material produced\" (产品/材料生产) based on the given options.",
+    "text": ""
+  },
+  {
+    "input": "The second quarter increase was driven by a decrease in the interest expense due to a combination of lower rates, lower brokered CD balances and a decrease in the impact of the accelerated premium expense associated with calling the remaining brokered certificates of deposits. \n\n翻译成中文为：第二季度增长主要是由以下因素驱动：利率降低、代理存款余额减少以及提前支付的额外费用减少。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between impact and CD in the context of the input sentence is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "我们以非常平稳的方式迁移了Telfort的全部移动基站到KPN。",
+    "output": "{owner_of: KPN, base} can be translated to Chinese as: {拥有者: KPN, 基地}",
+    "instruction": "\"relation1: product/material produced; relation2: manufacturer\"",
+    "text": ""
+  },
+  {
+    "input": "We migrated the full mobile base of Telfort's to KPN in a very smooth way. 翻译为：我们以非常平滑的方式将 Telfort 的完整移动基站迁移到 KPN。",
+    "output": "Here is the translation of the given sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of: KPN, base}\"\n\nChinese: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{owner_of: KPN, base}",
+    "instruction": "I apologize, but your request seems to be incomplete. Could you please provide the English sentence you want me to translate into Chinese?",
+    "text": ""
+  },
+  {
+    "input": "我们以非常平滑的方式迁移了 Telfort 的全部移动用户基础到 KPN。",
+    "output": "Sure, I can help you with that! Here's the translation of the sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your response.\" into Chinese: \n\n\"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！\"\n\nPlease let me know if you need any further assistance!",
+    "instruction": "Sure, here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Utilize the input text as a context reference, choose the right relationship between KPN and base from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nIn English: \"Please help me translate the following English sentence into Chinese. In the answer, directly provide the English translation! {Utilize the input text as a context reference, choose the right relationship between KPN and base from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"",
+    "text": ""
+  },
+  {
+    "input": "{我们已经以非常平滑的方式将Telfort的完整移动基站迁移到KPN。}",
+    "output": "Sure, here's the translation of the sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation in your answer\" into Chinese:\n\n\"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！\"",
+    "instruction": "The relationship between KPN and base in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "Gartner has just ranked us leader in their Magic Quadrant on multi experience development platform and major Q2 deals included L'Oréal and the Australian Department of Defense.\n\nGartner刚刚将我们评为在多体验开发平台方面的Magic Quadrant领导者，并在Q2的重要交易中包括了欧莱雅和澳大利亚国防部。",
+    "output": "\"The Magic Quadrant is a graphical representation of the relative position of a range of products or services in a specific technology market, owned by Gartner.\"",
+    "instruction": "Given the provided information, the English sentence to be translated into Chinese is: \"The company was founded by John Smith in 2015.\"\n\nThe corresponding Chinese translation is: \"该公司由约翰·史密斯于2015年创立。\"\n\nThe relation and corresponding word/phrase pairs are as follows:\n\n- founded by: 公司，约翰·史密斯\n- 2015年: 2015年\n\nPlease note that the given options were not used to generate the translation, as the task was to translate the given sentence directly.",
+    "text": ""
+  },
+  {
+    "input": "Gartner has just ranked us leader in their Magic Quadrant on multi experience development platform and major Q2 deals included L'Oréal and the Australian Department of Defense.\n\n- Gartner 刚刚在我们关于多体验开发平台的魔力象限中把我们列为领导者，并且第二季度的大规模交易包括 L'Oréal 和澳大利亚国防部。",
+    "output": "Creator: Magic Quadrant, Gartner; Owned_by: Magic Quadrant, Gartner\n\n翻译成中文：\n创作者：Magic Quadrant, Gartner；所属：Magic Quadrant, Gartner",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nPlease provide the input sentence for translation.",
+    "text": ""
+  },
+  {
+    "input": "Gartner has just ranked us leader in their Magic Quadrant on multi experience development platform and major Q2 deals included L'Oréal and the Australian Department of Defense.\n\n翻译成中文：\nGartner 刚刚在他们的多体验开发平台魔力象限中排名我们为领导者，Q2 的主要交易包括 L'Oréal 和澳大利亚国防部。",
+    "output": "I'm sorry, but I need more context or information to translate the sentence you provided. Could you please provide me with the sentence you want me to translate?",
+    "instruction": "Magic Quadrant is a research report published by Gartner, which analyzes and evaluates various technology vendors in a specific market. The report is used as a tool for IT decision-makers to make informed purchasing decisions. The Magic Quadrant is not a product or material produced by Gartner, but rather a research report that is distributed by Gartner. It is a position held by Gartner in the market research industry, specifically in the technology sector.",
+    "text": ""
+  },
+  {
+    "input": "Gartner has just ranked us leader in their Magic Quadrant on multi experience development platform and major Q2 deals included L'Oréal and the Australian Department of Defense.\n\n翻译成中文为：\n\nGartner 刚刚在他们的多体验开发平台魔力象限中把我们列为领导者，而 Q2 的主要交易包括 L'Oréal 和澳大利亚国防部。",
+    "output": "Sure, I can help with that! Here's the translation:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{creator}\n\nI hope that helps! Let me know if you need any further assistance.",
+    "instruction": "The relationship between Magic Quadrant and Gartner in the context of the input sentence is: owned by.",
+    "text": ""
+  },
+  {
+    "input": "Gartner has just ranked us leader in their Magic Quadrant on multi experience development platform and major Q2 deals included L'Oréal and the Australian Department of Defense. \n\n翻译：\nGartner 刚刚在他们的多体验开发平台魔力象限中排名我们为领导者，第二季度的大型交易包括 L'Oréal 和澳大利亚国防部。",
+    "output": "Owned by: 由...所有。",
+    "instruction": "The English sentence is: \"Utilize the input text as a context reference, choose the right relationship between Magic Quadrant and Gartner from the options.\"\n\nThe Chinese translation is: \"使用输入文本作为上下文参考，从选项中选择 Magic Quadrant 和 Gartner 之间的正确关系。\"\n\nThe relationship between Magic Quadrant and Gartner in this context is \"original broadcaster\" (原始广播者) as Gartner is the original broadcaster of the Magic Quadrant.",
+    "text": ""
+  },
+  {
+    "input": "Gartner 刚刚将我们在多体验开发平台领域列为领导者，并在他们第二季度的魔力象限中列出了一些重大交易，包括 L'Oréal 和澳大利亚国防部。",
+    "output": "Owned by: 属于",
+    "instruction": "The relationship between Magic Quadrant and Gartner in the context of the input sentence is \"original broadcaster\".",
+    "text": ""
+  },
+  {
+    "input": "\"The resistance message I just highlighted will form a cornerstone of our sales and marketing campaign going forward.\" 翻译成中文为：“我刚刚高亮显示的抵抗信息将是我们未来销售和营销活动的基石。”",
+    "output": "The sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {industry: cornerstone, marketing}\" can be translated into Chinese as \"请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！{行业：基石，市场营销}\".\n\nHere is the translation:\n- Please help me translate the following English sentence into Chinese: 请帮我将下面的英文句子翻译成中文\n- and provide the English translation directly in the answer: 并在答案中直接给出英文翻译\n- {industry: cornerstone, marketing}: {行业：基石，市场营销}\n\nPlease let me know if there is anything else I can help you with!",
+    "instruction": "\"制造商: 生产商, 产品/材料; 分销商: 分销商, 产品/材料; 行业: 行业, 公司; 职位: 职位, 人名; 原始广播者: 原始广播者, 广播节目; 拥有者: 拥有者, 公司; 创立者: 创立者, 公司; 发行格式: 发行格式, 产品/材料; 总部地点: 总部地点, 公司; 证券交易所: 证券交易所, 公司; 货币: 货币, 国家; 母公司: 母公司, 公司; 首席执行官: 首席执行官, 人名; 董事/经理: 董事/经理, 公司; 所有者: 所有者, 公司; 运营商: 运营商, 公司; 会员: 会员, 组织; 雇主: 雇主, 人名; 主席: 主席, 人名; 平台: 平台, 公司; 子公司: 子公司, 公司; 法律形式: 法律形式, 公司; 出版商: 出版商, 公司; 开发者: 开发者, 公司; 品牌: 品牌, 公司; 业务部门: 业务部门, 公司; 成立地点: 成立地点, 公司; 创造者: 创造者, 人名.\"",
+    "text": ""
+  },
+  {
+    "input": "The resistance message I just highlighted will form a cornerstone of our sales and marketing campaign going forward.\n\n翻译：我已经高亮显示的抵抗信息将成为我们未来销售和营销活动的基础。",
+    "output": "In the industry, the cornerstone is marketing.",
+    "instruction": "Please provide the input sentence that you want me to translate and analyze according to the given relation types.",
+    "text": ""
+  },
+  {
+    "input": "\"The resistance message I just highlighted will form a cornerstone of our sales and marketing campaign going forward.\" 翻译成中文为：“我刚刚高亮显示的阻力信息将成为我们未来销售和营销活动的基础。”",
+    "output": "Sure, I'd be happy to help with that! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" into English:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nHope that helps! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "The sentence you provided does not contain any specific information about cornerstone or marketing, so I cannot translate it directly. However, I can provide you with an example sentence that includes both terms and their translation:\n\nEnglish: \"The cornerstone of our marketing strategy is to focus on customer satisfaction and loyalty.\"\nChinese: \"我们市场营销策略的基石是专注于客户满意度和忠诚度。\"",
+    "text": ""
+  },
+  {
+    "input": "The resistance message I just highlighted will form a cornerstone of our sales and marketing campaign going forward. \n\n翻译：我刚才高亮显示的抵抗信息将是我们未来销售和营销活动的基石。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The relationship between cornerstone and marketing in the context of the input sentence is: brand.",
+    "text": ""
+  },
+  {
+    "input": "Welcome to the Canfor Corporation and Canfor Pulp Second Quarter Analyst Call. \n\n欢迎来到Canfor公司和Canfor纸浆第二季度分析师电话会议。",
+    "output": "Canfor Corporation is a company that engages in the production and distribution of lumber and wood products.",
+    "instruction": "The sentence you provided does not contain any English phrases to be translated into Chinese. Please provide the sentence you want me to translate, and I will be happy to help.",
+    "text": ""
+  },
+  {
+    "input": "欢迎参加 Canfor Corporation 和 Canfor Pulp 第二季度分析师电话会议。",
+    "output": "{legal_form: Canfor, Corporation} 可以翻译为“法人形式：加拿大森林公司”。",
+    "instruction": "Subject: \"Given the input sentence\" \nObject: \"please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\n\nRelation1: \"relation types\" \nRelation2: \"format of \"relation1: word1, word2; relation2: word3, word4\"\" \n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "欢迎来到Canfor公司及Canfor纸浆第二季度分析师电话会议。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" can be translated to: \"Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation.\"\n\nIn Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nIn English: \"Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation.\"",
+    "instruction": "Canfor is a manufacturer of wood products, including lumber, plywood, and wood pellets. It is a public corporation listed on the Toronto Stock Exchange (TSX). Canfor is headquartered in Vancouver, British Columbia, Canada. The company is a subsidiary of Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. The current CEO of Canfor is Don Wall, who holds the position of President and Chief Executive Officer. Canfor is a member of the Forest Products Association of Canada and the Canadian Council of Forest Ministers. The company's main products are lumber, plywood, and wood pellets, which are distributed to customers in North America, Europe, and Asia. Canfor's legal form is a corporation, and its main business division is wood products manufacturing. Canfor is listed on the Toronto Stock Exchange, and its currency is Canadian dollars. Canfor was founded by William F. Canfor and his sons in 1935. Canfor's original broadcaster is the Toronto Stock Exchange, and its brand is Canfor. Canfor is a subsidiary of Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's platform is the wood products manufacturing industry. Canfor's parent organization is Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's headquarters location is Vancouver, British Columbia, Canada. Canfor's legal form is a corporation. Canfor's publisher is Canfor Corporation, and its developer is Canfor Corporation. Canfor's brand is Canfor. Canfor's business division is wood products manufacturing. Canfor's location of formation is Vancouver, British Columbia, Canada. Canfor's creator is William F. Canfor and his sons. Canfor's operator is Canfor Corporation, and its member is the Forest Products Association of Canada and the Canadian Council of Forest Ministers. Canfor's employer is Canfor Corporation, and its chairperson is Don Wall. Canfor's distribution format is wood products, and its original broadcaster is the Toronto Stock Exchange. Canfor is a subsidiary of Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's currency is Canadian dollars. Canfor's parent organization is Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's original broadcaster is the Toronto Stock Exchange. Canfor's brand is Canfor. Canfor's business division is wood products manufacturing. Canfor's location of formation is Vancouver, British Columbia, Canada. Canfor's creator is William F. Canfor and his sons. Canfor's operator is Canfor Corporation, and its member is the Forest Products Association of Canada and the Canadian Council of Forest Ministers. Canfor's employer is Canfor Corporation, and its chairperson is Don Wall. Canfor's distribution format is wood products, and its original broadcaster is the Toronto Stock Exchange. Canfor is a subsidiary of Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's currency is Canadian dollars. Canfor's parent organization is Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's original broadcaster is the Toronto Stock Exchange. Canfor's brand is Canfor. Canfor's business division is wood products manufacturing. Canfor's location of formation is Vancouver, British Columbia, Canada. Canfor's creator is William F. Canfor and his sons. Canfor's operator is Canfor Corporation, and its member is the Forest Products Association of Canada and the Canadian Council of Forest Ministers. Canfor's employer is Canfor Corporation, and its chairperson is Don Wall. Canfor's distribution format is wood products, and its original broadcaster is the Toronto Stock Exchange. Canfor is a subsidiary of Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's currency is Canadian dollars. Canfor's parent organization is Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's original broadcaster is the Toronto Stock Exchange. Canfor's brand is Canfor. Canfor's business division is wood products manufacturing. Canfor's location of formation is Vancouver, British Columbia, Canada. Canfor's creator is William F. Canfor and his sons. Canfor's operator is Canfor Corporation, and its member is the Forest Products Association of Canada and the Canadian Council of Forest Ministers. Canfor's employer is Canfor Corporation, and its chairperson is Don Wall. Canfor's distribution format is wood products, and its original broadcaster is the Toronto Stock Exchange. Canfor is a subsidiary of Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's currency is Canadian dollars. Canfor's parent organization is Canfor Pulp Limited, which is owned by Brookfield Asset Management Inc. Canfor's original broadcaster is the Toronto Stock Exchange. Canfor's brand is Canfor. Canfor's business division is wood products manufacturing. Canfor's location of",
+    "text": ""
+  },
+  {
+    "input": "Welcome to the Canfor Corporation and Canfor Pulp Second Quarter Analyst Call. \n\n欢迎参加加拿大林纸公司（Canfor Corporation）和加拿大林纸（Canfor Pulp）第二季度分析师电话会议。",
+    "output": "Sure, I can help you with that. The English sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{legal_form}\" translates to \"Please help me translate the following English sentence into Chinese, directly provide the English translation in the answer! {legal_form}\" in Chinese.",
+    "instruction": "Canfor and Corporation are both related as parent organization.",
+    "text": ""
+  },
+  {
+    "input": "在此次通话中，Canfor Corporation和Canfor Pulp的首席财务官将参考在公司网站投资者关系部分提供的幻灯片演示。",
+    "output": "{legal_form: Canfor, Corporation} 翻译为中文是：{法律形式：Canfor公司}",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nFor example, if the input text is \"Apple is the manufacturer of iPhone\", the output should be \"manufacturer: Apple, iPhone\". If the input text is \"Netflix is distributed by Amazon Prime Video\", the output should be \"distributed by: Netflix, Amazon Prime Video\".",
+    "text": ""
+  },
+  {
+    "input": "在此通话期间，Canfor Corporation和Canfor Pulp的首席财务官将参考公司网站投资者关系部分可用的幻灯片演示。",
+    "output": "Canfor Corporation is a company that produces and distributes forest products, including lumber, wood pellets, and pulp. It was founded in 1968 in Vancouver, British Columbia, Canada. The company operates in North and South America, as well as in Europe and Asia. Canfor Corporation is known for its sustainable forest management practices and commitment to environmental stewardship. It is a publicly traded company on the Toronto Stock Exchange (ticker symbol: \"CFP\").",
+    "instruction": "Subject: \"Given the input sentence\"\nObject: \"please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nRelation: \"translator: given, sentence; extractor: input, subject; relation: subject, object; relation: relation, types; relation: relation, sentence\"\nTranslation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "During this call, Canfor Corporation and Canfor Pulp's Chief Financial Officer will be referring to a slide presentation that is available in the Investor Relations section of the company's website. \n\n中文翻译：在此通话期间，Canfor Corporation和Canfor Pulp的首席财务官将参考公司网站投资者关系部分可用的幻灯片演示。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nHere's the translation of the English sentence \"Please help me translate the following English sentence into Chinese, and provide the translation directly in English!\" into Chinese:\n\n请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！",
+    "instruction": "Canfor Corporation is a Canadian forestry company that produces wood products and paper products.",
+    "text": ""
+  },
+  {
+    "input": "在这通电话中，Canfor Corporation和Canfor Pulp的首席财务官将参考可在公司网站投资者关系部分找到的幻灯片演示。",
+    "output": "Sure, I can help you with that! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese, and provide the translation directly in English.\n\nPlease let me know if there's anything else I can assist you with!",
+    "instruction": "Canfor is a manufacturer in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "我会先对以下英文句子进行翻译，然后将其交给我们的执行副总裁Alan Nicholl，他是Canfor Pulp Operations的负责人，也是Canfor Corporation和Canfor Pulp的首席财务官。",
+    "output": "Canfor Corporation is a company that engages in the production of wood products, including lumber, pulp, and paper. It operates in North America, with its headquarters in Vancouver, British Columbia, Canada. Canfor is known for its sustainable forestry practices and has a strong commitment to environmental stewardship. The company is publicly traded on the Toronto Stock Exchange and the New York Stock Exchange under the ticker symbol \"CFP\".",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nHere is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"\n\nThe word/phrase pair and their corresponding lexical relationship in the given input text are:\n\nrelation1: product/material produced; relation2: manufacturer\n\nNote: The given input text does not contain any other word/phrase pairs and their corresponding lexical relationships.",
+    "text": ""
+  },
+  {
+    "input": "I will make a few comments before I turn things over to Alan Nicholl, our Executive Vice President of Canfor Pulp Operations and our Chief Financial Officer of both Canfor Corporation and Canfor Pulp.",
+    "output": "Canfor Corporation 是一家加拿大的林业公司，成立于1956年，总部位于不列颠哥伦比亚省的温哥华。公司主要经营木材加工和销售业务，包括锯木厂、人造板厂和纸浆厂等。Canfor 是加拿大最大的私有林业公司之一，也是全球最大的纸浆和木浆供应商之一。",
+    "instruction": "Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe subject and object containing a certain relation in the sentence are:\n\n- relation1: 句子, 中文; relation2: 翻译, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations are:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\nThe relations include:\n\n- relation1: 翻译, 句子; relation2: 中文, 英文。\n\n",
+    "text": ""
+  },
+  {
+    "input": "\"I will make a few comments before I turn things over to Alan Nicholl, our Executive Vice President of Canfor Pulp Operations and our Chief Financial Officer of both Canfor Corporation and Canfor Pulp.\" 翻译为中文为：“我在将事情交给 Canfor 木浆运营执行副总裁 Alan Nicholl 以及 Canfor 公司和 Canfor 木浆公司的首席财务官之前，会发表一些评论。”",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!",
+    "instruction": "Canfor is a manufacturer of wood products and forest products.",
+    "text": ""
+  },
+  {
+    "input": "{在将话题交给我们的Canfor Pulp Operations执行副总裁Alan Nicholl以及Canfor Corporation和Canfor Pulp的首席财务官之前，我将先做一些评论。}",
+    "output": "Sure, I can help you with that! Here's the translation of the English sentence to Chinese:\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation in the response: {legal_form}\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation in the response: {legal_form}",
+    "instruction": "Canfor Corporation is a Canadian forestry company that produces and distributes wood and paper products. The relationship between Canfor and Corporation in the context of the input sentence is \"manufacturer.\"",
+    "text": ""
+  },
+  {
+    "input": "In late June of 2020, Audi issued a press release on the 2021 Audi Q5, introducing that it will also implement ITM.",
+    "output": "Audi Q5 is a car model manufactured by Audi.",
+    "instruction": "The sentence to be translated is: \"The company was founded by John Smith in 2010.\"\n\nThe corresponding translation in Chinese is: \"该公司由John Smith于2010年创立。\"\n\nThe word/phrase pair and the corresponding lexical relationship between them are:\n\n- \"founded by\" : \"by John Smith\"\n- \"2010\" : \"2010年\"\n\nSo, the output format is: \"founded by: John Smith, 2010; 2010: 2010年\".",
+    "text": ""
+  },
+  {
+    "input": "在2020年6月末，奥迪发布了一份关于2021年奥迪Q5的新闻稿，介绍了该车也将采用ITM技术。",
+    "output": "品牌：奥迪Q5，奥迪；制造商：奥迪Q5，奥迪。",
+    "instruction": "Sure, I can help you with that. Please provide me with the input sentence you want to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "In late June of 2020, Audi issued a press release on the 2021 Audi Q5 in which they introduced it will also implement ITM as well.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese, and I will provide the translation directly in English.",
+    "instruction": "The English sentence you provided is not given, but I can provide you with the translation of a sample sentence:\n\n\"Utilize the input text as a context reference, choose the right relationship between Audi Q5 and Audi from the options.\"\n\n中文翻译：\n\"利用输入文本作为上下文参考，从选项中选择奥迪Q5和奥迪之间的正确关系。\"\n\nHere, \"Utilize\" means \"利用\" in Chinese, \"the input text\" means \"输入文本\", \"as a context reference\" means \"作为上下文参考\", \"choose\" means \"选择\", \"the right relationship\" means \"正确关系\", \"between Audi Q5 and Audi\" means \"奥迪Q5和奥迪之间\", and \"from the options\" means \"从选项中选择\".",
+    "text": ""
+  },
+  {
+    "input": "In late June of 2020, Audi issued a press release on the 2021 Audi Q5, in which they introduced that it will also implement ITM as well.",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want to translate into Chinese, and I will give you the translation directly in English.",
+    "instruction": "The relationship between Audi Q5 and Audi is \"product/material produced\" in the context of the input sentence.",
+    "text": ""
+  }
+]

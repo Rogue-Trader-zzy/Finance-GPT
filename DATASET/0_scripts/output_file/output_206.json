@@ -1,0 +1,302 @@
+[
+  {
+    "input": "iPhone manufacturer Foxconn warns staff to keep away from Shenzhen base.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "报告的营业利润率为-5.9%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dairy Crest失去了一部分Morrisons的牛奶合同。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP, the world's largest ad agency, reports strong 2015 growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"阿里巴巴将突破香港惯例，率先实现无纸化上市 - CIO New Zealand\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Casper Sleep's stock is languishing below its IPO issue price after falling 5%.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"自从苹果掌握了他们的供应链，他们掌握了NAND，苹果掌握了所有人的供应链！\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本季度的收入总计27.4亿，比2008年第四季度的28.1亿下降了2%。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Royal Mail share price edges lower as group raises stamp price.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Avation PLC (LSE:AVAP)表示，它已向Aegean Airlines出售了第一架前Virgin Australia (ASX:VAH) ATR72-600，并预计将看到过去半年业绩的改善，因为航空旅行行业正在经历从COVID-19大流行中“逐渐复苏”。此次向Aegean出售三架ATR飞机，再加上自7月1日财年开始以来宣布的出售一架空客A321和一架空客A220，将增加流动性，并产生大约4200万美元的总净收益。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The weakest sector this year and possible false breakout.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ray Dalio 表示全球经济正在走向“大萧条”。这位亿万富翁投资者表示，世界正在处理……",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "“周五晚上调频收听，观看只能在Apple TV+上观看的两场比赛，”CEO Tim Cook说。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Since Amazon bought Whole Foods five years ago, it's added tech to streamline the in-store experience and expanded into more local goods.\n\n自亚马逊五年前收购Whole Foods以来，它添加了技术来简化店内体验，并扩展到更多的本地商品。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "6只股票在基本面和技术面都获得支持的情况下突破，同时标普500指数自2月11日以来首次突破4500点。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kudlow说美联储应该采取更大胆的行动来调整利率。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The divested activities had net sales of EUR 145.1 million in 2009 and an operating profit of EUR 8.9 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "第一批接受培训的客户将是喷漆店老板和他们的助手。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果您的iPhone已更新到最新版iOS，您现在可以选择使用无性别标识的emoji ⚧️。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Square: Odds Stacked Against Shareholders. Subscribe to Seeking Alpha for more: https://t.co/8xvjNGaorC #economy #business #investing\n\n翻译：\n\n正方形：股东们面临的困难重重。请关注Seeking Alpha获取更多信息：https://t.co/8xvjNGaorC #经济 #商业 #投资",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AB InBev's Latest Bid Said Unlikely to Win SABMiller's Approval\n\n英译中：\nAB InBev的最新收购要约被认为不太可能获得SABMiller的批准。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译成中文：\n\"英国最大的一笔私人股权支持下的上市，自动交易商的股票价格飙升。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The cooperation with airBaltic is expected to lead to the transfer of Finncomm to the ownership of airBaltic in time.\n\n合作方 airBaltic 的参与预计将导致 Finncomm 的股份转让给 airBaltic 的所有权。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The EPS for the quarter came in at 0.36 eur, up from 0.33 eur a year ago and ahead of forecast of 0.33 eur. \n\n翻译成中文：\n该季度的EPS为0.36欧元，比一年前上涨至0.33欧元，并且超过了预期的0.33欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧盟监管机构批准了AB InBev和SABMiller价值超过100亿美元的合并交易。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LSE获香港监管部门批准，允许香港企业成为LSE成员。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{- Time: 15:00  #Stock #MarketScreener https://t.co/99IOCFohM3 https://t.co/ZfDyZZkp55}\" which translates to: \"Translate the following English sentence into Chinese. Please provide the English translation directly in the response! {- Time: 15:00 #Stock #MarketScreener https://t.co/99IOCFohM3 https://t.co/ZfDyZZkp55}\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"我很喜欢这个公司的长期发展，在这里体验到了良好的交易流程。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"你不能否认这些数字是我们生活中最好的数字,\" 美国全国广播公司（CNBC）的《疯狂金钱》（Mad Money）节目的吉姆·克拉默（Jim Cramer）在推特上说道。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据阿克提亚资产管理公司 (Aktia Asset Management) 的说法，芬兰分析师的 2009 年预测仍然过高。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "星巴克在新的降级奖励计划开始的同一天被降级。 $SBUX",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Citigroup to Sell OneMain to Springleaf for $4.25 Billion\n\nCitigroup将OneMain以44.25亿美元的价格出售给Springleaf。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The latest news reports that a similar agreement was signed between China Mobile Ltd. (SEHK: 0941 and NYSE: CHL), the largest mobile carrier, and the GPS and social networking service provider, to promote GyPSii service before the Beijing 2008 Olympic Games.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jim Breyer, 亿万富翁风险投资家，加入“闭市铃”节目，讨论他在大型科技股上增加头寸的位置以及他对元宇宙的看法。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp. 员工将从本月晚些时候开始返回办公室，在近两年的 COVID-19 中断之后。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I've been dead on so far. Such a bloated valuation.\" 翻译为中文是 \"我到目前为止一直都很准确。估值如此膨胀。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股票收盘时的动作表明，苹果股票可能已经接近短期高点。在经历了大幅上涨之后，动力正在减弱。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Broadcom +2% after Street-high target\" 翻译成中文为 \"博通 +2%，因为华尔街设定的目标高于预期\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"消费者必需品股票是在经济艰难时期明智的选择，随着通胀担忧不断增加，这些股票看起来越来越好。《7 种在下跌市场中值得购买的防御性消费者必需品股票》这篇文章最初出现在 InvestorPlace 上。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Germanwings disaster will not affect image of budget air travel - easyJet\n德国之翼航空灾难不会影响廉价航空旅行的形象 - easyJet",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司减持592.49股。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Josh Brown, CEO of Ritholtz Wealth Management, joins the 'Halftime Report' to discuss why he bought Netflix shares.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Skyworks 将迎来又一个出色的季度表现，这些条件预计将持续到 2022 年。在供应链方面，客户层面存在一些担忧，但 Skyworks 似乎能够轻松满足其预计的交付量，如果需要的话。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The IDACORP (IDA) unit Idaho Power will assist Micron Technology in building a 40 MW solar project, which will allow the latter to meet its energy demand through clean energy sources. \n\n翻译：IDACORP（IDA）旗下的Idaho Power公司将协助美光科技公司（Micron Technology）建设一个40兆瓦的太阳能项目，这将使后者能够通过清洁能源来源满足其能源需求。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stericycle offloads environmental unit to Harsco\n- 斯特拉迪克将环境部门出售给哈斯科。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{强劲的iTero扫描仪需求和Invisalign病例提交量的增加预计为Align Technology公司（ALGN）第一季度的业绩做出了贡献。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The combined company had pro-forma net sales of 140 mln euro $ 188.9 mln and an operating profit of 13 mln euro $ 17.5 mln for 2006.\n\n翻译成中文为：合并公司的预计销售额为1.4亿欧元，约合1.889亿美元，2006年的运营利润为1300万欧元，约合1750万美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The price of raw material aluminum went up at the end of 2005, but the company considers its outlook for 2006 favorable.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sirius downgraded on valuation\" 翻译成中文是 \"天卫星因估值下调而被降级\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子的中文翻译为：“MKM Partners将Hexo股票价格目标从C$6下调至C$5。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

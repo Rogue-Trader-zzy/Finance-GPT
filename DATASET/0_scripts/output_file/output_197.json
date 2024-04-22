@@ -1,0 +1,302 @@
+[
+  {
+    "input": "它们很容易理解——但并不总是容易遵循。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦证券交易所以22亿英镑的价格与德国的德意志交易所达成合并协议。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\nNavios Maritime Holdings Inc. 2019 Q3 - 业绩 - 收益电话会议演示文稿。继续阅读：…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n\"从印度到巴西的新兴经济体央行仍具有维护全球经济稳定的能力。\"\n\n英文翻译：\nEmerging-economy central banks from India to Brazil still enjoy the firepower to shore up the global economy.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "刚才无意中发现了这张令人惊叹的图表 - $OFIX - 哇哦，超级超买。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baird returns to Wingstop bull camp.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"M2 Communications disclaims all liability for information provided within information on the world wide web.\" 的中文翻译是：“M2 Communications 对全球互联网上的信息提供的信息所承担的所有责任均予以豁免。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Gold on track for a fourth straight gain, boosted by coronavirus outbreak https://t.co/cpi5yGY54R\" in Chinese as \"金价有望迎来第四次连续上涨，受到冠状病毒疫情的影响 https://t.co/cpi5yGY54R\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Alexion Pharma发表声明回应与Elliott Management的讨论。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish meat company Atria is no longer able to guarantee a sufficient supply of domestic beef to its customers.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The financial impact is estimated to be an annual improvement of EUR2.0m in the division's results, as of fiscal year 2008.\n\n这句话的中文翻译是：预计财务影响为每年提高部门业绩2百万欧元，截至2008财年。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet's stock has outperformed the market since its recent stock split announcement.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "California Attorney General Rob Bonta joins 'TechCheck' to discuss the state's decision to file an antitrust lawsuit against Amazon and the allegations of market manipulation and price fixing behind it. \n\n翻译：\n加利福尼亚州总检察长罗伯·博塔（Rob Bonta）参加“TechCheck”，讨论该州决定对亚马逊提起反垄断诉讼以及其背后操纵市场和价格操纵的指控。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rivian shares plunged 49% in the second quarter after dropping 52% the first three months of the year, pulling Amazon's stake down by a total of $TK billion. \n\n瑞文汽车股价在第二季度暴跌49%，年初前三个月下跌52%，导致亚马逊的总持股价值下降了总计$TK亿美元。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons and Debenhams surprise City with Christmas bounce back.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish electronics manufacturing services company Elcoteq signing a cooperation agreement with a Japanese mobile phone manufacturer, bypasses Elcoteq Tallinn, says Jan Kotka, CEO of Elcoteq Tallinn.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chargers manufactured under the new platform are suitable for mobile phones, navigators, digital cameras, Bluetooth head sets, media players and other electronic devices.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's the translation: \"FB is shifting on the 15-minute here - suspect to take highs.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$TSPT long 8.00} 的中文翻译是：{\"TSPT\"长头寸8.00}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "明年开放时，它将成为世界上最大的设施，使用可再生原料（如棕榈油和动物脂肪）生产柴油燃料。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia says the A800 chip meets the U.S. government's rules, with limitations that would hamper its use in areas such as AI models or supercomputers.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell will buy BG Group in a $69.7 billion takeover.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The bank also expects additional costs, related to the Dash 8 - Q400 jets, which the group shelved in October 2007.\n\n银行还预计与Dash 8 - Q400喷气式飞机相关的额外费用，该集团于2007年10月搁置了这些飞机。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Standard Chartered Not Raising Capital Yet As Dividend Cut\" 的中文翻译为：\"渣打银行暂不筹资，因分红削减\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$WYNN big bounce} is already in English, so there is no need for translation. It seems to be a phrase related to the gaming world, possibly referring to a big win or a significant event in a game.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉宣布召回2700辆Model X SUV。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CIB, Legal & General Sell Egyptian Life Joint Venture To AXA\n\n中译英：\n中信银行，法律及通用公司将埃及生命合资企业出售给AXA。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq's Electronics Manufacturing Services (EMS) Business Segment provides global engineering, manufacturing, and fulfillment services to customers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Some gamers accessing Google's new cloud gaming platform, Stadia, through a Chromecast Ultra dongle are reporting trouble…\": \"一些通过Chromecast Ultra dongle接入谷歌新的云游戏平台Stadia的玩家报告遇到了一些问题…\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Activision Blizzard计划于2月3日星期四报告其第四财季业绩。我们预计ATVI股票将保持平稳交易，其收入和盈利将与共识估计相符。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"是索诺斯公司（纳斯达克：SONO）的交易价格打了47%的折扣吗？\"}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{船体是分块建造的，随着建设进展，Ruukki交付了每块板材。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I Ran A Stock Scan For Earnings Growth And DMC Global (NASDAQ:BOOM) Passed With Ease\" 的中文翻译为：\n我运行了一个股票扫描以寻找盈利增长，DMC Global (纳斯达克代码：BOOM) 轻松通过了。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Ponsse will divide its sales and maintenance service network into six geographical areas.} 翻译成中文为：{Ponsse 将把其销售和服务网络分为六个地理区域。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$AYX - Alteryx Stock Price: More Downside Before Taking Off. Continue reading: https://t.co/RR0zn7EgmY}\n\n$AYX - Alteryx 股票价格：在起飞前还有更多下行空间。继续阅读：https://t.co/RR0zn7EgmY #商业 #投资 #经济",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Furthermore, the company will sell the warehouse and office buildings in Loudeac and Saint Marcel and lease new joint premises for these operations in Morvillars.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Snack Fact of the day: @RobinhoodSnacks won Best Business Podcast 2019 from @Discover_Pods Awards. This has got to...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{SWK Holdings reports Q3 results} 的英文翻译为：\"SWK Holdings reports Q3 results.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yestar Healthcare : Next Day Disclosure Returns #YestarHealthcare #Stock #MarketScreener https://t.co/k6srQHazpf https://t.co/oW9KRoFuxU\" 翻译为中文为：\n\n\"Yestar Healthcare：次日披露回报 #YestarHealthcare #股票 #市场筛选器 https://t.co/k6srQHazpf https://t.co/oW9KRoFuxU\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "尽管Netflix最近出现了负面的自由现金流，但它的前景仍然看好。如果Netflix今年实现正面的自由现金流，那么NFLX股票的价值至少会是其盈利的41倍，这将使其价值提高63%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet Inc's Google reported 27% higher U.S. lobbying expenditures for 2021 compared to 2020, spending $9.6 million for the year, according to the Senate lobbying disclosure database. \n\n翻译为中文：\n\n根据参议院游说披露数据库，谷歌母公司Alphabet Inc报告称，与2020年相比，2021年的美国游说支出增加了27%，全年花费了9600万美元。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$DXCM - 在过去几周内巩固期间，创造更高高点和更高低点。26.70 是历史最高点（2006 年）。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：{$WGO's BoD was right to reject the offer. That company is low because of the economy, not because of any type of mismanagement or anything.} \n\nWGO's董事会正确地拒绝了这一提议。该公司因为经济形势低迷，而不是由于任何类型的管理失误或其他原因而表现不佳。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果股价反弹至支撑位，似乎如此。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's why one great whale offers more in the fight against climate than a forest of trees: https://t.co/y0UwSQWd8u\n\n中文翻译：\n为什么一只巨大的鲸鱼在对抗气候变化方面比一片森林更有价值：https://t.co/y0UwSQWd8u",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Metso Oyj表示，它已将诺基亚镇（芬兰南部）的散料滚制造业务及相关资产出售给一群芬兰投资者，他们将在Finbow Oy的名义下经营该业务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据初步估计，该酒店将采用诺富特品牌运营。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普经济顾问拉里·库德洛表示，他支持一项提议，即美国出售“战争债券”来融资。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦证券交易所：8.3表 - 替换ABBVIE INC. #伦敦证券交易所 #股票 #市场筛选器...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The winner does not have to be present to win. 翻译为：获胜者不必到场就能获胜。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

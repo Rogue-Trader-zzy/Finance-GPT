@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Earning season continues, with Wynn, Kraft Heinz, Marriott and others dropping reports this week. \n\n翻译：盈利季节继续，本周温德姆、卡夫亨氏、万豪和其他公司发布了报告。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"其168名资产管理专家管理资产总值超过35亿欧元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Altogether Finnair has canceled over 500 flights because of the strike. 翻译为：“总的来说，芬兰航空公司因为罢工而取消了超过500个航班。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fortum is now considering taking part in nuclear energy projects outside of Finland. 翻译成中文是：“Fortum现在正在考虑参与芬兰以外的核能项目。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "运动服饰制造商耐克正在对健身单车制造商Peloton进行可能的追求，处于早期阶段，据报道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Of this\", \"EUR 38.8 mn was net interest income.\"} 翻译为中文为：{\"在这之中，38.8百万欧元是净利息收入。\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP, the world's largest ad agency, reports strong 2015 growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在周五的交易中，微软的股票价格超过了200天的移动平均线300.84美元，最高达到了每股301.00美元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Dixons Carphone profit boost on strong sales\" 的中文翻译为 \"Dixons Carphone 因强劲销售而提升利润\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence \"Nonfarm Payrolls Outperform in January\" translates to \"非农就业人数在1月份表现优异\" in Chinese.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The FAANG stocks have become a total disaster in 2022. But GOOGL stock is the one you can still count on going forward.\" 翻译为中文是：“FAANG 股票在 2022 年已经彻底成为一场灾难。但是 GOOGL 股票是你可以继续信赖的前进方向。”",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Piper upgraded Symantec on improving renewal rates and enterprise growth, $SYMC.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "However, in March 2009, the government of St. Petersburg passed the front part of the building with the area of 1,900 square meters and a land plot for a hotel worth USD 10-15 million to the company Delta.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla is recalling nearly every Model X model. CNN broke the news, and even at work, you jumped into the money trade.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "请把下面的英文句子翻译成中文，回答中直接给出英文翻译！ {LMPX}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In 2008, the steel industry accounted for 64 percent of the cargo volumes transported, whereas the energy industry accounted for 28 percent and other industries for 8 percent.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence \"Terms were not disclosed.\" in Chinese is \"条款未公开。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "MillerCoors实现2014年净收入增长2.9%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Significance: Teleste has emphasized that with its large size and growing economy, as well as the rapid development of its TV services distribution industry, Poland is viewed as an attractive market.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baxter宣布支付0.22美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company designs, manufactures and markets advanced composite products for industrial applications and consumer goods such as cross-country, alpine and Nordic Walking poles, floorball sticks and antenna radomes.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Columbia Property Trust宣布派发0.21美元的股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnlines estimated in its annual general meeting that 2008 will be financially a tough year due to large investments.\n芬兰航运公司(Finnlines)在年度股东大会上估计，由于大额投资，2008年将面临财务上的困难。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EPR Properties sells Charter School portfolio for $454M; lowers FFO guidance for 2019.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "乙醇将由大麦制成，生产可能于2008年开始。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The worm, set to activate on Friday, will corrupt documents using the most common file types, including \".doc\".",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{合资企业将立即投资约50万欧元用于生产技术。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The divested stake represented about 2.7 million shares in Okmetic's capital.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nYahoo Finance 主播 Julie Hyman 报道了最新的值得注意的商业新闻头条，包括超过 100 名澳大利亚苹果员工组织罢工争取更高的每小时工资，美国联邦航空局要求波音对其 737 Max 7 喷气式飞机进行安全文件审查，以及美国空中出租车初创公司 Joby 寻求在日本获得空中认证。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当地政府专员柯特·斯文森表示，他将联系芬兰公司Componenta的管理层，以了解该公司决定关闭其在+àm+Ñl工厂是否存在其他选择。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\nMicrosoft Corporation (NASDAQ:MSFT) 2022 Deutsche Bank Technology Conference August 31, 2022 1:30 PM ET Company Participants\nDave O'Hara - Executive Vice President & Chief Financial Officer, Commercial Business\nConference Call Participants\nBrad Zelnick - Deutsche Bank\nBrad Zelnick Welcome back, everybody. I'm Brad Zelnick with the Deutsche Bank Software Team.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corporate Vice President Yusuf Mehdi spoke with Yahoo Finance Live Rachelle Akuffo about Microsoft's newest hardware for its Surface products and why PCs are making a comeback.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here's why Trump Tower is now one of the least-desirable luxury buildings in NYC: 这就是特朗普大厦现在成为纽约市最不受欢迎的豪华建筑之一的原因。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Last year, the firm also acquired Realprojekti Oy, a real estate development company, to advise CapMan on its property activities.\" 翻译为中文是：\"去年，该公司还收购了 Realprojekti Oy，一家房地产开发公司，以就其房地产活动向 CapMan 提供咨询。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Stocks Are a Victim of Their Own Success\" 的中文翻译为：“股票是自身成功的受害者”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "From the Business Line, May 16, 2008, Sriperumbudur, May 15 - Nokia's two key suppliers - Aspocomp and Wintek - are likely to start operations within three months in the Nokia Telecom Park at Sriperumbudur, 45 km west off Chennai.\n\nTranslated to Chinese:\n\n来自商业线，2008年5月16日，斯里佩姆布杜尔，2008年5月15日 - 诺基亚的两家主要供应商 - Aspocomp和Wintek - 可能在诺基亚电信园的斯里佩姆布杜尔（Chennai西45公里）开始运营，预计将在三个月内开始运营。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The international electronic industry company Elcoteq has laid off tens of employees from its Tallinn facility; contrary to earlier layoffs, the company contracted the ranks of its office workers, the daily Postimees reported.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"PNC和Goldman Sachs收到股息上涨的绿灯（但别行动）：http://stks.co/2pa7 $PNC $GS\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LSE-Deutsche Boerse merger would signal end to exchange mega-deals.\n伦敦证券交易所和德意志交易所的合并将预示着交易所的超级交易时代的结束。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这两家公司还将合作进一步开发Raiso的胆固醇降低品牌，Benecol。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Caterpillar sees more weak demand ahead as firms defer capital decisions.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish steel maker Rautaruukki Oyj (HEL: RTRKS), or Ruukki, reported today that it posted a larger-than-expected pretax loss of €46 million in the fourth quarter of 2009, compared to a year-earlier profit of €45 million.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The money will be spread mainly over 2011 and 2012,\" the company said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{突发新闻：亚马逊董事会已批准公司超过两十年来的首次股票分割。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "洛杉矶地区的购物者可以通过应用程序浏览货架并购买商品。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BlackRock Frontiers Investment Trust: Net Asset Value(s) #BlackRockFrontiersInvestmentTrust #Stock #MarketScreener… https://t.co/Af8ZoSZ6Km\n\n翻译：\n黑石前沿投资信托基金：净资产价值(s) #黑石前沿投资信托基金 #股票 #市场筛选器… https://t.co/Af8ZoSZ6Km",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Group EBIT for the first half was EUR13.6 m US$17.8 m, falling short of the EUR22.5 m it posted for the same period of 2009. \n\n中译英：上半年的集团EBIT为13.6亿欧元17.8亿美元，低于2009年同期22.5亿欧元的记录。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "这是短裤不会显露的原因...长、稳定、小爬坡。增加价值的最佳方式。IMO",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"法国的罢工支持率仍然很高，因为假期计划受到影响。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google's court defeat on Wednesday is set to strengthen EU antitrust regulators' hand against Big Tech as they roll out landmark rules next year to rein in their powers and force them to play fair with rivals.\n\n谷歌周三的法院败诉将加强欧盟反垄断监管机构对大型科技公司的大手，因为他们将在明年推出具有里程碑意义的规则，以限制他们的权力并迫使他们与竞争对手公平竞争。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

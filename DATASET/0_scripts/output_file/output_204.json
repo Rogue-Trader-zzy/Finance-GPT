@@ -1,0 +1,302 @@
+[
+  {
+    "input": "AstraZeneca遭遇挫折，其药物未能治疗眼癌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP plans to become the largest shareholder of Ecuador-focused SolGold.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它还确认了它在2008年发布的报告中提出的2009年全年盈利预期。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"亚马逊是世界上最大的研发投入公司之一。本文将评估亚马逊最近的PPE支出狂潮和未来的减值。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The mill's raw material need will increase by 100,000 m³ of wood.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Stock Based Compensation: A Comparison Of The Market's High Flyers} 的中文翻译是：基于股票的补偿：市场高飞者的比较。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nStarbucks Corporation (NASDAQ: SBUX) is facing irate internet users in China after announcing price hikes. What Happened: On Thursday (Beijing Time), the People's Daily reported that Starbucks price hikes dominated Weibo — a social media platform akin to Twitter.",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Finnish silicon wafer technology company Okmetic Oyj OMX Helsinki : OKM1V said on Wednesday 17 September that it will invest EUR6m in its sensor wafer business during 2009.\" \n\n直接翻译成中文为：\"芬兰硅片技术公司Okmetic Oyj OMX赫尔辛基：OKM1V于9月17日星期三表示，该公司将在2009年投资600万欧元于其传感器硅片业务。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dairy Crest has lost a third of its Morrisons milk contract.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glencore Reduces 2015 Budget, Plans to Sell Assets from Lonmin.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"AAPL bounce right now has no vol, more vol when it slid\" 的中文翻译为 \"苹果股价反弹现在没有波动，一旦下滑波动就会增加\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{EMSA 董事会副董事长 Juri Lember 周三告诉 BNS，这是他第一次听说这次罢工，因为瑞典方面还没有通知爱沙尼亚工会。}",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The operating profit of operations in Finland during the period under review totaled 11.3 million euros, remaining at the 2005 level.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "墨西哥央行将利率降至三年低点。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "关于诺基亚，诺基亚是移动通信领域的先驱，也是世界上领先的移动设备制造商。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Britain's competition watchdog said it was planning to investigate the market dominance of Apple Inc and Google's mobile browsers as well as the iphone maker's restrictions on cloud gaming through its app store.\n\n英国的竞争监管机构表示，他们计划调查苹果公司和谷歌移动浏览器的市场主导地位，以及苹果公司通过其应用商店对云游戏的限制。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"Mark Mahaney, Evercore ISI head of internet research, joins 'TechCheck' to discuss which mega-cap companies will suffer from macroeconomic conditions, why people are selling mega-cap stocks and more.\"\n\n翻译为中文为：\n\n\"Mark Mahaney, Evercore ISI互联网研究负责人，将加入'TechCheck'节目，讨论哪些大型科技公司将受到宏观经济条件的冲击，人们为何要卖出大型科技股票，以及更多相关话题。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Shire share price under pressure after $32bn Baxalta deal\" 翻译成中文是：\n\"Shire股价因32亿美元Baxalta交易而承压\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ARM Holdings plc Partners With International Business Machines Corp. To Drive...",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Google is one of the cheapest big tech stocks going by earnings multiples and other valuation measures. It also enjoys a strong competitive position in several markets, including ad-tech and mobile phone app sales.\n\n谷歌是按照盈利倍数和其他估值指标衡量，是最便宜的科技股之一。此外，它还在多个市场拥有强大的竞争地位，包括广告技术和手机应用销售市场。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "For the first time in a decade, the US has sent its most senior Pentagon official to Taiwan, in a reflection of Was…\n\n翻译：\n十年来首次，美国派遣其最高级别的五角大楼官员前往台湾，这反映出……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft Corp (NASDAQ: MSFT) 于周二宣布，计划以每股 95 美元的现金交易价值 687 亿美元收购游戏开发商和互动娱乐内容出版商 Activision Blizzard Inc (NASDAQ: ATVI)。这笔交易将包括 Activision 的标志性特许经营权，包括 \"使命召唤\"、\"魔兽世界\"、\"暗黑破坏神\"、\"守望先锋\" 和 \"糖果粉碎\"。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mylan Appoints Ranjan Ray Chaudhuri as Global Commercial Lead for Mylan's Over-the-Counter Business Unit.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aviva关闭Friends Life总部，以快速整合动作为下一步。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kemira's partner in the project is St. Petersburg Water Works.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，下面是英文翻译：\"It's good to have a monopoly on the most important technology in the world.\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Automatic Data Processing's (ADP) second-quarter fiscal 2022 earnings and revenues improve on a year-over-year basis. \n\nAutomatic Data Processing's (ADP) 2022财年第二季度的盈利和营收相较于上一年有所提升。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"amzn\" 4 period RSI is down at 20, just read Connors book on trading strategies}\n\n亚马逊4周期相对强弱指数(RSI)跌至20，请阅读康纳斯的书籍了解交易策略。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CDC says repatriated Americans are under federal quarantine.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Homebuilders - $RYL 跌破支撑位，请注意这一只。$SPY\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Flowserve (FLS) 撤回 2020 全年指引 - 彭博社",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The result before taxes was a loss of 25.0 million euros.\n\n{税前结果是亏损了2500万欧元。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伦敦证券交易所：跨越公共政策和社科交叉学科的鸿沟 #伦敦证券交易所 #股票...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alexandria, Va.，8月27日 - Timo Vataja来自芬兰坦佩雷，Virve Inget来自芬兰奥卢，他们共同开发了一款具有使用授权激活功能的计算机程序产品。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The potential acquirer is Cencorp Corporation, which is a related entity to SAV owing to each of SAV and Cencorp being a subsidiary of the Finnish Savcor Group Oy. \n\n翻译：潜在的收购方是Cencorp Corporation，由于SAV和Cencorp都是芬兰Savcor Group Oy的子公司，因此它们是相关实体。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "本周中国中部一家全球最大的iPhone工厂发生了激烈的工人起义，进一步扰乱了苹果紧张的供应链，并凸显出该国严格的零新冠病毒政策对全球科技公司造成的伤害。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "连续第三天红色交易日？特斯拉（$TSLA）",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Our superior customer centricity and expertise in digital services set us apart from our competitors.\" 翻译为中文为：“我们的卓越的以客户为中心的服务和在数字服务方面的专业知识使我们与竞争对手区别开来。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Spain's Caixabank launches new takeover bid for Banco BPI.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The move signals that big employers in California are comfortable enough with the current state of Covid-19 cases to re-open offices. \n\n翻译成中文：此举表明，加利福尼亚州的各大雇主对当前新冠病毒病例的情况感到足够舒适，愿意重新开放办公室。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Founded in 1649, Fiskars has over 360 years of product quality excellence and is Finland's oldest company. \n\n翻译成中文：成立于1649年，Fiskars拥有超过360年的产品质量卓越，是芬兰最古老的公司。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{苹果供应商富士康周三报告称，根据路透社的计算，第二季度净利润增长11.7%，超过市场预期。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A total of 185 Wonderware Certified SIs are available to integrate and support Wonderware products such as InTouch - HMI software, IndustrialSQL Server historian, Wonderware Information Server, DT Analyst software or QI Analyst SPC software.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"TJX sees Q4 same-store sales up 2%-up 3%; FactSet consensus up 2.7%.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"对NVE Corporation（NVEC）的信心从未如此之高。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The explosion of a volcano in New Zealand on Monday once again raised the question of whether eruptions can be predicted accurately.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit rose to EUR 3.2 mn from EUR 1.0 mn in the corresponding period in 2008.\n\n中文翻译：经营利润在2008年对应的期间从1000万欧元上升到3200万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Our customer has been satisfied with Basware Invoice Automation solution and extends the implementation to new geographies\" can be translated to Chinese as: \"我们的客户对Basware发票自动化解决方案感到满意，并将其实施扩展到新的地理区域。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"新加坡交易所：大都市地区就业和失业（月度）（#SGX #Stock #MarketScreener）- 请访问此链接：https://t.co/3f0PJubMrv\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The acquisition does not have to be from the frozen foods or fish sector, as long as it has synergies with L+ñnnen Tehtaat's other businesses.\n\n翻译：收购不一定来自冷冻食品或鱼类部门，只要它与L+ñnnen Tehtaat的其他业务有协同效应即可。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

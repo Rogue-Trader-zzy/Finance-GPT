@@ -1,0 +1,302 @@
+[
+  {
+    "input": "At Cogeco Media, we expect a further decline in advertising revenue as the easing of confinement measures in Montreal occurred only gradually in June. \n\n翻译：在Cogeco Media，我们预计广告收入将进一步下降，因为蒙特利尔的封锁措施的缓解在六月只逐步进行。",
+    "output": "{headquarters_location: Cogeco, Montreal} 的英文翻译是 \"总部所在地：Cogeco, Montreal\"。",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer.\"\n\nThe relationship between the two phrases in the given input text is:\n\nrelation1: 请帮我, 翻译成中文\nrelation2: 回答中, 直接给出\n\nThe corresponding lexical relationship between the two word pairs is:\n\nrelation1: 翻译\nrelation2: 提供",
+    "text": ""
+  },
+  {
+    "input": "At Cogeco Media, we expect a further decline in advertising revenue as the easing of confinement measures in Montreal occurred only gradually in June. \n\n翻译为：\n\n在Cogeco Media，我们预计广告收入将进一步下降，因为蒙特利尔的封锁措施的放松只发生在6月份。",
+    "output": "{headquarters_location: Cogeco, Montreal} 的中文翻译是：总部所在地：Cogeco，蒙特利尔。",
+    "instruction": "Subject: the input sentence; Object: relation types; Relation: translation\n\nTranslation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\n\nSubject: the input sentence; Object: relation types; Relation: translation\n\nTranslation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}",
+    "text": ""
+  },
+  {
+    "input": "\"在Cogeco Media，我们预计广告收入会进一步下降，因为蒙特利尔的隔离措施的放宽只在6月份缓慢进行。\"",
+    "output": "总部所在地：",
+    "instruction": "Cogeco is a company that was founded by the Guimond family in 1970 in Montreal, Canada. They are primarily involved in the cable television and telecommunications industry, and are one of the largest cable providers in Canada. Cogeco is listed on the Toronto Stock Exchange and has operations in Canada, the United States, and France. Their headquarters are located in Dorval, Quebec, Canada. The company's CEO is Louis Audet.",
+    "text": ""
+  },
+  {
+    "input": "{在Cogeco Media，我们预计由于蒙特利尔的封锁措施仅在6月份逐渐放松，广告收入将进一步下降。}",
+    "output": "总部所在地：Shanghai, China.",
+    "instruction": "The relationship between Cogeco and Montreal in the context of the input sentence is: \"owned by\". Cogeco is a company that is owned by Montreal.",
+    "text": ""
+  },
+  {
+    "input": "This marketing initiative has a few benefits. = 这个营销计划有几个好处。",
+    "output": "Sure, here's the translation:\n\n\"Please help me translate the following English sentence into Chinese. The translation should be directly provided in the answer. {industry: initiative, marketing}\"\n\n\"请帮我把下面的英文句子翻译成中文。回答中直接给出英文翻译！{行业：主动性，市场营销}\"",
+    "instruction": "This sentence seems to be a mix of instructions and a request for translation. However, the given sentence doesn't contain any specific phrases that describe the relationship between two words/phrases. Please provide a sentence with such phrases for me to extract the word/phrase pair and the corresponding lexical relationship between them.",
+    "text": ""
+  },
+  {
+    "input": "This marketing initiative has a few benefits.\n翻译：这个市场营销举措有一些好处。",
+    "output": "Sure, here's the translation:\n\n\"Please help me translate the following English sentence into Chinese. Here's the translation: {industry: initiative, marketing}.\"\n\nIn Chinese: \"请帮我把下面的英文句子翻译成中文。这里是翻译：{行业：主动性，市场营销}。\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "This marketing initiative has a few benefits. \n这句英文句子的中文翻译为：“这个营销倡议有几个好处。”",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between initiative and marketing from the options.\n\n使用输入文本作为上下文参考，从选项中选择发起人和市场营销之间的正确关系。\n\nOptions: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\n选项：产品/材料生产，制造商，分销商，行业，职位，原始广播者，所有者，创始者，分销格式，总部所在地，股票交易所，货币，母公司，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。",
+    "text": ""
+  },
+  {
+    "input": "\"This marketing initiative has a few benefits.\" 翻译为中文是：“这个营销举措有几个好处。”",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" in Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" can be translated to \"Help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry}\" in English.",
+    "instruction": "The relationship between initiative and marketing in the context of the input sentence is \"brand\".",
+    "text": ""
+  },
+  {
+    "input": "During the event, we announced the launch of our new data and analytics offerings, an expanded relationship with Microsoft to provide these solutions on the Microsoft Azure Public Cloud. \n\n翻译为中文：\n\n在此活动中，我们宣布了推出新的数据和分析产品，并与微软建立了更紧密的关系，以在微软Azure公共云上提供这些解决方案。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{开发者：Microsoft Azure，Microsoft}\"",
+    "instruction": "I'm sorry, but your request is not clear. Could you please provide the English sentence you want me to translate into Chinese?",
+    "text": ""
+  },
+  {
+    "input": "During the event, we announced the launch of our new data and analytics offerings, an expanded relationship with Microsoft to provide these solutions on the Microsoft Azure Public Cloud.\n翻译：在活动中，我们宣布推出新的数据和分析产品，并与微软建立更紧密的关系，以在微软Azure公共云上提供这些解决方案。",
+    "output": "Microsoft Azure is a cloud computing platform and infrastructure created by Microsoft for building, deploying, and managing applications and services at scale.",
+    "instruction": "Here is the translation of the given sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nTranslation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "text": ""
+  },
+  {
+    "input": "During the event, we announced the launch of our new data and analytics offerings, an expanded relationship with Microsoft to provide these solutions on the Microsoft Azure Public Cloud.\n\n中文翻译：在活动中，我们宣布推出我们的新数据和分析解决方案，并与微软建立了更紧密的合作关系，为这些解决方案提供微软Azure公共云服务。",
+    "output": "Sure, here's the translation of the given sentence:\n\nDeveloper: 开发者",
+    "instruction": "Microsoft Azure is a cloud computing platform developed and distributed by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "在这次活动中，我们宣布推出我们的新数据和分析解决方案，与微软建立更广泛的关系，以便在这些解决方案上提供这些解决方案在微软Azure公共云上。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Microsoft Azure and Microsoft have a parent-child relationship.",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上以及Bouygues Telecom的运营方式来看，我在2018年和2019年向您解释过，Bouygues Telecom有一个在夏季的平静期实施的策略。",
+    "output": "以下是英文翻译：\n\nBouygues, Bouygues Telecom 是 Bouygues Telecom 和 Bouygues 的子公司，由 Bouygues Telecom 和 Bouygues 所有。",
+    "instruction": "The given phrase is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translation of the phrase in English is: \"Please help me translate the following English sentence into Chinese. Directly give the English translation in the answer!\"\n\nThe corresponding lexical relationship between the words/phrases in the input text is: \"translation: 翻译, 句子; Chinese: 中文, 翻译\"\n\nOutput format: \"translation: 翻译, 句子; Chinese: 中文, 翻译\"",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上以及Bouygues Telecom的运营方式来看，我在2018年和2019年也向你解释过这一点，Bouygues Telecom有一个我们在夏季推出并在淡季执行的战略。",
+    "output": "The provided English sentence translates to Chinese as: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary: Bouygues, Bouygues Telecom; parent_organization: Bouygues Telecom, Bouygues; owned_by: Bouygues Telecom, Bouygues}\"",
+    "instruction": "Here is the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe relation in this sentence is \"answer\", which can be translated as \"回答\" in Chinese. So, the relation type is: \"relation: answer\".",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上以及Bouygues Telecom的运营方式来看，这是我在2018年和2019年向你解释过的，Bouygues Telecom有一个策略，我们会在夏季的淡季期间推行。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Bouygues is a French multinational corporation that operates in various sectors including construction, telecommunications, and energy. Bouygues Telecom is a subsidiary of Bouygues that specializes in providing telecommunications services. The relationship between Bouygues and Bouygues Telecom is that Bouygues is the parent organization of Bouygues Telecom.",
+    "text": ""
+  },
+  {
+    "input": "其次，Bouygues Telecom的结构和运营方式，我在2018年和2019年向您解释过，Bouygues Telecom在夏季的安静时期推出一项战略。",
+    "output": "Certainly, I'd be happy to help. Here are the translations of the English sentences you provided:\n\n1. \"I am going to the store to buy some groceries.\" -> \"我要去商店买些杂货。\"\n2. \"Can you help me with this project?\" -> \"你能帮我完成这个项目吗？\"\n3. \"The weather is really nice today.\" -> \"今天的天气真的很好。\"\n4. \"I am learning a new language.\" -> \"我正在学习一门新语言。\"\n5. \"I love to travel and explore new places.\" -> \"我喜欢旅行和探索新的地方。\"\n\nI hope these translations are helpful! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "Bouygues and Bouygues Telecom are related as a parent organization and subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上和Bouygues Telecom的运营方式来看，这是我在2018年和2019年向您解释过的，Bouygues Telecom在夏季的平静期推出了一种策略。",
+    "output": "{\"parent_organization\": \"组织\"}",
+    "instruction": "Bouygues Telecom is a French telecommunications company that is part of the Bouygues Group. Bouygues Group is a diversified corporation that operates in various sectors such as construction, telecommunications, and media. The company was founded in 1952 by Marcel Bouygues, and it is headquartered in Paris, France. Bouygues Telecom is a major player in the French telecommunications market and offers a range of services including mobile, fixed-line, and broadband internet. The company is known for its innovative products and services, and it is committed to providing high-quality communication solutions to its customers.",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上和Bouygues Telecom的运营方式来看，这与2018年和2019年我向你解释的情况有关，Bouygues Telecom有一个战略，我们将在夏季的淡季期间推出。",
+    "output": "The English sentence you provided, \"{parent_organization}\", is already in English. However, if you want me to translate it into Chinese, it would be: \"{parent_organization}\" （组织名称）.",
+    "instruction": "Bouygues Telecom and Bouygues are related as a subsidiary and parent organization.",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上和Bouygues Telecom的运营方式来看，这是我之前向你解释过的关于2018年和2019年的事情，Bouygues Telecom有一个策略，我们会在夏季的平静期推出。",
+    "output": "Owned by is a phrase in English, and it can be translated to \"由...所有\" in Chinese. Here's the direct translation: \"由...所有\" (yóu...suǒyǒu)",
+    "instruction": "Bouygues Telecom is a French telecommunications company founded by Bouygues Group. It operates in the telecommunications industry and is headquartered in Paris, France. Bouygues Telecom is a subsidiary of Bouygues Group, which is a holding company that owns various other businesses. The CEO of Bouygues Telecom is Stéphane Richard, who also holds the position of CEO at Bouygues Group. Bouygues Telecom is listed on the Euronext Paris stock exchange and operates in multiple countries across Europe and Africa. The company's primary business division is telecommunications, offering services such as mobile, fixed-line, and broadband internet. Bouygues Telecom is also known for its brand, which includes the Boum Boum mascot and various marketing campaigns. The company is a member of several industry associations and organizations, including the French Federation of Telecommunications Companies (FTC) and the European Telecommunications Standards Institute (ETSI).",
+    "text": ""
+  },
+  {
+    "input": "其次，从结构上和Bouygues Telecom的运营方式来看，我在2018年和2019年向你解释过这一点，Bouygues Telecom有一个策略，我们会在夏季的淡季推出。",
+    "output": "The given English sentence is incomplete and does not provide enough context to translate accurately. Please provide the complete sentence for translation.",
+    "instruction": "Bouygues Telecom is a subsidiary of Bouygues.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group.",
+    "output": "{subsidiary: Bouygues, Bouygues Telecom; parent_organization: Bouygues Telecom, Bouygues; owned_by: Bouygues Telecom, Bouygues}\n\nBouygues and Bouygues Telecom are subsidiaries, and Bouygues Telecom is the parent organization. Bouygues owns Bouygues Telecom.",
+    "instruction": "The relationship between the two words/phrases in the given sentence is \"product/material produced\" and the corresponding lexical relationship is \"manufacturer\". The output format should be \"product/material produced: manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group. 翻译成中文是：\n\nBouygues Telecom 是法国电信运营商，隶属于 Bouygues 集团。",
+    "output": "\"Bouygues\" is a subsidiary of \"Bouygues Telecom\" and \"Bouygues Telecom\" is a parent organization of \"Bouygues Telecom\" and \"Bouygues\". Bouygues Telecom owns \"Bouygues Telecom\" and \"Bouygues\".",
+    "instruction": "The given sentence is: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nThe translation in Chinese is: \"请将下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"\n\nNote: The relation types mentioned in the instruction are not directly translated into Chinese, as they are specific terms and remain the same in both languages.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group.",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you want to translate into Chinese.",
+    "instruction": "Bouygues Telecom is a subsidiary of Bouygues.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group. \n翻译成中文：Bouygues Telecom 是 Bouygues 集团的一部分。",
+    "output": "Certainly! Here's the translation of the given English sentence into Chinese:\n\n\"The company has decided to relocate its headquarters to a new location.\"\n\nChinese: 公司决定将总部迁至新址。",
+    "instruction": "Bouygues and Bouygues Telecom are parent and subsidiary organizations in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group. \n\n翻译：Bouygues Telecom是Bouygues集团的一部分。",
+    "output": "The parent organization is responsible for the overall management and coordination of the project.",
+    "instruction": "Bouygues Telecom is a French telecommunications company founded by Bouygues in 1984. It is a subsidiary of Bouygues, a French multinational corporation, and is listed on the Euronext Paris stock exchange. Bouygues Telecom operates in various countries across Europe, Africa, and the Middle East, offering a range of services including fixed and mobile telephony, broadband internet, and digital TV. Its headquarters are located in Paris, France.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group. \n翻译：Bouygues Telecom是Bouygues集团的一部分。",
+    "output": "{\"parent_organization\": \"parent organization\"}",
+    "instruction": "Bouygues Telecom and Bouygues are related as a subsidiary and parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group. \n翻译为中文：\nBouygues Telecom 是 Bouygues 集团的一部分。",
+    "output": "Owned by: 所有权属于",
+    "instruction": "Bouygues Telecom is a French telecommunications company that is a subsidiary of Bouygues, a French multinational corporation. The relationship between Bouygues Telecom and Bouygues is that Bouygues Telecom is owned by Bouygues.",
+    "text": ""
+  },
+  {
+    "input": "Bouygues Telecom is part of the group, the Bouygues group. \n翻译成中文为：Bouygues Telecom是Bouygues集团的一部分。",
+    "output": "The English sentence you provided, \"{owned_by}\", is not a complete sentence or phrase, so it cannot be translated into Chinese. Please provide a full sentence or phrase for translation.",
+    "instruction": "Bouygues Telecom and Bouygues are related as parent organization and subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "我们的关系，嗯，EIT的想法是我们将离开银行品牌，我们将让它暂时存在，最终被Bouygues Telecom取代，而对于子品牌，NRJ，Cdiscount和Auchan，我们将根据具体情况来决定是否保留它们以保持多元化，或者我们是否想转向Bouygues Telecom。\n\n（Direct translation: Our relations, well, the idea with EIT is that we will leave the banking brands, we will let it remain for a while to be replaced by Bouygues Telecom eventually, whereas the daughter brands, NRJ, Cdiscount and Auchan, we will look at this on a case-by-case basis, whether we should keep them in order to remain diversified or if we want to migrate towards Bouygues Telecom.）",
+    "output": "Subsidiary: Bouygues, Bouygues Telecom; parent_organization: Bouygues Telecom, Bouygues; owned_by: Bouygues Telecom, Bouygues\n\n以下是中文翻译：\n\n- 子公司：Bouygues, Bouygues Telecom；\n- 母公司：Bouygues Telecom, Bouygues；\n- 所有者：Bouygues Telecom, Bouygues。",
+    "instruction": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\n英文翻译：\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer.\"\n\n解析：\n\n- 请帮我（Please help me）：请求帮助的礼貌用语。\n- 翻译（translate）：将一种语言转换成另一种语言的过程。\n- 下面（the following）：指代之前提到的内容，通常指某段文字或话语。\n- 英文句子（English sentence）：使用英文构成的句子。\n- 翻译成中文（into Chinese）：将英文句子转换成中文。\n- 回答中（in the answer）：在回答中提供所需信息。\n- 直接给出（provide directly）：直接给出所需信息，无需额外说明。\n- 英文翻译（English translation）：将中文翻译回英文。",
+    "text": ""
+  },
+  {
+    "input": "\"Our relations, well, the idea with EIT is that we will leave the banking brands, we will let it remain for a while to be replaced by Bouygues Telecom eventually, whereas the daughter brands, NRJ, Cdiscount and Auchan, we will look at this on a case-by-case basis, whether we should keep them in order to remain diversified or if we want to migrate towards Bouygues Telecom.\"\n\nTranslation: \"我们的关系，嗯，EIT的想法是我们将离开银行品牌，我们会让它暂时存在，最终被Bouygues Telecom取代，而对于子品牌，如NRJ、Cdiscount和Auchan，我们将根据具体情况来决定是否保留它们以保持多样化，或者我们是否想要向Bouygues Telecom迁移。\"",
+    "output": "Subsidiary: Bouygues, Bouygues Telecom; Parent Organization: Bouygues Telecom, Bouygues; Owned by: Bouygues Telecom, Bouygues.",
+    "instruction": "Subject: \"Given the input sentence\"\nObject: \"please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\".\"",
+    "text": ""
+  },
+  {
+    "input": "我们的关系，嗯，与EIT的想法是，我们将离开银行品牌，我们会让它保持一段时间，最终被Bouygues Telecom取代，而对于子品牌，NRJ，Cdiscount和Auchan，我们将逐个考虑，我们是否应该保留它们以保持多样化，或者我们是否想向Bouygues Telecom迁移。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese, and I'll provide the translation directly in my response.",
+    "instruction": "Bouygues is a French multinational corporation that was founded in 1898. It is a holding company that owns and operates various businesses in construction, telecommunications, and services. Bouygues Telecom, on the other hand, is a French telecommunications company that was founded in 1987. It is a subsidiary of Bouygues Group and operates in the telecommunications industry.\n\nThe correct relationship between Bouygues and Bouygues Telecom is \"subsidiary.\"",
+    "text": ""
+  },
+  {
+    "input": "\"我们的关系，嗯，EIT的想法是我们将离开银行业务，我们会让它暂时存在，最终被Bouygues Telecom取代，而对于子品牌，NRJ，Cdiscount和Auchan，我们将根据具体情况来决定是否保留它们以保持多元化，或者是否想要迁移到Bouygues Telecom。\"",
+    "output": "Certainly! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Bouygues and Bouygues Telecom are related as parent organization and subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "{\"Our relations, well, the idea with EIT is that we will leave the banking brands, we will let it remain for a while to be replaced by Bouygues Telecom eventually, whereas the daughter brands, NRJ, Cdiscount and Auchan, we will look at this on a case-by-case basis, whether we should keep them in order to remain diversified or if we want to migrate towards Bouygues Telecom.\"}",
+    "output": "Sure, here's the translation of the given sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response: {parent_organization}.\"",
+    "instruction": "Bouygues Telecom is a French telecommunications company that was founded by Bouygues, a French construction and public works group.",
+    "text": ""
+  },
+  {
+    "input": "\"我们的关系，嗯，与EIT的想法是我们将离开银行品牌，我们会让它暂时存在，最终被Bouygues Telecom取代，而对于子品牌，NRJ，Cdiscount和Auchan，我们将根据具体情况来考虑，我们是否应该保留它们以保持多样化，或者我们想要迁移到Bouygues Telecom。\"",
+    "output": "Sure, I can help with that. The English sentence you provided, \"{parent_organization}\", doesn't actually contain any text to translate. It seems like you might have made a mistake or used an incorrect format. Please provide the English sentence you'd like me to translate into Chinese, and I'll be happy to assist you.",
+    "instruction": "Bouygues Telecom and Bouygues are related as a subsidiary and parent organization.",
+    "text": ""
+  },
+  {
+    "input": "我们的关系，嗯，与 EIT 的想法是我们将离开银行业品牌，我们将让它暂时存在，最终被 Bouygues Telecom 取代，而对于女儿品牌，NRJ，Cdiscount 和 Auchan，我们将根据具体情况考虑，我们是否应该保留它们以保持多元化，或者我们想要迁移到 Bouygues Telecom。",
+    "output": "Owned by: 所有者。",
+    "instruction": "Bouygues Telecom is a French telecommunications company that was founded by Bouygues, a French multinational corporation.",
+    "text": ""
+  },
+  {
+    "input": "我们的关系，嗯，EIT的想法是，我们会把银行品牌留在那里，让它暂时被Bouygues Telecom取代，而子品牌，NRJ、Cdiscount和Auchan，我们会根据具体情况来决定，是保留它们来保持多元化，还是想向Bouygues Telecom迁移。",
+    "output": "Owned by: 由...所有",
+    "instruction": "The relationship between Bouygues Telecom and Bouygues is that they are both part of the same parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Today's conference call has with us the Chief Accountant Mr. Mikhail Rosseev and also Deputy Chairman of the Management Committee at PJSC Gazprom, as well as representatives of key departments at PJSC Gazprom, Gazprom Export and Gazprom Neft.",
+    "output": "{subsidiary: 天然气工业股份公司，天然气出口公司；parent_organization: 天然气出口公司，天然气工业股份公司}",
+    "instruction": "The input text is: \"Translate the following English sentence into Chinese: {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nThe translated sentence in Chinese is: \"请帮我把下面的英文句子翻译成中文：{给定的短语描述两个单词/短语之间的关系，从输入文本中提取单词/短语对和它们之间的相应词义关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...分销，行业，担任职务，原始广播者，拥有，由...创立，分销格式，总部所在地，股票交易所，货币，母公司，首席执行官，董事/经理，拥有者，操作者，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。}\"\n\nThe word/phrase pair and corresponding lexical relationship between them are: \"product/material produced\" and \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "今天在我们的电话会议上，我们有首席会计师Mikhail Rosseev先生，以及PJSC Gazprom管理委员会的副董事长，以及PJSC Gazprom，Gazprom Export和Gazprom Neft的关键部门代表。",
+    "output": "Gazprom is a Russian state-owned energy company, while Gazprom Export is its subsidiary responsible for exporting natural gas. The parent organization of Gazprom Export is Gazprom itself.",
+    "instruction": "Subject: company, product\nObject: relation types\nRelation: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\n\nSubject: 请\nObject: 翻译\nRelation: 直接给出英文翻译\n\nSubject: 下面\nObject: 英文句子\nRelation: 翻译成中文\n\nSubject: 回答中\nObject: 英文翻译\nRelation: 直接给出",
+    "text": ""
+  },
+  {
+    "input": "In our conference call today, we have with us the Chief Accountant Mr. Mikhail Rosseev and also the Deputy Chairman of the Management Committee at PJSC Gazprom, as well as representatives from key departments at PJSC Gazprom, Gazprom Export and Gazprom Neft.",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Gazprom Export is a subsidiary of Gazprom.",
+    "text": ""
+  },
+  {
+    "input": "今天我们的电话会议上有我们公司的首席会计师米哈伊尔·罗斯索夫先生，以及天然气工业股份公司管理委员会的副主席，以及天然气工业股份公司、天然气出口公司以及天然气石油公司的关键部门代表。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Gazprom and Gazprom Export is \"owned by.\"",
+    "text": ""
+  },
+  {
+    "input": "In our conference call today, we have with us the Chief Accountant Mr. Mikhail Rosseev and also the Deputy Chairman of the Management Committee at PJSC Gazprom, as well as representatives of key departments at PJSC Gazprom, Gazprom Export and Gazprom Neft.",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!",
+    "instruction": "Gazprom Export is a subsidiary of Gazprom.",
+    "text": ""
+  },
+  {
+    "input": "Today's conference call, we have with us the Chief Accountant Mr. Mikhail Rosseev and also Deputy Chairman of the Management Committee at PJSC Gazprom, as well as representatives of key departments at PJSC Gazprom, Gazprom Export and Gazprom Neft.",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {parent_organization}\".",
+    "instruction": "The relationship between Gazprom Export and Gazprom in the context of the input sentence is: \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "On the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors. \n\n在维珍大西洋航空宣布的那一天，他们提到，他们在重组计划中得到了股东、维珍集团和达美航空，以及一些新投资者的支持。",
+    "output": "The given information can be translated as follows:\n\n- Virgin Group is the owner of Virgin Atlantic.\n- Virgin Atlantic is a subsidiary of Virgin Group.\n- Virgin Group is the parent organization of Virgin Atlantic.\n- Virgin Atlantic is owned by Virgin Group.",
+    "instruction": "Here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn the format you requested: \"relation1: word1, word2; relation2: word3, word4\". The output would be: \"relation1: 请帮我, 把下面; relation2: 英文句子, 翻译成中文。\"",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors.\n\n翻译：\n在维珍大西洋航空宣布的日子里，他们提到了他们的重组计划，他们表示，这得到了股东、维珍集团和达美航空，以及一些新投资者的支持。",
+    "output": "Virgin Group is the owner of Virgin Atlantic, which is also a subsidiary of Virgin Group. Virgin Atlantic is also owned by Virgin Group. Virgin Group is the parent organization of Virgin Atlantic.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThis is the translation of the given sentence into Chinese:\n\n请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors.\n翻译：在维珍大西洋航空宣布的日子里，他们提到了他们的重组计划，表示他们得到了股东、维珍集团和达美航空，以及一些新投资者的支持。",
+    "output": "Sure, I can help with that! Here's the translation:\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation in your response: {owner_of}",
+    "instruction": "Virgin Group is the parent organization of Virgin Atlantic.",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors.\n- 在维珍大西洋航空宣布的日子，他们提到他们的重组计划，他们正在得到股东、维珍集团和达美航空，以及一些新投资者的支持。",
+    "output": "The owner of the company.",
+    "instruction": "The relationship between Virgin Group and Virgin Atlantic in the context of the input sentence is \"owned by\". Virgin Atlantic is a subsidiary of Virgin Group.",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors.\n\n英译中：\n在维珍大西洋航空宣布的那一天，他们提到了他们的重组计划，他们是在股东、维珍集团、达美航空以及一些新投资者的支持下进行的。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n{parent_organization}",
+    "instruction": "Virgin Atlantic is owned by Virgin Group.",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors.\n\n在维珍大西洋航空宣布的日子里，他们提到了他们的重组计划，表示他们得到了股东、维珍集团和达美航空以及一些新投资者的支持。",
+    "output": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Virgin Atlantic is owned by Virgin Group.",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors. \n\n英译中：在维珍大西洋航空宣布的那一天，他们提到了他们的重组计划，称他们得到了股东、维珍集团和达美航空以及一些新投资者的支持。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given sentence:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in English.\"\n\nIs there anything else I can help you with?",
+    "instruction": "Virgin Group is the parent organization of Virgin Atlantic.",
+    "text": ""
+  },
+  {
+    "input": "In the Virgin Atlantic announcement day, they mentioned for their restructuring plan that they're doing this with the support of shareholders, Virgin Group and Delta, as well as some new investors.\n\n在维珍大西洋宣布的那一天，他们提到他们的重组计划是在股东、维珍集团和达美航空以及一些新投资者的支持下进行的。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Virgin Group and Virgin Atlantic are both owned by Sir Richard Branson, who is the founder of both companies.",
+    "text": ""
+  }
+]

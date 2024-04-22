@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Fortress 正在寻求为运输公司 Trac 提供 10 亿美元的资金。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The authorities are investigating whether the Pensacola shooting was related to terrorism.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Aviva closes Friends Life head office in swift integration move\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"林肯矿产品公司：董事辞职#林肯矿产品公司#股票#市场筛选器https://t.co/pXmTEUfQd5 https://t.co/ywLdXfDZEy\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The real estate company posted a net loss of ¥59.3 million or ¥0.21 per share compared with a net profit of ¥31 million or ¥0.11 per share for the corresponding quarter of 2007.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Shell挑战Exxon的霸主地位，以47亿英镑的出价收购BG。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The event can also be viewed as a live webcast at www.cargotec.com. \n\n可以翻译为：该活动还可以在 www.cargotec.com 上观看直播。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"能量仍然无法突破10日移动平均线。持续表现出弱势的$XLE。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The trainline.com公司宣布伦敦IPO的到来。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Warren Buffett 推荐购买优质公司在合理价格，而目前熊市已经使微软成为了终极优质公司在合理价格。MSFT 从高点下跌了近 30%，并以 17.5 倍的现金调整后收益进行交易，考虑到其 15.8% 的增长前景和无可挑剔的质量，这是合理的价格增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "授权有效期至下一次年度股东大会结束，并废止了2007年4月4日举行的股东大会授予的购买本公司股份的授权。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司股价在131美元时进入反弹模式。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Lasting Toll of a Deadly Virus 致命病毒的持久影响",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "航空公司继续与奥密克戎相关的缺席作斗争，有些公司提前削减了航班计划。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Lloyds to cut 945 jobs as part of three-year restructuring strategy.\n\n翻译：劳埃德银行将在三年内进行重组，裁员945人。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company will make its marketing and sales investments initiated in 2009 even more efficient in 2010.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果于周五发布了 iOS 16 更新，这意味着任何拥有 iPhone 8 或更新型号的人都可以安装适用于 iPhone 14 的大型软件更新。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AWS continues to push the envelope to vertically integrate, challenging other top software and hardware suppliers.\n\n中文翻译：AWS 继续推动垂直整合，挑战其他顶级软件和硬件供应商。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Finnish investment group Norvestia Oyj said its net profit fell to 23.5 mln euro $ 30.6 mln in 2006 from 33.5 mln euro $ 43.6 mln in 2005.} \n\n芬兰投资集团诺维斯塔公司(Norvestia Oyj)表示，其2006年的净利润为23.5亿欧元（30.6亿美元），较2005年的33.5亿欧元（43.6亿美元）有所下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是英文翻译：\n\n\"TSLA yeah lets go down to 230s lol\" 翻译成中文为 \"TSLA 是的，让我们降到 230s 吧，哈哈哈\"。\n\n解释：\n\n- \"TSLA\" 是特斯拉公司股票代码的缩写，通常用来指代特斯拉股票。\n- \"yeah\" 是表示同意或肯定的词，这里表示赞同某个观点或建议。\n- \"lets go down to 230s\" 的意思是 \"让我们降到 230s\"，其中 \"down to\" 表示降低到某个数值，而 \"230s\" 可能是指某个价格或数值。\n- \"lol\" 是 \"laugh out loud\" 的缩写，表示在开玩笑或幽默地表达某个观点。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沃尔特·迪士尼公司的股票价格目标从帝国资本的141美元上调至143美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{NEW DELHI (AP) — Apple Inc. 宣布将在印度生产其最新的 iPhone 14，因为制造商正在将生产从中国转移到其他地方，以应对地缘政治紧张局势和疫情限制对许多行业供应链造成的影响。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Institutional Ownership of Reliance Industries Limited (NSE: RELIANCE) Shares?",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The tech giant's most successful product can keep driving terrific growth.\n翻译：科技巨头的最成功产品可以持续驱动卓越增长。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook不错的买入点，就在这里。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The world's biggest computer chip maker NVIDIA has issued a profit warning in the lead up to its interim results due on August 24, leading to a 6% share price tumble for the NASDAQ-100 multinational. Revenues for the quarter are expected to come in at US$6.7bn, making for a 17% shortfall against May guidance of US$8.1bn.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SoftBank 本周将继续推进 WeWork 股票要约收购 #经济 #市场筛查器 https://t.co/MQFbUV0mnl https://t.co/l4UmkBixZV",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{The Medicines Company 股价在盘前上涨了2%，因为公布了inclisiran的积极数据}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BG Group appoints new CEO one month early\" 翻译成中文为 \"BG Group 提前一个月任命新 CEO\"。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Market Update: Stock market lifted by mega-cap tech. \n\n直译：股市更新：大盘科技股推动股市上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 去年，芬兰航空在亚洲地区实现了32.6％的增长，两个大陆之间运送了超过110万名乘客。 ''",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "纳斯达克综合指数在交易开始时下跌0.5%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Best-Managed Companies of 2019 -- and How to Spot Them #economy #MarketScreener https://t.co/4HDDgcmI5N https://t.co/Tt1goVZYDT",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2021年的股票回购可能超过1万亿美元，根据标准普尔的初步数据。这是一个很大的数字。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cadence Design Systems, Inc. (NASDAQ:CDNS) Q1 2022 Earnings Conference Call April 25, 2022 5:00 PM ET\nCompany Participants\nRichard Gu - Vice President, Investor Relations\nAnirudh Devgan - President and CEO\nJohn Wall - Senior Vice President and CFO\n\nConference Call Participants\nGary Mobley - Wells Fargo Securities\nCharles Shi - Needham & Company\nJoe Vruwink - Baird\nBlair Abernethy - Rosenblatt Securities\nPradeep Ramani - UBS Securities\nJay Vleeschhouwer - Griffin Securities\nVivek Arya - Bank of America Securities\nRuben Roy - the WestPark Capital\nDevin Au - KeyBanc Capital Markets\n\nOperator\nGood afternoon. My name is Erica, and I will be your conference operator today.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"This is a win for all OEMs targeting to develop WiMAX products.\" 翻译为中文是：“这是所有 OEMs 开发 WiMAX 产品的胜利。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish automation solutions developer Cencorp Corporation (OMX Helsinki: CNC1V) said on Friday (27 June) that it has completed employee negotiations regarding a reorganization of its operations.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The largest hedge fund in the world has reportedly staked more than $1 billion that global equity markets will fall.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit decreased to EUR 11.2 mn from EUR 16.6 mn. \n= 营业利润从EUR 16.6 mn减少到EUR 11.2 mn。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TSLA 在 S1 上方震荡，关注 S2：http://stks.co/jQfB",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Fortinet +2% after investor day guidance. \n\n翻译：在投资者日指导之后，Fortinet上涨了2%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "冠状病毒对石油最脆弱的信用造成了最大的影响。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n{Standard Chartered's Shares Plunge 7% After Fitch Downgrade}\n\n中文翻译：\n\n\"渣打银行股价下跌7%，在Fitch下调评级后。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish publishing and printing group Ilkka-Yhtymää will introduce a staff smoking ban at the beginning of 2007 at the company's three newspapers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果公司现在被击败了，被憎恨，等等。/嗯嗯，与700相反的，接下来会发生什么？\n\n英文翻译：AAPL is now beaten down, hated, etc. / hhhmm opposite of 700> what happens next?",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amid fears of inflation, the best mutual funds bet $1.9 billion on NDAQ stock, topping investments in Apple.\n翻译成中文：\n在通胀的担忧中，最优秀的共同基金将19亿美元投入NDAQ股票，超过了对苹果的投资。\n（此翻译基于对原文内容的理解，实际翻译可能因上下文和语境的不同而有所变化。）",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$GPRO下跌了自周二上午以来的25%。}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Tesco 股东支持 ITV 负责人担任董事长\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "明天是熊市派对时间！$GOOG和$MSFT下跌5.5%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"希尔顿全球第四季度2019年业绩预览\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

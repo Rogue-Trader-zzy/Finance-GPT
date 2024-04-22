@@ -1,0 +1,302 @@
+[
+  {
+    "input": "以下是英文翻译：\n\n{ASPO Plc STOCK EXCHANGE BULLETIN October 24 , 2006 at 2:00 p.m. Aspo Systems Division has completed the statutory negotiations , as required under the Act on Co-Operation Within Undertakings , conducted as part of the action plan launched in August .}\n\nAspo Systems Division has completed the statutory negotiations, as required under the Act on Co-operation Within Undertakings, conducted as part of the action plan launched in August. (ASPO Plc STOCK EXCHANGE BULLETIN October 24 , 2006 at 2:00 p.m.)",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政从Ofcom邮政监管报告中获得了好坏参半的结果。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I'm sorry, but the sentence you provided does not seem to be a complete or coherent sentence in English or Chinese. Could you please provide a different sentence or clarify the context?",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"OCN, SYNA, SVM and ZGNX are among midday movers.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IndiGo CEO says replacing Pratt engines in fleet by end of January is a challenge.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Julie Hyman and Brian Sozzi speak with Wamsi Mohan, Bank of America senior IT hardware analyst, who joins to discuss how Apple is staying innovative their product lines with their new M1 chips.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Twitter users explain why Kohl's stock just got obliterated after reporting earnings.\n\nTwitter用户解释了为什么科勒在公布收益后，股价就遭到了重创。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "今天天然气（Natural Gas）价格出现反弹，可以看到3月到期的天然气期货价格为14美元的看涨期权（$14 calls）今天早上有28,000个活跃交易。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"VIVE 采取 +10k\" 的中文翻译为 \"VIVE 采取 10,000 次\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The offering is expected to close on October 28, 2022, subject to customary closing conditions.\n\n翻译：该发售预计将于2022年10月28日完成，具体取决于常规的完成条件。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$MPAA - Motorcar Parts of America, Inc. (MPAA) CEO Selwyn Joffe on Q3 2020 Results - Earnings Call Transcript.… https://t.co/U4Ws1FPtFt}\n\nMPAA - 美国汽车零部件公司（MPAA）CEO塞尔温·乔夫（Selwyn Joffe）对2020年第三季度业绩的评论 - 盈利电话会议记录。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RSA Insurance Hires Towergate's Egan as Chief Financial Officer 翻译为中文是：“RSA保险公司聘请了Towergate的Egan担任首席财务官。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix wants to make it easier for you to recommend the TV shows and films you love. 翻译为：Netflix 想要让你更容易推荐你喜欢的电视剧和电影。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "亚马逊公司（纳斯达克：AMZN）在云计算和广告方面有着强大的基础，但根据罗希特·库卡尼的说法，它需要依靠其遗产零售业务来吸引投资者，以便股价回升。亚马逊股票的看涨理由是，这家科技巨头在第一季度的运营利润率从8.2%下降到3.2%。文章标题是“亚马逊股票要如何回升？”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple is closing all China stores and offices.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"TZA is a rocket ship!!!\".",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EEX European Energy Exchange: 将引入天然气现货交易的行动限制 #EEX #economy #MarketScreener…",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels Group share price climbs on $1.5bn special dividend.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Stock splits have become increasingly popular among mega-cap companies with lofty share prices as splits often lead to increased attention and an appreciation in underlying stock prices, but Amazon.com Inc (NASDAQ: AMZN) has not seen said benefits since announcing a split in March.\" 翻译为：\n\n\"股票拆分在拥有高股价的大型公司中变得越来越流行，因为拆分通常会导致更多的关注和基础股票价格的上涨，但自3月宣布拆分以来，亚马逊.com公司（纳斯达克股票代码：AMZN）并没有看到这些好处。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益（EPS）达到亏损0.05欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Clear bottom line earnings growth and visibility. 翻译为：清晰的基础收益增长和可见性。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当它揭开为哪些类型的客户设计手机的面纱时，结果是社会刻板印象达到了极致。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "However, net sales in 2010 are seen to have grown to EUR598.3m from EUR582.3m in 2009.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The unveiling of the Tesla $TSLA #Cybertruck didn't go quite as expected... but moving on, there's a few specs you sho…",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jet fuel demand drops as coronavirus leads to travel restrictions.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该股票明天和/或下周早期反弹的可能性非常高。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nScandinavian lenders Sampo Bank ( HEL : SAMAS ) , Pohjola Bank ( HEL : POH1S ) and Svenska Handelsbanken ( STO : SHB A ) have provided a EUR160m ( USD213m ) line of credit to Lemminkainen Oyj ( HEL : LEM1S ) , the Finnish construction firm said on Friday .",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$ISRG Break out confirmed. Bought Leaps. Good trading!}\" 翻译为中文是：\"{$ISRG 突破确认。买入期权。好交易！}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "尽管普遍共识认为，在短期内，AMD（纳斯达克股票代码：AMD）的前景黯淡，但一些投资者开始怀疑，这只股票是否会成为长期投资的良好选择。本文将分析半导体股票AMD的看涨和看跌情况。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "非常糟糕的判罚使得牛仔队得以逃脱，但爱国者队最终没有在东北部失利。\n\n英文翻译：Terrible call against Cowboys bails out Patriots...never fails in NE.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果准备在本周揭幕其配备5G功能的低成本版iPhone SE，业界分析人士对它在科技巨头中的影响持谨慎态度。新手机预计将是3月8日（星期二）安排发布的一系列新产品的一部分，展示苹果的首款iPhone […]。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据 Locatrix Communications 的 CEO Mark White 的说法，该公司的 Web 服务接口允许设备所有者、朋友和家人通过任何 Web 浏览器跟踪和定位 TWIG 用户。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{@catskillfishing  Note the monthly chart of $GDX & how it recaptured support. $GLD possible double bottom set up. http://stks.co/aw6z}\" 翻译为中文为：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{@catskillfishing  注意 $GDX 的月线图以及它如何重新获得支撑。$GLD 可能的双重底部设置。http://stks.co/aw6z}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Company turnover amounted to MEUR 27.9 in 2007.\n\n公司营业额在2007年为27.9百万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The bulls are back to binging on growth stocks. If the market's bounce sticks, here are three top stock trades that will thrive. \n\n翻译为中文：\n\n公牛们又开始疯狂购买成长股了。如果市场的反弹持续，这里有三个顶级股票交易将蓬勃发展。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The dividend will be paid on April 15, 2008 to each of the shareholders who on the record date of April 8, 2008 have been entered in the list of shareholders kept by the Finnish Central Securities Depository Ltd. can be translated to Chinese as:\n\n{2008年4月15日，芬兰中央证券存托有限公司所保存的股东名册中，于2008年4月8日记录的股东，将获得分红。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The serial bond is part of the plan to refinance the short-term credit facility. （连续债券是短期信贷融资的再融资计划的一部分。）",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The business idea of Budget Sport is to offer customers a wide range of high-quality sports equipment and clothing at low prices, the company said.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The total value of the contract is approximately EUR 10 million.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "VIVUS $VVUS 空头袭击正在进行中。股票下跌12%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Farm Experts Pitch For Scrapping GST On Agri-Inputs In Budget Wish List\n农业专家在预算愿望清单中呼吁取消农业投入品的GST。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "It's time for a market update and we're diving into why stocks are down on Tuesday and there's plenty of reasons for today's dip. The post Market Update: Why Are Stocks Down Tuesday? \n\n市场更新的时间到了，我们将探讨为什么周二的股票下跌，以及今天下跌的原因有很多。文章标题为《市场更新：为什么周二的股票下跌？》",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{目标是从2009年开始，鲁克基建筑公司每年实现超过3百万欧元的运营利润增长。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Incap Contract Manufacturing Services Private Limited has signed agreements with six new customers in India.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"随着公司资本的增加，其总资本为5.5百万罗马尼亚列伊，$1.98百万-1.56百万欧元。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Standard Chartered Not Raising Capital Yet As Dividend Cut\" 的中文翻译为 \"渣打银行暂不筹集资本，因股息削减\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TalkTalk雇用BAE Systems调查网络攻击。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` 随着防御的成熟，攻击者会开发装备了内容过滤器来检测在线银行业务活动的木马，以便通过表单抓取、屏幕截图、视频捕捉、键盘记录和表单字段注入等方式捕获账户细节。''",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回所有 Model X 汽车...详情如下 $TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EasyJet Passenger Numbers, Aer Lingus Traffic Up In February\nEasyJet乘客数量，Aer Lingus交通量二月份增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

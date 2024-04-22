@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{伦敦（路透社）- 美国多元化企业集团通用电气（GE.N）的房地产投资部门已以6.42亿欧元（10.01亿美元）的价格从瑞士信贷（CSGN.VX）手中收购了一组贷款，该公司周二表示。}",
+    "output": "Please help me translate the following English sentence into Chinese. Here is the English translation: \n\n{industry}",
+    "instruction": "General Electric is a conglomerate.",
+    "text": ""
+  },
+  {
+    "input": "伦敦（路透社）- 美国多元化企业集团通用电气（GE.N）的房地产投资部门已从瑞士信贷（CSGN.VX）手中购买了一笔贷款组合，总价为6420万欧元（10.01亿美元），该公司周二表示。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "The relationship between General Electric and conglomerate in the context of the input sentence is \"parent organization.\"",
+    "text": ""
+  },
+  {
+    "input": "\"UBS upgraded credit card companies American Express ( AXP.N ), Capital One Financial Corp ( COF.N ) and Discover Financial Services ( DFS.N ) to \"neutral\" from \"sell,\" saying the stock valuations now largely reflect the difficult operating outlook But concerns about inflation continued to weigh on the market.\" 翻译为中文为：\n\n\"瑞银将信用卡公司美国运通公司（ AXP.N ）、花旗集团金融公司（ COF.N ）和发现金融服务公司（ DFS.N ）的评级从\"卖出\"提升至\"中性\"，表示股票估值现在主要反映了艰难的经营前景，但是对通胀的担忧继续对市场造成压力。\"",
+    "output": "Capital One, a leading financial services company, offers a wide range of products and services to meet the diverse needs of its customers. From credit cards and personal loans to savings accounts and investment options, Capital One is committed to providing innovative solutions that help individuals and businesses achieve their financial goals. With a strong focus on technology and customer experience, Capital One is constantly pushing the boundaries of what is possible in the financial services industry.",
+    "instruction": "Here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nThe translated sentence in Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"",
+    "text": ""
+  },
+  {
+    "input": "UBS upgraded credit card companies American Express ( AXP.N ), Capital One Financial Corp ( COF.N ) and Discover Financial Services ( DFS.N ) to \"neutral\" from \"sell,\" saying the stock valuations now largely reflect the difficult operating outlook But concerns about inflation continued to weigh on the market.\n\n翻译：\nUBS将信用卡公司美国运通公司（ AXP.N ）、Capital One金融公司（ COF.N ）和Discover金融服务公司（ DFS.N ）的评级从“卖出”提升至“中性”，表示股票估值现在基本反映了艰难的运营前景，但市场仍受通胀担忧的拖累。",
+    "output": "Sure, I can help with that! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Capital One, Financial Services}\"\n\nTranslation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业：Capital One，金融服务}\n\nPlease let me know if there's anything else I can assist you with!",
+    "instruction": "Subject: The input sentence, Object: relation types, relation1: word1, word2; relation2: word3, word4\n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}",
+    "text": ""
+  },
+  {
+    "input": "\"UBS upgraded credit card companies American Express ( AXP.N ), Capital One Financial Corp ( COF.N ) and Discover Financial Services ( DFS.N ) to \"neutral\" from \"sell,\" saying the stock valuations now largely reflect the difficult operating outlook But concerns about inflation continued to weigh on the market.\" 可以翻译为：\n\n\"瑞银集团将美国运通公司（AXP.N）、花旗集团（COF.N）和发现金融服务公司（DFS.N）的信用评级从“卖出”上调为“中性”，称目前股票估值在很大程度上反映了艰难的经营前景，但通胀担忧仍然对市场造成压力。\"",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given sentence:\n\n\"The industry is booming.\"\n\nChinese translation: 行业蓬勃发展。",
+    "instruction": "Capital One is a financial services company.",
+    "text": ""
+  },
+  {
+    "input": "\"UBS将信用卡公司美国运通（AXP.N）、Capital One金融公司（COF.N）和Discover金融服务公司（DFS.N）的评级从\"卖出\"上调至\"中性\"，称股票估值现在主要反映了艰难的运营前景。但是，通胀担忧继续对市场产生压力。\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "The relationship between Capital One and Financial Services in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "In trading after the closing bell, Starbucks Corp (SBUX.O) shares rose more than 3 percent to $16.14 after the coffee store operator said it is increasing planned store closures and will cut as many as 12,000 jobs.",
+    "output": "Starbucks, coffee.",
+    "instruction": "Original broadcaster: The English sentence is \"The sentence was broadcasted by ABC News.\"\nCorresponding Chinese translation: \"这句话是由ABC新闻播出的。\"\n\nRelation: original broadcaster\nWord pair: The sentence, ABC News",
+    "text": ""
+  },
+  {
+    "input": "交易后市，星巴克公司（SBUX.O）股价上涨超过3%至16.14美元，原因是这家咖啡连锁店运营商宣布将增加计划关闭的门店数量，并计划裁员多达12,000人。",
+    "output": "Starbucks produces coffee.",
+    "instruction": "Please provide the input sentence you would like me to translate and extract information from.",
+    "text": ""
+  },
+  {
+    "input": "在收盘后的交易中，星巴克公司（SBUX.O）的股票上涨了超过3％，达到16.14美元，因为咖啡店运营商表示，它将增加计划中的商店关闭数量，并将裁员最多12,000人。",
+    "output": "I'm sorry, but I cannot provide a translation without the specific English sentence you would like me to translate. Please provide the English sentence you want translated into Chinese, and I will be happy to help you with the translation.",
+    "instruction": "Starbucks is a brand.",
+    "text": ""
+  },
+  {
+    "input": "在交易收盘后，星巴克公司（SBUX.O）的股票上涨了超过3%，达到16.14美元，原因是咖啡店运营商表示将增加计划中的门店关闭，并可能裁员12,000人。",
+    "output": "The product or material produced is a translation of the Chinese phrase \"{product_or_material_produced}\" into English.",
+    "instruction": "Starbucks is a brand that produces and distributes coffee.",
+    "text": ""
+  },
+  {
+    "input": "\"在金融股票中，雷曼兄弟LEH.N上涨了5.8%至20.96美元，这是摩根士丹利建议投资者购买投资银行的股票后发生的。\"",
+    "output": "Lehman Brothers is an investment bank that has been involved in various industries, including finance, real estate, and technology. It has also provided investment services to clients in different sectors, such as healthcare, energy, and consumer goods. The company has a strong global presence and has advised on numerous mergers and acquisitions, as well as initial public offerings (IPOs) and other financial transactions. In addition, Lehman Brothers has been known for its innovative financial products, such as mortgage-backed securities and credit default swaps, which played a significant role in the 2008 financial crisis.",
+    "instruction": "product/material produced: 产品/材料生产\nmanufacturer: 制造商\ndistributed by: 由...分销\nindustry: 行业\nposition held: 担任的职务\noriginal broadcaster: 原始广播者\nowned by: 拥有\nfounded by: 由...创立\ndistribution format: 分发格式\nheadquarters location: 总部所在地\nstock exchange: 股票交易所\ncurrency: 货币\nparent organization: 母公司\nchief executive officer: 首席执行官\ndirector/manager: 董事/经理\nowner of: 所有者\noperator: 运营者\nmember of: 成员\nemployer: 雇主\nchairperson: 主席\nplatform: 平台\nsubsidiary: 子公司\nlegal form: 法律形式\npublisher: 出版商\ndeveloper: 开发者\nbrand: 品牌\nbusiness division: 业务部门\nlocation of formation: 成立地点\ncreator: 创作者",
+    "text": ""
+  },
+  {
+    "input": "在金融股中，雷曼兄弟LEH.N上涨了5.8%至20.96美元，此前摩根士丹利建议投资者购买该投资银行的被低估的股票。",
+    "output": "\"Lehman Brothers is an investment bank that provides a range of financial services to its clients, including underwriting, investment banking, and trading.\"",
+    "instruction": "Sure, I can help you with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "在金融股中，雷曼兄弟公司（Lehman Brothers）股价上涨了5.8%，至20.96美元，此前摩根士丹利建议投资者购买这家投资银行的股票。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Lehman Brothers is a subsidiary of the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "在金融股中，雷曼兄弟（Lehman Brothers）股价上涨了5.8%至20.96美元，此前摩根士丹利（Morgan Stanley）建议投资者购买该投资银行的被低估的股票。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want to translate.",
+    "instruction": "Lehman Brothers is a bank and investment firm. In the context of the input sentence, the relationship between Lehman Brothers and investment is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "Google Apps, six months ago introduced as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.",
+    "output": "{developer: Google Talk, Google; developer: Gmail, Google; owned_by: Gmail, Google}\n\n翻译成中文为：\n\n开发者：Google Talk，Google；开发者：Gmail，Google；所属：Gmail，Google",
+    "instruction": "The given sentence is: \"Can you tell me the relationship between 'apple' and 'Mac'?\"\n\nThe corresponding lexical relationship between the words 'apple' and 'Mac' is 'product/material produced'. So, the output format should be:\n\n\"product/material produced: apple, Mac;\"",
+    "text": ""
+  },
+  {
+    "input": "Google Apps, introduced six months ago as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging. \n\n翻译为中文：\nGoogle Apps，六个月前作为免费服务推出，已经提供了一系列基于网络的程序，包括Gmail电子邮件、共享日历程序和Google Talk即时通讯。",
+    "output": "Sure, here's the translation of the given sentence:\n\n开发者: Google Talk, Google; 开发者: Gmail, Google; 所有者: Gmail, Google\n\nPlease let me know if you need any further assistance!",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe given input sentence is: \"Apple is a technology company that produces iPhones, iPads, and Macs. Apple is headquartered in Cupertino, California.\"\n\nExtracting the subject and object containing a certain relation in the sentence according to the relation types:\n\n- product/material produced: Apple, iPhones, iPads, Macs\n- manufacturer: Apple\n- distributed by: Apple\n- industry: technology\n- position held: headquartered\n- original broadcaster: Apple\n- owned by: Apple\n- founded by: Apple\n- distribution format: not applicable in this sentence\n- headquarters location: Cupertino, California\n- stock exchange: not applicable in this sentence\n- currency: not applicable in this sentence\n- parent organization: not applicable in this sentence\n- chief executive officer: not applicable in this sentence\n- director/manager: not applicable in this sentence\n- owner of: Apple\n- operator: Apple\n- member of: not applicable in this sentence\n- employer: Apple\n- chairperson: not applicable in this sentence\n- platform: not applicable in this sentence\n- subsidiary: not applicable in this sentence\n- legal form: not applicable in this sentence\n- publisher: not applicable in this sentence\n- developer: not applicable in this sentence\n- brand: Apple\n- business division: not applicable in this sentence\n- location of formation: not applicable in this sentence\n- creator: not applicable in this sentence\n\nNote: Some relation types are not applicable in the given input sentence.",
+    "text": ""
+  },
+  {
+    "input": "Google Apps, six months ago introduced as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.",
+    "output": "Sure, here's the translation of the sentence: \"Can you please help me translate the following English sentence into Chinese? {developer}\"\n\nIn Chinese: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{开发者}",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between Google Talk and Google from the options.\n\nGoogle Talk is a product/material produced by Google.",
+    "text": ""
+  },
+  {
+    "input": "Google Apps, six months ago introduced as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese. Here is the direct translation in English: {developer}\"",
+    "instruction": "Google Talk is a product or material produced by Google.",
+    "text": ""
+  },
+  {
+    "input": "\"Google Apps, introduced six months ago as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.\" 翻译成中文为：\n\n\"谷歌应用，六个月前作为一项免费服务推出，已经提供了一系列基于网页的程序，包括Gmail电子邮件、共享日历程序和谷歌聊天即时通讯。\"",
+    "output": "Sure, here's the translation of the sentence you provided:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" can be translated to: \"Help me translate the following English sentence into Chinese, and directly give me the English translation in the answer!\"\n\nHope that helps! Let me know if you need any further assistance.",
+    "instruction": "\"Utilize the input text as a context reference, choose the right relationship between Gmail and Google from the options.\"\n\nGmail and Google are related as a product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "\"Google Apps, introduced six months ago as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.\" 翻译成中文是：\"六个月前作为一项免费服务推出的 Google Apps 已经提供了一系列基于网络的程序，包括 Gmail 邮件、共享日历程序和 Google Talk 即时通讯。\"",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese. Directly give the English translation in the answer!\"",
+    "instruction": "The relationship between Gmail and Google is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "\"Google Apps, introduced six months ago as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.\" 翻译成中文为：\"六个月前推出的免费服务Google Apps，已经提供了一系列基于Web的程序，包括Gmail电子邮件、共享日历程序和Google Talk即时通讯。\"",
+    "output": "Owned by: 拥有者。",
+    "instruction": "\"Gmail is a product/material produced by Google.\"",
+    "text": ""
+  },
+  {
+    "input": "\"Google Apps, introduced six months ago as a free service, already offers a collection of Web-based programs including Gmail e-mail, a shared calendar program and Google Talk instant messaging.\" 翻译成中文为：\"Google Apps，六个月前作为一项免费服务推出，已经提供了一系列基于Web的程序，包括Gmail电子邮件，共享日历程序和Google Talk即时通讯。\"",
+    "output": "Owned by 翻译为“由……所有”。",
+    "instruction": "The relationship between Gmail and Google in the context of the input sentence is \"owned by\". Gmail is a product of Google, which means Google owns Gmail.",
+    "text": ""
+  },
+  {
+    "input": "\"Google 表示，Google Apps 的所有三个版本现在都包含 Google Docs 和 Spreadsheets，这使得用户团队能够在线协作进行文档编写和编辑。\"",
+    "output": "The translation of the given English sentence into Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation in English: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "Original broadcaster: CNN, 9/11; Owned by: Time Warner, CNN; Headquarters location: New York City, Time Warner; Publisher: Time Inc., CNN; Developer: Turner Broadcasting System, CNN; Platform: Television, CNN; Business division: CNN, Time Warner; Original broadcaster: Turner Broadcasting System, 9/11.",
+    "text": ""
+  },
+  {
+    "input": "Google said all three editions of Google Apps now include Google Docs & Spreadsheets, which allows teams of users to collaborate online in writing and editing word processing or spreadsheet documents.\nGoogle表示，现在Google Apps的所有三个版本都包含Google Docs和电子表格，这使得用户团队能够在线协作进行文字处理或电子表格文档的写作和编辑。",
+    "output": "以下是英文句子翻译成中文：\n\n{owned_by: Google Docs, Google; developer: Google Docs, Google}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n英文翻译：\n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n请根据以下关系类型从输入句子中提取主语和宾语，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；拥有；创立；发行格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；拥有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。",
+    "text": ""
+  },
+  {
+    "input": "Google said all three editions of Google Apps now include Google Docs & Spreadsheets, which allows teams of users to collaborate online in writing and editing word processing or spreadsheet documents.",
+    "output": "Owned by is translated to \"由...拥有\" in Chinese.",
+    "instruction": "The English sentence you provided is not clear enough to determine the correct translation. However, I can provide you with the translation of a few options based on the context you provided:\n\n1. Google Docs is a product/material produced by Google.\n2. Google Docs is distributed by Google.\n3. Google Docs is an industry.\n4. Google Docs is a position held by a person.\n5. Google Docs is the original broadcaster of a content.\n6. Google Docs is owned by Google.\n7. Google Docs is founded by Google.\n8. Google Docs is in the distribution format of a product.\n9. Google Docs has its headquarters located in a certain place.\n10. Google Docs is listed on a stock exchange.\n11. Google Docs operates in a certain currency.\n12. Google Docs is a subsidiary of a parent organization.\n13. Google Docs is led by its chief executive officer.\n14. Google Docs is managed by its director/manager.\n15. Google Docs is owned by an individual or a group of individuals.\n16. Google Docs is operated by an individual or a group of individuals.\n17. Google Docs is a member of a certain organization.\n18. Google Docs is the employer of its employees.\n19. Google Docs is chaired by a person.\n20. Google Docs is a platform for a certain service or activity.\n21. Google Docs is a subsidiary of a certain organization.\n22. Google Docs is a legal form of a company or organization.\n23. Google Docs is published by a certain publisher.\n24. Google Docs is developed by a certain developer.\n25. Google Docs is a brand of a certain product or service.\n26. Google Docs is a business division of a certain organization.\n27. Google Docs is formed in a certain location.\n28. Google Docs is created by a certain individual or group.\n\nPlease provide the specific sentence you would like to be translated so I can give you the accurate translation.",
+    "text": ""
+  },
+  {
+    "input": "Google said all three editions of Google Apps now include Google Docs & Spreadsheets, which allows teams of users to collaborate online in writing and editing word processing or spreadsheet documents.",
+    "output": "Owned by. (The translation is the same in both English and Chinese, as \"Owned by\" is a common phrase used in both languages.)",
+    "instruction": "Google Docs is a product/material produced by Google.",
+    "text": ""
+  },
+  {
+    "input": "Google表示，Google Apps的所有三个版本现在都包含了Google Docs和Spreadsheets，这使得用户团队能够在写作和编辑文档时在线协作。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. Here's the translation: {developer}\"",
+    "instruction": "The given sentence is: \"Utilize the input text as a context reference, choose the right relationship between Google Docs and Google from the options.\"\n\nTranslation: \"使用输入文本作为上下文参考，从选项中选择 Google Docs 和 Google 之间的正确关系。\"\n\nThe relationship between Google Docs and Google in this context is \"product/material produced\" (Google Docs is a product produced by Google).",
+    "text": ""
+  },
+  {
+    "input": "Google said all three editions of Google Apps now include Google Docs & Spreadsheets, which allows teams of users to collaborate online in writing and editing word processing or spreadsheet documents.\n\n谷歌表示，现在谷歌应用的三种版本都包含了谷歌文档和电子表格，这使得用户团队能够在在线写作和编辑文字处理或电子表格文档方面进行协作。",
+    "output": "Sure, here's the translation of the given sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {developer}\"\n\nChinese translation: 请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！{开发者}",
+    "instruction": "Google Docs is a product/material produced by Google.",
+    "text": ""
+  },
+  {
+    "input": "HSBC also appointed Paul Lawrence as president and CEO of HSBC Bank USA and HSBC USA Inc. with immediate effect, replacing Sandy Derickson, who is leaving the bank. \n\n翻译：HSBC 还任命了 Paul Lawrence 为 HSBC Bank USA 和 HSBC USA Inc. 的总裁兼首席执行官，并立即生效，取代了 Sandy Derickson，后者离开了这家银行。",
+    "output": "\"HSBC Bank USA is a subsidiary of HSBC Holdings plc, a British multinational banking and financial services company headquartered in New York City, New York.\"",
+    "instruction": "原句：Can you help me translate the following English sentence into Chinese? Answer directly with the English translation!\n\n翻译：你能帮我把下面的英文句子翻译成中文吗？回答中直接给出英文翻译！",
+    "text": ""
+  },
+  {
+    "input": "HSBC also appointed Paul Lawrence as president and CEO of HSBC Bank USA and HSBC USA Inc. with immediate effect, replacing Sandy Derickson, who is leaving the bank.",
+    "output": "The parent organization of HSBC Bank USA is HSBC.",
+    "instruction": "Subject: \"the input sentence\"\nObject: \"the relation type\"\nRelation: \"product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator\"\nTranslation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"",
+    "text": ""
+  },
+  {
+    "input": "HSBC also appointed Paul Lawrence as president and CEO of HSBC Bank USA and HSBC USA Inc. with immediate effect, replacing Sandy Derickson, who is leaving the bank.",
+    "output": "Sure, here's the translation of the sentence you provided: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response. {parent_organization}\"\n\nChinese translation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}",
+    "instruction": "HSBC Bank USA is a subsidiary of HSBC.",
+    "text": ""
+  },
+  {
+    "input": "HSBC also appointed Paul Lawrence as president and CEO of HSBC Bank USA and HSBC USA Inc. with immediate effect, replacing Sandy Derickson, who is leaving the bank. \n\n翻译成中文：\nHSBC还任命了Paul Lawrence为HSBC Bank USA和HSBC USA Inc.的总裁兼首席执行官，立即生效，取代了Sandy Derickson，后者正在离开该银行。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\nThe translation is: \"Help me translate the following English sentence into Chinese. The answer should be given directly in English! {parent_organization}\"",
+    "instruction": "The relationship between HSBC Bank USA and HSBC in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "The troubled times of HSBC Finance CEO McDonagh, 48, began in 1979 when he joined HSBC as a graduate and held positions in group strategy and in Asia before moving to the United States in 2002.",
+    "output": "Sure, here is the translation: \n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: HSBC Finance, HSBC}\"\n\nIn English: \n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in English! {parent_organization: HSBC Finance, HSBC}\"",
+    "instruction": "Given the sentence: \"The brand 'Nike' is a product of the 'Nike, Inc.' company, which is distributed by the 'Nike, Inc.' company itself.\"\n\nThe translation in Chinese would be: \"品牌'耐克'是由'耐克公司'生产的，并且由'耐克公司'自己分销。\"\n\nThe corresponding relation and word/phrase pair would be: \"product: Nike, Nike, Inc.; distributed by: Nike, Inc., Nike, Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "- 在HSBC担任财务CEO的麦克唐纳（McDonagh），48岁，1979年作为毕业生加入HSBC，这位爱尔兰人曾担任集团策略和亚洲地区的职务，直到2002年搬至美国。",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: HSBC Finance, HSBC}\"\n\nIn Chinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: 汇丰金融，汇丰}\"\n\nPlease note that I have translated the curly brackets as well, which represent the parent organization names in this context.",
+    "instruction": "Subject: the input sentence\nObject: the translated sentence\nRelation: translation\nExtraction: \"relation1: word1, word2; relation2: word3, word4\"\nRelations: translation\nCommand: Translate the given English sentence into Chinese.\n\nPlease provide the English sentence that you want to translate.",
+    "text": ""
+  },
+  {
+    "input": "TROUBLED TIMES New HSBC Finance CEO McDonagh, 48, joined HSBC in 1979 as a graduate and the Irishman held positions in group strategy and in Asia, before moving to the United States in 2002.\n\n- 困扰时期：新任汇丰银行财务CEO麦克唐纳，48岁，1979年作为毕业生加入汇丰银行，爱尔兰人曾在集团战略和亚洲担任过职务，于2002年移居美国。",
+    "output": "The parent organization is {parent_organization}.",
+    "instruction": "HSBC Finance is a subsidiary of HSBC.",
+    "text": ""
+  },
+  {
+    "input": "TROUBLED TIMES New HSBC Finance CEO McDonagh, 48, joined HSBC in 1979 as a graduate and the Irishman held positions in group strategy and in Asia, before moving to the United States in 2002.\n\nHSBC新任财务CEO麦康奈格（McDonagh）今年48岁，1979年作为毕业生加入HSBC，并在集团战略和亚洲地区担任过职务，之后在2002年移居美国。",
+    "output": "\"Please help me translate the following English sentence into Chinese. Here is the English translation in the answer: {parent_organization}.\"",
+    "instruction": "The relationship between HSBC Finance and HSBC in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "{休斯敦（路透社）- 工程和建设公司KBR Inc.（KBR.N）的强劲估值可能会促使母公司Halliburton Co.（HAL.N）的董事投票决定给KBR股东一个机会，将他们在Halliburton的股票换成他们新上市的业务。分析人士表示。}",
+    "output": "{headquarters_location: Halliburton, HOUSTON} 翻译为中文是：总部地点：哈利伯顿，休斯顿。",
+    "instruction": "\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nTranslation: \"给定的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对以及它们之间的对应词汇关系。输出格式应为\"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...分销，行业，担任职务，原始广播者，由...拥有，由...创立，分销格式，总部所在地，股票交易所，货币，母公司，首席执行官，董事/经理，拥有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\"",
+    "text": ""
+  },
+  {
+    "input": "HOUSTON (路透社) - 工程和建筑公司KBR Inc.（KBR.N）的强劲估值可能会促使母公司Halliburton Co.（HAL.N）的董事们投票允许KBR股东有机会将Halliburton的股票兑换为他们的新上市业务。分析人士表示。",
+    "output": "总部所在地：哈利伯顿，休斯顿。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThis is a complex sentence with multiple clauses and phrases. To extract the subject and object for each relation, we need to break down the sentence into its constituent parts and identify the relevant words and phrases.\n\nHere is an example sentence:\n\n\"Apple, a leading technology company, produces iPhones and iPads, which are popular among consumers. Apple is headquartered in Cupertino, California, and its stock is listed on the NASDAQ.\"\n\nIn this sentence, the subject and object for each relation are:\n\n- product/material produced: \"iPhones and iPads\", \"Apple\"\n- manufacturer: \"Apple\"\n- distributed by: \"Apple\"\n- industry: \"technology\"\n- position held: \"headquartered in Cupertino, California\"\n- original broadcaster: \"Apple\"\n- owned by: \"Apple\"\n- founded by: \"Apple\"\n- distribution format: \"NASDAQ\"\n- headquarters location: \"Cupertino, California\"\n- stock exchange: \"NASDAQ\"\n- currency: \"USD\"\n- parent organization: \"Apple\"\n- chief executive officer: \"Tim Cook\"\n- director/manager: \"Apple\"\n- owner of: \"Apple\"\n- operator: \"Apple\"\n- member of: \"Apple\"\n- employer: \"Apple\"\n- chairperson: \"Apple\"\n- platform: \"Apple\"\n- subsidiary: \"Apple\"\n- legal form: \"corporation\"\n- publisher: \"Apple\"\n- developer: \"Apple\"\n- brand: \"iPhone, iPad\"\n- business division: \"Apple\"\n- location of formation: \"Cupertino, California\"\n- creator: \"Steve Jobs\"\n\nNote that some relations may have multiple subjects and objects, or may not have a clear subject or object. In such cases, the relation may not be applicable or may require additional context to determine the relevant subjects and objects.",
+    "text": ""
+  },
+  {
+    "input": "{HOUSTON (Reuters) - 工程和建设公司 KBR Inc.（ KBR.N ）的强劲估值很可能促使母公司 Halliburton Co.（ HAL.N ）的董事投票决定给 KBR 股东一个机会，以换取他们新上市的业务，在 Halliburton 中交换股票。分析师表示。}",
+    "output": "总部位置：{headquarters_location}",
+    "instruction": "Halliburton is a manufacturer and employer located in Houston.",
+    "text": ""
+  },
+  {
+    "input": "{HOUSTON (路透社) - 工程和建筑公司 KBR Inc.（ KBR.N）的强劲估值可能会促使母公司 Halliburton Co.（ HAL.N）的董事投票决定给予 KBR 股东将股票兑换为 Halliburton 新上市业务的机会。分析师表示。}",
+    "output": "The headquarters location is at {headquarters_location}.",
+    "instruction": "The relationship between Halliburton and HOUSTON is \"headquarters location\".",
+    "text": ""
+  },
+  {
+    "input": "BIRMINGHAM, Alabama (路透社) - 周四，伯明翰的一名法官拒绝将前HealthSouth Corp.（ HLS.N）首席财务官因参与大规模会计丑闻而送进监狱，即使美国上诉法院下令重新判刑。",
+    "output": "{headquarters_location: HealthSouth, Birmingham}",
+    "instruction": "Given phrases: \n- \"Product/material produced\" \n- \"Manufacturer\" \n- \"Distributed by\" \n- \"Industry\" \n- \"Position held\" \n- \"Original broadcaster\" \n- \"Owned by\" \n- \"Founded by\" \n- \"Distribution format\" \n- \"Headquarters location\" \n- \"Stock exchange\" \n- \"Currency\" \n- \"Parent organization\" \n- \"Chief executive officer\" \n- \"Director/manager\" \n- \"Owner of\" \n- \"Operator\" \n- \"Member of\" \n- \"Employer\" \n- \"Chairperson\" \n- \"Platform\" \n- \"Subsidiary\" \n- \"Legal form\" \n- \"Publisher\" \n- \"Developer\" \n- \"Brand\" \n- \"Business division\" \n- \"Location of formation\" \n- \"Creator\"\n\nThe word/phrase pair and the corresponding lexical relationship between them are:\n\n- \"Product/material produced\": \"Product/material produced\" is a lexical relationship between \"product\" and \"material produced\".\n- \"Manufacturer\": \"Manufacturer\" is a lexical relationship between \"manufacturer\" and the word it is describing.\n- \"Distributed by\": \"Distributed by\" is a lexical relationship between \"distributed\" and \"by\".\n- \"Industry\": \"Industry\" is a lexical relationship between \"industry\" and the word it is describing.\n- \"Position held\": \"Position held\" is a lexical relationship between \"position\" and \"held\".\n- \"Original broadcaster\": \"Original broadcaster\" is a lexical relationship between \"original\" and \"broadcaster\".\n- \"Owned by\": \"Owned by\" is a lexical relationship between \"owned\" and \"by\".\n- \"Founded by\": \"Founded by\" is a lexical relationship between \"founded\" and \"by\".\n- \"Distribution format\": \"Distribution format\" is a lexical relationship between \"distribution\" and \"format\".\n- \"Headquarters location\": \"Headquarters location\" is a lexical relationship between \"headquarters\" and \"location\".\n- \"Stock exchange\": \"Stock exchange\" is a lexical relationship between \"stock\" and \"exchange\".\n- \"Currency\": \"Currency\" is a lexical relationship between \"currency\" and the word it is describing.\n- \"Parent organization\": \"Parent organization\" is a lexical relationship between \"parent\" and \"organization\".\n- \"Chief executive officer\": \"Chief executive officer\" is a lexical relationship between \"chief\" and \"executive officer\".\n- \"Director/manager\": \"Director/manager\" is a lexical relationship between \"director\" and \"manager\".\n- \"Owner of\": \"Owner of\" is a lexical relationship between \"owner\" and \"of\".\n- \"Operator\": \"Operator\" is a lexical relationship between \"operator\" and the word it is describing.\n- \"Member of\": \"Member of\" is a lexical relationship between \"member\" and \"of\".\n- \"Employer\": \"Employer\" is a lexical relationship between \"employer\" and the word it is describing.\n- \"Chairperson\": \"Chairperson\" is a lexical relationship between \"chairperson\" and the word it is describing.\n- \"Platform\": \"Platform\" is a lexical relationship between \"platform\" and the word it is describing.\n- \"Subsidiary\": \"Subsidiary\" is a lexical relationship between \"subsidiary\" and the word it is describing.\n- \"Legal form\": \"Legal form\" is a lexical relationship between \"legal\" and \"form\".\n- \"Publisher\": \"Publisher\" is a lexical relationship between \"publisher\" and the word it is describing.\n- \"Developer\": \"Developer\" is a lexical relationship between \"developer\" and the word it is describing.\n- \"Brand\": \"Brand\" is a lexical relationship between \"brand\" and the word it is describing.\n- \"Business division\": \"Business division\" is a lexical relationship between \"business\" and \"division\".\n- \"Location of formation\": \"Location of formation\" is a lexical relationship between \"location\" and \"formation\".\n- \"Creator\": \"Creator\" is a lexical relationship between \"creator\" and the word it is describing.",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n{伯明翰，阿拉巴马州（路透社）- 周四，伯明翰法官拒绝将前健康南公司（ HLS.N ）首席财务官送入监狱，以应对他在一起大规模会计丑闻中所扮演的角色，即使美国上诉法院下令重新判决。}",
+    "output": "The translation of the given sentence is: \"总部所在地：HealthSouth，伯明翰。\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n英文翻译：\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n中文翻译：\n请根据以下关系类型从输入句子中提取主语和宾语，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；所有者；由……创立；分销格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；拥有；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\n{BIRMINGHAM, Alabama (Reuters) - 周四，伯明翰的法官拒绝将前HealthSouth Corp.（ HLS.N ）首席财务官送进监狱，以处理其参与的巨大会计丑闻，即使美国上诉法院下令重新判决。}",
+    "output": "总部所在地。",
+    "instruction": "The English sentence is: \"HealthSouth is a subsidiary of the Birmingham-based Capstone Industries, which was acquired by Community Health Systems in 2016.\"\n\nTranslation in Chinese: \"HealthSouth是Birmingham的Capstone Industries的子公司，后者于2016年被Community Health Systems收购。\"\n\nThe relationship between HealthSouth and Birmingham in this context is \"headquarters location\".",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n{伯明翰，阿拉巴马州（路透社）- 周四，伯明翰一名法官拒绝将前HealthSouth Corp.（ HLS.N ）首席财务官送进监狱，以应对其参与的巨大会计丑闻，即使美国上诉法院下令重新量刑。}",
+    "output": "Sure, I can help you with that! Here's the translation of the sentence \"Please help me translate the following English sentence into Chinese, and provide the English translation in your answer: {headquarters_location}\" into Chinese:\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{headquarters_location}\"\n\nIn this translation, I have translated the sentence into Chinese while maintaining the original meaning and context. Let me know if you need any further assistance!",
+    "instruction": "The relationship between HealthSouth and Birmingham in the context of the input sentence is \"headquarters location\".",
+    "text": ""
+  },
+  {
+    "input": "\"纽约（路透社）- 摩根士丹利建议投资者购买莱曼兄弟（LEH.N）股票，设定目标价格为31美元，在受到传言影响后，这家陷入困境的投资银行业务股票周一下跌近11%，传言称其将以当前价格以下的价格被收购。\"",
+    "output": "Lehman Brothers was an American investment bank that filed for bankruptcy in 2008. It was one of the largest and most respected banks in the world before its collapse, but it faced significant financial difficulties due to risky investments and the subprime mortgage crisis.",
+    "instruction": "\"制造商: word1, word2; 分布渠道: word3, word4\"",
+    "text": ""
+  },
+  {
+    "input": "以下是给定英文句子的中文翻译：\n\n纽约（路透社）- 摩根士丹利建议投资者购买莱曼兄弟（LEH.N）股票，并设定了31美元的目标价格，这是在受到传言影响后，投资银行业陷入困境的公司股票周一下跌近11％。传言称，该公司的股票将被收购，价格远低于当前价格。",
+    "output": "Lehman Brothers is a well-known investment bank.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\n\"纽约（路透社）- 摩根士丹利建议投资者购买雷曼兄弟（LEH.N）的股票，并设定了31美元的股价目标，此前陷入困境的投资银行公司的股票在周一下跌了近11％，原因是有关其将以远低于当前价格的价格被收购的谣言。\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {industry}\".",
+    "instruction": "Lehman Brothers is a company that was founded by the Lehman family and was a prominent investment bank and financial services firm.",
+    "text": ""
+  },
+  {
+    "input": "摩根士丹利建议投资者购买莱曼兄弟公司（LEH.N）的股票，设定目标价为31美元，此前因传言称该陷入困境的投资银行业将低于当前价格出售而使该公司的股票下跌近11%。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the sentence you provided:\n\n\"I'm sorry, I'm not sure what you're asking for. Could you please provide more context or clarify your question?\"",
+    "instruction": "The relationship between Lehman Brothers and investment in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"ZURICH (Reuters) - Logitech International SA LOGN.VX，全球最大的电脑鼠标制造商，表示计划裁减15％的薪资员工，并撤回2009财年的财务目标，称全球经济衰退加剧。\"",
+    "output": "Product or material produced: Logitech, mouse. \n\n产品或材料生产：罗技，鼠标。",
+    "instruction": "relation1: manufacturer, product/material produced; relation2: industry, distributed by.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n瑞士（路透社）- 全球最大的电脑鼠标制造商罗技国际有限公司（Logitech International SA LOGN.VX）表示，计划裁员15%的固定薪酬员工，并撤回了2009财年的财务目标，理由是全球经济衰退的加剧。",
+    "output": "产品或材料生产商：罗技，鼠标。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe subject and object containing the relation \"product/material produced\" in the sentence are \"Apple\" and \"iPhone\", respectively.",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "新推荐来自 BMO Capital Markets 的 Carl Kirst 为 $WMB 是买入。价格目标为 $62：http://stks.co/t0S0r",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Blackstone投资4亿美元与Ferring合作开展基因治疗合资企业。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Since entry, the number of CRM Sep 40 calls has increased by +35% #BANG http://stks.co/deDm.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Funko's stock plummets 39% premarket towards near 2-yr. low after Q4 caution late Wednesday.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Streaming giant Spotify, no stranger to controversy itself, has filed a complaint to the European Commission about iPhone behemoth Apple Inc (NASDAQ:AAPL). The Reuters news agency reports that Apple now faces avenues of exploration by the European Commission, which is investigating whether Apple's obsessive control freakery over its operating system is distorting competition in the music streaming market.\n\n翻译：\n流媒体巨头Spotify，本身也颇具争议，已向欧洲委员会提交了针对iPhone巨头苹果公司（NASDAQ:AAPL）的投诉。路透社通讯社报道称，苹果公司现在面临着欧洲委员会的调查，该委员会正在调查苹果公司是否通过对其操作系统的痴迷控制，扭曲了音乐流媒体市场的竞争。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特朗普的央行提名者面临两党质疑 #经济 #MarketScreener https://t.co/Iup5iHbuWL https://t.co/c7tMWwk3md",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish meat company Atria can no longer promise a sufficient amount of domestic beef to its customers. 翻译为中文：“芬兰肉类公司Atria已无法向客户保证足够的本地牛肉供应。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Saunalahti is a part of the Elisa group. 翻译为中文： \"Saunalahti是Elisa集团的一部分。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"The MACD is rolling over for a new intraday low. Bottom pickers continue to get destroyed.\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sarantel, based in Wellingborough, UK, designs high-performance antennas for portable wireless devices.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Zendesk 客户正在以高比率续签合同。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AAPL的双底可能已经形成，请注意。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vacon will supply drives to Ruselprom in the power range from 200 kW up to 2 MW.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "(路透社) - 亚马逊公司将以大约17亿美元的全现金交易收购iRobot，机器人吸尘器制造商周五表示。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"中国在贸易上是敌人，而不是特朗普——克劳玛抨击媒体对中国领导人的偏爱\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Activision Blizzard's net bookings of $2.49 billion in the fourth quarter ended December 31 fell short of Wall Street expectations, with net bookings down 18% compared to $3.05 billion a year ago. This indicates that Call of Duty: Vanguard did not perform as well as last year's Call of Duty: Black.",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The streaming powerhouse isn't delivering all the ad impressions it said it would.\" 翻译成中文是：\"这家流媒体巨头没有兑现它所说的所有广告印象。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Airlines (UAL) 在最近的交易会话中收于 $46.25，较前一交易日上涨了 +1.67%。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\"亚马逊公司已经成为了华尔街的热门话题，在提出股票拆分提议的几周前就已经如此。AMZN股票的投资者将于5月25日对拆分进行投票！\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "eBay is selling StubHub to Viagogo for $4 billion-plus.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"现在是投资高增长股票的好时机，这些股票有足够的安全边际。有关7只股票现在可买的文章《为即将到来的衰退准备：7只股票现在可买》在InvestorPlace上首次发布。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HITK 恢复推进到新的历史高点。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "However, the growth margin slowed down due to the financial crisis.\n然而，由于金融危机，增长幅度放缓了。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Unilever利润增长，尽管在中国销售额下跌。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"股市下跌超过500点，由于担心致命的中国冠状病毒对经济的负面影响。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence translates to: \"The WMT is bullish with MACD crossover with RSI and STO going up - above the 73.4$ MA50 resistance could run http://stks.co/gGCq.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given English sentence is \"The SPY weak close\". The direct translation to Chinese would be \"标普500指数弱势收盘\".",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "摩根士丹利加入抵押贷款行业的多头阵营。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "InterContinental Hotels 第一季度的全球客房收入低于预期。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者正在寻找暴风雨中的坚强者。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A potential bearish shark pattern if point B $226 to be taken out.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cencorp's net sales in the first quarter is estimated to be EUR0.9-1.2m, as compared to EUR4.5m in the first quarter 2008. \n\n中文翻译：\nCencorp第一季度的销售额预计为900万至1200万欧元，而2008年第一季度为4500万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "An app developer's lawsuit over App Store rejections, scams and fraud has ended in a settlement agreement after court filings show a request to dismiss the suit earlier this summer.\n\n这句话的中文翻译是：\n一个应用程序开发者的针对 App Store 拒绝、骗局和欺诈的诉讼在法院提交的文件显示，要求在今年夏天早些时候撤销诉讼的请求后，以和解协议结束。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet Inc's health tech arm Verily on Thursday announced its newest tie-up in its search for sustainable revenue, saying it would study skin health and explore new products with cosmetics maker L'Oreal SA.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"谷歌宣布，其提议的54亿美元收购网络安全公司曼迪安特的交易现已完成。这家互联网巨头在今年3月首次透露了收购公开交易的曼迪安特的计划，这距离曼迪安特从其前东家火眼（FireEye）中分离出来仅一年多。\"",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "巴西非营利间银机构Camara Interbancaria de Pagamentos CIP已从美国企业整合解决方案提供商Sterling Commerce收购了解决方案，该公司在其声明中表示。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美元和债券收益率在FOMC决定放弃加息后下滑。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BlackBerry正在传言即将宣布一项重大的合资企业。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Plus500 revenue soars nearly 500% as volatility fuels boom in bets\" 可以翻译为 \"Plus500 的收入几乎增长了 500%，因为波动性推动了赌注的繁荣\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Kone's net sales increased by approximately 14% year-on-year in the first nine months of 2008.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加拿大部长与CN铁路、工会就即将到来的罢工举行会议。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "3G数据订阅者也在帮助维持这些增长水平，因为数据只订阅推动了更多多SIM所有权。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chartology: Yahoo: http://stks.co/1itr $YHOO 疯长的图表，但接近突破阻力线...",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The value of this kind of order amounts usually between Euro 2 and 3 million. \n\n中文翻译：这种订单的价值通常介于200万欧元到300万欧元之间。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Long $VVUS shares as a call option w/ an expiration of.. umm.. TODAY. Hitting HOD here.\" 翻译成中文是：\n\n\"持有 $VVUS 股票作为看涨期权，期权到期日为今天。在这里触及了历史最高价。\"\n\n注：$VVUS 是股票代码，代表 Vishay Intertechnology, Inc. 的股票。HOD 是 High of the Day 的缩写，表示一天中的最高价。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "通过Satlan收购，Teleste计划进一步扩大其作为有线电视运营商、广播公司和IPTV服务提供商的视频服务合作伙伴的市场影响力。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Euro zone crisis response must include solidarity fund - France\n\n欧元区危机应对必须包括团结基金 - 法国",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The order values at EUR 6.9 mn, and it consists of design services and hardware and software licences.\n\n中文翻译：订单价值为6.9百万欧元，包括设计服务以及硬件和软件许可。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BHP Billiton drags FTSE lower after slashing dividend\" 翻译成中文为 \"必和必拓削减股息后拖累 FTSE 指数下跌\"。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Glencore views the Tripoli-based NOC as the sole legal seller of Libyan oil.\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

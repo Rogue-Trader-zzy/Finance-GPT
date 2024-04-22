@@ -1,0 +1,302 @@
+[
+  {
+    "input": "加拿大大麻公司克罗诺斯集团（纳斯达克股票代码：CRON）提拔了前最高运营官约翰·格里西（John Griese）为高级副总裁，负责北美运营，这是《大麻商业日报》报道的。这家总部位于多伦多的公司没有发布正式的新闻稿，尽管上周在一份监管文件中报告了管理层的变动。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "基础设施投资者继续将资本投入数据领域。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A modern president? - cape-coral-daily-breeze.com | News, sports, community info. - Cape Coral Daily Breeze\n\n现代总统？ - 开普科尔日报 - 新闻、体育、社区信息。 - 开普科尔日报",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Designers Focus on Eco-Conscious Fashion\n\n设计师们专注于环保时尚。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Airbnb may choose direct listing over IPO.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Double bottom with handle buy point of 29.51 $IP: 带有手柄的双底买入点为29.51美元。\n\n英文翻译: Double bottom with handle buy point of 29.51 $IP: http://chart.ly/akvujxh",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{Edited Transcript of DCM.TO earnings conference call or presentation 18-Nov-19 4:00pm GMT}\n\n英文翻译：\n{DCM.TO 盈利电话会议或演示文稿编辑记录 18-Nov-19 4:00pm GMT}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"书生·浦语\": \"这是建立Toll Brothers股票头寸的好时机。\"}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco's Sales Pickup Isn't Enough\n翻译成中文为：\n特易购的销售额提升还不够。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "How Target has morphed into a model for avoiding the retail apocalypse https://t.co/pfetquaLsu 可以翻译为：\n\n如何塔吉特公司变成了避免零售业末日的模式 https://t.co/pfetquaLsu\n\n以下是翻译过程：\n\n1. \"How\" 是一个疑问词，询问方式或方法，翻译为中文为\"如何\"。\n2. \"Target\" 是一个专有名词，指代一家美国零售公司，在中文中通常不翻译，直接使用其名称。\n3. \"has morphed\" 是动词\"morph\"（变形）的现在完成时，表示过去发生的动作对现在产生的影响，翻译为中文为\"变成了\"。\n4. \"into a model\" 是一个介词短语，表示一种模式或典范，翻译为中文为\"变成了模式\"。\n5. \"for avoiding\" 是一个介词短语，表示为了避免某事，翻译为中文为\"避免\"。\n6. \"the retail apocalypse\" 是一个名词短语，指代零售业的衰退或危机，翻译为中文为\"零售业末日\"。\n\n因此，将以上各部分组合起来，英文句子 \"How Target has morphed into a model for avoiding the retail apocalypse\" 的中文翻译为 \"如何塔吉特公司变成了避免零售业末日的模式\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股东全名：Otto Henrik Bernhard Nyberg\n更多信息，请联系CEO Maija-Liisa Friman，电话：+358 9 7597 0711。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据今天发布的临时报告，该时期的销售额从38.3万欧元下降到30.6万欧元。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当OMX市场于2008年5月16日交割时，Novator Finland Oy对Amer Sports Corporation的直接持股将超过该公司股份的五分之一（1-5）以及投票权。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着国家收入水平的提高，从事农业工作的人口比例逐渐下降。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The negotiation has resulted in the reduction of 80 people in regular employment, around half of which will be covered with pension arrangements.\n\n谈判导致80名正式员工的减少，其中大约一半将得到退休安排的覆盖。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The number of permanent reductions of clerical workers is 22 employees, of which 19 in Finland.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"NFLX and TSLA are making all kinds of gains. ð\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "科蒂将购买该合作伙伴51%的所有权，价值6亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "KAUKO-TELKO LTD PRESS RELEASE 19.06.2007 AT 14.00 1 ( 1 ) Telko Group ( Kauko-Telko ) is expanding its strategic partnership with BP Industrial Lubricants & Services ( BP ILS ) by acquiring total ownership of BP 's Swedish retail company , Molub-Alloy AB .",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金正在出售埃尔帕索电力公司（EE）。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sutter Rock Capital Corp. 宣布修改后的荷兰式拍卖要约回购的到期和最终结果。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The share sale, to foreign and Finnish investors, is expected to raise some euro300 million (US$ 380 million).",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国停止偿还抵押贷款的房主人数激增。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CFRA 将 EdgeWell 股票价格目标从 33 美元上调至 41 美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "This morning, I took some $ENDP for a while, using VWAP as a guide.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The profit before taxes decreased to EUR 31.6 million from EUR 50.0 million the year before.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Like everyone else, the apparel retailer is building up its inventories. Unlike everyone else, its profits still seem fine. \n\n中文翻译：与其他公司一样，这家服装零售商正在增加库存。与其他公司不同的是，它的利润仍然看起来不错。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "To check them out or to make a bid they will be in the Deka Showroom, Fortitude Valley.\n\n要检查它们或出价，它们将在Fortitude Valley的Deka Showroom。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Fed may lower the rate on its support facility for money market funds, strategists say.\n翻译成中文：\n策略师称，美联储可能会降低货币市场基金支持设施的利率。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Wall Street believes these Dow Jones Industrial Average stocks could soar over the next 12 months. \n\n华尔街认为，这些道琼斯工业平均指数股票可以在未来12个月内飙升。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "ROKU计划通过推出配备快速界面、Dolby Atmos、HDR10+兼容性和可充电遥控器的Roku Ultra流媒体顶盒来扩展在加拿大的业务。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The solution is demonstrated on a tablet developed by Aava Mobile as a multi-window system, which enables the use of several applications simultaneously, for example the viewing of messages and calendar side by side.\"\n\nHere is the translation in Chinese:\n\n\"该解决方案展示在Aava Mobile开发的多窗口系统平板电脑中，它允许同时使用多个应用程序，例如同时查看消息和日历。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的FTSE稳定，得益于Dixons Carphone的支持。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Seppala's revenue increased by 0.2% to EUR10.1m. In Finland, revenue went down by 2.4% to EUR6.8m, while sales abroad rose by 6.2% to EUR3.3m. Sales increased in all the Baltic countries as well as in Russia and Ukraine.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia的半导体同行评论导致其股价下滑。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Valeant CEO 承诺将听取批评意见，在“痛苦”的经历后。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"通知依据：2011年1月31日，Tiimari Plc发布了董事会于2010年12月30日作出的可转换资本贷款分配决定。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "While Risks Remain, VBI Vaccines Stock Is a Buy at Today’s Prices 可以翻译为：“尽管存在风险，VBI疫苗股在今天的价格下是值得购买的。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The shares shall be acquired according to the Rules of NASDAQ OMX Helsinki and otherwise according to the rules related to acquisition of the company 's own shares.\n\n以下是中文翻译：\n公司应按照纳斯达克赫尔辛基交易所的规则以及公司回购股份的相关规则进行股份收购。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The fitness company's new CEO had a previous stint at the streaming giant, making it easy to draw comparisons between these two businesses.\n\n健身公司的CEO在流媒体巨头公司有过工作经历，这使得人们很容易对比这两家公司的业务。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In a release, the Company said that Vocollect T2 customers in North America can now take advantage of its Voice Directed Warehousing solution and increase warehouse efficiency and productivity gains at a discounted price.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{微软/动视暴雪交易的差距仍然很大，因为反垄断审查仍在继续。收购方微软对美国联邦贸易委员会的诉讼提出了回应。}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n{申请人姓名：Jot Automation OY\n发明人姓名：Mammila Tuomo，Piirainen Mika和Kellokoski Mika\n申请号：2424-KOLNP-2008\n申请递交日期：2008年6月16日\n公开日期：2009年1月30日}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The OMX Helsinki index was down 0.34 percent at 8,256.02 on turnover of 813.191 million euros.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Citigroup, Inc (NYSE: C) has announced that its Global Transaction Services (GTS) business has been awarded a new mandate by Finland-based Pohjola Bank Group.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Back to Back intraday reversals look out below. Shorts moving in!\" 的中文翻译是：“日内反转接连发生，注意下方。空头正在行动！”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cargotec Corporation Press Release April 28, 2008 at 2.00 p.m. Finnish time Cargotec's MacGREGOR business area, providing marine cargo handling and offshore load handling solutions, has received significant hatch cover orders for bulk carriers.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia will continue to invest in the future development of Qt for the benefit of all users, both Commercial and LGPL.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"库德洛说，特朗普尚未准备好与中国签署任何贸易协议。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sainsbury's says to outperform rivals in tough market\n\n这句话的中文翻译是：“Sainsbury's表示，在艰难的市场环境中，他们将超越竞争对手。”",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"Efficiency programs totalling 100 million euros are under way in Finnair.\" 翻译为中文是：\"芬航正在实施总计1亿欧元的效率提升计划。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沙特阿拉伯政府在阿美石油公司首次公开募股中投资了超过20亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Economic Calendar Puts the EUR and the Greenback in Focus 可以翻译为：“经济日历将欧元和美元置于焦点”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca is pursuing Acerta to secure the next cancer drug winner.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "We have a global economy that's coming into... an aging population— these new technologies are coming d…\n\n“我们有一个全球经济，正在进入...一个老龄化的人口—这些新技术正在到来...”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "大型玩家正在出售哪些股票？\nhttp://stks.co/t0Vel $CROX $GOGO $INO",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：{UPDATE 2-Expensive beers boost SABMiller's quarterly underlying sales}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "OCBC to Buy Barclay's Wealth Management Unit in Singapore, Hong Kong 翻译为： 新加坡华侨银行将收购巴克莱财富管理部门在新加坡和香港的业务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Facebook stock turns back down in early trading.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语将帮助您将以下英文句子翻译成中文。\n\n英文句子：{$GTAT Will re-enter short on bounce...}\n\n中文翻译：书生·浦语将重新做空反弹...",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"NSM ascending base breakout starting to gain traction; strong stock http://stks.co/gBSH\" in Chinese.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result of the negotiations, the company will terminate a total of 5 employment contracts.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Serena Williams and Olympia Dancing to Pampers' \"Wild Child Wiggle\" Available on Business Wire's Website\" 翻译成中文为：\n\n\"塞雷娜·威廉姆斯和奥林匹亚在Pampers的“Wild Child Wiggle”中跳舞，视频可在Business Wire的网站观看。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "United Airlines Holdings Inc will allow workers who have not been vaccinated against COVID-19 for religious or medical reasons to return at the end of this month, the Wall Street Journal reported on Wednesday, citing people familiar with the matter. \n\n直译为：\n美联航母公司联合航空控股公司将于本月底允许因宗教或医疗原因未接种新冠疫苗的员工返回工作岗位，华尔街日报周三报道称，相关人士透露了这一信息。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AGCO EPS 差 0.61 美元，收入方面也未达到预期。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The IMF is likely to significantly downgrade India's growth forecast in January, according to Gita Gopinath.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Bosse added that Trygvesta does not have the financial strength to acquire the entire unit. 翻译成中文为：博塞补充说，特里格维斯塔没有足够的财务实力收购整个部门。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "居民从亚历山大街进入该区块的计划正在进行中。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Vanguard Dividend Appreciation ETF宣布每季度分配0.5985美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Securitas AB reports Q4 results. \n\n翻译：“Securitas AB发布第四季度业绩报告。”",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "现在该是时候卖出$TSLA了。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron (MU) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.\n\n= 最近，Micron（股票代码：MU）在Zacks.com用户中引起了相当多的关注。因此，了解可能影响该股票前景的事实是明智的。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \n\n{$JCI - Johnson Controls International plc 2019 Q4 - Results - Earnings Call Presentation. https://t.co/9JpjY6ZVyT... https://t.co/EFozmcxpOa}\n\nThe provided text seems to be a link to a presentation about Johnson Controls International plc's Q4 2019 results and an earnings call. Here's the translation of the text: \n\n{\"JCI - Johnson Controls International plc 2019 Q4 - Results - Earnings Call Presentation.\"}\n\nIt seems that the link leads to a presentation discussing the financial results of Johnson Controls International plc for the fourth quarter of 2019, along with an earnings call related to those results. The links provided are likely to the presentation and the earnings call, respectively.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's annual loss amounted to EEK 18mn, compared to a profit of EEK 7.3mn in 2008.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Athenex 股价在早盘交易中下跌19%}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Reed Elsevier 股票价格因全年业绩平平而下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Companies Actelion shares hit record on Shire takeover talk} 的中文翻译是：\n\n{Actelion公司的股票在Shire收购的讨论中创下历史新高}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "在巴克莱银行和花旗集团之后，美国银行也把区块链纳入了视野。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Finnish operator Elisa and Aker Yards have signed a long-term service deal through which Elisa will deliver all necessary voice and data services for Aker Yards in Finland.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "周三，我们收到了关于美国经济的三条好消息：晨间简报。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“{UPDATE 1-BP shareholders back more disclosure on climate change risks}”的中文翻译：\n\n\"BP股东支持更多关于气候变化风险的披露。\"\n\n注：此句是新闻标题，其中\"BP\"是英国石油公司的缩写，\"shareholders\"表示股东，\"back\"表示支持，\"more disclosure\"表示更多披露，\"on climate change risks\"表示关于气候变化风险的。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company still expects its turnover in 2010 to slightly increase from the level of 2009, adding that \"market predictability is still too poor for trustworthy forecasts on the market development of the contract manufacturing business during the current year\".",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{ADP News - Jan 13, 2009 - Finnish industrial and environmental measurement equipment maker Vaisala Oyj OMX: VAIAS said yesterday it will develop an operational reference radiosonde for climate change observations.}\n\nFinnish industrial and environmental measurement equipment maker Vaisala Oyj announced yesterday that it will develop an operational reference radiosonde for climate change observations.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence in English translates to: \"Some upside today. This thing is severely low float. If there is a catalyst for this guy, it can run.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The SPDR Dow Jones Industrial Average ETF Trust (NYSE: DIA) 在周五上涨，因为道琼斯指数上涨了600点。这波上涨发生在花旗集团（NYSE: C）、威尔斯·法戈（NYSE: WFC）等公司发布超过分析师预期的财务报告后，以及经济前景乐观的情况下。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$DXCM - 在过去几周巩固的过程中，创出更高高点和更高低点。26.70是历史最高点（2006年）。}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here is the translation of the given sentence: \n\n\"Ollie's higher after earnings topper\"\n\n中文翻译：\n\n奥利的高收益领头羊。\n\nPlease note that the given sentence seems to be a tweet or a headline, which may not have a complete context or grammar. The translation provided is based on the information given in the sentence.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"周一下午的股票价格急剧上涨是真正的反弹还是只是一个假象？\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "YIT Construction and the town of Riihimäki have signed a lease contract whereby the town will occupy the Travel Centre office facilities.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The commission found evidence of several meetings to discuss the cartel, including one in a Brussels restaurant in November 1997 at which the companies discussed price increases.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"应该跟随伯克希尔·哈撒韦投资苹果股票吗？\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Why I Fear This Bear Rally.\" 翻译为中文是 \"为什么我害怕这次熊市反弹。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Manufacturing Sector's Capacity Utilisation Drops to Lowest in a Decade, RBI Survey Shows.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Russian government used its sovereign wealth fund to purchase the central bank's 50% stake in the country's...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A coaker crane will be supplied to Tesoro Corporation's Golden Eagle Refinery in Martinez, California, while a similar crane will be delivered to BP's Castell refinery in Spain.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"高昂的房价和更强的需求促使千禧一代涌向较小的城市。以下是前10大住宅市场... https://t.co/iXCDQZfcb3\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Poyry's net sales in 2007 amounted to about EUR 720 million and it employs 7400 experts. \n\n翻译为中文：\n\nPoyry 在 2007 年的净销售额约为 7200 万欧元，并且雇用了 7400 名专家。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Travis Perkins 提高股息 20% 因为利润和收入上升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Spain's Caixabank launches new takeover bid for Banco BPI\n\n西班牙的Caixabank推出新的收购要约，以收购Banco BPI。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德银下调星巴克评级，因新忠诚计划。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

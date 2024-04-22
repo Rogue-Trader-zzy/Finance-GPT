@@ -1,0 +1,302 @@
+[
+  {
+    "input": "我们相信，我们邀请式的商店氛围、新鲜食品的混合，以及本地、国家、和自有品牌产品的组合，使我们在长期内在这个零售领域占据有利位置。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. Directly give the English translation in the answer. {industry}\"",
+    "instruction": "Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {Use the input text as a context reference, choose the correct relationship between fresh and Retail from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}",
+    "text": ""
+  },
+  {
+    "input": "我们相信，我们的诱人商店氛围和新鲜食品的混合，以及本地、全国和私人品牌产品的组合，使我们在长期内在这个零售细分市场中处于有利位置。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between fresh and Retail in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "所以，这种扩张超越了食品配送，当我们观察美国的杂货配送市场时，这会让你面对一些非常根深蒂固的玩家，如Instacart和亚马逊，显然，杂货利润率不允许从杂货店获得大额佣金。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{行业：Instacart，配送}。\" \n\nTranslation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {Industry: Instacart, Delivery}.\"",
+    "instruction": "relation1: manufacturer, company; relation2: location of formation, headquarters location.",
+    "text": ""
+  },
+  {
+    "input": "所以，扩展到这种送餐服务之外，当我们考虑美国的生鲜配送市场时，你将面临一些非常根深蒂固的竞争者，如Instacart和Amazon，而食品利润显然无法承担来自食品商店的大型佣金。",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe input sentence is: \"Apple Inc. is a multinational technology company that was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976. It is headquartered in Cupertino, California, and its revenue in 2020 was $274.5 billion. Apple is known for its iPhone, iPad, and MacBook products, which are distributed by Apple Inc. itself.\"\n\nThe extracted relations and corresponding words are:\n\n- founded by: Steve Jobs, Steve Wozniak, and Ronald Wayne\n- headquarters location: Cupertino, California\n- revenue: $274.5 billion\n- product/material produced: iPhone, iPad, and MacBook\n- distributed by: Apple Inc. itself\n\nSo, the answer in the format of \"relation1: word1, word2; relation2: word3, word4\" would be:\n\n- founded by: Steve Jobs, Steve Wozniak, and Ronald Wayne\n- headquarters location: Cupertino, California\n- revenue: $274.5 billion\n- product/material produced: iPhone, iPad, and MacBook\n- distributed by: Apple Inc. itself",
+    "text": ""
+  },
+  {
+    "input": "所以，这种超出食品配送的扩张，当我们查看美国杂货配送市场时，你将面临一些非常根深蒂固的玩家，如Instacart和亚马逊，显然，杂货利润不能为杂货店提供大型佣金。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Instacart is a platform that utilizes the input text as a context reference to choose the right relationship between Instacart and delivery.",
+    "text": ""
+  },
+  {
+    "input": "所以，这种扩张超越了食品配送，当我们查看美国超市配送市场时，这将使你与一些相当根深蒂固的玩家竞争，如Instacart和Amazon，而显然，超市的利润空间不允许从超市获得高额佣金。",
+    "output": "I apologize, but I cannot provide a translation for \"{industry}\" as it is not a complete sentence or phrase. Please provide more context or a full sentence to translate.",
+    "instruction": "The relationship between Instacart and delivery in the context of the input sentence is: distributed by. \n\n英文翻译：Instacart和配送在输入句子的上下文中的关系是：由...分发。",
+    "text": ""
+  },
+  {
+    "input": "其次，正如您所知，我们正在努力开发基于软件驱动的娱乐产品，HBO Max 处于领先地位。",
+    "output": "Owned by HBO Max, at.",
+    "instruction": "Here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nNote: The original English sentence was not provided in the input, so I translated the given instruction into Chinese instead.",
+    "text": ""
+  },
+  {
+    "input": "其次，正如你所知，我们正在全力以赴开发基于软件驱动的娱乐产品，HBO Max就是其中的领军者。",
+    "output": "Owned by HBO Max, at.",
+    "instruction": "Subject: The input sentence\nObject: The translation of the input sentence into Chinese\n\nRelation: translation\n\nInput sentence: \"Please help me translate the following English sentence into Chinese.\"\n\nTranslation: \"请帮我把下面的英文句子翻译成中文。\"",
+    "text": ""
+  },
+  {
+    "input": "其次，如您所知，我们正在非常努力地开发新的软件驱动的娱乐产品，HBO Max就在这一领域的前沿。",
+    "output": "Owned by: 属于",
+    "instruction": "HBO Max is a streaming service that is owned by WarnerMedia, which is a subsidiary of AT&T.",
+    "text": ""
+  },
+  {
+    "input": "其次，正如您所知，我们正在全力以赴地开发基于软件的娱乐产品，HBO Max就是这一领域的先锋。",
+    "output": "Owned by: 属于",
+    "instruction": "The relationship between HBO Max and \"at\" in the context of the input sentence is: original broadcaster.",
+    "text": ""
+  },
+  {
+    "input": "This sequential decrease was primarily due to, number one, greater revenue mix of lower-margin digital content services, including the live broadcast of HUYA and music streaming services; two, higher mix of lower-margins platform games versus PC games.\n\n中文翻译：\n这一序列的下降主要是由以下两个因素造成的：\n第一，更低边际利润的数字内容服务收入占比增加，包括虎牙直播和音乐流媒体服务；\n第二，更低边际利润的平台游戏相对于PC游戏的占比增加。",
+    "output": "音乐流媒体的分布格式与竞争对手相比，处于较高水平。",
+    "instruction": "I'm sorry, but I need more context to understand what specific English sentence you want me to translate into Chinese. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "This sequential decrease was primarily due to, number one, a greater revenue mix of lower-margin digital content services, including the live broadcast of HUYA and music streaming services; two, a higher mix of lower-margin platform games versus PC games. \n\n翻译为中文：\n这一连续的下降主要归因于，第一，较低利润率的数字内容服务收入混合度增加，包括虎牙直播和音乐流媒体服务；第二，平台游戏相对于PC游戏的较低利润率混合度增加。",
+    "output": "英文翻译：\n\n{distribution_format: 对比，音乐流媒体; distribution_format: 更高，音乐流媒体}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "This sequential decrease was primarily due to, number one, greater revenue mix of lower-margin digital content services, including the live broadcast of HUYA and music streaming services; two, higher mix of lower-margins platform games versus PC games.\n\n翻译为中文：\n- 这一连续的下降主要是由以下两个原因造成的，首先是较低利润率的数字内容服务收入的增加，包括虎牙直播和音乐流媒体服务；其次是平台游戏相对于PC游戏的较低利润率的增加。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between versus and music streaming from the options.\n\nThe relationship between versus and music streaming in this context would be \"product/material produced\". The sentence is asking to use the input text as a reference to determine the relationship between the two terms, which in this case is the production of music streaming platforms.",
+    "text": ""
+  },
+  {
+    "input": "This sequential decrease was primarily due to, number one, a greater revenue mix of lower-margin digital content services, including the live broadcast of HUYA and music streaming services; two, a higher mix of lower-margin platform games versus PC games.",
+    "output": "I'm sorry, but I cannot see the English sentence you want me to translate. Please provide the sentence and I will be happy to help you with the translation.",
+    "instruction": "The relationship between \"versus\" and \"music streaming\" in the context of the input sentence is \"platform.\"",
+    "text": ""
+  },
+  {
+    "input": "The sequential decrease was primarily due to, number one, a greater revenue mix of lower-margin digital content services, including the live broadcast of HUYA and music streaming services; two, a higher mix of lower-margin platform games versus PC games.",
+    "output": "Certainly, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The given text seems to be a request for a translation of an English sentence into Chinese, and the context provided appears to be a list of possible relationships between higher and music streaming. However, there is no actual English sentence provided to translate. Please provide the English sentence you would like translated into Chinese, and I will be happy to assist you.",
+    "text": ""
+  },
+  {
+    "input": "This sequential decrease was primarily due to, number one, a greater revenue mix of lower-margin digital content services, including the live broadcast of HUYA and music streaming services; two, a higher mix of lower-margin platform games versus PC games.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "The relationship between higher education and music streaming in the context of the input sentence is \"industry.\"",
+    "text": ""
+  },
+  {
+    "input": "因此，我们认为，我们的销售渠道和支持网络将继续能够接触到这些医院，即使在有些情况下，传统的销售人员无法做到这一点。",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {original_broadcaster: absolutely, channel}\" translates to \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译。{原始广播者：绝对，频道}\" in Chinese.",
+    "instruction": "Original broadcaster: Apple, iPhone; Owned by: Apple, Inc.; Headquarters location: Cupertino, California; Stock exchange: NASDAQ; Currency: United States dollar; Parent organization: Apple, Inc.; Chief executive officer: Tim Cook; Director/manager: Steve Jobs (deceased); Brand: iPhone; Business division: Consumer Electronics; Location of formation: Cupertino, California; Creator: Steve Jobs and Steve Wozniak.",
+    "text": ""
+  },
+  {
+    "input": "因此，我们认为，无论在哪些情况下，我们的渠道和支持网络都将继续能够接触到这些医院，即使在某些情况下，传统销售人员无法做到这一点。",
+    "output": "The original sentence in English is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response: {original_broadcaster: absolutely, channel}\"\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{original_broadcaster: 绝对，频道}\"\n\nHere is the direct English translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response: {original_broadcaster: absolutely, channel}\"",
+    "instruction": "Subject: Apple, Inc.\nObject: iPhone X\n\nRelation: product/material produced: Apple, Inc., produced the iPhone X.",
+    "text": ""
+  },
+  {
+    "input": "所以，我们认为，无论在什么情况下，我们的渠道和支持网络都能够继续接触到这些医院，即使在一些传统销售人员无法做到的地方。",
+    "output": "Sure, here's the translation of the sentence: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in your response! {original_broadcaster}\" \n\nThe translation in Chinese is: \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{原始广播员}\"",
+    "instruction": "Sure, here is the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese. In the answer, directly provide the English translation.\n\nI hope this helps! Let me know if you have any other questions.",
+    "text": ""
+  },
+  {
+    "input": "因此，我们认为，我们的渠道和支持网络将继续能够接触到这些医院，即使在有些情况下，传统的销售人员无法做到这一点。",
+    "output": "Sure, I can help with that. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "The relationship between \"absolutely\" and \"channel\" in the context of the input sentence is \"distributed by\". The sentence in English could be: \"Absolutely, our channel is distributed by ABC Media.\"",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"We see that the number of customer delivery and pickup orders transacted through our array of digital ordering platforms has reached about 60% of all orders now, and this percentage will continue to increase. We believe this trend is beneficial for our customers, our company, and our franchisees and JV partners at Pizza 73.\"",
+    "output": "以下是英文句子的中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n中文翻译：Can you please help me translate the following English sentence into Chinese, and provide the English translation directly in your response?",
+    "instruction": "Sure, I can help with that! Please provide me with the English sentence that you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "The customer delivery and pickup orders processed through our range of digital ordering platforms now account for about 60% of all orders, and this percentage will continue to increase as we see it trending, benefiting our customers, our company, and our franchisees and JV partners at Pizza 73.",
+    "output": "Sure, I can help you with that. Here's the translation of the given sentence:\n\n{legal_form: array, company} \n\nThe given sentence is already in English and doesn't require any translation. It appears to be a data structure or format specification, indicating that the legal form is an array and the company is involved.",
+    "instruction": "Subject: the input sentence\nObject: the translated sentence\n\nRelation1: product/material produced; relation2: manufacturer\nOutput: \"relation1: product, material; relation2: manufacturer\"\n\nRelation1: distributed by; relation2: industry\nOutput: \"relation1: distributed, by; relation2: industry\"\n\nRelation1: position held; relation2: original broadcaster\nOutput: \"relation1: position, held; relation2: original, broadcaster\"\n\nRelation1: owned by; relation2: headquarters location\nOutput: \"relation1: owned, by; relation2: headquarters, location\"\n\nRelation1: founded by; relation2: stock exchange\nOutput: \"relation1: founded, by; relation2: stock, exchange\"\n\nRelation1: currency; relation2: parent organization\nOutput: \"relation1: currency; relation2: parent, organization\"\n\nRelation1: chief executive officer; relation2: director/manager\nOutput: \"relation1: chief, executive, officer; relation2: director, manager\"\n\nRelation1: owner of; relation2: operator\nOutput: \"relation1: owner, of; relation2: operator\"\n\nRelation1: member of; relation2: employer\nOutput: \"relation1: member, of; relation2: employer\"\n\nRelation1: chairperson; relation2: platform\nOutput: \"relation1: chairperson; relation2: platform\"\n\nRelation1: subsidiary; relation2: legal form\nOutput: \"relation1: subsidiary; relation2: legal, form\"\n\nRelation1: publisher; relation2: developer\nOutput: \"relation1: publisher; relation2: developer\"\n\nRelation1: brand; relation2: business division\nOutput: \"relation1: brand; relation2: business, division\"\n\nRelation1: location of formation; relation2: creator\nOutput: \"relation1: location, formation; relation2: creator\"",
+    "text": ""
+  },
+  {
+    "input": "\"Our array of digital ordering platforms transacted customer delivery and pickup orders account for about 60% of all orders now, and this percentage will continue to increase as we see it trending, benefiting our customers, our company, and our franchisees and JV partners at Pizza 73.\"",
+    "output": "Here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" into English: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "The company is owned by the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n通过我们的数字订餐平台进行的客户送货和取货订单现在占所有订单的约60%，并且我们预计这个比例将继续增长，因为我们看到它正在增长，这有利于我们的客户、公司和特许经营商以及披萨73的合资伙伴。",
+    "output": "I'd be happy to help! Here's the translation of the sentence you provided:\n\n{legal_form} translates to \"法律形式\" in Chinese.",
+    "instruction": "The relationship between array and company in the context of the input sentence is \"owned by\". The sentence is: \"The company owns an array of products.\" In this context, \"array\" refers to a collection of products, and \"company\" refers to the entity that owns these products.",
+    "text": ""
+  },
+  {
+    "input": "我们同样增强了与Microsoft Intune、Symantec VIP和LinkedIn社交登录的集成，为我们的客户增加了数千个预先构建的集成，提高了生产效率和价值。",
+    "output": "LinkedIn and Microsoft are the parent organizations, and they own the company.",
+    "instruction": "I'm sorry, but I'm not able to perform the task you're asking for as it involves extracting information from a given text, which requires natural language processing capabilities. As an AI language model, I'm designed to generate human-like text based on given prompts, but I don't have the ability to analyze or extract information from text in the way you're asking for. However, I can help you with translation, summarization, or any other language-related tasks you might have. Please let me know how I can assist you further!",
+    "text": ""
+  },
+  {
+    "input": "我们还增强了与Microsoft Intune、Symantec VIP和LinkedIn社交登录的集成，为我们的客户提供了数千个预构建集成，加快了生产时间，并增加了价值。",
+    "output": "LinkedIn and Microsoft are both parent organizations, and they also own each other.",
+    "instruction": "Subject: sentence\nObject: translation\n\nRelation1: product/material produced; relation2: manufacturer\nRelation3: distributed by; relation4: industry\nRelation5: position held; relation6: original broadcaster\nRelation7: owned by; relation8: founded by\nRelation9: distribution format; relation10: headquarters location\nRelation11: stock exchange; relation12: currency\nRelation13: parent organization; relation14: chief executive officer\nRelation15: director/manager; relation16: owner of\nRelation17: operator; relation18: member of\nRelation19: employer; relation20: chairperson\nRelation21: platform; relation22: subsidiary\nRelation23: legal form; relation24: publisher\nRelation25: developer; relation26: brand\nRelation27: business division; relation28: location of formation\nRelation29: creator\n\nExample: \"The company, which was founded by John Smith, is a subsidiary of ABC Corporation and is headquartered in New York City. It operates in the technology industry and is listed on the NASDAQ stock exchange.\"\n\nTranslation: \"该公司由约翰·史密斯创立，是ABC公司的子公司，总部位于纽约市。它从事技术行业，并在纳斯达克上市交易。\"",
+    "text": ""
+  },
+  {
+    "input": "我们进一步增强了与 Microsoft Intune、Symantec VIP 和 LinkedIn 社交登录的集成，为我们的客户提供了数千种预构建集成，从而加快了生产速度和增加了价值。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nPlease let me know if there's anything else I can assist you with!",
+    "instruction": "LinkedIn is a professional networking platform owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "我们也在 Microsoft Intune、Symantec VIP 和 LinkedIn 社交登录方面增强了集成，为我们的客户提供了数千个预构建的集成，提高了生产速度和价值。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\n中文翻译：请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\n\n英文翻译：Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {parent_organization}",
+    "instruction": "LinkedIn and Microsoft have a parent organization relationship.",
+    "text": ""
+  },
+  {
+    "input": "我们还在 Microsoft Intune、Symantec VIP 和 LinkedIn 社交登录方面增强了集成，这使得我们的预构建集成数量增加了数千个，从而提高了生产效率并增加了我们客户的价值。",
+    "output": "Owned by is translated to \"由...拥有\" in Chinese.",
+    "instruction": "LinkedIn is a social networking platform that connects professionals with each other and with potential employers. It was founded by Reid Hoffman, Marc Andreessen, and others in 2002 and is headquartered in Mountain View, California. It is a subsidiary of Microsoft, which is a major technology company based in Redmond, Washington. The stock of LinkedIn is listed on the New York Stock Exchange (NYSE) and its currency is the US dollar. The CEO of LinkedIn is Jeff Weiner. The company's legal form is a corporation and its brand is known for its professional networking services. LinkedIn operates in various industries, including information technology, finance, and marketing. It is also a member of the Microsoft Business Division.",
+    "text": ""
+  },
+  {
+    "input": "我们也增强了与 Microsoft Intune、Symantec VIP 和 LinkedIn 社交登录的集成，增加了数千个预构建的集成，从而加快了生产时间，并为客户增加了价值。",
+    "output": "Owned by: 拥有者",
+    "instruction": "The relationship between LinkedIn and Microsoft in the context of the input sentence is: \"owned by\". \n\nLinkedIn is a professional networking platform that was acquired by Microsoft in 2016. Therefore, Microsoft is the owner of LinkedIn.",
+    "text": ""
+  },
+  {
+    "input": "In the year, we launched on several models, including their new SUV lineup, the Cadillac Escalade, GMC Yukon and the Chevrolet Tahoe, adding to their full-size truck lineup that we launched in earlier.",
+    "output": "The GMC truck is produced.",
+    "instruction": "The sentence to be translated is: \"The company is a subsidiary of the parent organization and is headquartered in New York.\"\n\nThe translation in Chinese is: \"该公司是母公司的子公司，总部位于纽约。\"\n\nThe corresponding relation in the given options is \"subsidiary\" and the corresponding words are \"company\" and \"parent organization\". So, the output format is \"subsidiary: company, parent organization\".",
+    "text": ""
+  },
+  {
+    "input": "In the course of the year, we introduced several models, including their new SUV lineup, the Cadillac Escalade, GMC Yukon and the Chevrolet Tahoe, which were added to their full-size truck lineup that we launched earlier.",
+    "output": "GMC卡车。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThis sentence seems to be a set of instructions for extracting specific information from a sentence. However, it does not contain any actual sentence to extract information from. Could you please provide a sentence to work with?",
+    "text": ""
+  },
+  {
+    "input": "{在这一年里，我们推出了多个车型，包括他们的新款SUV系列，卡迪拉克艾斯克拉（Cadillac Escalade），GMC尤卡南（GMC Yukon）和雪佛兰坦途（Chevrolet Tahoe），补充了我们早前推出的全尺寸卡车系列。}",
+    "output": "Product or material produced: 生产的产品或材料",
+    "instruction": "Given the input text, it seems that the relationship between GMC and truck is \"product/material produced.\"",
+    "text": ""
+  },
+  {
+    "input": "在这一年里，我们推出了几个车型，包括他们的新款SUV阵容，凯迪拉克艾斯卡德、GMC尤肯和雪佛兰塔荷，这些车型加入了我们早先推出的全尺寸卡车系列。",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you want to translate.",
+    "instruction": "The relationship between GMC and truck in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n这是一个很好的例子，正如我们最近宣布的新SonimWare Enterprise Mobility Software一样。",
+    "output": "Mobility: 移动性\nSoftware: 软件",
+    "instruction": "relation1: product/material produced, word1, word2; relation2: manufacturer, word3, word4; relation3: distributed by, word5, word6; relation4: industry, word7, word8; relation5: position held, word9, word10; relation6: original broadcaster, word11, word12; relation7: owned by, word13, word14; relation8: founded by, word15, word16; relation9: distribution format, word17, word18; relation10: headquarters location, word19, word20; relation11: stock exchange, word21, word22; relation12: currency, word23, word24; relation13: parent organization, word25, word26; relation14: chief executive officer, word27, word28; relation15: director/manager, word29, word30; relation16: owner of, word31, word32; relation17: operator, word33, word34; relation18: member of, word35, word36; relation19: employer, word37, word38; relation20: chairperson, word39, word40; relation21: platform, word41, word42; relation22: subsidiary, word43, word44; relation23: legal form, word45, word46; relation24: publisher, word47, word48; relation25: developer, word49, word50; relation26: brand, word51, word52; relation27: business division, word53, word54; relation28: location of formation, word55, word56; relation29: creator, word57, word58.",
+    "text": ""
+  },
+  {
+    "input": "好的，这是英文翻译：{A good example of this is the new SonimWare Enterprise Mobility Software we recently announced.}",
+    "output": "\"Product or Material Produced: Mobility, Software\" 翻译为中文是 \"产品或材料生产：移动性，软件\"。",
+    "instruction": "Sure, I can help with that. Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer.\"\n\nAnd here's the sentence with the extracted subject and object containing the specified relation:\n\n\"relation1: sentence, translation; relation2: English, Chinese.\"\n\nNote: The relations provided in the instruction do not match the given sentence, so I have extracted the sentence and its translation as the subject and object with the relation of \"sentence, translation.\"",
+    "text": ""
+  },
+  {
+    "input": "A good example of this is the new SonimWare Enterprise Mobility Software we recently announced.\n这句话的中文翻译为：“最近我们宣布的新型索尼姆软件企业移动性软件是一个很好的例子。”",
+    "output": "The translated sentence is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nHere is the English translation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "The English sentence you provided does not contain any information that can be used to determine the relationship between Mobility and Software. Please provide more context or information so that I can accurately translate the sentence and determine the relationship between the two terms.",
+    "text": ""
+  },
+  {
+    "input": "这是一个很好的例子，正如我们最近宣布的新的 SonimWare Enterprise Mobility Software 一样。",
+    "output": "Product or material produced: 生产的产品或材料。",
+    "instruction": "The relationship between Mobility and Software in the context of the input sentence is: developer.",
+    "text": ""
+  },
+  {
+    "input": "\"此外，我们收购了Mittleman Investment Management，这将有助于我们执行新的企业战略，提供一个潜在的平台来收购其他经理，同时为Aimia提供关键的CEO和CIO管理角色。\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Aimia, management}\"\n\nIn English: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {industry: Aimia, management}",
+    "instruction": "\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nThis sentence can be translated to Chinese as:\n\n\"给定描述两个单词/短语之间关系的短语作为选项，从输入文本中提取单词/短语对以及它们之间的相应词汇关系。输出格式应为“relation1: word1, word2; relation2: word3, word4”。选项：产品/材料制造，制造商，由...分配，行业，担任...，原始广播商，由...拥有，由...创立，分配格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，...所有者，操作者，...成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\"",
+    "text": ""
+  },
+  {
+    "input": "Additionally, we acquired Mittleman Investment Management, which will help us execute our new corporate strategy, providing a platform to potentially acquire other managers, while providing Aimia with key management roles of CEO and CIO.\n\n此外，我们收购了Mittleman投资管理公司，这将有助于我们执行新的企业战略，提供一个平台来可能收购其他经理，同时为Aimia提供首席执行官和首席投资官的关键管理角色。",
+    "output": "Industry: Aimia, Management\n\nChinese Translation: 行业：AIMIA，管理",
+    "instruction": "Subject: 英文句子\nObject: 中文翻译\n\nrelation1: product/material produced; relation2: manufacturer\n- 英文句子: The company is the manufacturer of the product.\n- 中文翻译: 该公司是产品的制造商。\n\nrelation1: distributed by; relation2: industry\n- 英文句子: The product is distributed in the electronics industry.\n- 中文翻译: 该产品分布在电子行业。\n\nrelation1: position held; relation2: original broadcaster\n- 英文句子: The CEO of the company is the original broadcaster of the show.\n- 中文翻译: 该公司的首席执行官是节目的原始广播者。\n\nrelation1: owned by; relation2: parent organization\n- 英文句子: The company is owned by the parent organization.\n- 中文翻译: 该公司由母公司所有。\n\nrelation1: founded by; relation2: headquarters location\n- 英文句子: The company was founded in New York and has its headquarters there.\n- 中文翻译: 该公司成立于纽约，总部位于那里。\n\nrelation1: distribution format; relation2: stock exchange\n- 英文句子: The company's stock is listed on the New York Stock Exchange.\n- 中文翻译: 该公司的股票在纽约证券交易所上市。\n\nrelation1: currency; relation2: legal form\n- 英文句子: The company operates in the United States and uses the US dollar as its currency.\n- 中文翻译: 该公司在美国运营，使用美元作为其法定货币形式。\n\nrelation1: parent organization; relation2: chief executive officer\n- 英文句子: The company is a subsidiary of the parent organization and is led by its CEO.\n- 中文翻译: 该公司是母公司的子公司，由其首席执行官领导。\n\nrelation1: director/manager; relation2: owner of\n- 英文句子: The company is owned by the director and manager.\n- 中文翻译: 该公司由董事和经理所有。\n\nrelation1: operator; relation2: member of\n- 英文句子: The company is a member of the industry association and is operated by its members.\n- 中文翻译: 该公司是行业协会的成员，由其成员运营。\n\nrelation1: employer; relation2: chairperson\n- 英文句子: The company's chairperson is the employer of the employees.\n- 中文翻译: 该公司的董事长是员工的雇主。\n\nrelation1: platform; relation2: subsidiary\n- 英文句子: The company is a subsidiary of the parent company and operates on the platform.\n- 中文翻译: 该公司是母公司的子公司，在平台上运营。\n\nrelation1: developer; relation2: brand\n- 英文句子: The company is the developer of the brand.\n- 中文翻译: 该公司是品牌的开发者。\n\nrelation1: business division; relation2: location of formation\n- 英文句子: The company's business division is located in the United States.\n- 中文翻译: 该公司的业务部门位于美国。\n\nrelation1: creator; relation2: publisher\n- 英文句子: The company is the publisher of the creator's work.\n- 中文翻译: 该公司是创作者作品的出版商。",
+    "text": ""
+  },
+  {
+    "input": "此外，我们收购了 Mittleman Investment Management，这将有助于我们执行新的企业战略，提供一个平台，以便可能收购其他经理，同时为 Aimia 提供关键的 CEO 和 CIO 管理角色。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Aimia is a company that specializes in the distribution of consumer products, particularly in the beauty and personal care industry. They have a strong presence in Canada and the United States, and are known for their management of the Sephora brand. They have also expanded into the online market, offering a range of products and services through their website and mobile app. Aimia is publicly traded on the Toronto Stock Exchange and is headquartered in Montreal, Canada. The company is led by a team of experienced executives, including its CEO, Pierre Legault, and its Chairperson, Robert W. Eckert. Aimia is a subsidiary of the L'Oréal Group, one of the world's largest cosmetics and beauty companies.",
+    "text": ""
+  },
+  {
+    "input": "\"此外，我们收购了Mittleman Investment Management，这将有助于我们执行新的企业战略，提供一个平台来可能收购其他经理，同时为Aimia提供关键的CEO和CIO管理角色。\"",
+    "output": "The translation of the given English sentence into Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\".\n\nHere is the direct translation of the sentence into English: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {industry}\".\n\nPlease note that the curly braces \"{industry}\" are placeholders for variables or specific information, and should be replaced with the actual content in the context.",
+    "instruction": "The relationship between Aimia and management in the context of the input sentence is \"director/manager\".",
+    "text": ""
+  },
+  {
+    "input": "Aimia now owns a large stake in the leader in the outdoor advertising market in China with a high growth, high ROI and a scalable business, but debt free with a proven track record of free cash flow generation backed by blue chip consortium of investors and a highly skilled management team.\n\n翻译成中文：\nAimia现在拥有中国户外广告市场领导者的巨大股份，该市场具有高增长、高回报率和可扩展的业务，但无债务，并由投资者蓝筹集团和一支高技能的经营管理团队证明了自由现金流的生成记录。",
+    "output": "I'm happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Aimia, management}\"\n\nChinese translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{行业：Aimia，管理}\"\n\nNote: The original sentence was already in Chinese, so I translated it into English for you. Let me know if you need any further assistance!",
+    "instruction": "relation1: product/material produced; relation2: manufacturer; relation3: distributed by; relation4: industry; relation5: position held; relation6: original broadcaster; relation7: owned by; relation8: founded by; relation9: distribution format; relation10: headquarters location; relation11: stock exchange; relation12: currency; relation13: parent organization; relation14: chief executive officer; relation15: director/manager; relation16: owner of; relation17: operator; relation18: member of; relation19: employer; relation20: chairperson; relation21: platform; relation22: subsidiary; relation23: legal form; relation24: publisher; relation25: developer; relation26: brand; relation27: business division; relation28: location of formation; relation29: creator.",
+    "text": ""
+  },
+  {
+    "input": "Aimia now owns a large stake in the leader in the outdoor advertising market in China with a high growth, high ROI and a scalable business, but debt free with a proven track record of free cash flow generation backed by blue chip consortium of investors and a highly skilled management team. \n\nTranslation: Aimia 现在在中国户外广告市场占据领先地位，拥有高增长、高回报率和可扩展业务，但无债务，并由投资者蓝筹集团和一支高度专业化的管理团队证明其自由现金流产生的记录。",
+    "output": "Sure, here's the translation:\n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese. Here's the translation in English: \n\nPlease help me translate the following English sentence into Chinese",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: \"Given the input sentence\"\nObject: \"please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nRelation: \"Subject and Object\"\n\nExtracted Information: The subject of the sentence is \"Given the input sentence\" and the object is \"please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". The relation between the subject and object is that the subject is requesting the object to perform a certain action.",
+    "text": ""
+  },
+  {
+    "input": "Aimia now owns a large stake in the leader in the outdoor advertising market in China with a high growth, high ROI and a scalable business, but debt free with a proven track record of free cash flow generation backed by blue chip consortium of investors and a highly skilled management team. \n\n翻译成中文：\nAimia现在拥有中国户外广告市场领导者的巨大股份，具有高增长、高回报率和可扩展业务，但没有任何债务，并由投资者蓝筹集团和一支高度专业的管理团队证明了自由现金流的生成历史。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given sentence into Chinese:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in the response. {industry}\"\n\nIn Chinese, this sentence would be translated as:\n\n\"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{industry}\"\n\nPlease let me know if there's anything else I can help you with.",
+    "instruction": "Sure, I'd be happy to help! Here's the translation of the given sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{Utilize the input text as a context reference, choose the right relationship between Aimia and management from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\n\nAnd here's the English translation of the sentence:\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\n\nOptions for the relationship between Aimia and management: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "Aimia now owns a large stake in the leader in the outdoor advertising market in China with a high growth, high ROI and a scalable business, but debt free with a proven track record of free cash flow generation backed by blue chip consortium of investors and a highly skilled management team.",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Aimia and management in the context of the input sentence is \"director/manager\".",
+    "text": ""
+  },
+  {
+    "input": "This transaction's rationale was in part as an acqui-hire for Aimia to secure the management expertise and investment capabilities of Phil and Chris, which have benefited the company already from improving our relationship with key partners to accessing innovative and value enhancing ideas. \n\n翻译：\n此次交易的部分理由是，Aimia通过收购获得了Phil和Chris的管理专业知识和投资能力，这已经使公司受益，包括改善与关键合作伙伴的关系以及获取创新和增加价值的想法。",
+    "output": "Aimia's management is committed to providing high-quality service and customer satisfaction.",
+    "instruction": "The sentence to translate is: \"Apple Inc. is the manufacturer of the iPhone, which is distributed by Apple Inc. itself.\"\n\nThe translated sentence in Chinese is: \"苹果公司是 iPhone 的生产商，并且由苹果公司本身分销。\"\n\nThe corresponding lexical relationship between the words/phrases is:\n- manufacturer: Apple Inc., iPhone\n- distributed by: Apple Inc., iPhone\n\nSo the output format is:\n\"manufacturer: Apple Inc., iPhone; distributed by: Apple Inc., iPhone\"",
+    "text": ""
+  },
+  {
+    "input": "\"This transaction's rationale was in part as an acqui-hire for Aimia to secure the management expertise and investment capabilities of Phil and Chris, which have benefited the company already from improving our relationship with key partners to accessing innovative and value enhancing ideas.\" 可以翻译为：\n\n\"这笔交易的动机部分在于，Aimia通过收购雇用Phil和Chris，获取他们的管理经验和投资能力，这已经使公司受益，通过改善与关键合作伙伴的关系以及获取创新和增加价值的想法。\"",
+    "output": "Aimia is a company in the travel industry. It manages a range of travel-related services, including flights, hotels, and car rentals. Aimia is known for its innovative approach to travel management, offering personalized services and a wide range of options for customers.",
+    "instruction": "Sure, I can help with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn English, this translates to:\n\n\"Please help me translate the following English sentence into Chinese. In the answer, directly give the English translation.\"\n\nAnd here are the extracted subjects and objects containing certain relations in the sentence:\n\n- relation1: help, translate; relation2: English, Chinese\n\nI hope this helps! Let me know if you have any other questions.",
+    "text": ""
+  },
+  {
+    "input": "This transaction's rationale was in part as an acqui-hire for Aimia to secure the management expertise and investment capabilities of Phil and Chris, which have benefited the company already from improving our relationship with key partners to accessing innovative and value enhancing ideas. \n\n翻译为中文：\n这笔交易的动机之一是Aimia为了获得Phil和Chris的管理专长和投资能力，这已经使公司受益，包括改善与关键合作伙伴的关系以及接触到创新和增加价值的想法。",
+    "output": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "The English sentence you provided is incomplete and does not provide enough context to accurately determine the relationship between Aimia and management. Please provide the complete sentence or more context so I can give you an accurate translation.",
+    "text": ""
+  },
+  {
+    "input": "{This transaction’s rationale was in part as an acqui-hire for Aimia to secure the management expertise and investment capabilities of Phil and Chris, which have benefited the company already from improving our relationship with key partners to accessing innovative and value enhancing ideas.} 的中文翻译是：\n\n{\"这个交易的动机部分是为了通过收购雇用（acqui-hire）的方式，为Aimia获取Phil和Chris的管理经验和投资能力，这对公司已经产生了积极影响，包括改善与关键合作伙伴的关系，以及接触到创新和提升价值的想法。\"}",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate.",
+    "instruction": "The relationship between Aimia and management in the context of the input sentence is \"owned by\". The translated sentence in Chinese is \"Aimia is owned by the management\".",
+    "text": ""
+  }
+]

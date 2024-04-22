@@ -1,0 +1,302 @@
+[
+  {
+    "input": "我认为FMS将在不久的将来挑战200-EMA。看看昨天的成交量。\n\n英文翻译：I think FMS will challenge the 200-EMA in the not distant future. Look at yesterday's volume.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"3 Magnificent Mutual Funds to Maximize Your Retirement Portfolio - February 07, 2020\" 可以翻译为 \"3 卓越的共同基金，最大化您的退休投资组合 - 2020 年 2 月 7 日\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating loss totalled EUR 0.3 mn, down from a profit of EUR 5.1 mn in the first half of 2009. 直接翻译为：经营亏损总计为 0.3 百万欧元，比 2009 年上半年 5.1 百万欧元的利润有所下降。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者低估了这家科技巨头的利润潜力。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"loading $SPY and $AAPL puts. think were toppy IMHO.\"}\n\n中文翻译：正在加载$SPY和$AAPL的看跌期权。个人认为当前市场处于高位。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Sampo-Rosenlew manufactures approximately seven forest machines monthly, and about half of machines are exported.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国Well Services公司在Stifel设定的价格目标为3.50美元，并开始买入。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Mr. Koistinen joins from Nokia Siemens Networks where he has held various senior sales management and business development positions since 1997.\n\n柯伊斯丁先生从诺基亚西门子网络公司加入，自1997年以来，他在那里担任过各种高级销售管理和业务发展职位。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"UPDATE 1-Novartis eyes Medicines Co to boost cardio franchise - report\" 的中文翻译是 \"更新 1-Novartis 考虑收购 Medicines Co 以增强其心血管产品线 - 报道\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The deal means that ten persons in three countries will transfer to Tieto. 翻译为：“这笔交易意味着来自三个国家的十个人将转移到Tieto。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Aktia forecasts Finland's inflation at 1.1% in 2010.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stock Exchange Release 10/3/2011 12:00 Sanoma has published its Annual Report and Financial Statements for 2010 and its first Corporate Responsibility Report. \n\n中文翻译：\n股票交易公告 10/3/2011 12:00 Sanoma已发布其2010年的年度报告和财务报表，以及其第一份企业社会责任报告。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"世界银行建议创建'品牌东北'。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{最近，他创立了Virent Energy Systems，Inc.，这是一家80人规模的催化生物燃料公司，在那里，作为总裁兼首席执行官，他领导公司完成了多次融资，定义了公司的市场策略，并获得了公司的首批客户。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nMike Ghaffary, Canvas Ventures general partner, joins 'TechCheck' to discuss if Amazon's better positioned for the second half of the year, the company's prospects throughout the year after raising costs for sellers and more.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As with other stakeholders, COMPTEL has been involved in the workshops, meetings, and filed comments on the issues of greatest importance to the competitive sector of our industry.\n\n中文翻译：\n与其它利益相关者一样，COMPTEL参与了研讨会、会议，并就我们行业竞争性部门最重要的问题提交了评论。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"PLUG bear raid\" is a term used in the context of cryptocurrency mining, specifically in reference to a coordinated attack on a mining pool or individual miner's rigs. It involves multiple miners attempting to steal computing power from a single miner or mining pool, with the aim of maximizing their own rewards. This can be done through various methods, such as using a botnet to flood the victim's network with requests, or by exploiting vulnerabilities in the victim's software. The term \"bear raid\" is used because bears are often associated with theft or stealing in popular culture.}\n\nIn Chinese, the translation would be: \"{\"PLUG bear raid\" is a term used in the context of cryptocurrency mining, specifically in reference to a coordinated attack on a mining pool or individual miner's rigs. It involves multiple miners attempting to steal computing power from a single miner or mining pool, with the aim of maximizing their own rewards. This can be done through various methods, such as using a botnet to flood the victim's network with requests, or by exploiting vulnerabilities in the victim's software. The term \"bear raid\" is used because bears are often associated with theft or stealing in popular culture.\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca遭受挫折，因为该药物未能治疗眼部癌症。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者忽略了美光科技的稳健第三季度业绩，而是专注于公司的指引。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"今年最弱的板块和可能的虚假突破\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Investors were very happy with the company's latest financial results. 翻译成中文为：投资者对该公司最新的财务结果非常满意。",
+    "output": "强烈正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I don't see it. The 200-day moving average is the big hurdle. There is a good base building. $NFLX https://t.co/ImKYGO2cyc\" 翻译为中文是：\n\n\"I 没看到。200日移动平均线是重要的阻力位。有良好的支撑位正在形成。$NFLX https://t.co/ImKYGO2cyc\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "``这些计划的实施对2006年和2007年的收益产生了，并将继续产生，负面影响，'' 迈克约翰先生说。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Robertson's Tiger Management Buys Adobe, Facebook\n\n罗伯特森老虎基金购买Adobe，Facebook。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ramirent is a leading company in machinery and equipment rentals for construction and industry. \n\n翻译：Ramirent是一家领先的机械设备租赁公司，主要面向建筑和工业领域。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "加拿大鹅公布2020财年第三季度业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们认为，与艾力 Lilly 股票相比，Netflix 股票目前是一个更好的选择，考虑到 Netflix 的前景更好且相对估值较低。LLY 股票的市销率约为 10.2 倍，而 NFLX 股票的市销率约为 5.1 倍。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "根据迈克尔·霍恩堡主席的说法，该组织仅仅批评了雷索的业绩不佳。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Congratulations to the college students who competed in the 2019 National Fed Challenge Finals.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Peroni and Grolsch 被摆上货架出售，因为 AB InBev 计划收购 SABMiller。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "交易完成后，阿尔玛媒体在人才媒体的股份上升至30.65%，同时投票权也上升至31.12%。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As previously announced, GeoSentric Oyj entered into financing agreements with its lead investor on June 30, 2010, enabling the Company to receive financing up to the aggregate amount of 6M. \n\n翻译成中文：\n\n此前已经宣布，GeoSentric Oyj于2010年6月30日与其主要投资者签订了融资协议，允许公司获得总计6M的融资。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文字母翻译：\n\"Imperial Tobacco Adds Quarterly Dividends After Profit Rose\"\n\n中文翻译：\n\"帝国烟草在利润上升后增加季度分红\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "对冲基金正在出售Grief, Inc. (GEF)。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Innodisk Group Strengthens AIoT Vision with Sysinno Acquisition\n\n英译中：\n英诺迪斯克集团通过收购赛思诺，加强了其物联网（IoT）愿景。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "它的168位资产管理专家管理着超过350亿欧元的资产。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company is well positioned in Brazil and Uruguay.\n\n（直接翻译为中文）：公司位于巴西和乌拉圭的位置非常优越。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P downgrades Barclays and RBS on government bailout fears.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The given sentence is not clear or coherent, it seems to be a part of a code or script. Can you please provide more context or a complete sentence so I can assist you better?",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{芬兰玻璃技术集团Glaston Corporation (OMX Helsinki: GLA1V)于2008年1月至9月报告了6.5亿欧元的运营利润和201.5亿欧元的净销售额。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Elcoteq SE is listed on the Nasdaq OMX Helsinki Ltd. 的中文翻译是：“Elcoteq SE 在纳斯达克赫尔辛基交易所上市。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance Live's Julie Hyman and Brian Sozzi discuss the CEOs of U.S. companies that brought in the most compensation in 2021. 翻译为：\n\nYahoo Finance Live 的 Julie Hyman 和 Brian Sozzi 讨论了 2021 年获得最高薪酬的美国公司 CEO。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Egypt's central bank governor appointed for second term -state media #economy #MarketScreener\n\n埃及央行行长连任第二任期 - 官方媒体 #经济 #市场筛选器",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Brian Cheung breaks down Apple's services revenue as the tech giant is reportedly looking to wind down payment partnerships. \n\n翻译：\n雅虎财经的Brian Cheung对苹果的服务收入进行了剖析，因为据报道，这家科技巨头正在考虑终止支付伙伴关系。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meggitt share price tumbles as profit falls in 'challenging year' 翻译为 \"Meggitt 股价下跌，因 '具有挑战性的年份' 利润下降。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Netflix's (NASDAQ: NFLX) stock plummeted more than 25% on Tuesday, April 19, after the streaming giant revealed a loss of.",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "当您想到苹果公司经常面临的传统挑战时，创新和员工关系等问题可能会浮现在脑海中，但最近它遇到了一个新的挑战。最近，苹果公司将其流媒体部门打造成为一颗未经打磨的钻石，并获得了多个艾美奖和奥斯卡奖，这提高了该部门的门槛。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "股市更新：股市开盘略微上涨，能源股回落。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Winnebago Industries, Inc. (WGO): 对冲基金是否正确地评估了这只股票？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{UPDATE 1-有影响力的美国医生团体呼吁禁止电子烟产品}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

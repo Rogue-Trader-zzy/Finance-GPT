@@ -1,0 +1,302 @@
+[
+  {
+    "input": "The costs incurred by Coty on behalf of Wella following the closing will be approximately for the invoice for transitional service agreements, and we have therefore prepared the set of numbers called ongoing Coty, which better reflect what Coty ex-Wella is expected to be post closing.",
+    "output": "当然可以，以下是英文句子 \"The company has a parent organization.\" 的中文翻译：\n{\"parent_organization\"}",
+    "instruction": "Wella is a brand that was founded by the Coty Group, which is a parent organization in the beauty industry.",
+    "text": ""
+  },
+  {
+    "input": "The costs borne by Coty on behalf of Wella following the closing will be approximately the invoice for transitional service agreements, and we have therefore prepared the set of numbers called ongoing Coty, which better reflect what Coty ex-Wella is expected to be post closing.",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!",
+    "instruction": "The relationship between Wella and Coty in the context of the input sentence is: owned by.",
+    "text": ""
+  },
+  {
+    "input": "The costs borne by Coty on behalf of Wella following the closing will be approximately for the invoice for transitional service agreements, and we have therefore prepared the set of numbers called ongoing Coty, which better reflect what Coty ex-Wella is expected to be post closing.",
+    "output": "Owned by: 拥有者",
+    "instruction": "Wella is a brand of hair care products and beauty tools, and Coty is a global beauty company. The relationship between Wella and Coty is that Coty is the parent organization of Wella, which means that Coty owns and operates Wella as one of its subsidiaries.",
+    "text": ""
+  },
+  {
+    "input": "The costs borne by Coty on behalf of Wella following the closing will be approximately the invoice for transitional service agreements, and we have therefore prepared the set of numbers called ongoing Coty, which better reflect what Coty ex-Wella is expected to be post closing.",
+    "output": "Owned by is translated to \"由...拥有\" in Chinese.",
+    "instruction": "What is the relationship between Wella and Coty in the context of the input sentence?\n\nThe relationship between Wella and Coty in the context of the input sentence is that Wella is a brand owned by Coty.",
+    "text": ""
+  },
+  {
+    "input": "In terms of numbers, Coty adjusted operating income in fiscal '19 on the left was $950 million, 11% margin, Wella profit ex central cost was $459 million or after including the estimate GSA cost $407 million and as a result Ongoing Coty operating income was $543 million or 8.7% operating margin and ongoing Coty EBITDA as $875 million.\n\n中文翻译：\n\n在数字方面，科蒂公司在19财年左侧的调整经营收入为9.5亿美元，毛利率为11%，维拉利润不包括中心成本为4.59亿美元，或者包括GSA成本估计为4.07亿美元，结果，科蒂公司的持续经营收入为5.43亿美元或8.7%的经营利润率，以及持续的科蒂EBITDA为8.75亿美元。",
+    "output": "{parent_organization: 维乐，科蒂; owned_by: 维乐，科蒂}",
+    "instruction": "Original broadcaster: The English sentence is \"ABC News is the original broadcaster of the program.\" The corresponding Chinese translation is \"ABC新闻是这档节目的原创播出者。\"",
+    "text": ""
+  },
+  {
+    "input": "In terms of numbers, Coty adjusted operating income in fiscal '19 on the left was $950 million, 11% margin, Wella profit ex central cost was $459 million or after including the estimate GSA cost $407 million and as a result Ongoing Coty operating income was $543 million or 8.7% operating margin and ongoing Coty EBITDA as $875 million.\n\nCoty 在 2019 财年的调整经营收入为 9.5 亿美元，毛利率为 11%，Wella 在排除中央成本后的利润为 4.59 亿美元，或加上估计 GSA 成本后为 4.07 亿美元，因此 Coty 持续经营收入为 5.43 亿美元，经营利润率为 8.7%，持续经营 Coty EBITDA 为 8.75 亿美元。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Wella, Coty; owned_by: Wella, Coty}\"\n\n翻译：\"Help me translate the following English sentence into Chinese. The answer should directly provide the English translation! {parent_organization: Wella, Coty; owned_by: Wella, Coty}\"",
+    "instruction": "I'm sorry, but I need the input sentence to provide the translation. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "在数字方面，Coty在财政年度'19的调整后运营收入为9.5亿美元，毛利率为11%，Wella的利润不包括中心成本为4.59亿美元，或者包括预计的GSA成本为4.07亿美元，因此持续的Coty运营收入为5.43亿美元，或运营利润率为8.7%，持续的Coty EBITDA为8.75亿美元。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" into Chinese:\n\"请帮我把下面的句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\nPlease let me know if you need any further assistance!",
+    "instruction": "Wella and Coty are both well-known companies in the beauty industry. They are both manufacturers of cosmetics and personal care products. They are also competitors in the market. However, they are not owned by the same parent organization. They are both listed on the stock exchange, but they are not located in the same headquarters location. They are not members of the same legal form or publisher. They are not developers of the same brand or business division. They are not located in the same location of formation. They are not creators of the same product or material. They are not distributors of the same product or material. They are not chief executive officers of the same company. They are not directors or managers of the same company. They are not operators of the same platform. They are not chairpersons of the same company. They are not members of the same subsidiary. They are not employers of the same company. They are not owners of the same company. They are not members of the same industry. They are not members of the same position held. They are not original broadcasters of the same content. They are not members of the same family. They are not related by marriage. They are not siblings. They are not cousins. They are not friends. They are not colleagues. They are not acquaintances. They are not strangers. They are not enemies. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies. They are not adversaries. They are not foes. They are not rivals. They are not competitors. They are not business partners. They are not collaborators. They are not allies",
+    "text": ""
+  },
+  {
+    "input": "In terms of numbers, Coty adjusted operating income in fiscal '19 on the left was $950 million, 11% margin, Wella profit ex central cost was $459 million or after including the estimate GSA cost $407 million and as a result Ongoing Coty operating income was $543 million or 8.7% operating margin and ongoing Coty EBITDA as $875 million.\n\n翻译：\n在数字方面，科蒂在2019财年的调整经营收入为9.5亿美元，毛利率为11%，威拉利润不包括中央成本为4.59亿美元，或者包括估计的GSA成本为4.07亿美元，因此科蒂持续经营收入为5.43亿美元，或者持续经营毛利率为8.7%，并且科蒂持续经营EBITDA为8.75亿美元。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your response: {parent_organization}.\"",
+    "instruction": "What is the relationship between Wella and Coty in the context of the input sentence? The relationship between Wella and Coty is \"parent organization.\" Wella is a subsidiary of Coty, a global beauty company.",
+    "text": ""
+  },
+  {
+    "input": "In terms of numbers, Coty adjusted operating income in fiscal '19 on the left was $950 million, 11% margin, Wella profit ex central cost was $459 million or after including the estimate GSA cost $407 million and as a result Ongoing Coty operating income was $543 million or 8.7% operating margin and ongoing Coty EBITDA as $875 million.\n\n翻译为中文：\n\n从数字上来说，科蒂公司在19财年的调整经营收入为9.5亿美元，毛利率为11%，威拉利润不包括中央成本为4.59亿美元，或者包括估计的GSA成本为4.07亿美元，结果科蒂公司的持续经营收入为5.43亿美元，或者持续经营毛利率为8.7%，并且持续经营科蒂公司的EBITDA为8.75亿美元。",
+    "output": "Owned by: 由...所有",
+    "instruction": "Wella and Coty are both well-known brands in the beauty industry. They are both manufacturers and distributors of various beauty products, such as hair care products, cosmetics, and skincare products. They are also both part of larger corporations that own multiple brands and businesses in the beauty industry. Therefore, the relationship between Wella and Coty is that they are both manufacturers and distributors of beauty products, and they are part of larger corporations in the beauty industry.",
+    "text": ""
+  },
+  {
+    "input": "In terms of numbers, Coty adjusted operating income in fiscal '19 on the left was $950 million, 11% margin, Wella profit ex central cost was $459 million or after including the estimate GSA cost $407 million and as a result Ongoing Coty operating income was $543 million or 8.7% operating margin and ongoing Coty EBITDA as $875 million.\n\n翻译：\n\n在数字方面，Coty在'19财年的调整营业收入为950百万美元，11%的利润率，Wella的利润不包括中心成本为459百万美元，或者包括估计的GSA成本为407百万美元，因此持续的Coty营业收入为543百万美元或8.7%的营业利润率，持续的Coty EBITDA为875百万美元。",
+    "output": "Owned by: 由...拥有",
+    "instruction": "Wella and Coty are both companies in the beauty industry, and they are currently owned by Coty Inc. Therefore, the relationship between Wella and Coty can be described as \"owned by.\"",
+    "text": ""
+  },
+  {
+    "input": "\"2020年财政年度，Coty总体的调整后经营收入为1.51亿美元，占总收入的2.4%，Wella为2.71亿美元，持续Coty的调整后经营收入为-1.1亿美元，EBITDA为2.26亿美元。\"",
+    "output": "The parent organization is Wella, Coty, and it is owned by Wella, Coty.",
+    "instruction": "Given phrase: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nRelation: \"translator\" and \"Chinese\"",
+    "text": ""
+  },
+  {
+    "input": "\"展望2020财政年，Coty调整后的营业收入总额为1.51亿美元，占总收入的2.4%，Wella为2.71亿美元，持续的Coty调整后的营业收入为-1.1亿美元，EBITDA为2.26亿美元。\"",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Wella, Coty; owned_by: Wella, Coty}\"\n\nPlease help me translate the following English sentence into Chinese. The answer should directly provide the English translation! {parent_organization: Wella, Coty; owned_by: Wella, Coty}",
+    "instruction": "Sure, I can help you with that. Please provide me with the input sentence so I can translate it into Chinese and extract the subject and object containing the specified relation.",
+    "text": ""
+  },
+  {
+    "input": "In fiscal '20, Coty's total adjusted operating income is $151 million, accounting for 2.4% of net revenue. Wella's adjusted operating income is $271 million, and Ongoing Coty's adjusted operating income is negative $110 million with an EBITDA of $226 million.",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslation: Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!",
+    "instruction": "利用输入文本作为上下文参考，从选项中选择Wella和Coty之间的正确关系。选项：产品/材料制造，制造商，由...分配，行业，担任职务，原始广播者，由...拥有，由...创立，分销格式，总部所在地，证券交易所，货币，母组织，首席执行官，董事/经理，所有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创造者。",
+    "text": ""
+  },
+  {
+    "input": "2020年财政状况显示，科蒂公司调整后的营业收入为1.51亿美元，占总收入的2.4%。Wella的调整后营业收入为2.71亿美元，而科蒂持续运营业务的调整后营业收入为负1.1亿美元，EBITDA为2.26亿美元。",
+    "output": "{parent_organization} = 上级组织",
+    "instruction": "Wella and Coty are both beauty and personal care companies. They are parent organizations in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "2020年财务数据中，Total Coty调整后的营业收入为1.51亿美元，占净收入的2.4%，Wella为2.71亿美元，而Ongoing Coty调整后的营业收入为-1.1亿美元，EBITDA为2.26亿美元。",
+    "output": "Owned by.",
+    "instruction": "The English sentence you provided is incomplete and does not contain any information about Wella and Coty. Please provide the complete sentence or context so that I can accurately translate it into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "2020年财政年度，Coty的总调整经营收入为1.51亿美元，占净收入的2.4%，Wella为2.71亿美元，Ongoing Coty的调整经营收入为-1.1亿美元，EBITDA为2.26亿美元。",
+    "output": "Owned by: 属于",
+    "instruction": "Wella and Coty are both well-known companies in the beauty industry. In the context of the input sentence, the relationship between Wella and Coty can be described as \"parent organization\". This is because Coty acquired Wella in 2016, making Coty the parent company of Wella.",
+    "text": ""
+  },
+  {
+    "input": "While Wella including PSA cost showed a minimum less for Q4 Ongoing Coty adjusted operating income was a loss of $323 million for the quarter. 可以翻译为：\n\"虽然包括 PSA 成本在内的 Wella 在 Q4 持续运营收入中显示最小减少，但科蒂在当季的调整后运营收入为亏损 3.23 亿美元。\"",
+    "output": "{\"parent_organization\": \"Wella, Coty\", \"owned_by\": \"Wella, Coty\"} 翻译成中文为：\n\n{\"parent_organization\": \"威娜，科蒂\", \"owned_by\": \"威娜，科蒂\"}",
+    "instruction": "The given sentence is: \"Apple is the manufacturer of iPhone and iPad.\"\n\nTranslation: \"苹果公司是 iPhone 和 iPad 的制造商。\"\n\nThe corresponding relation and word pair is: \"manufacturer: Apple, iPhone; manufacturer: Apple, iPad\".",
+    "text": ""
+  },
+  {
+    "input": "While Wella including PSA cost showed a minimum less for Q4 Ongoing Coty adjusted operating income was a loss of $323 million for the quarter. \n\n翻译为中文：\n欧莱雅集团（Wella）包括PSA成本在内，第四季度持续经营调整后的营业收入为亏损3.23亿美元。",
+    "output": "The parent organization is Wella, Coty, and it is owned by Wella, Coty.",
+    "instruction": "Sure, I can help you with that. Please provide me with the English sentence that you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "While Wella including PSA cost showed a minimum less for Q4 Ongoing Coty adjusted operating income was a loss of $323 million for the quarter. 直接翻译为：\nWella 包括 PSA 成本在 Q4 持续运营的收入中显示最小减少，Coty 调整后的运营收入在该季度亏损了 3.23 亿美元。",
+    "output": "Sure, I'd be happy to help you with that! Here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation in your response: {parent_organization}\"\n\nIn Chinese: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}",
+    "instruction": "Wella is a brand and Coty is the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "\"While Wella including PSA cost showed a minimum less for Q4 Ongoing Coty adjusted operating income was a loss of $323 million for the quarter.\" 可以翻译为：\"尽管Wella包括PSA成本在第四季度持续运营收入中显示最小减少，科蒂调整后的运营收入在该季度亏损了3.23亿美元。\"",
+    "output": "Sure, I can help you with that. The English sentence \"{parent_organization}\" would translate to \"parent organization\" in Chinese.",
+    "instruction": "Wella and Coty are both companies in the beauty industry, with Wella being a subsidiary of Coty.",
+    "text": ""
+  },
+  {
+    "input": "While Wella including PSA cost showed a minimum less for Q4 Ongoing Coty adjusted operating income was a loss of $323 million for the quarter.\n\n翻译成中文为：\n\nWella 包括 PSA 成本的第四季度持续运营收入最低减少，科蒂公司调整后的运营收入在该季度内亏损了 3.23 亿美元。",
+    "output": "Owned by.",
+    "instruction": "Wella is a brand, and Coty is a parent organization.",
+    "text": ""
+  },
+  {
+    "input": "While Wella including PSA cost showed a minimum less for Q4 Ongoing Coty adjusted operating income was a loss of $323 million for the quarter.\n\n翻译成中文：\n当包括 PSA 成本的 Wella 显示第四季度持续运营收入的最小减少时，Coty 调整后的营业收入在该季度内出现了 3.23 亿美元的亏损。",
+    "output": "Owned by: 拥有者",
+    "instruction": "Wella and Coty are related as a parent organization and subsidiary, respectively. In the context of the input sentence, Wella is the subsidiary and Coty is the parent organization.",
+    "text": ""
+  },
+  {
+    "input": "如果你查看第11页底部的列状图，你将看到ICBP旗下的食品企业是Indofood强劲收益的主要推动力，尤其是由面条和面条所驱动的，正如我们都知道的，最近几个月面条和面条一直在新闻中占据头条，这要归功于Indofood收购了位于中东、北非和东南欧的Pinehill Group的面条制造商。",
+    "output": "Indofood is a leading food company in Indonesia, specializing in the production and distribution of various food products, including snacks, beverages, and instant noodles.",
+    "instruction": "Given the input text, I will extract the word/phrase pair and the corresponding lexical relationship between them. The output format will be \"relation1: word1, word2; relation2: word3, word4\".\n\nInput: \"Please help me translate the following English sentence into Chinese. {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nOutput: \"relation1: Given phrases, options; relation2: input text, output format\"",
+    "text": ""
+  },
+  {
+    "input": "If you look at the column chart at the bottom of Page 11, you can see that the food businesses under ICBP were the big drivers of the strong earnings at Indofood, particularly led by the noodles and noodles as we all know have been in the news for Indofood in recent months, owing to the purchase of the Pinehill Group of noodle makers based in the Middle East, North Africa and Southeastern Europe.\n\n请看第11页底部的柱状图，您可以看到ICBP下的食品业务是Indofood强劲收益的主要推动力，特别是在我们众所周知的面条和面条，最近几个月在新闻中一直占据头条，这要归功于中东、北非和东南欧的面条制造商Pinehill Group的收购。",
+    "output": "Sure, here is the translation of the sentence: \"Indofood is a leading food company in the industry.\"",
+    "instruction": "请提供需要翻译的英文句子，以便我可以为您翻译并提取句子中的主题和对象。",
+    "text": ""
+  },
+  {
+    "input": "{如果你看一下第11页底部的柱状图，你可以看到，ICBP旗下的食品业务是Indofood强劲盈利的主要驱动力，尤其是我们众所周知的拉面。最近几个月，由于收购了位于中东、北非和东南欧的Pinehill集团的拉面制造商，拉面一直在Indofood的新闻中占据了重要位置。}",
+    "output": "Sure, here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" translates to \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业}\" in Chinese.",
+    "instruction": "Indofood is a manufacturer of food products.",
+    "text": ""
+  },
+  {
+    "input": "If you look at the column chart at the bottom of Page 11, you can see that the food businesses under ICBP were the big drivers of the strong earnings at Indofood, particularly led by the noodles and noodles as we all know have been in the news for Indofood in recent months, owing to the purchase of the Pinehill Group of noodle makers based in the Middle East, North Africa and Southeastern Europe.\n\n翻译成中文：\n如果查看第11页底部的列状图，您可以看到ICBP下的食品业务是Indofood强劲收益的主要推动力，特别是面条和面条，正如我们大家都知道的，最近几个月面条和面条一直是Indofood的新闻，这主要是因为在中东、北非和东南欧设立的Pinehill集团的面条制造商的收购。",
+    "output": "Sure, I'd be happy to help with that. Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" translates to \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {industry}\".\n\nLet me know if you need any further assistance!",
+    "instruction": "The relationship between Indofood and food in the context of the input sentence is \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "And I personally, I'm looking forward to see how Indofood evolves as a global food company, one of the biggest noodle makers in the world. 翻译成中文为：\n\n我个人非常期待看到Indofood作为全球食品公司的发展，它是世界上最大的面条制造商之一。",
+    "output": "Sure, here is the translation of the sentence: \"Indofood is a food industry company.\"",
+    "instruction": "Original broadcaster: BBC, \"Doctor Who\"; Owned by: BBC, \"Doctor Who\"",
+    "text": ""
+  },
+  {
+    "input": "And I personally, I'm looking forward to see how Indofood evolves as a global food company, one of the biggest noodle makers in the world.\n直接翻译为：\n我对Indofood作为全球食品公司的发展充满期待，它是世界上最大的面条制造商之一。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: Indofood, food}.\" 翻译为：\"Please help me translate the following English sentence into Chinese. The answer should be directly given in English! {industry: Indofood, food}.\"",
+    "instruction": "Subject: \"Given the input sentence\"\nObject: \"please extract the subject and object containing a certain relation in the sentence according to the following relation types\"\nRelation: \"relation1: word1, word2; relation2: word3, word4\"\n\nRelation types: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{根据以下关系类型提取输入句子中的主语和宾语，格式为\"relation1: word1, word2; relation2: word3, word4\"。关系类型包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；所有权；由创建；分发格式；总部位置；股票交易所；货币；母公司；首席执行官；董事/经理；拥有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。}\"",
+    "text": ""
+  },
+  {
+    "input": "And I personally, I'm looking forward to see how Indofood evolves as a global food company, one of the biggest noodle makers in the world.\n翻译为中文：\n并且我个人期待看到Indofood如何发展成为全球食品公司，世界最大的面条制造商之一。",
+    "output": "I'm sorry, but I need the English sentence you want me to translate into Chinese. Please provide the sentence so I can assist you better.",
+    "instruction": "Indofood is a manufacturer of food products and ingredients.",
+    "text": ""
+  },
+  {
+    "input": "And I personally, I'm looking forward to see how Indofood evolves as a global food company, one of the biggest noodle makers in the world.\n\n我自己很期待看到Indofood如何演变成为一家全球性的食品公司，它是世界上最大的面条制造商之一。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Indofood and food in the context of the input sentence is \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "对于零售药房，其中的六家中有四家正在开发位于黄金地段的店铺，主要集中在匹兹堡和费城地区。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer. {industry: prime, retail}\"\n\nChinese translation: 请帮我将下面的英文句子翻译成中文。直接在回答中给出英文翻译！{行业：领先，零售}",
+    "instruction": "原句：The product is manufactured by Company A and distributed by Company B.\n\n翻译：该产品由公司A生产，由公司B分销。\n\n翻译后的英文句子：The product is manufactured by Company A and distributed by Company B.\n\n对应的关系和单词/短语：\n- product/material produced: 产品/材料生产\n- manufacturer: 制造商\n- distributed by: 分销\n- industry: 行业\n- position held: 担任职务\n- original broadcaster: 原始广播\n- owned by: 拥有\n- founded by: 创立\n- distribution format: 分销格式\n- headquarters location: 总部所在地\n- stock exchange: 股票交易所\n- currency: 货币\n- parent organization: 母公司\n- chief executive officer: 首席执行官\n- director/manager: 董事/经理\n- owner of: 拥有\n- operator: 运营商\n- member of: 成员\n- employer: 雇主\n- chairperson: 主席\n- platform: 平台\n- subsidiary: 子公司\n- legal form: 法律形式\n- publisher: 出版商\n- developer: 开发者\n- brand: 品牌\n- business division: 业务部门\n- location of formation: 成立地点\n- creator: 创作者\n\n根据上述选项，我们可以从原句中提取以下关系和单词/短语：\n- manufacturer: 制造商\n- distributed by: 分销\n- Company A: 公司A\n- Company B: 公司B\n\n因此，输出格式为：\n\"manufacturer: Company A, Company B; distributed by: Company B\"。",
+    "text": ""
+  },
+  {
+    "input": "对于零售药店，其中六个中的四个正在位于黄金地段的开发中，主要集中在匹兹堡和费城地区。",
+    "output": "Sure, here is the translation of the sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{行业：首要，零售}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe input sentence is: \"Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs and produces consumer electronics, computer software and online services.\"\n\nThe relation type is \"headquarters location\". The subject is \"Apple Inc.\" and the object is \"Cupertino, California\". So the translation is: \"headquarters location: Apple Inc., Cupertino, California\".",
+    "text": ""
+  },
+  {
+    "input": "As for the retail dispensaries, four of the six are in development in prime locations, predominantly clustered in Pittsburgh and Philadelphia regions.\n\n翻译为中文：\n对于零售配药所，其中的六所中，有四所正在开发中的黄金地段，主要集中在匹兹堡和费城地区。",
+    "output": "I'm sorry, but I can't provide the translation you're looking for.",
+    "instruction": "The sentence \"Utilize the input text as a context reference, choose the right relationship between prime and retail from the options.\" can be translated to Chinese as \"利用输入文本作为上下文参考，从选项中选择正确的prime和retail之间的关系。\"",
+    "text": ""
+  },
+  {
+    "input": "As for the retail dispensaries, four of the six are in development in prime locations, predominantly clustered in Pittsburgh and Philadelphia regions.\n\n翻译成中文为：\n至于零售药房，其中六个中的四个正在发展中的优质位置，主要集中在匹兹堡和费城地区。",
+    "output": "Sure, I can help with that! Here's the translation of the given sentence:\n\n\"I'm looking for a job in the {industry} industry.\"\n\nTranslation: 我在 {industry} 行业寻找工作。",
+    "instruction": "The relationship between prime and retail in the context of the input sentence is \"distributed by\". \n\n英文翻译：\nThe relationship between prime and retail in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "\"We will collaborate with Riot Games and local government to organize various online and offline activities to promote the globally renowned League of Legends World Championship event, and attract more e-sports enthusiasts to Bilibili.\"",
+    "output": "Riot Games, League of Legends is the translation of the given information.",
+    "instruction": "Given the following sentence: \"Apple is the original broadcaster of the hit TV show, Friends.\"\n\nThe translated sentence in Chinese is: \"苹果是热门电视剧《老友记》的原始广播者。\"\n\nThe corresponding lexical relationship between the words/phrases in the input text is: \"original broadcaster: Apple, Friends\".",
+    "text": ""
+  },
+  {
+    "input": "\"We will collaborate with Riot Games and the local government to organize various online and offline activities to promote the renowned League of Legends World Championship event, and attract more e-sports enthusiasts to Bilibili.\"",
+    "output": "产品或材料生产商：Riot Games, League of Legends\n产品或材料生产商：暴雪娱乐，魔兽世界",
+    "instruction": "Sorry, I can't provide the translation directly as you requested, but I can give you the translation of the given sentence in English: \"Please help me translate the following English sentence into Chinese. {Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"\n\nTranslation: \"请帮我将下面的英文句子翻译成中文。{给定输入句子，请根据以下关系类型提取句子中的主语和宾语，以格式\"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产者；制造商；分销商；行业；担任职务；原始广播员；所有者；创立者；分销格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。}\"\n\nPlease note that the translation provided is a direct translation of the given sentence, and may not convey the same meaning or context in Chinese as it does in English.",
+    "text": ""
+  },
+  {
+    "input": "\"We will collaborate with Riot Games and the local government to organize various online and offline activities to promote the globally renowned League of Legends World Championship event, and attract more e-sports enthusiasts to Bilibili.\"",
+    "output": "{product_or_material_produced} is translated to \"{product_or_material_produced}\" in Chinese.",
+    "instruction": "League of Legends is a product/material produced by Riot Games.",
+    "text": ""
+  },
+  {
+    "input": "我们会与Riot Games和当地政府合作，举办多样化的线上和线下活动，以促进世界知名的英雄联盟世界锦标赛赛事，同时吸引更多的电竞爱好者来到Bilibili。",
+    "output": "Product or material produced: 产品或材料生产。",
+    "instruction": "Riot Games is the developer and original broadcaster of League of Legends.",
+    "text": ""
+  },
+  {
+    "input": "Also in the quarter, we expanded our Steelcase partnership for the launch of a new furniture collection, aimed at helping our customers work from home comfortably and productively with products that provide form and function.",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly: {product_or_material_produced: Steelcase, furniture}\" translates to \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译：{product_or_material_produced: Steelcase, furniture}\" in Chinese.",
+    "instruction": "The relationship between the two words/phrases in the given text is \"product/material produced\". The corresponding lexical relationship between them is \"manufacturer\". The output format is \"relation1: word1, word2; relation2: word3, word4\". The output would be \"manufacturer: product, material\".",
+    "text": ""
+  },
+  {
+    "input": "同时在本季度，我们扩大了与Steelcase的合作，推出了一个新家具系列，旨在帮助我们的客户在家舒适且高效地工作，提供兼具形式和功能的商品。",
+    "output": "Steelcase produces furniture.",
+    "instruction": "Subject: the input sentence\nObject: the subject and object containing a certain relation in the sentence\n\nRelation1: product/material produced; relation2: manufacturer\n\nAnswer: 根据给定的输入句子，请提取其中包含某种关系的宾语和谓词，格式为\"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商。",
+    "text": ""
+  },
+  {
+    "input": "同时在该季度，我们扩展了与Steelcase的合作关系，推出了新的家具系列，旨在通过提供形式和功能的产品的帮助，让我们的客户在家舒适地工作和高效地工作。",
+    "output": "The English sentence you provided is incomplete, so I'm unable to provide a translation. Please provide the full sentence or context so I can assist you better.",
+    "instruction": "The sentence you provided is not clear. It seems like a request for translation and a list of possible relationships between Steelcase and furniture. However, without the actual sentence to translate, I cannot provide a direct translation. Please provide the sentence you would like translated, and I will do my best to assist you.",
+    "text": ""
+  },
+  {
+    "input": "In the same quarter, we expanded our partnership with Steelcase for the launch of a new furniture collection, aimed at helping our customers work from home comfortably and productively with products that provide form and function.",
+    "output": "I'm sorry, but your request is incomplete. Please provide the specific sentence you would like me to translate.",
+    "instruction": "Steelcase is a manufacturer of furniture.",
+    "text": ""
+  },
+  {
+    "input": "然而，我们谨慎的承保历史，零售投资组合的主要性质以及批发投资组合的多样性，在COVID-19大流行导致的宏观经济状况恶化的背景下，发挥了强大的缓和作用。",
+    "output": "Sure, here is the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: prime, retail}。\"\n\n英文翻译: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {industry: prime, retail}.\"",
+    "instruction": "制造商: Apple, iPhone; 总部所在地: Apple, Cupertino, California; 首席执行官: Apple, Tim Cook; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 法律形式: Apple, Limited Liability Company; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple, iPhone; 发布者: Apple, Apple Inc.; 法律形式: Apple, Limited Liability Company; 总部所在地: Apple, Cupertino, California; 制造商: Apple, iPhone; 业务部门: Apple, iPhone Division; 创始人: Apple, Steve Jobs, Steve Wozniak; 股票交易所: Apple, NASDAQ; 货币: Apple, US Dollar; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 开发者: Apple, Apple Inc.; 品牌: Apple,",
+    "text": ""
+  },
+  {
+    "input": "然而，我们谨慎的承保历史、零售组合的主导地位以及批发组合的多样性，都为我们抵御因COVID-19大流行而恶化的宏观经济状况提供了强大的缓冲。",
+    "output": "Sure, here's the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: prime, retail}\" \n\nTranslation: Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation! {industry: prime, retail}",
+    "instruction": "The given input sentence is not provided. Please provide the sentence you want to translate, and I will be happy to help you with the translation.",
+    "text": ""
+  },
+  {
+    "input": "然而，我们谨慎的承保历史，零售组合的主导地位以及批发组合的多样性，在应对由于COVID-19大流行而出现的宏观经济状况恶化的背景下，起到了强大的缓和作用。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Utilize the input text as a context reference, choose the right relationship between prime and retail from the options.",
+    "text": ""
+  },
+  {
+    "input": "然而，我们谨慎的承保历史，零售投资组合的主要性质以及批发投资组合的多样性都是对因COVID-19大流行而出现的宏观经济状况恶化的强有力的缓解因素。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between prime and retail in the context of the input sentence is \"distributed by\". The English translation of the sentence is: \"What is the relationship between prime and retail in the context of the input sentence? The answer is 'distributed by'.\"",
+    "text": ""
+  },
+  {
+    "input": "This sentence translates to: \"This especially relates to Elekta Unity and Leksell Gamma Knife products for which we have global installation teams.\"",
+    "output": "以下是英文句子翻译成中文：\n\n\"Elekta, Gamma Knife\" 的中文翻译是 \"Elekta，伽玛刀\"。\n\n解释：\n- Elekta 是一个瑞典医疗设备制造商，主要生产放射治疗设备。\n- Gamma Knife 是 Elekta 公司生产的一种放射外科手术设备，用于治疗脑部肿瘤和其他神经外科疾病。\n\n所以，\"Elekta, Gamma Knife\" 直接翻译成中文就是 \"Elekta，伽玛刀\"。",
+    "instruction": "The given English sentence is: \"Apple is a brand that is owned by Apple Inc.\"\n\nThe corresponding Chinese translation is: \"苹果是一个由苹果公司拥有的品牌。\"\n\nThe relation between \"Apple\" and \"Apple Inc.\" is \"owned by\", and the relation between \"brand\" and \"Apple\" is \"product/material produced\". So the output format is:\n\n\"owned by: Apple, Apple Inc.; product/material produced: brand, Apple.\"",
+    "text": ""
+  },
+  {
+    "input": "This relates especially to Elekta Unity and Leksell Gamma Knife products for which we have a global installation teams.\n\n这句英文可以翻译成中文：\n\n这句话特别涉及到 Elekta Unity 和 Leksell Gamma Knife 产品，我们对这些产品拥有全球安装团队。",
+    "output": "The product or material produced: Elekta, Gamma Knife\n\n翻译：产品或材料：Elekta，伽玛刀。",
+    "instruction": "Here is the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe extracted subject and object containing a certain relation in the sentence according to the relation types are:\n\n- relation1: 句子, 中文翻译; relation2: 翻译, 英文句子\n\nRelations include:\n\n- relation1: 句子, 中文翻译; relation2: 翻译, 英文句子",
+    "text": ""
+  },
+  {
+    "input": "This relates especially to Elekta Unity and Leksell Gamma Knife products for which we have a global installation teams. \n\n翻译成中文为：\n这特别涉及到Elekta Unity和Leksell Gamma Knife产品，我们对这些产品拥有全球安装团队。",
+    "output": "Product or material produced: 产品或材料生产。",
+    "instruction": "Elekta is a Swedish company that produces medical technology, particularly for radiation therapy. Gamma Knife is a type of radiosurgery device that is manufactured by Elekta. Therefore, the correct relationship between Elekta and Gamma Knife is \"product/material produced\".",
+    "text": ""
+  },
+  {
+    "input": "This sentence translates to: \"This especially applies to Elekta Unity and Leksell Gamma Knife products for which we have global installation teams.\"",
+    "output": "Product or material produced: 产品或材料生产。",
+    "instruction": "The relationship between Elekta and Gamma Knife is that they are both products/materials produced by the same manufacturer.",
+    "text": ""
+  }
+]

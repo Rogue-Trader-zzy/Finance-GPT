@@ -1,0 +1,302 @@
+[
+  {
+    "input": "你需要了解的市场动态信息 {All you need to know about what's moving markets} 可以翻译为 \"你需要了解的市场动态信息\"。\n\n以下是提供的英文句子的中文翻译：\n\n{All you need to know about what's moving markets https://t.co/2T0YH18QwI}\n\n翻译为：\n\n你需要了解的市场动态信息\n\n请记住，在回答时，我按照您的要求直接给出了英文翻译。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "iPhones from a Lightning cable, while Android-based devices use USB-C connectors.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Financial 15 Split宣布发放0.1257 CAD股息。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"KRG\": \"Compass Point cuts to Sell\"} 翻译成中文为：{\"KRG\": \"康普顿观点转向卖出\"}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"西门子考虑购买 Iberdrola 的西门子歌雅股份\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Italian pharmaceutical market: Global Research & Data Services recently published a market analysis about the pharmaceutical markets in Italy.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tieto Corporation and Pohjola Bank (PINK: POJLF) are set to collaborate on SWIFT services.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IMPACT Silver reports Q3 results\" 的中文翻译为 \"IMPACT Silver公布第三季度业绩\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nvidia has added two electric vehicle makers to its portfolio of automotive companies adopting its Drive Hyperion platform, a compute and sensor toolkit that powers automated driving capabilities in everything from private passenger vehicles to robotaxis to autonomous trucks. Chinese automaker BYD and American automaker Lucid Motors, two companies that offer software-defined features like intelligent […]",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Windows 10 is terrible. Why did it force an upgrade on my PC without my consent? #windows #Microsoft $msft\n\n中文翻译：Windows 10 很糟糕。为什么它在我的电脑上强制升级，而我没有同意？#Windows #Microsoft $msft",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "估算雷诺德公司的公允价值（NYSE: RXN）。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "WPP, the world's largest ad agency, reports strong 2015 growth.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"Argen-X的股票价格目标在Instinet上从203美元上调至255美元。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The streaming giant is ready to pop or drop?",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence translates to: \"Where's the Fake Whistleblower? Where's Whistleblower number 2? Where's the phony informer who got it all wrong?\" in Chinese.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Avantor Q4 non-GAAP EPS up 90%} 的中文翻译为：“Avantor 第四季度非公认会计准则每股收益（EPS）增长 90%”。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "伯克希尔·哈撒韦公司任命Kara Raiguel负责General Re部门。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The software leader's growth is slowing.\n翻译成中文：软件领导者的增长正在放缓。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "S&P 保持了其 \"卖出\" 评级，而 Nordea 和 UBS 重申了他们的 \"买入\" 建议。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tecnotree 's convergent charging solution includes functionality for prepaid and post-paid billing, charging and rating of voice calls, video calls and raw data traffic for both mobile and fixed networks.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The translation of the given English sentence into Chinese is: \"健康医疗行业上涨，因为生物技术行业面临更高的风险，健康医疗行业综述#经济#MarketScreener…https://t.co/QN6mBOZImy\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Germanwings disaster will not affect the image of budget air travel - easyJet.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"As part of the Eseries business promise, the Nokia E50 has been equipped with a variety of email solutions in a small and stylized package,\" said Dave Grannan, general manager, Enterprise Solutions, Nokia.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "RNN日交易者被清除，它应该从现在开始慢慢上涨。\n\n{$RNN day traders flushed out, it should start going up slowly from now on .}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon has printed what can be interpreted as a wave one two on the monthly chart. Coming into the shopping season, we will look at how Amazon's share price normally reacts.\n\n亚马逊在月度图表上打印了可以被解释为浪一浪二的东西。随着购物季节的到来，我们将看看亚马逊的股价通常如何反应。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TIGR (+8.7% pre) UP Fintech Holding Limited Reports Unaudited Third Quarter 2019 Financial Results - SI\n\n中文翻译：\nTIGR (+8.7% pre) UP 金融科技控股有限公司发布未经审计的2019年第三季度财务业绩 - 讯息",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Omnicell在投资者和分析师日上强调了其战略优先事项和长期财务目标。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dividend-paying stocks have historically been a successful way to protect capital against inflation. \n\n翻译成中文：\n历史上，股息股票一直是保护资本抵御通胀的一种成功方式。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Curators have divided their material into eight themes. 翻译成中文为：策展人已将他们的资料分成八个主题。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Svyturys-Utenos Alus，由北欧集团Baltic Beverages Holding（BBH）控制，1月至9月啤酒销售量增长了6.1％，达到10,199,900升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "每股收益（EPS）达到0.38欧元的亏损。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The duration of the contract is 37 months. 翻译成中文为：合同的期限为37个月。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"强大的财务状况，稳健的增长和低估的估值都是现在购买GOOG股票的理由。文章《3个理由在最近的下跌后购买Alphabet》在InvestorPlace上首发。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish electrical components maker Salcomp Oyj ( HEL : SAL1V ) announced today the launch of its latest Twist charger platform.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new company, DiaPol S.r.l., would manufacture tools meant for glass and stone pre-processing. \n\n直接翻译为中文：\n这家新公司，DiaPol S.r.l.，将制造用于玻璃和石材预处理的工具。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EUR/USD, Tuesday forecast, November 19.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者可能会发现它的主导地位正在减弱。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"买低卖高 - 华尔街过度使用的陈词滥调，但却让耐心等待的投资家们变得富有。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{一位意大利时尚屋的发言人拒绝了关于和解的评论。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语：Schiff's ill-advised impeachment gamble turned Trump into a billionaire martyr.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英镑汇率上涨，因为保守党在脱欧计划上团结一致。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Harvest Capital Credit declares $0.08 dividend. （丰收资本信贷宣布支付0.08美元的股息。）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Pretax profit rose to EUR 1,019 mn from EUR 1,007 in the corresponding period in 2005. 税前利润在2005年同期相比增加了1,019百万欧元至1,007百万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Refiling: Hikma and Barclays help Britain's FTSE to climb higher\" 翻译为中文是：\n\n\"重发：惠康和巴克莱帮助英国的富时指数进一步上涨。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla is recalling 2,700 Model X units due to a faulty latch for third-row seats. The stock fell to $252.50 level on the recall, but shares are up 1% at $TSLA.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"amzn breaking\"} is a placeholder for a breaking news alert or update related to Amazon, which could be translated to \"亚马逊新闻更新\" in Chinese. However, the exact translation would depend on the specific context and content of the news.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"希拉里发推文称“无人能凌驾于法律之上”，然后拒绝接受针对她的诉讼。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Net sales will, however, increase from 2005.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nMicron Technology, Inc. (Nasdaq: MU) has announced it surpassed 50,000 lifetime patents. These are the details.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "HSBC表示，单位将在和解方面承担5.85亿美元的罚款。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

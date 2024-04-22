@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Funko stock plummets 39%, shares downgraded after holiday season weakness. \n\n翻译成中文：\nFunコ股票暴跌39%，假日季节疲软导致评级下调。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Micron (MU) 在2022年2月季度实现了9.74%的收益惊喜和3.67%的营收惊喜。这些数字是否为该股票未来的走向提供了线索？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "LSE-Deutsche Börse dealmakers wrong to ignore Brexit risk 翻译成中文是：“伦敦证券交易所（LSE）和德意志交易所（Deutsche Börse）的并购方忽略脱欧风险是错误的。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CNBC's 'Halftime Report' 投资委员会成员 Karen Firestone, Victoria Greene, Steve Weiss 和 Joe Terranova 讨论了 Warren Buffett 的股票组合，该组合主要由五只股票主导：苹果、美国银行、可口可乐、雪弗龙和美国运通。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果短期基金/赎回清算...应该很快就会清理完通道，并且站稳脚跟。7月到来的新底价是520美元！:)}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我预计未来两周内特斯拉还有进一步下跌的空间，请注意，下跌20美元的风险正在增加，而上涨10美元的可能性正在降低。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I f**king hate Apple. I think it is terrible for society and wields far too much power.\" 翻译为中文是：“我他妈讨厌苹果公司。我认为它对社会极其有害，并且拥有过大的权力。”",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chuy's Holdings 将会关闭表现不佳的门店。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Sistema Public Joint Stock Financial Corporation (MCX:AFKS) 的交易是否打了47%的折扣？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Together with Latvia,\" \"Cramo will operate 54 rental outlets in the Baltic States.\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company's strong numbers could be a sign of strength for the chip industry.\n\n翻译：公司强劲的数字可能是芯片行业的强大信号。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "CHS Expo Freight是一家主要的芬兰物流、展览和文化物流公司，通过陆地、航空和海运提供各种活动的物流服务。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Barclays sells benchmark indices unit to Bloomberg.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Here is the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n- Please help me translate the following English sentence into Chinese, and provide the translation directly in English.\n\n{$VIVE - Viveve Medical prices unit offering https://t.co/10BKUtJ8Cy}\n- {$VIVE - Viveve Medical prices unit offering https://t.co/10BKUtJ8Cy}\n\n(Note: The URL and hashtag are not translated, as they are not part of the sentence to be translated.)",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BHP Billiton drags FTSE lower after slashing dividend\n\n英中翻译：\n必和必拓削减股息后拖累富时指数走低。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是该句子的中文翻译：\n{\"我们认为Netflix是一个多年的“让我看到”故事，并且更有可能的外部催化剂将在接下来的6-12个月内出现，\"高盛表示。\"}",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The company is now trading at the cheapest valuation based on P/E since 2018. = 该公司的市盈率估值自2018年以来最低。\nGoogle Cloud's lack of profitability could be an opportunity for investors. = 谷歌云的盈利能力不足可能为投资者提供机会。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The personnel's expertise and high level of technology play a major role in Exel Composites' operations.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish Vacon has signed significant deals with Norwegian Scandinavian Electric Systems (SES) on the supply of AC drives.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "4G enables customers to enjoy mobile broadband services with speeds up to ten times higher than those provided by today's 3G.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Starbucks被德意志银行下调至中性评级。目标价从70美元降至64美元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intertek swings to £347 mln loss on oil's slump.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The metrics in QPR ScoreCard now support date, text, and milestone-based values, which improve its support for managing projects around performance or process-related content.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "A broad range of connectivity options including 3G - HSPA and Wi-Fi gives consumers high speed access to the Internet. 直接翻译为：“包括3G - HSPA和Wi-Fi在内的多种连接选项为消费者提供高速互联网接入。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$OKTA - Okta, Inc. 2020 Q3 - Results - Earnings Call Presentation. Subscribe to Seeking Alpha for more:… https://t.co/JShKmdSTJ5} \n\nThis is a tweet or post with a URL link, which indicates that Okta, Inc. has published their Q3 2020 results presentation on their earnings call. The link is to a subscription-based platform called Seeking Alpha for further information.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "德意志银行下调星巴克公司股票评级。\n\n英文翻译：Deutsche Bank downgraded Starbucks Co. $SBUX.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{'Hope' Vs 'Nope' - Dow Soars 1000 Points As Gold Spikes Near $1,700  https://t.co/gy9Ll5GZmK}\n\n中文翻译：\n希望与失望之间 - 道琼斯指数飙升1000点，黄金价格接近1700美元。\n\n英文翻译：\nHope Vs Nope - Dow Soars 1000 Points As Gold Spikes Near $1,700\n",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Gerber Kawasaki CEO Ross Gerber joins Emily Chang to discuss Netflix's prospects as it is forced to adopt a new strategy with new competition from new streaming platforms, and why he believes its global ad-supported channel has huge upside potential.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Royal Mail share price edges lower as group raises stamp price.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Microsoft (NASDAQ: MSFT) has agreed to purchase \"Call of Duty\" producer Activision Blizzard (NASDAQ: ATVI) for $68.7 billion, making the purchase Redmond's largest acquisition to date. The all-cash transaction at $95 per share marks a big bet on the metaverse, and includes Microsoft in the race to claim ownership of the booming gaming industry against other giants such as Tencent and Sony.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "L Brands 因战略审查报告而股价上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Finnish operator Elisa and Aker Yards have signed a long-term service deal through which Elisa will deliver all necessary voice and data services for Aker Yards in Finland.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jun. 14 , 2009 ( AOL Weblogs delivered by Newstex ) -- Looks like the E71 is about to be upstaged as Nokia 's ( NYSE : NOK ) premier business-class smartphone -- someone in Espoo 's just hit the corporate YouTube account with this promo video for an E72 .",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a consequence, the Works Council had withdrawn its petition to suspend the reorganization.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla 召回所有 Model X 汽车，详情如下：$TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"FTSE上涨至三个月以来的低点，受益于StanChart和Sainsbury的提振。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Juhani J+ñrvi, the Corporate Executive Vice President of Kesko, states that the Russian food retail sector is fragmented.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$SLW is down, but weekly $34 calls (-28.95%), .23 x .25 have 321 volume. Worth a chance here, jmho: http://stks.co/1Qfg}\n\n$SLW 股价下跌，但每周 $34 的看涨期权（-28.95%），.23 x .25 有 321 的成交量。这里值得一试，个人观点：[http://stks.co/1Qfg]",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Clipper Realty Inc. (NYSE:CLPR) 即将派发股息，并且它提供 1.0% 的收益率。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "`` This is super nasty, '' said Eric Schultze, chief technology officer at Shavlik Technologies LLC, a St. Paul, Minn.-based maker of patch management tools. \n\n翻译成中文：\n`` 这非常恶劣，'' 埃里克·舒尔茨说，他是沙维克科技公司（Shavlik Technologies LLC）的首席技术官，这是一家位于明尼苏达州圣保罗的补丁管理工具制造商。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"We're Keeping An Eye On Riot Blockchain's (NASDAQ:RIOT) Cash Burn Rate\" 的中文翻译为 \"我们正在密切关注 Riot Blockchain (纳斯达克股票代码：RIOT) 的现金消耗率\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Readers will remember, some painfully no doubt, Netflix's (NASDAQ: NFLX) last earnings report that sent shares down more than 30% in just a few days.\n\n读者们会记得，无疑有些痛苦，Netflix（纳斯达克股票代码：NFLX）上一次财报发布后，股价在短短几天内下跌了超过30%。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "AstraZeneca遭遇挫折，药物未能治疗眼癌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English sentence you provided is incomplete. It seems like it's a part of a larger context or a technical indicator name in financial markets. However, I can provide a possible translation and interpretation based on the given information.\n\nTranslation: 超卖（Neutral OverSold）\n\nExplanation: In technical analysis, an oversold condition refers to a situation where an asset's price has fallen to a level that indicates it may be due for a reversal. A \"Neutral OverSold\" condition might suggest that the asset is oversold but not necessarily ready for a significant upward movement. It could indicate that the market is oversold, but other factors may be influencing the price.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Dell Technologies' (DELL) third-quarter fiscal 2023 results reflect sluggish PC demand, hurting Client Solutions Group business.\n\n戴尔科技（DELL）第三财季2023年的业绩反映了PC需求的疲软，损害了客户解决方案组业务。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new organization consists of two business units: Charging & Messaging and Finance & Administration.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BBRY nice bounce 的中文翻译是 \"BBRY 漂亮反弹\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The solution will be installed in the USA to support the North American operations of the customer.\n\n{客户在北美地区的业务将得到解决方案的支持，该方案将安装在美利坚合众国。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Old Mutual First-Quarter Sales Up 18% Boosted by Emerging Markets.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Atlas Arteria: 成功完成机构要约 #AtlasArteria #股票 #市场筛选器... https://t.co/WTUKVvQmYh",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

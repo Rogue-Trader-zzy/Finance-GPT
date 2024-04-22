@@ -1,0 +1,302 @@
+[
+  {
+    "input": "{纽约（路透社）- 苹果公司首席执行官史蒂夫·乔布斯在周一试图平息投资者对其健康的担忧，表示他的体重减轻是由于荷尔蒙失衡所致，这是一种相对简单的治疗方法。}",
+    "output": "{founded_by: Apple Inc, Steve Jobs; chief_executive_officer: Apple Inc, Steve Jobs}\n- 由苹果公司（Apple Inc.）和史蒂夫·乔布斯（Steve Jobs）创立；史蒂夫·乔布斯（Steve Jobs）担任首席执行官（Chief Executive Officer）。",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n该英文句子要求将以下选项中的单词/短语对及其对应的词性关系提取出来。输出格式为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料制造，制造商，分销商，行业，担任职务，原始广播商，所有者，创始人，分销格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，拥有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创造者。\n\nThe translation of the given English sentence into Chinese is:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}",
+    "text": ""
+  },
+  {
+    "input": "纽约（路透社）- 苹果公司首席执行官史蒂夫·乔布斯周一试图平息投资者对他健康的担忧，称他的体重减轻是由于一种荷尔蒙失衡，这种失衡相对容易治疗。",
+    "output": "Apple Inc., 由Steve Jobs创立，其首席执行官也是Steve Jobs。",
+    "instruction": "Subject: company, product\nObject: relation type\nFormat: relation1: word1, word2; relation2: word3, word4\n\nExample:\nSubject: Apple, iPhone\nObject: product/material produced\nTranslation: Apple produces the iPhone.",
+    "text": ""
+  },
+  {
+    "input": "苹果公司首席执行官史蒂夫·乔布斯在周一试图缓解投资者对其健康的担忧，称他的体重减轻是由于荷尔蒙失衡所致，这种失衡相对容易治疗。",
+    "output": "The sentence \"Founded by\" can be translated to \"由...创立\" in Chinese. Here is the translation: \"由...创立\".",
+    "instruction": "Apple Inc. was founded by Steve Jobs.",
+    "text": ""
+  },
+  {
+    "input": "{纽约（路透社）-苹果公司首席执行官史蒂夫·乔布斯在周一试图缓解投资者对其健康状况的担忧，表示他的体重减轻是由于荷尔蒙失衡造成的，这种失衡相对容易治疗。}",
+    "output": "Sure, here's the translation for \"{founded_by}\":\n\n- {founded_by} 可以翻译为 \"由...创立\" 或 \"由...创立的\"。\n\n例如，如果你看到一句话是 \"Google was founded by Larry Page and Sergey Brin\"，你可以将其翻译为 \"Google 是由 Larry Page 和 Sergey Brin 创立的\"。",
+    "instruction": "The relationship between Apple Inc and Steve Jobs in the context of the input sentence is \"founded by\".",
+    "text": ""
+  },
+  {
+    "input": "纽约（路透社）- 苹果公司首席执行官史蒂夫·乔布斯在周一试图平息投资者对其健康的担忧，称他的体重减轻是由于荷尔蒙失衡引起的，这种失衡相对容易治疗。",
+    "output": "Chief Executive Officer (CEO)",
+    "instruction": "Apple Inc was founded by Steve Jobs.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n纽约（路透社）- 苹果公司首席执行官史蒂夫·乔布斯周一试图平息投资者对他健康的担忧，称他的体重减轻是由于激素失衡造成的，这是一种相对容易治疗的问题。",
+    "output": "Chief Executive Officer: 首席执行官",
+    "instruction": "The relationship between Apple Inc and Steve Jobs is \"founded by\".",
+    "text": ""
+  },
+  {
+    "input": "Last week, Citigroup Inc's ( C.N ) Chief Executive Vikram Pandit said that he, Chairman Win Bischoff, and senior adviser Robert Rubin would not receive bonuses for 2008.",
+    "output": "Vikram Pandit, Citigroup: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "instruction": "以下是英文句子翻译成中文的示例：\n\n原句：The product/material produced is made of steel.\n翻译：产品/材料是由钢制成的。\n\n原句：The manufacturer distributes the product through its own online store.\n翻译：制造商通过自己的在线商店分销产品。\n\n原句：The industry is known for its high-quality products.\n翻译：该行业以其高质量的产品而闻名。\n\n原句：The position held by the CEO is very important.\n翻译：首席执行官所持有的职位非常重要。\n\n原句：The original broadcaster of the show is ABC.\n翻译：该节目的原始播出商是ABC。\n\n原句：The company is owned by John Smith.\n翻译：该公司由约翰·史密斯所有。\n\n原句：The company was founded by a group of entrepreneurs.\n翻译：该公司由一群企业家创立。\n\n原句：The distribution format of the product is digital.\n翻译：该产品的分发格式是数字化的。\n\n原句：The headquarters location of the company is in New York City.\n翻译：该公司的总部位于纽约市。\n\n原句：The stock exchange where the company's shares are traded is NASDAQ.\n翻译：该公司的股票在纳斯达克上市交易。\n\n原句：The currency used in the company's transactions is the US dollar.\n翻译：该公司交易使用的货币是美国美元。\n\n原句：The parent organization of the company is XYZ Corporation.\n翻译：该公司的母公司是XYZ公司。\n\n原句：The chief executive officer of the company is Jane Doe.\n翻译：该公司的首席执行官是简·多。\n\n原句：The director/manager of the company is responsible for overseeing operations.\n翻译：该公司的董事/经理负责监督运营。\n\n原句：The owner of the company is John Smith.\n翻译：该公司的所有者是约翰·史密斯。\n\n原句：The operator of the company is responsible for managing day-to-day operations.\n翻译：该公司的运营商负责管理日常运营。\n\n原句：The company is a member of the World Trade Organization.\n翻译：该公司是世界贸易组织的成员。\n\n原句：The employer of the company is known for its fair labor practices.\n翻译：该公司的雇主以其公平的劳动实践而闻名。\n\n原句：The chairperson of the company is responsible for leading board meetings.\n翻译：该公司的董事长负责主持董事会会议。\n\n原句：The platform used by the company is based on artificial intelligence.\n翻译：该公司使用的平台基于人工智能。\n\n原句：The subsidiary of the company is responsible for producing raw materials.\n翻译：该公司的子公司负责生产原材料。\n\n原句：The legal form of the company is a limited liability company.\n翻译：该公司的法律形式是有限责任公司。\n\n原句：The publisher of the company is known for its high-quality books.\n翻译：该公司的出版商以其高质量的书籍而闻名。\n\n原句：The developer of the company is responsible for creating innovative products.\n翻译：该公司的开发人员负责创建创新产品。\n\n原句：The location of formation of the company is in California.\n翻译：该公司的成立地点在加利福尼亚州。\n\n原句：The creator of the company is known for its groundbreaking technology.\n翻译：该公司的创始人以其开创性的技术而闻名。\n\n以上示例演示了如何从英文句子中提取单词/短语对及其对应的词汇关系，并提供了相应的中文翻译。",
+    "text": ""
+  },
+  {
+    "input": "Last week, Citigroup Inc's ( C.N ) Chief Executive Vikram Pandit said that he, Chairman Win Bischoff, and senior adviser Robert Rubin would not receive bonuses for 2008. \n\n上周，花旗集团（C.N）的首席执行官维克拉姆·潘迪特（Vikram Pandit）表示，他和董事长温·比肖夫（Win Bischoff）以及高级顾问罗伯特·鲁宾（Robert Rubin）在2008年将不会获得奖金。",
+    "output": "Vikram Pandit, Citigroup, is a leading financial services company with a long history of serving clients around the world. We are committed to helping our clients achieve their financial goals through innovative products and services, exceptional customer service, and a strong commitment to corporate responsibility.",
+    "instruction": "Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\".\n\nAccording to the relation types provided, the relation in this sentence is \"translator: word1, word2\".",
+    "text": ""
+  },
+  {
+    "input": "Last week, Citigroup Inc's ( C.N ) Chief Executive Vikram Pandit said that he, Chairman Win Bischoff, and senior adviser Robert Rubin would not receive bonuses for 2008. \n\n上周，花旗集团（C.N）首席执行官维克拉姆·潘迪特表示，他、主席温·比肖夫和高级顾问罗伯特·鲁宾将不会获得2008年的奖金。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence you provided:\n\n{employer} 可以翻译为 \"雇主\" 或 \"用人单位\" 在中文中。",
+    "instruction": "Vikram Pandit was the CEO of Citigroup.",
+    "text": ""
+  },
+  {
+    "input": "Last week, Citigroup Inc's ( C.N ) Chief Executive Vikram Pandit said that he, Chairman Win Bischoff, and senior adviser Robert Rubin would not receive bonuses for 2008.\n\n上周，花旗集团（C.N）首席执行官维克拉姆·潘迪特表示，他和主席温·比肖夫以及高级顾问罗伯特·鲁宾不会获得2008年的奖金。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nThis sentence can be translated to English as:\n\nPlease help me translate the following English sentence into Chinese, and directly provide the English translation in your answer!",
+    "instruction": "The relationship between Vikram Pandit and Citigroup is \"chief executive officer\".",
+    "text": ""
+  },
+  {
+    "input": "Lehman Brothers LEH.N shares fell sharply on Monday on speculation that the investment bank could be bought for $15 a share, a price well below current market levels.",
+    "output": "Lehman Brothers, an investment bank, is a product or material produced in the industry of Lehman Brothers, investment.",
+    "instruction": "Here's the translation of the given English sentence into Chinese: \n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn English, this sentence translates to: \"Please help me translate the following English sentence into Chinese. In the answer, directly give the English translation!\"\n\nSo, the corresponding lexical relationship between the two words/phrases in this case is \"translator\" and \"translator's work\". Therefore, the output format would be:\n\n\"translator: 翻译者; translator's work: 翻译作品\"",
+    "text": ""
+  },
+  {
+    "input": "Lehman Brothers LEH.N shares fell sharply on Monday on speculation that the investment bank could be bought for $15 a share, a price well below current market levels. \n\n翻译：\n雷曼兄弟公司LEH.N的股价在周一大幅下跌，主要是因为市场猜测这家投资银行可能会以每股15美元的价格被收购，而这个价格远低于当前市场水平。",
+    "output": "Lehman Brothers, an investment bank, is a product or material produced in the industry of Lehman Brothers, investment.",
+    "instruction": "Subject: \"apple\", Object: \"iPhone\"\nRelation: product/material produced\n\nSubject: \"Apple\", Object: \"Samsung\"\nRelation: manufacturer\n\nSubject: \"iPhone\", Object: \"China\"\nRelation: distributed by\n\nSubject: \"Technology\", Object: \"Internet\"\nRelation: industry\n\nSubject: \"Steve Jobs\", Object: \"Apple\"\nRelation: position held\n\nSubject: \"ABC News\", Object: \"United States\"\nRelation: original broadcaster\n\nSubject: \"Apple\", Object: \"Apple Inc.\"\nRelation: owned by\n\nSubject: \"Steve Jobs\", Object: \"Apple Inc.\"\nRelation: founded by\n\nSubject: \"iOS\", Object: \"Apple Inc.\"\nRelation: distribution format\n\nSubject: \"Cupertino, California\", Object: \"Apple Inc.\"\nRelation: headquarters location\n\nSubject: \"NASDAQ\", Object: \"Apple Inc.\"\nRelation: stock exchange\n\nSubject: \"United States dollar\", Object: \"Apple Inc.\"\nRelation: currency\n\nSubject: \"Apple Inc.\", Object: \"Foxconn\"\nRelation: parent organization\n\nSubject: \"Tim Cook\", Object: \"Apple Inc.\"\nRelation: chief executive officer\n\nSubject: \"Phil Schiller\", Object: \"Apple Inc.\"\nRelation: director/manager\n\nSubject: \"Apple Inc.\", Object: \"Cupertino, California\"\nRelation: owner of\n\nSubject: \"Apple Inc.\", Object: \"Foxconn\"\nRelation: operator\n\nSubject: \"Apple Inc.\", Object: \"Macintosh\"\nRelation: member of\n\nSubject: \"Apple Inc.\", Object: \"Intel\"\nRelation: employer\n\nSubject: \"Steve Jobs\", Object: \"Apple Inc.\"\nRelation: chairperson\n\nSubject: \"iTunes\", Object: \"Apple Inc.\"\nRelation: platform\n\nSubject: \"Foxconn\", Object: \"Apple Inc.\"\nRelation: subsidiary\n\nSubject: \"Apple Inc.\", Object: \"publicly held company\"\nRelation: legal form\n\nSubject: \"Wired\", Object: \"Apple Inc.\"\nRelation: publisher\n\nSubject: \"Apple Inc.\", Object: \"Macintosh\"\nRelation: developer\n\nSubject: \"Apple Inc.\", Object: \"United States\"\nRelation: location of formation\n\nSubject: \"Steve Jobs\", Object: \"Apple Inc.\"\nRelation: creator",
+    "text": ""
+  },
+  {
+    "input": "\"Lehman Brothers LEH.N shares fell sharply on Monday on speculation that the investment bank could be bought for $15 a share, a price well below current market levels.\" 的中文翻译为：\"雷曼兄弟公司LEH.N的股票周一大幅下跌，因为市场猜测这家投资银行将以每股15美元的价格被收购，这个价格远低于当前市场水平。\"",
+    "output": "Sure, here's the translation: \"Product or material produced.\"",
+    "instruction": "Lehman Brothers is an investment bank.",
+    "text": ""
+  },
+  {
+    "input": "Lehman Brothers LEH.N shares fell sharply on Monday on speculation that the investment bank could be bought for $15 a share, a price well below current market levels. 翻译为：\n\n周一，雷曼兄弟公司（Lehman Brothers）的股票大幅下跌，因为市场猜测该投资银行可能以每股15美元的价格被收购，这个价格远远低于当前的市场水平。",
+    "output": "The product or material produced is: 产品或材料生产。",
+    "instruction": "Lehman Brothers is a former investment bank that was founded by Herbert Lehman in 1850. The relationship between Lehman Brothers and investment bank in the context of the input sentence is \"founded by\".",
+    "text": ""
+  },
+  {
+    "input": "\"Lehman Brothers LEH.N shares fell sharply on Monday on speculation that the investment bank could be bought for $15 a share, a price well below current market levels.\" 翻译成中文是：\"雷曼兄弟 LEH.N 股票周一暴跌，因为市场猜测该投资银行可能以每股 15 美元的价格被收购，这个价格远低于当前市场水平。\"",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Lehman Brothers is a company that is \"owned by\" its shareholders and operates as a \"subsidiary\" of its parent organization.",
+    "text": ""
+  },
+  {
+    "input": "Lehman Brothers LEH.N shares fell sharply on Monday on speculation that the investment bank could be bought for $15 a share, a price well below current market levels.",
+    "output": "Sure, I'd be happy to help with that. Here's the translation of the sentence you provided:\n\n{industry} in Chinese is \"行业\".",
+    "instruction": "The relationship between Lehman Brothers and investment in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "Franz告诉路透社，菲亚特首席执行官塞尔吉奥·马尔基翁内在周一的一次会议上表示，他预计将关闭德国的凯泽斯劳滕发动机工厂以及其他菲亚特和欧宝在英格兰和意大利的制造基地。",
+    "output": "Sergio Marchionne, Fiat CEO, announced that the company will invest €2 billion in electric vehicle technology.",
+    "instruction": "product/material produced: produced by, manufacturer\ndistributed by: distributed by\nindustry: industry\nposition held: held by\noriginal broadcaster: broadcasted by\nowned by: owned by\nfounded by: founded by\ndistribution format: distributed in\nheadquarters location: located in\nstock exchange: listed on\ncurrency: uses\nparent organization: parent of\nchief executive officer: CEO of\ndirector/manager: director/manager of\nowner of: owned by\noperator: operated by\nmember of: member of\nemployer: employer of\nchairperson: chairperson of\nplatform: platform of\nsubsidiary: subsidiary of\nlegal form: legal form of\npublisher: published by\ndeveloper: developed by\nbrand: brand of\nbusiness division: division of\nlocation of formation: formed in\ncreator: created by",
+    "text": ""
+  },
+  {
+    "input": "Franz告诉路透社，菲亚特首席执行官塞尔吉奥·马尔乔内在周一的一次会议上表示，他预见到将关闭位于德国的欧宝Kaiserslautern发动机工厂以及其他菲亚特和欧宝制造厂在英格兰和意大利的工厂。",
+    "output": "Sergio Marchionne, CEO of Fiat, has announced that the company will be launching a new electric vehicle in 2021.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nHere is the translation of the given English sentence into Chinese:\n\"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"\n\n英文翻译：\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"",
+    "text": ""
+  },
+  {
+    "input": "Franz告诉路透社，菲亚特首席执行官塞尔吉奥·马尔奇奥内在周一的一次会议上表示，他预见到关闭德国凯泽斯劳滕的欧宝发动机工厂和其他菲亚特和欧宝制造工厂在英国和意大利。",
+    "output": "Of course! Please provide the English sentence you would like me to translate into Chinese, and I will give you the translation directly.",
+    "instruction": "Sergio Marchionne is the CEO of Fiat.",
+    "text": ""
+  },
+  {
+    "input": "Franz告诉路透社，菲亚特首席执行官Sergio Marchionne在星期一的一次会议上表示，他预计关闭位于德国的欧宝凯泽斯劳滕发动机工厂和其他菲亚特和欧宝制造基地，包括英格兰和意大利的工厂。",
+    "output": "Sure, here is the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly give the English translation in the answer!\"",
+    "instruction": "Sergio Marchionne is the Chief Executive Officer of Fiat.",
+    "text": ""
+  },
+  {
+    "input": "\"在并购执行方面有着糟糕记录的行业中，菲亚特首席执行官塞尔吉奥·马尔奇奥内面临的任务很艰巨，\"摩根士丹利分析师亚当·乔纳斯说道。",
+    "output": "Sergio Marchionne, Fiat's CEO, has announced that the company will be cutting 3,000 jobs in Italy.",
+    "instruction": "The given phrase is: \"The company is a subsidiary of the parent organization, which was founded by the founder.\"\n\nThe corresponding lexical relationship between the words/phrases is: \"founded by\".\n\nOutput format: \"founded by: parent organization, founder\"",
+    "text": ""
+  },
+  {
+    "input": "\"在并购执行记录不佳的行业中，菲亚特首席执行官塞尔吉奥·马尔基奥内面临巨大的挑战。\"摩根士丹利分析师亚当·乔纳斯说道。",
+    "output": "Sure, here's the translation of the given sentence:\n\nSergio Marchionne, the CEO of Fiat, has announced the company's plans to invest €1.2 billion in the development of new electric vehicles.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "{\"在并购执行记录不佳的行业中，菲亚特CEO塞尔吉奥·马尔乔内面临的任务十分艰巨，\"摩根士丹利分析师亚当·琼斯说道。}",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Sergio Marchionne is the CEO (Chief Executive Officer) of Fiat.",
+    "text": ""
+  },
+  {
+    "input": "\"在一个并购执行记录不佳的行业中，菲亚特CEO塞尔吉奥·马尔乔内面临着巨大的挑战，\"摩根士丹利分析师亚当·琼斯说道。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Sergio Marchionne is the CEO of Fiat.",
+    "text": ""
+  },
+  {
+    "input": "\"CBS没有披露协议的细节，但它是在其姊妹公司维亚康姆公司(Viacom Inc)威胁要撤下其有线电视频道，因为对另一项不同协议的分歧之后几天发生的。\"",
+    "output": "Owned by: Viacom, CBS\nSubsidiary: Viacom, CBS\nParent organization: Viacom, CBS\n\n所有权：维亚康姆，哥伦比亚广播公司\n子公司：维亚康姆，哥伦比亚广播公司\n母公司：维亚康姆，哥伦比亚广播公司",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you want to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"CBS没有透露协议的细节，但这仅仅是在其姊妹公司维亚康姆公司威胁将从时代华纳的1300万个家庭中撤出其有线电视频道几天后。原因是双方在另一个单独的协议上存在分歧。\"",
+    "output": "Viacom, CBS owns and operates Viacom, CBS as its subsidiary. Viacom, CBS is the parent organization of both Viacom and CBS.",
+    "instruction": "Sure, here is the translation of the given sentence:\n\n\"The company, which was founded by John Smith in 2010, is a subsidiary of ABC Corporation and is headquartered in New York City. It operates in the technology industry and is listed on the NASDAQ stock exchange. The company's currency is the US dollar, and its parent organization is XYZ Inc. The CEO of the company is Jane Doe, and the chief financial officer is Tom Johnson.\"\n\nIn the format you requested:\n\n- Founded by: John Smith\n- Subsidiary of: ABC Corporation\n- Headquarters location: New York City\n- Industry: Technology\n- Stock exchange: NASDAQ\n- Currency: US dollar\n- Parent organization: XYZ Inc.\n- CEO: Jane Doe\n- Chief financial officer: Tom Johnson",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"CBS did not disclose details of the agreement, but it comes just days after its sister company Viacom Inc threatened to pull its cable channels from Time Warner's 13 million homes because of a disagreement over a separate deal.\"",
+    "output": "Owned by 可以翻译为 \"由...拥有\" 或者 \"属于...所有\"。",
+    "instruction": "Viacom and CBS are related as parent organization and subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "CBS没有披露协议的细节，但就在其姊妹公司维亚康姆公司威胁要将其有线电视频道从时代华纳的1300万个家庭中撤出几天后，由于对另一项交易的分歧，出现了这一情况。",
+    "output": "Owned by: 由...拥有",
+    "instruction": "Viacom and CBS are both parent organizations.",
+    "text": ""
+  },
+  {
+    "input": "CBS did not disclose details of the agreement, but it comes just days after its sister company Viacom Inc threatened to pull its cable channels from Time Warner's 13 million homes because of a disagreement over a separate deal.\n\n美国广播公司（CBS）没有透露协议的详细信息，但就在其姊妹公司维亚康姆公司（Viacom Inc）威胁将从时代华纳的1300万个家庭中撤出其有线电视频道几天之后，因为与另一个单独协议的分歧。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n直接翻译成英文是：\n\nPlease help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!",
+    "instruction": "Viacom is a subsidiary of CBS.",
+    "text": ""
+  },
+  {
+    "input": "CBS没有披露协议的细节，但就在几天前，它的姊妹公司维亚康姆公司威胁要从时代华纳的1300万个家庭中撤下其有线电视频道，因为双方在另一个单独的协议上存在分歧。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Viacom and CBS are owned by the same parent organization, which is ViacomCBS.",
+    "text": ""
+  },
+  {
+    "input": "CBS没有透露协议的细节，但这发生在它姊妹公司维亚康姆公司(Viacom Inc)威胁要将其有线频道从时代华纳公司(Time Warner)的1300万个家庭中撤出仅仅几天之后，因为双方就另一个单独的交易存在分歧。",
+    "output": "Sure, I can help you with that. The translation of the English sentence \"Please help me translate the following sentence into Chinese, and give me the English translation in the answer: {parent_organization}\" into Chinese is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "Viacom and CBS are both media conglomerates that are owned by the same parent organization, ViacomCBS. They are the original broadcaster of many popular television shows and movies, and their headquarters are located in New York City. The CEO of ViacomCBS is Bob Bakish, and the chairperson is Shari Redstone. ViacomCBS is listed on the stock exchange and operates in various industries, including television, film, and publishing. Some of their most well-known brands include CBS, MTV, and Nickelodeon. ViacomCBS is a subsidiary of Viacom, which was founded by Sumner Redstone in 1952. The company has a legal form of a corporation and is a member of various business divisions, such as entertainment, media, and publishing.",
+    "text": ""
+  },
+  {
+    "input": "{CBS没有披露协议的细节，但这几天后，它的姐妹公司维亚康姆公司威胁要将其有线电视频道从时代华纳的1300万个家庭中撤出，因为对另一个独立交易的意见分歧。}",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence you provided into Chinese:\n\n\"{parent_organization}\" is translated to \"{parent_organization}\" in Chinese.",
+    "instruction": "Viacom and CBS are both media conglomerates that own various television networks, production studios, and other media assets. In the context of the input sentence, the relationship between Viacom and CBS is that they are both parent organizations of various media companies and networks.",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文翻译：\n\n\"CBS首席执行官莱斯·穆恩维斯将新广播协议作为首要任务，特别是坚持要求有线电视运营商为在被称为转播协议的情况下转播其电台的权利向CBS支付费用。\"",
+    "output": "Les Moonves, the CEO of CBS, is stepping down from his position.",
+    "instruction": "Given phrases: \n- \"This company is a subsidiary of ABC Corporation.\"\n- \"ABC Corporation is the parent organization of this company.\"\n- \"This company was founded by John Smith.\"\n\nOutput format: \n- relation1: word1, word2; relation2: word3, word4\n\nTranslation:\n- \"This company is a subsidiary of ABC Corporation.\" → \"subsidiary: this company, ABC Corporation\"\n- \"ABC Corporation is the parent organization of this company.\" → \"parent organization: ABC Corporation, this company\"\n- \"This company was founded by John Smith.\" → \"founded by: this company, John Smith\"",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nCBS首席执行官莱斯·莫恩维斯将新广播协议列为首要任务，特别是坚持要求有线电视运营商支付费用，以获得转播其电视台的权利，这一过程被称为转播协议。",
+    "output": "Les Moonves, CBS: 雇主是莱斯·默恩斯，公司是哥伦比亚广播公司。",
+    "instruction": "Subject: company, relation: manufacturer; Subject: company, relation: original broadcaster; Subject: company, relation: parent organization; Subject: company, relation: chief executive officer; Subject: company, relation: distributor; Subject: company, relation: industry; Subject: company, relation: headquarters location; Subject: company, relation: stock exchange; Subject: company, relation: currency; Subject: company, relation: chairperson; Subject: company, relation: platform; Subject: company, relation: subsidiary; Subject: company, relation: legal form; Subject: company, relation: publisher; Subject: company, relation: developer; Subject: company, relation: brand; Subject: company, relation: business division; Subject: company, relation: location of formation; Subject: company, relation: creator.\n\nObject: product, relation: product/material produced; Object: company, relation: manufacturer; Object: company, relation: distributed by; Object: company, relation: industry; Object: company, relation: position held; Object: company, relation: original broadcaster; Object: company, relation: owned by; Object: company, relation: founded by; Object: company, relation: distribution format; Object: company, relation: headquarters location; Object: company, relation: stock exchange; Object: company, relation: currency; Object: company, relation: parent organization; Object: company, relation: chief executive officer; Object: company, relation: director/manager; Object: company, relation: owner of; Object: company, relation: operator; Object: company, relation: member of; Object: company, relation: employer; Object: company, relation: chairperson; Object: company, relation: platform; Object: company, relation: subsidiary; Object: company, relation: legal form; Object: company, relation: publisher; Object: company, relation: developer; Object: company, relation: brand; Object: company, relation: business division; Object: company, relation: location of formation; Object: company, relation: creator.",
+    "text": ""
+  },
+  {
+    "input": "CBS首席执行官莱斯·穆恩维斯将新的广播协议作为首要任务，特别坚持要求有线运营商为获得在其车站进行转播的权利支付CBS的费用，这在业内被称为重播协议。",
+    "output": "I'm sorry, but I need more context to accurately translate the sentence. Could you please provide the sentence you would like me to translate?",
+    "instruction": "Les Moonves is the CEO of CBS.",
+    "text": ""
+  },
+  {
+    "input": "CBS首席执行官莱斯·莫诺夫斯将新广播协议作为首要任务，特别是坚持要求有线运营商为获得转播其电视台的权利支付CBS的费用，这被称为转播协议。",
+    "output": "I'm sorry, but I cannot directly translate the phrase \"{employer}\" into Chinese as it is a placeholder for a specific term. However, I can help you with the translation of other English phrases or sentences into Chinese. Please provide me with the sentence you would like to translate, and I'll be happy to assist you.",
+    "instruction": "Les Moonves is the CEO of CBS, a major television network. In the context of the input sentence, the relationship between Les Moonves and CBS is that of \"chief executive officer\" (CEO).",
+    "text": ""
+  },
+  {
+    "input": "{欧宝成为主角 菲亚特首席执行官塞尔吉奥·马尔乔内希望意大利汽车制造商与欧宝合并，然后拆分并上市合并后的实体。}",
+    "output": "\"Sergio Marchionne, Fiat\" is already in English, but if you want it translated to Chinese, it would be \"塞尔吉奥·马尔乔内，菲亚特\".",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you'd like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"菲亚特首席执行官塞尔吉奥·马尔乔内希望意大利汽车制造商与欧宝合并，然后将合并后的实体分拆上市。\"",
+    "output": "Sergio Marchionne, the CEO of Fiat, has announced that the company will be investing €2 billion in its Italian operations.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThis input sentence contains a request for a translation of an English sentence into Chinese. However, the actual English sentence is not provided in the input. Please provide the English sentence you want to be translated into Chinese so I can assist you with the translation.",
+    "text": ""
+  },
+  {
+    "input": "\"菲亚特首席执行官塞尔吉奥·马尔乔内希望意大利汽车制造商与欧宝合并，然后分拆并上市合并后的实体。\"",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Sergio Marchionne is the CEO of Fiat.",
+    "text": ""
+  },
+  {
+    "input": "\"奥佩尔成为主角，菲亚特首席执行官塞尔吉奥·马尔乔内希望意大利汽车制造商与奥佩尔合并，然后分拆并上市合并后的实体。\"",
+    "output": "Sure, here is the translation of the given sentence:\n\n\"I will gladly help you translate the English sentence into Chinese. Here is the translation: {employer}.\"",
+    "instruction": "Sergio Marchionne is the CEO of Fiat Chrysler Automobiles (FCA), which is a subsidiary of Fiat.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler表示将关闭该组装厂——其中两个北美设施之一，专门生产道奇卡瓦纳和克莱斯勒镇乡村车型——并取消附近一家组装厂的班次，该厂生产道奇拉姆皮卡。",
+    "output": "制造商：道奇嘉万（Dodge Caravan），克莱斯勒（Chrysler）；品牌：道奇拉姆（Dodge Ram），道奇（Dodge）；制造商：拉姆皮卡（Ram pickup），克莱斯勒（Chrysler）；制造商：道奇拉姆（Dodge Ram），道奇（Dodge）；品牌：道奇嘉万（Dodge Caravan），道奇（Dodge）。",
+    "instruction": "I am sorry, but the sentence you provided does not contain any English phrases that can be translated into Chinese. Please provide a valid English sentence for me to translate.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler表示将关闭这家组装工厂——两家北美设施之一，专门生产Dodge Caravan和Chrysler Town & Country——并消除附近组装工厂的一个班次，该工厂生产Dodge Ram皮卡车。",
+    "output": "{manufacturer: 道奇嘉航, 克莱斯勒; brand: 道奇拉姆, 道奇; manufacturer: 拉姆皮卡, 克莱斯勒; manufacturer: 道奇拉姆, 道奇; brand: 道奇嘉航, 道奇}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n翻译：\n\n给定输入句子，请根据以下关系类型提取包含特定关系的句子的主语和宾语，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；由...分销；行业；担任职务；原始广播者；由...拥有；由...创立；分销格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。",
+    "text": ""
+  },
+  {
+    "input": "Chrysler said it would close the assembly plant -- one of two North American facilities dedicated to the Dodge Caravan and Chrysler Town & Country -- and eliminate a shift at a nearby assembly plant that makes the Dodge Ram pickup truck.",
+    "output": "Sure, I'd be happy to help you with that. The English sentence you provided is \"{manufacturer}\". Here's the Chinese translation for it: 制造商.",
+    "instruction": "Dodge Caravan is a product/material produced by Chrysler.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler said it would close the assembly plant -- one of two North American facilities dedicated to the Dodge Caravan and Chrysler Town & Country -- and eliminate a shift at a nearby assembly plant that makes the Dodge Ram pickup truck.",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {manufacturer}.\"",
+    "instruction": "The relationship between Dodge Caravan and Chrysler is \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "Chrysler said it would close the assembly plant -- one of two North American facilities dedicated to the Dodge Caravan and Chrysler Town & Country -- and eliminate a shift at a nearby assembly plant that makes the Dodge Ram pickup truck.",
+    "output": "Sure, here's the translation of the given English sentence into Chinese: \n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nIn English: Please help me translate the following English sentence into Chinese, and directly provide the English translation in your response!",
+    "instruction": "The sentence you provided is not complete, so I will provide a general translation of the sentence structure and a list of possible translations for each option:\n\nSentence structure: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer. {Utilize the input text as a context reference, choose the right relationship between Dodge Ram and Dodge from the options.}\"\n\nTranslation options:\n\n1. Utilize the input text as a context reference: 利用输入文本作为上下文参考\n2. Choose the right relationship between Dodge Ram and Dodge from the options: 从选项中选择 Dodge Ram 和 Dodge 之间的正确关系\n\nPlease provide the complete sentence for a more accurate translation.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler表示，它将关闭该组装厂——北美两个专门生产Dodge Caravan和Chrysler Town & Country的设施之一——并裁减一家毗邻的组装厂的班次，该厂生产Dodge Ram皮卡车。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese. The answer should be directly provided in English.\"",
+    "instruction": "The relationship between Dodge Ram and Dodge in the context of the input sentence is \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "Chrysler said it would close the assembly plant -- one of two North American facilities dedicated to the Dodge Caravan and Chrysler Town & Country -- and eliminate a shift at a nearby assembly plant that makes the Dodge Ram pickup truck.",
+    "output": "制造商",
+    "instruction": "The sentence is not provided. Please provide the English sentence you want to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler said it would close the assembly plant -- one of two North American facilities dedicated to the Dodge Caravan and Chrysler Town & Country -- and eliminate a shift at a nearby assembly plant that makes the Dodge Ram pickup truck.",
+    "output": "制造商。",
+    "instruction": "The relationship between Ram pickup and Chrysler in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler表示将关闭这家组装厂——两家北美设施之一，专门生产道奇卡瓦纳和克莱斯勒旅行车——并裁减一家邻近组装厂的班次，该厂生产道奇拉姆皮卡车。",
+    "output": "制造商",
+    "instruction": "The sentence you provided is not a complete sentence, but I can help you translate it based on the context you provided. Please provide the complete sentence so I can give you an accurate translation.",
+    "text": ""
+  },
+  {
+    "input": "Chrysler said it would close the assembly plant -- one of two North American facilities dedicated to the Dodge Caravan and Chrysler Town & Country -- and eliminate a shift at a nearby assembly plant that makes the Dodge Ram pickup truck. \n\n翻译成中文：\n克莱斯勒表示，它将关闭这家组装工厂，该工厂是两个北美设施之一，专门生产道奇卡曼和克莱斯勒城邦车型，并且还将取消附近一家组装工厂的一个班次，该工厂生产道奇拉姆皮卡车。",
+    "output": "The manufacturer is a Chinese company that specializes in the production of electric vehicles. It was founded in 2003 and has since become a leading player in the electric vehicle market. The company's products include electric cars, buses, and scooters, and they are known for their high-quality and innovative designs. The manufacturer is committed to promoting sustainable transportation and reducing carbon emissions, and they are constantly researching and developing new technologies to improve their products and services. In addition to their core business, the manufacturer also provides charging infrastructure and related services to support the growth of the electric vehicle industry. Overall, the manufacturer is a key player in the global electric vehicle market and is helping to drive the transition to a more sustainable and environmentally-friendly transportation system.",
+    "instruction": "Dodge Ram and Dodge have a relationship of being a product produced by Dodge, which is a brand owned by the parent organization of FCA Group.",
+    "text": ""
+  }
+]

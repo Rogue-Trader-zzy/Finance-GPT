@@ -1,0 +1,302 @@
+[
+  {
+    "input": "In the first quarter, 2K released Mafia II Definitive Edition and Mafia III Definitive Edition as part of the Mafia Trilogy, which combines all three previously released Mafia titles into a single package for PlayStation 4, Xbox One, and PC, curated by 2K's Hangar 13 studio.",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Mafia III was developed by Hangar 13 and published by 2K Games. It is a video game and a product/material produced by the video game industry.",
+    "text": ""
+  },
+  {
+    "input": "\"在第一季，2K发布了《教父II最终版》和《教父III最终版》作为《教父三部曲》的一部分，将之前发行的所有三款《教父》游戏整合到一个单独的包中，供PlayStation 4、Xbox One和PC使用，由2K的HANGAR 13工作室策划。\"",
+    "output": "Sure, I can help with that. Here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "The relationship between Mafia III and PlayStation in the context of the input sentence is: distributed by.",
+    "text": ""
+  },
+  {
+    "input": "During the first quarter, 2K released Mafia II Definitive Edition and Mafia III Definitive Edition as part of the Mafia Trilogy, which combines all three previously released Mafia titles into a single package for PlayStation 4, Xbox One, and PC, curated by 2K's Hangar 13 studio.",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\n翻译成英文是：\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Mafia Trilogy is a video game series developed by Hangar 13 and published by 2K Games. It was first released on PlayStation 3 and Xbox 360 in 2002. The series has since been ported to other platforms such as PlayStation 4, Xbox One, and PC.",
+    "text": ""
+  },
+  {
+    "input": "In the first quarter, 2K released Mafia II Definitive Edition and Mafia III Definitive Edition as part of the Mafia Trilogy, which combines all three previously released Mafia titles into a single package for PlayStation 4, Xbox One, and PC, curated by 2K's Hangar 13 studio.",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The translation should be directly provided in the response.\"",
+    "instruction": "The relationship between Mafia Trilogy and PlayStation in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "7月1日，Private Division与欧洲航天局合作，为PC版Kerbal Space Program推出了名为Shared Horizons的新更新。",
+    "output": "\"Private Division, Kerbal Space Program\" 的中文翻译为 \"私域，星际飞行计划\"。",
+    "instruction": "The sentence to translate is: \"Apple is a brand of electronics and computer technology company, founded by Steve Jobs in April 1976.\"\n\nThe translated sentence is: \"苹果是一家电子产品和计算机技术公司的品牌，由史蒂夫·乔布斯于1976年4月创立。\"\n\nThe corresponding lexical relationship between the words/phrases in the input text is: \"brand: Apple, company: Apple; founded by: Steve Jobs, April 1976.\"",
+    "text": ""
+  },
+  {
+    "input": "On July 1st, Private Division in collaboration with the European Space Agency launched a new update for the PC version of Kerbal Space Program named Shared Horizons.",
+    "output": "\"Private Division, Kerbal Space Program\" 的中文翻译是 \"私域，卡柏尔太空计划\"。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "On July 1st, Private Division, in collaboration with the European Space Agency, released a new update for the PC version of Kerbal Space Program titled Shared Horizons.",
+    "output": "产品或材料产生的。",
+    "instruction": "Private Division is a business division of Take-Two Interactive, the parent organization of the video game developer 2K Games, which is the original broadcaster of Kerbal Space Program.",
+    "text": ""
+  },
+  {
+    "input": "On July 1st, Private Division in collaboration with the European Space Agency launched a new update for the PC version of Kerbal Space Program named Shared Horizons.",
+    "output": "Sure, I'd be happy to help you with that! Please provide me with the English sentence you would like me to translate into Chinese.",
+    "instruction": "Private Division is the developer of Kerbal Space Program.",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.\n\n翻译：\n7月23日，Firaxis Games发布了Ethiopia Pack，作为他们每月两次发布的六款可下载内容包之一，这些内容包包括全新的Sid Meier's Civilization VI - New Frontier Pass，适用于PlayStation 4、Xbox One、Nintendo Switch和PC。",
+    "output": "以下是英文翻译：\n\n{platform: Civilization, PlayStation; platform: Civilization VI, Nintendo Switch; developer: Civilization VI, Firaxis Games; platform: Civilization VI, PlayStation}\n\n{平台：文明，PlayStation; 平台：文明 VI，Nintendo Switch; 开发者：文明 VI，Firaxis Games; 平台：文明 VI，PlayStation}",
+    "instruction": "Given phrase: \"The company was founded by John Smith and is now owned by his family.\"\n\nTranslation: \"公司由John Smith创立，现由他的家族拥有。\"\n\nOutput format: \"founded by: John Smith, company; owned by: his family, company\"",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.",
+    "output": "{platform: Civilization, PlayStation; platform: Civilization VI, Nintendo Switch; developer: Civilization VI, Firaxis Games; platform: Civilization VI, PlayStation}\n\n{平台: 文明，PlayStation; 平台: 文明 VI，Nintendo Switch; 开发者: 文明 VI，Firaxis Games; 平台: 文明 VI，PlayStation}",
+    "instruction": "Subject: sentence\nObject: translation\nRelation: translation\nExtraction: \"translate sentence into Chinese\"\nTranslation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC. \n\n7月23日，Firaxis Games发布了Ethiopia Pack，作为他们每两个月发布一次的六份可下载内容包的一部分，这些内容包是为全新Sid Meier's Civilization VI - New Frontier Pass而设计的，适用于PlayStation 4、Xbox One、Nintendo Switch和PC。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn English, it translates to:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Civilization was developed by the developer. PlayStation is a platform owned by Sony Interactive Entertainment.",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.",
+    "output": "当然，我会直接给出英文翻译。请提供您需要翻译的英文句子。",
+    "instruction": "The relationship between Civilization and PlayStation in the context of the input sentence is: developer.",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC. \n\n翻译：\n\n7月23日，Firaxis Games发布了《文明6》- 新前线通行证中的Ethiopia Pack，作为他们每两个月发布一次的六个可下载内容包之一，适用于PlayStation 4、Xbox One、Nintendo Switch和PC。",
+    "output": "\"Help me translate the following English sentence into Chinese, and provide the English translation directly in the response: {platform}\"",
+    "instruction": "Civilization VI is a video game developed by Firaxis Games and published by 2K Games. It was released for Microsoft Windows, macOS, Linux, iOS, Android, and Nintendo Switch. Therefore, the correct relationship between Civilization VI and Nintendo Switch is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.",
+    "output": "Sure, I can help with that. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "The relationship between Civilization VI and Nintendo Switch is that they are both video games. Civilization VI is a game developed by Firaxis Games and published by 2K Games, while Nintendo Switch is a gaming console manufactured by Nintendo. Therefore, in the context of the input sentence, the correct answer is \"product/material produced.\"",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Civilization VI is a video game developed by Firaxis Games.",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC. \n\n翻译为中文：\n\n7月23日，Firaxis Games发布了Ethiopia Pack，作为他们每两个月发布一次的六个可下载内容包的一部分，为全新的Sid Meier's Civilization VI - New Frontier Pass提供了PlayStation 4，Xbox One，Nintendo Switch和PC版本。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Civilization VI and Firaxis Games are related as the developer and publisher, respectively.",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.",
+    "output": "Sure, I can help with that! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Civilization VI is a video game developed by Firaxis Games and published by 2K Games. It is available for various platforms including PlayStation.",
+    "text": ""
+  },
+  {
+    "input": "On July 23rd, Firaxis Games released Ethiopia Pack as part of their bimonthly release of six downloadable content packs for the all-new Sid Meier's Civilization VI - New Frontier Pass for PlayStation 4, Xbox One, Nintendo Switch and PC.",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. Here's the translation: {platform}\"",
+    "instruction": "The relationship between Civilization VI and PlayStation in the context of the input sentence is \"distributed by\". Civilization VI is a video game developed by Firaxis Games and published by 2K Games, while PlayStation is a brand of gaming consoles and accessories developed by Sony Interactive Entertainment. In the context of distribution, PlayStation serves as a platform for the distribution of Civilization VI to its users.",
+    "text": ""
+  },
+  {
+    "input": "On July 28th, Rockstar Games released The Naturalist, a massive new update to Red Dead Online featuring a new frontier pursuit that will introduce players to the secrets of naturalism as part of an all-new Role, plus a new Outlaw Pass, tons of community-requested features and fixes, and much more to play and discover in the months to come.\n\n翻译：\n7月28日，Rockstar Games发布了《自然主义者》，这是对《荒野大镖客：救赎》的一次大规模更新，引入了新的边疆追逐，让玩家可以体验自然主义的奥秘，作为全新角色的一部分，还有新的亡命者通行证，大量的社区请求的功能和修复，以及未来几个月可以玩和发现的更多内容。",
+    "output": "\"Red Dead Online, Rockstar Games\" 翻译为 \"红色死亡在线，摇滚之星游戏\"。\n\"Red Dead Online, Rockstar Games\" 翻译为 \"红色死亡在线，摇滚之星游戏\"。",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "On July 28th, Rockstar Games released The Naturalist, a massive new update to Red Dead Online featuring a new frontier pursuit that will introduce players to the secrets of naturalism as part of an all-new Role, plus a new Outlaw Pass, tons of community-requested features and fixes, and much more to play and discover in the months to come.",
+    "output": "开发者：Red Dead Online, Rockstar Games; 发行商：Red Dead Online, Rockstar Games",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe given input sentence is: \"Apple is a brand of consumer electronics, computer software, and online services, founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976.\"\n\nThe subject and object containing a certain relation in the sentence are:\n\n1. relation1: product/material produced; word1: Apple; word2: consumer electronics, computer software, and online services.\n2. relation2: founded by; word3: Apple; word4: Steve Jobs, Steve Wozniak, and Ronald Wayne.\n3. relation3: location of formation; word5: Apple; word6: April 1976.\n\nSo, the translated sentence in Chinese would be: \"Apple是一家消费电子、计算机软件和在线服务品牌的制造商，由Steve Jobs、Steve Wozniak和Ronald Wayne于1976年4月创立。\"",
+    "text": ""
+  },
+  {
+    "input": "On July 28th, Rockstar Games released The Naturalist, a massive new update to Red Dead Online featuring a new frontier pursuit that will introduce players to the secrets of naturalism as part of an all-new Role, plus a new Outlaw Pass, tons of community-requested features and fixes, and much more to play and discover in the months to come.\n\n7月28日，Rockstar Games发布了The Naturalist，Red Dead Online的重大更新，其中包括一个全新的边境追逐，将玩家介绍自然主义的新角色以及一系列社区要求的特性和修复，以及未来几个月可以玩和发现的其他内容。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence \"Please help me translate the following sentence into Chinese\" into Chinese: \"请帮我翻译以下句子成中文。\"",
+    "instruction": "Red Dead Online is a product/material produced by Rockstar Games.",
+    "text": ""
+  },
+  {
+    "input": "On July 28th, Rockstar Games released The Naturalist, a massive new update to Red Dead Online featuring a new frontier pursuit that will introduce players to the secrets of naturalism as part of an all-new Role, plus a new Outlaw Pass, tons of community-requested features and fixes, and much more to play and discover in the months to come.",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The answer should be given directly in English!\"",
+    "instruction": "The relationship between Red Dead Online and Rockstar Games in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "On July 28th, Rockstar Games released The Naturalist, a massive new update to Red Dead Online featuring a new frontier pursuit that will introduce players to the secrets of naturalism as part of an all-new Role, plus a new Outlaw Pass, tons of community-requested features and fixes, and much more to play and discover in the months to come.",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n直接翻译成英文是：\n\nPlease help me translate the following English sentence into Chinese, and directly give the English translation in the answer!",
+    "instruction": "Red Dead Online is a product/material produced by Rockstar Games.",
+    "text": ""
+  },
+  {
+    "input": "On July 28th, Rockstar Games released The Naturalist, a massive new update to Red Dead Online featuring a new frontier pursuit that will introduce players to the secrets of naturalism as part of an all-new Role, plus a new Outlaw Pass, tons of community-requested features and fixes, and much more to play and discover in the months to come.\n\n- 7月28日，Rockstar Games发布了《自然主义者》，这是《荒野大镖客：救赎》在线版的一个巨大更新，新增了一个前沿追捕，将引导玩家探索自然主义的秘密，作为全新角色的一部分，以及一个新匪徒通行证、大量的社区请求功能和修复，以及未来几个月里还有很多内容可以探索和发现。",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nIn English: \"Please help me translate the following English sentence into Chinese. In the answer, please directly provide the English translation!\"",
+    "instruction": "Red Dead Online and Rockstar Games are a \"product/material produced\" relationship.",
+    "text": ""
+  },
+  {
+    "input": "The five-time NBA All-Star and Portland Trail Blazers' standout Damian Lillard will be on the cover for the current generation versions of NBA 2K21 and the 2019 first Overall Pick and consensus National College Player of the Year Zion Williamson of the New Orleans Pelicans will be on the cover for the PlayStation 5 and Xbox Series X releases.",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{平台: NBA 2K21, PlayStation}\"\n\nIn English: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Platform: NBA 2K21, PlayStation}\"",
+    "instruction": "The input text does not provide enough context to determine the relationship between two words/phrases. Please provide the input text again with a clear context so that I can extract the word/phrase pair and the corresponding lexical relationship between them.",
+    "text": ""
+  },
+  {
+    "input": "五届NBA全明星、波特兰开拓者队的杰出球员达米安·利拉德将出现在当前世代NBA 2K21版本的封面上，而来自新奥尔良鹈鹕队的新秀状元秀、共识全国大学球员年度最佳球员候选人锡安·威廉姆森将出现在PlayStation 5和Xbox Series X版本的封面上。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{platform: NBA 2K21, PlayStation}\"\n\nThe translation in Chinese: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{平台： NBA 2K21，PlayStation}\"",
+    "instruction": "Sure, here is the translation of the sentence you provided: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nIn Chinese: \"请将下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\"",
+    "text": ""
+  },
+  {
+    "input": "五届NBA全明星、波特兰开拓者队的杰出球员达米安·利拉德将出现在当前世代NBA 2K21的封面上，而来自新奥尔良鹈鹕队的首轮状元秀和全国大学球员共识选出的第一名的锡安·威廉森将出现在PlayStation 5和Xbox Series X版本上。",
+    "output": "Sure, I'd be happy to help. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{platform}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{平台}",
+    "instruction": "NBA 2K21 is a video game developed by 2K Sports and published by 2K Games. It is distributed by 2K Games and is available on multiple platforms, including PlayStation. Therefore, the correct relationship between NBA 2K21 and PlayStation is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "五届NBA全明星，波特兰开拓者队的杰出球员达米安·利拉德（Damian Lillard）将出现在当前世代NBA 2K21的封面上。而2019年首轮第一顺位被选中的，同时也是共识中的全国大学球员年度最佳球员，新奥尔良鹈鹕队的齐恩·威廉姆森（Zion Williamson）将出现在PlayStation 5和Xbox Series X版本封面上。",
+    "output": "I'm sorry, but I can't see the English sentence you want me to translate. Please provide the sentence you need help with, and I'll be happy to translate it for you.",
+    "instruction": "NBA 2K21 is a product produced by 2K Games, a subsidiary of Take-Two Interactive, which is a video game publisher and developer. PlayStation is a platform owned by Sony Interactive Entertainment, a subsidiary of Sony Corporation. In the context of the input sentence, NBA 2K21 and PlayStation are related as a product is distributed by a platform.",
+    "text": ""
+  },
+  {
+    "input": "{On September 18th, 2K will release WWE 2K Battlegrounds, a completely new WWE gaming experience that will feature arcade-style brawling action for PlayStation 4, Xbox One, Nintendo Switch, PC and Stadia.}",
+    "output": "Here is the translation of the given sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {platform: WWE 2K, PlayStation}\".\n\nTranslation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{平台：WWE 2K，PlayStation}\"。",
+    "instruction": "The given phrase is: \"The brand XYZ is owned by Company ABC.\"\n\nThe corresponding lexical relationship between the words/phrases is: \"owned by.\"\n\nSo the output format would be: \"owned by: XYZ, Company ABC.\"",
+    "text": ""
+  },
+  {
+    "input": "On September 18th, 2K will release WWE 2K Battlegrounds, a completely new WWE gaming experience that will feature arcade-style brawling action for PlayStation 4, Xbox One, Nintendo Switch, PC and Stadia.",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {platform: WWE 2K, PlayStation}\"",
+    "instruction": "Sorry, I couldn't understand the input sentence you provided. Please provide a clear and specific sentence for me to translate.",
+    "text": ""
+  },
+  {
+    "input": "On September 18th, 2K will release WWE 2K Battlegrounds, a completely new WWE gaming experience that will feature arcade-style brawling action for PlayStation 4, Xbox One, Nintendo Switch, PC, and Stadia.",
+    "output": "Sure, I'd be happy to help you with that. Here's the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "WWE 2K is a product developed by 2K Games, a subsidiary of Take-Two Interactive, and is distributed by 2K Sports, another subsidiary of Take-Two Interactive.",
+    "text": ""
+  },
+  {
+    "input": "On September 18th, 2K will release WWE 2K Battlegrounds, a completely new WWE gaming experience that will feature arcade-style brawling action for PlayStation 4, Xbox One, Nintendo Switch, PC, and Stadia.",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn English, this sentence translates to:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in English!\"",
+    "instruction": "The relationship between WWE 2K and PlayStation in the context of the input sentence is: distributed by.",
+    "text": ""
+  },
+  {
+    "input": "On September 25th, 2K will release Mafia I Definitive Edition for PlayStation 4, Xbox One and PC in the Mafia Trilogy collection, which features all three previously released Mafia titles.",
+    "output": "Mafia Trilogy, Xbox One; Mafia Trilogy, PlayStation.",
+    "instruction": "The English sentence is: \"The company was founded by John Smith in 2015.\"\n\nThe corresponding translation in Chinese is: \"这家公司是由John Smith在2015年创立的。\"\n\nThe relation and word pair is: \"founded by: John Smith, company\"",
+    "text": ""
+  },
+  {
+    "input": "On September 25th, 2K will release Mafia I Definitive Edition for PlayStation 4, Xbox One and PC in the Mafia Trilogy collection, which features all three previously released Mafia titles.",
+    "output": "{platform: Mafia Trilogy, Xbox One; platform: Mafia Trilogy, PlayStation} = {平台：黑手党三部曲，Xbox One；平台：黑手党三部曲，PlayStation}",
+    "instruction": "Subject: company; Object: product\nRelation: product/material produced: company, product\n\nSubject: manufacturer; Object: product\nRelation: manufacturer: manufacturer, product\n\nSubject: distributor; Object: product\nRelation: distributed by: distributor, product\n\nSubject: industry; Object: company\nRelation: industry: industry, company\n\nSubject: position; Object: person\nRelation: position held: position, person\n\nSubject: original broadcaster; Object: show\nRelation: original broadcaster: broadcaster, show\n\nSubject: owner; Object: company\nRelation: owned by: owner, company\n\nSubject: founder; Object: company\nRelation: founded by: founder, company\n\nSubject: distribution format; Object: product\nRelation: distribution format: distribution format, product\n\nSubject: headquarters location; Object: company\nRelation: headquarters location: location, company\n\nSubject: stock exchange; Object: company\nRelation: stock exchange: stock exchange, company\n\nSubject: currency; Object: company\nRelation: currency: currency, company\n\nSubject: parent organization; Object: company\nRelation: parent organization: parent organization, company\n\nSubject: chief executive officer; Object: company\nRelation: chief executive officer: chief executive officer, company\n\nSubject: director/manager; Object: company\nRelation: director/manager: director/manager, company\n\nSubject: owner; Object: asset\nRelation: owner of: owner, asset\n\nSubject: operator; Object: service\nRelation: operator: operator, service\n\nSubject: member of; Object: group\nRelation: member of: member, group\n\nSubject: employer; Object: person\nRelation: employer: employer, person\n\nSubject: chairperson; Object: organization\nRelation: chairperson: chairperson, organization\n\nSubject: platform; Object: service\nRelation: platform: platform, service\n\nSubject: subsidiary; Object: company\nRelation: subsidiary: subsidiary, company\n\nSubject: legal form; Object: company\nRelation: legal form: legal form, company\n\nSubject: publisher; Object: content\nRelation: publisher: publisher, content\n\nSubject: developer; Object: product\nRelation: developer: developer, product\n\nSubject: brand; Object: product\nRelation: brand: brand, product\n\nSubject: business division; Object: company\nRelation: business division: business division, company\n\nSubject: location of formation; Object: company\nRelation: location of formation: location, company\n\nSubject: creator; Object: work\nRelation: creator: creator, work",
+    "text": ""
+  },
+  {
+    "input": "On September 25th, 2K will release Mafia I Definitive Edition for PlayStation 4, Xbox One and PC in the Mafia Trilogy collection, which features all three previously released Mafia titles.",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nTranslation: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "The English sentence you provided is incomplete, but based on the context you've provided, I can assume you want to translate the following phrase: \"Mafia Trilogy\" to Chinese. \n\nThe phrase \"Mafia Trilogy\" is a brand name and refers to a series of video games. In Chinese, it would be translated as \"教父三部曲\".",
+    "text": ""
+  },
+  {
+    "input": "On September 25th, 2K will release the Mafia I Definitive Edition for PlayStation 4, Xbox One and PC in the Mafia Trilogy collection, which includes all three previously released Mafia titles.",
+    "output": "Sorry, but I cannot provide a translation without knowing the specific sentence you would like me to translate. Please provide the sentence you need translated so I can assist you.",
+    "instruction": "The relationship between Mafia Trilogy and Xbox One in the context of the input sentence is: distributed by.",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"On September 25th, 2K will release the Mafia I Definitive Edition for PlayStation 4, Xbox One, and PC in the Mafia Trilogy collection, which includes all three previously released Mafia titles.\"",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{platform}\" into English:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {platform}\"\n\nI hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "The Mafia Trilogy is a video game series developed by Hangar 13 and published by 2K Games. It was originally released for the PlayStation 3 and later ported to other platforms. The series is known for its open-world gameplay and immersive storylines. The Mafia Trilogy has received positive reviews from critics and fans alike, with many praising its attention to detail and attention to the story. The series has also spawned several spin-offs and expansions, further expanding the universe of the game. Overall, the Mafia Trilogy is a popular and well-regarded series in the gaming industry.",
+    "text": ""
+  },
+  {
+    "input": "On September 25th, 2K will release Mafia I Definitive Edition for PlayStation 4, Xbox One and PC in the Mafia Trilogy collection, which features all three previously released Mafia titles.",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Mafia Trilogy and PlayStation in the context of the input sentence is: distributed by.",
+    "text": ""
+  },
+  {
+    "input": "League of Geeks，成立于2011年，由Trent Kusters、Blake Mizzi和Ty Carey创立，因其开发了结合深度战术卡牌玩法、丰富桌面策略和RPG元素的PC游戏Armello而闻名。",
+    "output": "Armello, League of Geeks 开发者，Armello, League of Geeks 发行商。",
+    "instruction": "\"Apple Inc. is a multinational technology company that was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1, 1976. The company went public four years later and its headquarters are located in Cupertino, California. Apple is known for its innovative products such as the iPhone, iPad, and MacBook, and it is a subsidiary of Apple Inc.\"\n\nrelation1: Apple Inc., founded by; relation2: Steve Jobs, Steve Wozniak, Ronald Wayne; relation3: headquarters location, Cupertino, California; relation4: product/material produced, iPhone, iPad, MacBook; relation5: parent organization, Apple Inc.",
+    "text": ""
+  },
+  {
+    "input": "The League of Geeks, founded in 2011 by Trent Kusters, Blake Mizzi, and Ty Carey, is renowned for developing the PC game Armello, which combines deep tactical card play, rich tabletop strategy, and RPG elements.",
+    "output": "Developer: Armello, League of Geeks; Publisher: Armello, League of Geeks\n\n开发者：Armello，Geeks联盟；发行商：Armello，Geeks联盟",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: the input sentence\nObject: the relation types\nRelation: extract the subject and object containing a certain relation in the sentence\nFormat: \"relation1: word1, word2; relation2: word3, word4\"\n\nExample:\nInput sentence: \"Apple is a company that produces smartphones and computers, and it is distributed by Apple Inc. in the technology industry.\"\nRelation types: product/material produced; manufacturer; distributed by; industry\n\nOutput: \"product/material produced: smartphones, computers; manufacturer: Apple; distributed by: Apple Inc.; industry: technology\"",
+    "text": ""
+  },
+  {
+    "input": "The League of Geeks, founded in 2011 by Trent Kusters, Blake Mizzi, and Ty Carey, is renowned for developing the PC game Armello, which combines deep tactical card play, rich tabletop strategy, and RPG elements.",
+    "output": "Please help me translate the following English sentence into Chinese. Here is the English translation: \"developer\".",
+    "instruction": "Armello is a video game developed by League of Geeks.",
+    "text": ""
+  },
+  {
+    "input": "The League of Geeks, founded in 2011 by Trent Kusters, Blake Mizzi, and Ty Carey, is renowned for developing the PC game Armello, which combines deep tactical card play, rich tabletop strategy, and RPG elements.",
+    "output": "Sure, I can help you with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "The relationship between Armello and League of Geeks in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "The League of Geeks, founded in 2011 by Trent Kusters, Blake Mizzi, and Ty Carey, is renowned for developing the PC game Armello, which combines deep tactical card play, rich tabletop strategy, and RPG elements.",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译为：\"Help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "Armello is a product developed by League of Geeks.",
+    "text": ""
+  },
+  {
+    "input": "League of Geeks, founded in 2011 by Trent Kusters, Blake Mizzi, and Ty Carey, is renowned for developing the PC game Armello, which combines deep tactical card play, rich tabletop strategy, and RPG elements.",
+    "output": "Sure, here is the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to: \"Please help me translate the following English sentence into Chinese. The answer should be given in English!\"",
+    "instruction": "The relationship between Armello and League of Geeks in the context of the input sentence is: developer.",
+    "text": ""
+  },
+  {
+    "input": "Roll7 is a BAFTA multi-award winning independent studio founded in London in 2008 by Simon Bennett, John Ribbins and Tom Hegarty. \n\n{Roll7是一家由Simon Bennett、John Ribbins和Tom Hegarty于2008年在伦敦成立的BAFTA多奖获奖独立工作室。}",
+    "output": "{headquarters_location: Roll7, London} 翻译为中文是：{\"总部地点：Roll7，伦敦\"}",
+    "instruction": "product/material produced: product, material; manufacturer: manufacturer; distributed by: distributed, by; industry: industry; position held: position, held; original broadcaster: original, broadcaster; owned by: owned, by; founded by: founded, by; distribution format: distribution, format; headquarters location: headquarters, location; stock exchange: stock, exchange; currency: currency; parent organization: parent, organization; chief executive officer: chief, executive, officer; director/manager: director, manager; owner of: owner, of; operator: operator; member of: member, of; employer: employer; chairperson: chairperson; platform: platform; subsidiary: subsidiary; legal form: legal, form; publisher: publisher; developer: developer; brand: brand; business division: business, division; location of formation: location, formation; creator: creator.",
+    "text": ""
+  },
+  {
+    "input": "Roll7 是一个 BAFTA 多奖项获奖的独立工作室，由 Simon Bennett、John Ribbins 和 Tom Hegarty 于 2008 年在伦敦创立。",
+    "output": "The translation of the given English sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer: {headquarters_location: Roll7, London}.\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: the input sentence\nObject: relation types, relation1: word1, word2; relation2: word3, word4\nRelation types: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nPlease provide the input sentence to proceed with the translation.",
+    "text": ""
+  },
+  {
+    "input": "Roll7 is a BAFTA multi-award winning independent studio founded in London in 2008 by Simon Bennett, John Ribbins and Tom Hegarty. \n\n{Roll7 是一家获得 BAFTA 多项大奖的独立工作室，由 Simon Bennett、John Ribbins 和 Tom Hegarty 于 2008 年在伦敦创立。}",
+    "output": "Sure, the translation of \"headquarters_location\" into Chinese is \"总部位置\".",
+    "instruction": "Roll7 is a developer of video games, particularly 2D games for mobile devices. Founded in London, the company is known for its innovative approach to game development and its commitment to delivering high-quality gaming experiences.",
+    "text": ""
+  },
+  {
+    "input": "Roll7 是一个 BAFTA 多项奖项得主独立工作室，于 2008 年在伦敦由 Simon Bennett、John Ribbins 和 Tom Hegarty 创立。",
+    "output": "Headquarters location: 总部所在地。",
+    "instruction": "The relationship between Roll7 and London in the context of the input sentence is \"founded by\".",
+    "text": ""
+  },
+  {
+    "input": "Roll7 created the OlliOlli series, NOT A HERO, and Laser League. \n\n{Roll7 创造了 OlliOlli 系列，NOT A HERO，和 Laser League。}",
+    "output": "\"Help me translate the following English sentence into Chinese. Here is the English translation: {developer: OlliOlli, Roll7}\"",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Help me translate the following English sentence into Chinese. The answer should directly provide the English translation.\"\n\nRelation: English translation\n\nWords: 请帮我, 下面英文句子, 翻译成中文, 回答中, 直接给出, 英文翻译\n\nI hope this helps! Let me know if you have any other questions.",
+    "text": ""
+  },
+  {
+    "input": "Roll7 created the OlliOlli series, NOT A HERO, and Laser League. \n\n翻译成中文：Roll7 创造了 OlliOlli 系列、NOT A HERO 和 Laser League。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response. {developer: OlliOlli, Roll7}\"",
+    "instruction": "Sure, I can help with that. Please provide me with the sentence you would like me to translate into Chinese.",
+    "text": ""
+  }
+]

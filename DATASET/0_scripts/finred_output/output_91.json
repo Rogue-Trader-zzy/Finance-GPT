@@ -1,0 +1,302 @@
+[
+  {
+    "input": "任天堂社长岩田聪因肿瘤去世 任天堂社长岩田聪在带领日本游戏公司经历成功与困顿后去世。 —— Yuri Kageyama， AP商业作家，4小时前发布。",
+    "output": "The location of formation refers to the place where something is created or originates.",
+    "instruction": "Nintendo is a Japanese multinational consumer electronics company that was founded in Kyoto, Japan in 1889. The company is known for its video game consoles, handheld gaming devices, and other interactive entertainment products. Nintendo's headquarters are located in Kyoto, Japan. The company is publicly traded on the Tokyo Stock Exchange and its stock is denominated in Japanese yen. Nintendo is one of the largest and most successful video game companies in the world, with a global presence and a diverse range of products and services.",
+    "text": ""
+  },
+  {
+    "input": "以下是您要求的英文句子翻译成中文：\n\n\"Nintendo 社长 岩田 茂 因肿瘤去世 任天堂社长 岩田 茂 在带领日本游戏公司经历成功与困境后去世，Yuri Kageyama，AP商业记者，4小时前发布。\"",
+    "output": "Sure, here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{location_of_formation}\" into Chinese:\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{location_of_formation}\" -> \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{形成位置}\"",
+    "instruction": "Nintendo is a Japanese company that was founded in Kyoto, Japan in 1889. It is a major video game developer and manufacturer, with its headquarters still located in Kyoto. Nintendo is a public company listed on the Tokyo Stock Exchange and is a member of the Nikkei 225 stock market index. The company was originally founded by Fusajiro Yamauchi, who was the president and chief executive officer of Nintendo until his death in 2002. His son, Satoru Iwata, took over as president and CEO, and held the position until his death in 2015. The current CEO of Nintendo is Shuntaro Furukawa. The company is known for its popular video game consoles, such as the Nintendo Entertainment System (NES), Super Nintendo Entertainment System (SNES), Nintendo 64, Game Boy, Game Boy Advance, Nintendo DS, Nintendo 3DS, and the Nintendo Switch. Nintendo is also known for its iconic characters and franchises, such as Mario, Zelda, and Pokémon. The company has had a significant impact on the video game industry and has helped shape the medium into what it is today.",
+    "text": ""
+  },
+  {
+    "input": "{东京（美联社）--在《精灵宝可梦》和《超级马里奥》等系列游戏的带领下，日本视频游戏公司任天堂公司社长岩田聪在周末因胆管肿瘤去世，公司周一表示。}",
+    "output": "以下是您的英文句子翻译成中文：\n\n{distributed_by: Super Mario, Nintendo; publisher: Super Mario, Nintendo}\n\n- 由Super Mario, Nintendo发行；由Super Mario, Nintendo出版。",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nPlease provide the input text for translation.",
+    "text": ""
+  },
+  {
+    "input": "{TOKYO (AP) -- Satoru Iwata, who led Japanese video game company Nintendo Co. through years of growth with its Pokemon and Super Mario franchises, died on the weekend of a bile duct tumor, the company said Monday.}\n\n翻译为中文：\n\n{东京（美联社）--山内溥，领导日本视频游戏公司任天堂株式会社通过其宝可梦和超级马里奥系列在多年内实现增长的领导者，周一公司宣布，他在周末死于胆管肿瘤。}",
+    "output": "{distributed_by: 超级马力欧，任天堂；publisher: 超级马力欧，任天堂}",
+    "instruction": "I'm sorry, but I'm not sure what you're asking for. Could you please provide more context or clarify your question?",
+    "text": ""
+  },
+  {
+    "input": "{东京（美联社）-- 伊藤智郎（Satoru Iwata），领导日本视频游戏公司任天堂有限公司（Nintendo Co.）多年成长，通过其宝可梦（Pokemon）和超级马里奥（Super Mario）系列，于周末因胆管肿瘤去世，该公司周一表示。}",
+    "output": "\"distributed_by\" 的中文翻译是 \"由...分布\"。",
+    "instruction": "Super Mario was developed by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n{TOKYO (AP) -- Satoru Iwata, who led Japanese video game company Nintendo Co. through years of growth with its Pokemon and Super Mario franchises, died on the weekend of a bile duct tumor, the company said Monday.}\n\n中文翻译：\n{东京（美联社）--日本视频游戏公司任天堂株式会社的首席执行官岩田聪，通过其宝可梦和超级马里奥系列使公司经历多年增长，周末因胆管肿瘤去世，公司周一宣布。}",
+    "output": "\"distributed_by\" 的中文翻译是 \"由...分布\"。",
+    "instruction": "Super Mario is a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "{东京（美联社）--日本视频游戏公司任天堂有限公司的首席执行官岩田聪在周末因胆管肿瘤去世，该公司周一宣布。}",
+    "output": "Sure, I can help you with that! Please provide the English sentence you want me to translate.",
+    "instruction": "Super Mario is a video game franchise developed by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "{东京（美联社）--日本视频游戏公司任天堂公司（Nintendo Co.）的社长岩田聪，在带领公司通过其宝可梦（Pokemon）和超级马里奥（Super Mario）系列游戏多年成长后，于周末因胆管肿瘤去世，任天堂公司在周一宣布了这一消息。}",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence \"Please help me translate the following English sentence into Chinese, and provide the translation directly in your answer.\" into Chinese:\n\n\"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！\"",
+    "instruction": "Super Mario is a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "\"Iwata had been poised to lead Nintendo through another stage after it recently did an about-face and said it will start making games for smartphones, meaning that Super Mario the plumber would soon start arriving on cellphones and tablets.\" 翻译成中文是：“在任天堂最近宣布开始为智能手机开发游戏后，Iwata 准备领导任天堂进入下一个阶段，这意味着水管工 Super Mario 将很快出现在手机和平板电脑上。”",
+    "output": "Distributed by Super Mario, Nintendo; published by Super Mario, Nintendo.\n\n这是您要求的英文翻译，直接给出：\n\n由 Super Mario, Nintendo 发行；由 Super Mario, Nintendo 出版。",
+    "instruction": "The English sentence you provided is missing, so I cannot provide a translation. Please provide the English sentence you would like translated into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"Iwata had been poised to lead Nintendo through another stage after it recently did an about-face and said it will start making games for smartphones, meaning that Super Mario the plumber would soon start arriving on cellphones and tablets.\" 翻译为中文是：\n\n\"Iwata 原本有望带领任天堂通过另一个阶段，因为公司最近改变了策略，表示将开始为智能手机开发游戏，这意味着水管工 Super Mario 很快就会出现在手机和平板电脑上。\"",
+    "output": "以下是您的英文句子翻译成中文：\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{distributed_by: Super Mario, Nintendo; publisher: Super Mario, Nintendo}\"\n\n翻译成中文为：\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{distributed_by: 超级马里奥，任天堂；publisher: 超级马里奥，任天堂}\"",
+    "instruction": "Subject: \"the input sentence\"\nObject: \"the subject and object containing a certain relation in the sentence\"\nRelation: \"product/material produced\"\nTranslation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "Iwata was prepared to lead Nintendo through another stage after it recently changed its mind and said it will start making games for smartphones, meaning that Super Mario the plumber would soon start arriving on cellphones and tablets.",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {distributed_by}\"\n\nThe Chinese translation is: \"请帮我将下面的英文句子翻译成中文，直接给出英文翻译！{distributed_by}\"",
+    "instruction": "Super Mario is a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "\"Iwata was set to lead Nintendo through another phase after the company recently changed its direction and announced that it will begin developing games for smartphones, which means that Super Mario the plumber will soon be making his way onto cellphones and tablets.\"",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {distributed_by}\".\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！：{distributed_by}\"。",
+    "instruction": "The relationship between Super Mario and Nintendo is \"developer\".",
+    "text": ""
+  },
+  {
+    "input": "\"Iwata was prepared to lead Nintendo through another phase after the company recently changed its mind and announced it would start making games for smartphones, which means that Super Mario the plumber would soon be appearing on cellphones and tablets.\"",
+    "output": "Sure, here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{publisher}\" into English: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {publisher}\".",
+    "instruction": "Super Mario is a video game franchise developed by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "Iwata was set to lead Nintendo into another phase after the company recently reversed its stance and announced that it would begin developing games for smartphones, implying that Super Mario the plumber would soon be available on cellphones and tablets.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Super Mario and Nintendo are related as a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "Nintendo has been pioneering game machines since the 1980s, developing one of the first machines and the popular Game Boy hand-held device.",
+    "output": "\"Game Boy, Nintendo\" can be translated to \"任天堂 Game Boy\" in Chinese.",
+    "instruction": "Original broadcaster: Apple, iTunes; Owned by: Apple Inc., Tim Cook; Developer: Apple Inc.; Publisher: Apple Inc.; Brand: Apple, iTunes; Platform: iOS, macOS.",
+    "text": ""
+  },
+  {
+    "input": "Nintendo has been pioneering game machines since the 1980s, developing one of the first machines and the popular Game Boy hand-held machine.",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {manufacturer: Game Boy, Nintendo}\"\n\nThe translated Chinese sentence is: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{制造商：Game Boy，任天堂}\"\n\nThe English translation of the Chinese sentence is: \"Please help me translate the following Chinese sentence into English, and directly provide the English translation in the answer! {manufacturer: Game Boy, Nintendo}\"",
+    "instruction": "The given input sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"\n\nSubject: Please help me translate the following English sentence into Chinese\nObject: English sentence\nRelation: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮助我翻译以下英文句子成中文，并在回答中直接给出英文翻译！\n\nSubject: 以下英文句子\nObject: English sentence\nRelation: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮助我翻译以下英文句子成中文，并在回答中直接给出英文翻译！",
+    "text": ""
+  },
+  {
+    "input": "Nintendo has been pioneering game machines since the 1980s, developing one of the first machines and the popular Game Boy hand-held device.",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n\"制造商\"\n\nThe English sentence \"manufacturer\" translates to \"制造商\" in Chinese.",
+    "instruction": "Game Boy is a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "Nintendo has been pioneering game machines since the 1980s, developing one of the first machines and the popular Game Boy hand-held console.",
+    "output": "manufacturer: 制造商。",
+    "instruction": "The relationship between Game Boy and Nintendo is \"owned by.\"",
+    "text": ""
+  },
+  {
+    "input": "其主要竞争对手在商业上是索尼公司（Sony Corp.）的PlayStation机器和微软公司（Microsoft Corp.）的Xbox One机器。",
+    "output": "\"Owned by Xbox, Microsoft; developed by Xbox One, Microsoft\" 的中文翻译为 \"属于 Xbox，Microsoft；由 Xbox One，Microsoft 开发\"。",
+    "instruction": "\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nTranslation: 给定描述两个单词/短语之间关系的短语作为选项，从输入文本中提取单词/短语对及其对应的词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator。",
+    "text": ""
+  },
+  {
+    "input": "The main competitors in this business are Sony Corp. with PlayStation machines and Microsoft Corp. with Xbox One machines.",
+    "output": "Owned by: Xbox, Microsoft; Developer: Xbox One, Microsoft\n- 拥有者：Xbox，Microsoft；开发者：Xbox One，Microsoft",
+    "instruction": "请提供您需要翻译的英文句子，以便我能够帮您进行翻译。",
+    "text": ""
+  },
+  {
+    "input": "它的主要竞争对手是索尼公司（Sony Corp.）的 PlayStation 机器和微软公司（Microsoft Corp.）的 Xbox One 机器。",
+    "output": "Owned by: 所有权属于。",
+    "instruction": "Xbox is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "The main competitors in this business are Sony Corp. with the PlayStation machines and Microsoft Corp. with the Xbox One machine.",
+    "output": "Owned by.",
+    "instruction": "Xbox is owned by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "其业务的主要竞争对手是索尼公司（Sony Corp.）的PlayStation系列机器和微软公司（Microsoft Corp.）的Xbox One系列机器。",
+    "output": "Please help me translate the following English sentence into Chinese. Here is the direct translation of the sentence:\n\n{developer}\n\nThe translation of the English sentence \"{developer}\" into Chinese is:\n\n{开发者}",
+    "instruction": "Xbox One is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "其主要竞争对手是索尼公司（Sony Corp.）的PlayStation系列游戏机和微软公司（Microsoft Corp.）的Xbox One游戏机。",
+    "output": "Sure, here is the translation of the sentence you provided:\n\n\"I'm a developer\" translates to \"我是一个开发者\" in Chinese.",
+    "instruction": "Xbox One is a product/material produced by Microsoft.",
+    "text": ""
+  },
+  {
+    "input": "\"Iwata had been employed at an innovative software company before he was recruited as Nintendo chief.\" 翻译为中文是：\n\n\"Iwata 在成为任天堂首席执行官之前曾在一家创新软件公司工作过。\"",
+    "output": "Nintendo has produced a software.",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe corresponding lexical relationship between the two phrases is \"translator\" and \"source language\". The output format is \"translator: English, Chinese; source language: English, Chinese\".",
+    "text": ""
+  },
+  {
+    "input": "Iwata had been employed at an innovative software company before he was recruited as Nintendo chief. \n\n翻译成中文：\n在成为任天堂总裁之前，岩田先生曾在一家创新型软件公司任职。",
+    "output": "Nintendo has produced the software.",
+    "instruction": "Subject: 上海人工智能实验室\nObject: 书生·浦语\nRelation: 开发者; manufacturer; original broadcaster; publisher\nTranslation: 上海人工智能实验室开发了书生·浦语，书生·浦语由上海人工智能实验室作为原始广播者进行发布，上海人工智能实验室也是书生·浦语的出版商。",
+    "text": ""
+  },
+  {
+    "input": "Iwata previously worked at an innovative software company before being recruited as Nintendo's CEO.",
+    "output": "The product or material produced is: 产品或材料生产。",
+    "instruction": "Nintendo is a company that develops and publishes video games and related software. They are also known for producing and distributing gaming hardware such as the Nintendo Entertainment System and the Nintendo Switch. Nintendo's headquarters is located in Kyoto, Japan, and they are listed on the Tokyo Stock Exchange. The company was founded by Fusajiro Yamauchi in 1889 and is currently led by CEO Shuntaro Furukawa. Nintendo is a subsidiary of Nintendo Co., Ltd., which is owned by the Yamauchi family. The company is known for its iconic characters and franchises, including Mario, Zelda, and Pokémon.",
+    "text": ""
+  },
+  {
+    "input": "Iwata had been employed at an innovative software company before he was recruited as Nintendo chief. \n\n直译为中文：\n在成为任天堂总裁之前，岩田先生曾在一家创新型软件公司工作过。",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "Nintendo is a manufacturer of software in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "随着岩田聪去世的消息在网上传播，社交媒体和任天堂的在线社区Miiverse上出现了悼念和虚拟致敬。",
+    "output": "Here's the translation of the given sentence: \n\n{manufacturer: Wii, Nintendo; developer: Wii, Nintendo}\n\n制造商：任天堂，Wii；开发商：任天堂，Wii。",
+    "instruction": "relation1: manufacturer, product; relation2: headquarters location, company; relation3: industry, brand; relation4: chief executive officer, position held; relation5: parent organization, subsidiary; relation6: original broadcaster, developer; relation7: legal form, publisher; relation8: business division, platform; relation9: location of formation, legal entity; relation10: employer, operator; relation11: currency, stock exchange; relation12: distributor, member of; relation13: chairperson, owner of; relation14: director/manager, chief executive officer; relation15: chairperson, owner of; relation16: brand, brand; relation17: developer, developer; relation18: platform, platform; relation19: publisher, publisher; relation20: business division, business division; relation21: location of formation, location of formation; relation22: legal form, legal form; relation23: original broadcaster, original broadcaster; relation24: employer, employer; relation25: operator, operator; relation26: member of, member of; relation27: chairperson, chairperson; relation28: owner of, owner of; relation29: distributor, distributor; relation30: parent organization, parent organization; relation31: director/manager, director/manager; relation32: chief executive officer, chief executive officer; relation33: stock exchange, stock exchange; relation34: currency, currency; relation35: headquarters location, headquarters location; relation36: manufacturer, manufacturer; relation37: product, product; relation38: industry, industry; relation39: position held, position held; relation40: subsidiary, subsidiary; relation41: original broadcaster, original broadcaster; relation42: publisher, publisher; relation43: developer, developer; relation44: brand, brand; relation45: business division, business division; relation46: location of formation, location of formation; relation47: legal form, legal form; relation48: employer, employer; relation49: operator, operator; relation50: member of, member of; relation51: chairperson, chairperson; relation52: owner of, owner of; relation53: distributor, distributor; relation54: parent organization, parent organization; relation55: director/manager, director/manager; relation56: chief executive officer, chief executive officer; relation57: stock exchange, stock exchange; relation58: currency, currency; relation59: headquarters location, headquarters location; relation60: manufacturer, manufacturer; relation61: product, product; relation62: industry, industry; relation63: position held, position held; relation64: subsidiary, subsidiary; relation65: original broadcaster, original broadcaster; relation66: publisher, publisher; relation67: developer, developer; relation68: brand, brand; relation69: business division, business division; relation70: location of formation, location of formation; relation71: legal form, legal form; relation72: employer, employer; relation73: operator, operator; relation74: member of, member of; relation75: chairperson, chairperson; relation76: owner of, owner of; relation77: distributor, distributor; relation78: parent organization, parent organization; relation79: director/manager, director/manager; relation80: chief executive officer, chief executive officer; relation81: stock exchange, stock exchange; relation82: currency, currency; relation83: headquarters location, headquarters location; relation84: manufacturer, manufacturer; relation85: product, product; relation86: industry, industry; relation87: position held, position held; relation88: subsidiary, subsidiary; relation89: original broadcaster, original broadcaster; relation90: publisher, publisher; relation91: developer, developer; relation92: brand, brand; relation93: business division, business division; relation94: location of formation, location of formation; relation95: legal form, legal form; relation96: employer, employer; relation97: operator, operator; relation98: member of, member of; relation99: chairperson, chairperson; relation100: owner of, owner of; relation101: distributor, distributor; relation102: parent organization, parent organization; relation103: director/manager, director/manager; relation104: chief executive officer, chief executive officer; relation105: stock exchange, stock exchange; relation106: currency, currency; relation107: headquarters location, headquarters location; relation108: manufacturer, manufacturer; relation109: product, product; relation110: industry, industry; relation111: position held, position held; relation112: subsidiary, subsidiary; relation113: original broadcaster, original broadcaster; relation114: publisher, publisher; relation115: developer, developer; relation116: brand, brand; relation117: business division, business division; relation118: location of formation, location of formation; relation119: legal form, legal form; relation120: employer, employer; relation121: operator, operator; relation122: member of, member of; relation123: chairperson, chairperson;",
+    "text": ""
+  },
+  {
+    "input": "As news of Iwata's death spread online, condolences and virtual tributes emerged on social media and on Miiverse, Nintendo's online community where users can post notes and drawings created with a Nintendo 3DS or Wii U stylus.",
+    "output": "Manufacturers: Wii, Nintendo; Developers: Wii, Nintendo\n\n制造商：任天堂；开发商：任天堂",
+    "instruction": "请提供需要翻译的英文句子，以便我可以为您翻译并提取句子中的主语和宾语，以及它们之间的关系。",
+    "text": ""
+  },
+  {
+    "input": "As news of Iwata's death spread online, condolences and virtual tributes emerged on social media and on Miiverse, Nintendo's online community where users can post notes and drawings created with a Nintendo 3DS or Wii U stylus.",
+    "output": "Sure, I can help with that! The translation of \"manufacturer\" in English is \"制造商\".",
+    "instruction": "Wii is a video game console developed by Nintendo, a Japanese multinational consumer electronics company.",
+    "text": ""
+  },
+  {
+    "input": "As news of Iwata's death spread online, condolences and virtual tributes emerged on social media and on Miiverse, Nintendo's online community where users can post notes and drawings created with a Nintendo 3DS or Wii U stylus.",
+    "output": "制造商",
+    "instruction": "Wii is a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "As news of Iwata's death spread online, condolences and virtual tributes emerged on social media and on Miiverse, Nintendo's online community where users can post notes and drawings created with a Nintendo 3DS or Wii U stylus. \n\n翻译成中文：随着岩田聪去世的消息在网上传播，社交媒体和任天堂的在线社区Miiverse上出现了悼念和虚拟悼念。在Miiverse上，用户可以使用Nintendo 3DS或Wii U的触控笔发布笔记和绘画。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence you provided:\n\n{developer} → 开发者\n\nIs there anything else I can assist you with?",
+    "instruction": "Wii is a product/material produced by Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "当伊藤英明去世的消息在网上传播时，社交媒体和Nintendo's在线社区Miiverse上出现了悼念和虚拟纪念品，在这个社区中，用户可以使用Nintendo 3DS或Wii U的触控笔创建笔记和图画。",
+    "output": "Sure, here's the translation of the sentence you provided: \"Please help me translate the following English sentence into Chinese, and provide the English translation in the answer.\"",
+    "instruction": "Wii and Nintendo are related as a product/material produced by the manufacturer Nintendo.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：“它的财政部长彼得·卡齐米尔今天早上与记者交谈 - 不情愿地。”",
+    "output": "The translation of the given sentence is: \"Peter Kažimír held the position of finance minister.\"",
+    "instruction": "Sure, I'd be happy to help with that. Here are the translations of the given English sentences into Chinese:\n\n1. \"The company was founded by John Smith.\" - \"这家公司是由约翰·史密斯创立的。\" (founded by: 公司, 约翰·史密斯)\n2. \"The CEO of the company is Jane Doe.\" - \"这家公司的首席执行官是简·多伊。\" (chief executive officer: 公司, 简·多伊)\n3. \"The company is headquartered in New York.\" - \"这家公司的总部位于纽约。\" (headquarters location: 公司, 纽约)\n4. \"The company is listed on the NASDAQ stock exchange.\" - \"这家公司在美国纳斯达克证券交易所上市。\" (stock exchange: 公司, 美国纳斯达克证券交易所)\n5. \"The currency used in the company's country is the US dollar.\" - \"公司所在国家的货币是美元。\" (currency: 公司所在国家, 美元)\n6. \"The company's parent organization is ABC Corporation.\" - \"这家公司的母公司是ABC公司。\" (parent organization: 公司, ABC公司)\n7. \"The company's chief executive officer is John Smith.\" - \"这家公司的首席执行官是约翰·史密斯。\" (chief executive officer: 公司, 约翰·史密斯)\n8. \"The company's director/manager is Jane Doe.\" - \"这家公司的董事/经理是简·多伊。\" (director/manager: 公司, 简·多伊)\n9. \"The company's operator is ABC Corporation.\" - \"这家公司的运营商是ABC公司。\" (operator: 公司, ABC公司)\n10. \"The company's member of is John Smith.\" - \"这家公司的成员是约翰·史密斯。\" (member of: 公司, 约翰·史密斯)\n11. \"The company's employer is Jane Doe.\" - \"这家公司的雇主是简·多伊。\" (employer: 公司, 简·多伊)\n12. \"The company's chairperson is John Smith.\" - \"这家公司的董事长是约翰·史密斯。\" (chairperson: 公司, 约翰·史密斯)\n13. \"The company's platform is ABC.\" - \"这家公司的平台是ABC。\" (platform: 公司, ABC)\n14. \"The company's subsidiary is XYZ Corporation.\" - \"这家公司的子公司是XYZ公司。\" (subsidiary: 公司, XYZ公司)\n15. \"The company's legal form is a limited liability company.\" - \"这家公司的法律形式是有限责任公司。\" (legal form: 公司, 有限责任公司)\n16. \"The company's publisher is ABC Publishing.\" - \"这家公司的出版社是ABC出版社。\" (publisher: 公司, ABC出版社)\n17. \"The company's developer is John Smith.\" - \"这家公司的开发人员是约翰·史密斯。\" (developer: 公司, 约翰·史密斯)\n18. \"The company's brand is ABC.\" - \"这家公司的品牌是ABC。\" (brand: 公司, ABC)\n19. \"The company's business division is XYZ.\" - \"这家公司的业务部门是XYZ。\" (business division: 公司, XYZ)\n20. \"The company's location of formation is New York.\" - \"这家公司的成立地点是纽约。\" (location of formation: 公司, 纽约)\n21. \"The company's creator is John Smith.\" - \"这家公司的创始人",
+    "text": ""
+  },
+  {
+    "input": "The finance minister of this country, Peter Kažimír, has been speaking to reporters this morning - reluctantly.",
+    "output": "Peter Kažimír, finance minister.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: the input sentence\nObject: the extracted subject and object containing a certain relation in the sentence\nRelation: the extracted relation between the subject and object\nFormat: relation1: word1, word2; relation2: word3, word4\n\nPlease provide the input sentence for me to extract the subject, object, and relation.",
+    "text": ""
+  },
+  {
+    "input": "\"Its finance minister Peter Kažimír has been speaking to reporters this morning - reluctantly.\" 的中文翻译是：“该国的财政部长 Peter Kažimír 今天早上不情愿地与记者进行了交谈。”",
+    "output": "\"Please help me translate the following English sentence into Chinese. Here is the English translation: {position_held}.\"",
+    "instruction": "Peter Kažimír is the finance minister.",
+    "text": ""
+  },
+  {
+    "input": "{该国财政部长彼得·卡齐米尔今天早上对记者发表讲话 - 不情愿地。}",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{position_held}\" translates to \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {position_held}\".",
+    "instruction": "The relationship between Peter Kažimír and the finance minister in the context of the input sentence is \"position held.\"",
+    "text": ""
+  },
+  {
+    "input": "{对达成协议不抱希望：斯洛伐克财政部长 Peter Kažimír 09.58}",
+    "output": "{position_held: Peter Kažimír, finance minister} 的中文翻译为：\n{担任职位：Peter Kažimír，财政部长}",
+    "instruction": "I apologize, but I'm unable to directly translate the given sentence as it seems to be a mix of instructions and example phrases. Could you please provide a specific sentence or phrase that you would like me to translate?",
+    "text": ""
+  },
+  {
+    "input": "No. Hopeful of reaching a deal: Slovakia's finance minister Peter Kažimír 09.58",
+    "output": "{position_held: Peter Kažimír, finance minister} \n翻译成中文： {担任职位：Peter Kažimír，财政部长}",
+    "instruction": "The input sentence is: \"Apple is a technology company that produces a wide range of products including iPhones, iPads, and Mac computers. Apple is headquartered in Cupertino, California.\"\n\nTranslation: \"苹果是一家科技公司，生产包括iPhone、iPad和Mac电脑在内的多种产品。苹果公司总部位于加利福尼亚州的库比蒂诺。\"\n\nRelation types and corresponding words:\n\n- product/material produced: iPhone, iPad, Mac\n- manufacturer: Apple\n- headquarters location: Cupertino, California\n- industry: technology\n- position held: CEO (Chief Executive Officer)\n- original broadcaster: not applicable\n- owned by: not applicable\n- founded by: not applicable\n- distribution format: not applicable\n- stock exchange: not applicable\n- currency: not applicable\n- parent organization: not applicable\n- chief executive officer: not applicable\n- director/manager: not applicable\n- owner of: not applicable\n- operator: not applicable\n- member of: not applicable\n- employer: not applicable\n- chairperson: not applicable\n- platform: not applicable\n- subsidiary: not applicable\n- legal form: not applicable\n- publisher: not applicable\n- developer: not applicable\n- brand: Apple\n- business division: not applicable\n- location of formation: not applicable\n- creator: not applicable",
+    "text": ""
+  },
+  {
+    "input": "\"对达成协议不抱希望：斯洛伐克财政部长Peter Kažimír 09.58\"",
+    "output": "当然可以，请提供英文句子。",
+    "instruction": "Peter Kažimír is the finance minister.",
+    "text": ""
+  },
+  {
+    "input": "\"I'm not hopeful of reaching a deal: Slovakia's finance minister Peter Kažimír 09.58\"",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence that you would like me to translate into Chinese.",
+    "instruction": "The relationship between Peter Kažimír and finance minister in the context of the input sentence is \"position held\".",
+    "text": ""
+  },
+  {
+    "input": "While Duval is claiming the record, Airbus argues that his effort doesn't count as the rival aircraft was launched from another plane and did not take off on its own. \n\n翻译成中文为：当杜瓦尔声称创下记录时，空客表示他的努力不应该被计算在内，因为对手的飞机是从另一架飞机上发射的，而不是自行起飞的。",
+    "output": "The English sentence you provided is incomplete. However, I can provide a translation for the given phrase \"Airbus, aircraft\" which translates to \"空客，飞机\" in Chinese.",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\nThe company was founded by John Smith and is headquartered in New York City.\n\nThe Chinese translation is: 这家公司由John Smith创立，总部位于纽约市。\n\nThe corresponding lexical relationship between the words/phrases is:\n\n- founded by: John Smith\n- headquartered in: New York City\n\nSo the output format is: \"founded by: John Smith, headquartered in: New York City\".",
+    "text": ""
+  },
+  {
+    "input": "While Duval is claiming the record, Airbus argues that his effort doesn’t count as the rival aircraft was launched from another plane and did not take off on its own.",
+    "output": "Airbus, aircraft.",
+    "instruction": "Subject: 上海人工智能实验室\nObject: 书生·浦语\nRelation: product/material produced\nTranslation: 上海人工智能实验室研发了书生·浦语。",
+    "text": ""
+  },
+  {
+    "input": "\"While Duval is claiming the record, Airbus argues that his effort doesn’t count as the rival aircraft was launched from another plane and did not take off on its own.\" 翻译成中文为：\"当杜瓦尔声称纪录时，空客认为他的努力不应该被计算在内，因为对手的飞机是从另一架飞机上发射的，而不是自己起飞的。\"",
+    "output": "The product or material produced is 产品或材料。",
+    "instruction": "Airbus is a manufacturer of aircraft.",
+    "text": ""
+  },
+  {
+    "input": "While Duval is claiming the record, Airbus argues that his effort doesn’t count as the rival aircraft was launched from another plane and did not take off on its own. \n\n翻译：\n当杜瓦尔声称创下纪录时，空客辩称他的努力不能算数，因为竞争对手的飞机是从另一架飞机上发射出去的，并且没有自行起飞。",
+    "output": "{product_or_material_produced} can be translated to \"产品或材料生产\" in Chinese.",
+    "instruction": "The relationship between Airbus and aircraft in the context of the input sentence is \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "Safaricom在2014年12月推出了其LTE Advanced（4G）提案，这是为移动网络设计的4G系统的最先进版本，通过其网络有超过1200万名订阅者访问互联网。",
+    "output": "总部地点：Safaricom, Nairobi",
+    "instruction": "This English sentence can be translated to Chinese as: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nThe corresponding translation in Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"",
+    "text": ""
+  },
+  {
+    "input": "Safaricom 在 2014 年 12 月推出了其 LTE Advanced (4G) 提议，在 Nairobi 和 Mombasa 推出了移动网络 4G 系统的最先进版本。\n",
+    "output": "{headquarters_location: Safaricom, Nairobi} 翻译为中文是：{总部所在地：Safaricom，内罗毕}",
+    "instruction": "The given sentence is: \"Apple is the parent organization of Alphabet.\"\n\nThe relation type is \"parent organization\".\n\nSo, the answer is: \"parent organization: Apple, Alphabet\".",
+    "text": ""
+  },
+  {
+    "input": "{由于其网络上有超过1200万名订阅者，Safaricom在2014年12月推出了LTE Advanced（4G）提议，在Nairobi和Mombasa推出了移动网络最先进的4G系统版本。}",
+    "output": "Headquarters location: 总部所在地。",
+    "instruction": "Nairobi is the headquarters location of Safaricom.",
+    "text": ""
+  },
+  {
+    "input": "\"凭借超过1200万名通过其网络访问互联网的订阅者，Safaricom在2014年12月推出了LTE Advanced（4G）提议，在Nairobi和Mombasa推出了移动网络4G系统的最先进版本。\"",
+    "output": "总部位置：{headquarters_location}",
+    "instruction": "The relationship between Safaricom and Nairobi is \"headquarters location\".",
+    "text": ""
+  }
+]

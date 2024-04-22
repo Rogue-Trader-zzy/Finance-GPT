@@ -1,0 +1,302 @@
+[
+  {
+    "input": "在空气调节加剧全球变暖的世界中，我们如何保持凉爽？答案可能是某种……",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"{$DMND green and moving}\" 在中文中可以翻译为 \"动态的绿色符号\"。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net sales of Healthcare Trade business in 2009 were EUR 145.1 million EUR 155.2 million and operating profit EUR 8.9 million EUR 7.9 million. \n\n中文翻译：2009年医疗贸易业务的净销售额为1.45亿欧元，1.55亿欧元，运营利润为890万欧元和790万欧元。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Germanwings disaster will not affect image of budget air travel - easyJet\n\n德国之翼航空事故不会影响廉价航空旅行的形象 - easyJet。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"我们发现这次通话的语气缺乏以往聚会的自信，因为团队在确定阻碍付费用户增长的确切力量方面遇到了困难。\"}",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英文翻译：请帮我把下面的英文句子翻译成中文，回答中直接给出中文翻译！{$amrn Full bull call spread ranging July to Jan 15. Lets see what this baby does,}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hong Kong Ruokatalo's target is to understand the consumers.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"对冲基金正在出售AMERCO（UHAL）。\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "书生·浦语：\"Outotec表示，在上一季度，它获得了价值4.92亿欧元的新的订单，相比一年前增加了0.24亿欧元。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "GILD 正在扩大其研究设施......跟上创新的步伐。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The 5 Best Tech Stocks of the Decade: 十年内最佳的5家科技股。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The orders also include a few high-power drives for the control of seismic compressors.\n- 这些订单还包括几台用于控制地震压缩机的强功率驱动器。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Finnish security and privacy software solutions developer Stonesoft Oyj said on January 7, 2008 that the preliminary sales of its StoneGate products grew by 59 percent year-on-year to 3.6 million euro ($5.3 million) for the fourth quarter of 2007.\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"为什么Pinterest的股票刚刚上涨了12.5%？\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "沙特阿拉伯、俄罗斯和其他大型石油生产国正在竞相谈判一项协议，以遏制历史性的价格崩溃...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"IWM 买进程序弹出 $IWM 为关闭打印便宜的货币意味着更高的股票价格 $SPY 机器人购买\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰金属工业解决方案供应商Outotec Oyj在2007年第一季度至第三季度的净利润为50.4百万欧元（72.5百万美元），相比2006年同一时期20.1百万欧元（28.9百万美元）有所上升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美联储主席梅斯特看到新冠病毒带来的“下行风险”，但她不想削减利率。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们根据索雷尔的技术要求量身定制了我们的解决方案，结果是既经济实惠的制造，又具有最高质量的反射器。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"BHP Billiton reduces dividend, reports $5.67 billion net loss.\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "芬兰金属产品公司Componenta Oyj ( HEL : CTH1V )今天宣布，2010年第四季度的净亏损缩小至50万欧元（合68万美元），相比上一年同期的530万欧元。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Nokia said that the technology will be available to businesses from the fourth quarter.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "$CELG 接近 104 点，这是它上周开盘并反弹到更高点的区域。在这里买入是一个不错的选择。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Apple在这里清理空头，一个严厉的提醒不要刺伤牛群中最强的一员。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Intertek Group宣布对其战略进行更新，并概述了其计划。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Meggitt share price tumbles as profit falls in 'challenging year' 翻译为 \"Meggitt 股票价格下跌，因为公司在 '充满挑战的年份' 中利润下降。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "市场在常规时段内大幅上涨，但明天会怎样呢？\n- The market was up sharply during the regular session, but what will tomorrow bring? 翻译为中文是：市场在常规时段内大幅上涨，但明天会怎样呢？",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "如果它走得像鸭子，叫得像鸭子，那么它很可能就是量化宽松。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Chime Communications Set To Be Acquired By WPP And Providence 翻译成中文为：「奇美通讯即将被 WPP 和 Providence 收购」。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance's Allie Garfinkle 预览了亚马逊的收益，并讨论了工会化推动的最新消息。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Baird upgrades Tesla Motors (TSLA) to outperform.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "随着经济衰退的担忧加剧，摩根士丹利证券分析师在一份致科技巨头亚马逊公司第二季度业绩公告前的通知中警告称，亚马逊.com Inc. 的云服务业务可能会面临压力。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "DiamondRock Hospitality Company (NYSE:DRH) 的股价波动大吗？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"你可能会需要承担更多的风险。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "全球风速普遍增加。这对可再生能源来说是个好消息。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "一些加菲猫（LON:GFRD）股东的股票下跌了46%。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Eastern U.S. railroads CSX and Norfolk Southern are involved in two projects aimed at bolstering intermodal infrastructure and assets in the South and Midwest. Inland container transfer facility planned to support Port of Mobile The Alabama Port Authority has approved a $2.04 million purchase of 272 acres in Montgomery for construction of an inland container intermodal transfer facility that will support container traffic from the Port of Mobile.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tekla provides 3D software for building and infrastructure engineering, with a focus on building information modelling of steel and concrete structures from design to construction.\n\n翻译：\nTekla 提供用于建筑和基础设施工程的三维软件，重点是钢结构和混凝土结构的建筑信息建模，从设计到施工。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "早上的失误之后，$SPY $ZM 掌控了局面，$BA $AAPL $AMZN 也成了赢家。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The change in holdings in accordance with Chapter 2, Section 9 of the Finnish Securities Markets Act is described below.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The English translation of the given sentence is: \"Neon oversold.\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "市场报告：Aviva在市场上位居首位，因为交易员们对其选择Friends表示赞同。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the past decade, it has gradually divested non-core assets and acquired several sports equipment manufacturers, including Fitness Products International based in California and ATEC, a leading maker of baseball and softball pitching machines, based in Sparks, Nevada.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In the Czech Republic, the profiling unit at Ostrava will be closed and the machinery will be relocated to Ruukki's bigger plants in Hungary, Poland, and Romania by the end of the first quarter of 2009.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The world's tallest atrium has just opened in China. At 636 feet with four skybridges, it rises between the building's...",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Toyota raises profit forecast, considers alternatives to China-made parts amid virus outbreak.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "PNC和Goldman Sachs获得了股息上调的绿灯（但暂不采取行动）：http://stks.co/2pa7 $PNC $GS",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As a result, the Works Council has withdrawn its petition to suspend the reorganization.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sarantel, based in Wellingborough, UK, designs high-performance antennas for portable wireless devices.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"Stock Market Update: Futures point to lower open amid more trade noise; Target and Lowe's rise\"} 的中文翻译为：“股市更新：期货指向低开，因为贸易噪音加剧；Target和Lowe's股价上涨。”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "input": "But in all fairness, TSYS was doing this for quite some time prior to the merger with Global Payments in September of 2019.",
+    "output": "Sure, here is the translation of the sentence:\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {subsidiary: TSYS, Global Payments}\n\nTranslation: 请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译。{子公司：TSYS，全球支付}",
+    "instruction": "product/material produced: \"product\", \"material\"; manufacturer: \"manufacturer\"; distributed by: \"distributed by\"; industry: \"industry\"; position held: \"position held\"; original broadcaster: \"original broadcaster\"; owned by: \"owned by\"; founded by: \"founded by\"; distribution format: \"distribution format\"; headquarters location: \"headquarters location\"; stock exchange: \"stock exchange\"; currency: \"currency\"; parent organization: \"parent organization\"; chief executive officer: \"chief executive officer\"; director/manager: \"director/manager\"; owner of: \"owner of\"; operator: \"operator\"; member of: \"member of\"; employer: \"employer\"; chairperson: \"chairperson\"; platform: \"platform\"; subsidiary: \"subsidiary\"; legal form: \"legal form\"; publisher: \"publisher\"; developer: \"developer\"; brand: \"brand\"; business division: \"business division\"; location of formation: \"location of formation\"; creator: \"creator\".",
+    "text": ""
+  },
+  {
+    "input": "但是，在所有公平性考虑下，TSYS在2019年9月与Global Payments合并之前已经做了相当长一段时间。",
+    "output": "Sure, I'd be happy to help! Here's the translation:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {subsidiary: TSYS, Global Payments}\"\n\nThe English translation of this sentence is:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {subsidiary: TSYS, Global Payments}\"\n\nPlease let me know if there's anything else I can assist you with!",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "然而，在公平对待的情况下，TSYS早在2019年9月与Global Payments合并之前就已经做了相当长一段时间了。\n{But in all fairness, TSYS was doing this for quite some time prior to the merger with Global Payments in September of 2019.}",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "TSYS and Global Payments are two companies that provide payment solutions. They are both subsidiaries of the parent organization Fidelity National Information Services (FIS), which is a leading provider of financial services technology solutions. Therefore, the relationship between TSYS and Global Payments is that they are both owned by FIS.",
+    "text": ""
+  },
+  {
+    "input": "但是就公平而言，TSYS在2019年9月与Global Payments合并之前已经做了相当长一段时间了。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate.",
+    "instruction": "The relationship between TSYS and Global Payments in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "每当我与我们产品团队之一进行电话会议时，我感到最震惊的事情是业务合作的程度以及TSYS和Global Payments团队如何迅速地联合起来，以及我们如何在很短的时间内推出新产品和新功能的能力。",
+    "output": "\"TSYS and Global Payments are subsidiaries.\"",
+    "instruction": "The relationship between the two words/phrases in the given sentence is \"manufacturer\". The corresponding lexical relationship is \"distributed by\". The translation of the sentence in Chinese is \"制造商分布\".",
+    "text": ""
+  },
+  {
+    "input": "And the thing that I'm struck by every time I get on a call with one of our product teams, with the business is the level of collaboration and how quickly the TSYS and Global Payments teams have come together and how effective we've been in introducing new product and new capability in a very short period of time.\n\n每次当我与我们的产品团队和业务团队通话时，令我印象最深刻的是他们之间的合作水平以及TSYS和Global Payments团队如何快速地团结在一起，以及我们在短时间内引入新产品和新能力方面的有效性。",
+    "output": "Here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary: TSYS, Global Payments}\"\n\nChinese translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{子公司：TSYS，全球支付}\"\n\nPlease note that the translation is in simplified Chinese. If you need the translation in traditional Chinese, please let me know.",
+    "instruction": "Subject: sentence\nObject: English sentence, Chinese translation\n\nRelation: translation\n\nSentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation.\"\n\nRelation: subject, object\n\nSubject: 请帮我\nObject: 下面英文句子翻译成中文\n\nRelation: translation\n\nTranslation: \"Please help me translate the following English sentence into Chinese.\"",
+    "text": ""
+  },
+  {
+    "input": "And the thing that I'm struck by every time I get on a call with one of our product teams, with the business is the level of collaboration and how quickly the TSYS and Global Payments teams have come together and how effective we've been in introducing new product and new capability in a very short period of time. \n\n翻译：\n每次我与我们的产品团队或业务部门通话时，我所震惊的事情是团队之间的合作程度以及TSYS和Global Payments团队如何快速地整合在一起，并在很短的时间内有效推出新产品和新功能。",
+    "output": "I'm sorry, but I'm not sure what you're asking for. Could you please provide more context or clarify your question?",
+    "instruction": "TSYS is a subsidiary of Global Payments.",
+    "text": ""
+  },
+  {
+    "input": "And the thing that I'm struck by every time I get on a call with one of our product teams, with the business is the level of collaboration and how quickly the TSYS and Global Payments teams have come together and how effective we've been in introducing new product and new capability in a very short period of time. \n\n= 每次与我们产品团队或业务团队进行通话时，我感到惊讶的是团队间的协作程度以及TSYS和Global Payments团队如何迅速地协同合作，并且在很短的时间内我们如何有效地推出新产品和新功能。",
+    "output": "Of course! Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese. Provide the translation directly in English!\"",
+    "instruction": "TSYS and Global Payments are both companies in the financial services industry, specifically in the area of electronic payment processing. They are competitors, but also have a strategic partnership. In 2015, Global Payments acquired a majority stake in TSYS, making it a subsidiary of Global Payments. This means that Global Payments \"owns\" TSYS.",
+    "text": ""
+  },
+  {
+    "input": "首先，从发行商的角度来看，我们拥有全球范围内的出色机会，包括在欧洲，TSYS在发行商方面，Global Payments在商家方面。",
+    "output": "Sure, here is the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {subsidiary: TSYS, Global Payments}\"\n\nPlease note that the English translation is provided directly in the answer as requested.",
+    "instruction": "The given sentence is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"\n\nOutput format: \"relation1: word1, word2; relation2: word3, word4\"\n\nOutput: \"product/material produced: 翻译; manufacturer: 帮助; distributed by: 直接; industry: 给出; position held: 英文翻译; original broadcaster: 答案; owned by: 中; founded by: 直接; distribution format: 给出; headquarters location: 英文翻译; stock exchange: 回答; currency: 中; parent organization: 直接; chief executive officer: 给出; director/manager: 英文翻译; owner of: 答案; operator: 中; member of: 直接; employer: 给出; chairperson: 英文翻译; platform: 答案; subsidiary: 中; legal form: 直接; publisher: 给出; developer: 英文翻译; brand: 答案; business division: 中; location of formation: 直接; creator: 给出\"",
+    "text": ""
+  },
+  {
+    "input": "首先，在发行商方面，我们拥有全球范围内令人兴奋的机会，包括在欧洲，TSYS在发行商方面，Global Payments在商户方面。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{subsidiary: TSYS, Global Payments}\"\n\nIn English: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {subsidiary: TSYS, Global Payments}\"",
+    "instruction": "Subject: \"Apple\", Object: \"iPhone\"\n\nRelation1: product/material produced; relation2: manufacturer\n\nApple: product/material produced, manufacturer: iPhone\n\nSubject: \"Apple\", Object: \"Distributors\"\n\nRelation1: distributed by; relation2: distributors\n\nApple: distributed by, distributors: Apple\n\nSubject: \"Apple\", Object: \"Technology\"\n\nRelation1: industry; relation2: technology\n\nApple: industry, technology: Apple\n\nSubject: \"Tim Cook\", Object: \"Apple\"\n\nRelation1: position held; relation2: Apple\n\nTim Cook: position held, Apple: Tim Cook\n\nSubject: \"ABC\", Object: \"The View\"\n\nRelation1: original broadcaster; relation2: The View\n\nABC: original broadcaster, The View: ABC\n\nSubject: \"Apple\", Object: \"Apple Inc.\"\n\nRelation1: owned by; relation2: Apple Inc.\n\nApple: owned by, Apple Inc.: Apple\n\nSubject: \"Steve Jobs\", Object: \"Apple\"\n\nRelation1: founded by; relation2: Apple\n\nSteve Jobs: founded by, Apple: Steve Jobs\n\nSubject: \"iOS\", Object: \"Apple\"\n\nRelation1: distribution format; relation2: Apple\n\niOS: distribution format, Apple: iOS\n\nSubject: \"Apple\", Object: \"Cupertino\"\n\nRelation1: headquarters location; relation2: Cupertino\n\nApple: headquarters location, Cupertino: Apple\n\nSubject: \"Apple\", Object: \"NASDAQ\"\n\nRelation1: stock exchange; relation2: NASDAQ\n\nApple: stock exchange, NASDAQ: Apple\n\nSubject: \"Apple\", Object: \"USD\"\n\nRelation1: currency; relation2: USD\n\nApple: currency, USD: Apple\n\nSubject: \"Intel\", Object: \"Apple\"\n\nRelation1: parent organization; relation2: Apple\n\nIntel: parent organization, Apple: Intel\n\nSubject: \"Tim Cook\", Object: \"Apple\"\n\nRelation1: chief executive officer; relation2: Apple\n\nTim Cook: chief executive officer, Apple: Tim Cook\n\nSubject: \"Tim Cook\", Object: \"Apple\"\n\nRelation1: director/manager; relation2: Apple\n\nTim Cook: director/manager, Apple: Tim Cook\n\nSubject: \"Apple\", Object: \"iPad\"\n\nRelation1: operator; relation2: iPad\n\nApple: operator, iPad: Apple\n\nSubject: \"Apple\", Object: \"iOS\"\n\nRelation1: member of; relation2: iOS\n\nApple: member of, iOS: Apple\n\nSubject: \"Apple\", Object: \"Jobs\"\n\nRelation1: employer; relation2: Jobs\n\nApple: employer, Jobs: Apple\n\nSubject: \"Apple\", Object: \"Jobs\"\n\nRelation1: chairperson; relation2: Jobs\n\nApple: chairperson, Jobs: Apple\n\nSubject: \"Apple\", Object: \"App Store\"\n\nRelation1: platform; relation2: App Store\n\nApple: platform, App Store: Apple\n\nSubject: \"Apple\", Object: \"Foxconn\"\n\nRelation1: subsidiary; relation2: Foxconn\n\nApple: subsidiary, Foxconn: Apple\n\nSubject: \"Apple\", Object: \"Proprietary\"\n\nRelation1: legal form; relation2: Proprietary\n\nApple: legal form, Proprietary: Apple\n\nSubject: \"Apple\", Object: \"Bloomberg\"\n\nRelation1: publisher; relation2: Bloomberg\n\nApple: publisher, Bloomberg: Apple\n\nSubject: \"Apple\", Object: \"Pixar\"\n\nRelation1: developer; relation2: Pixar\n\nApple: developer, Pixar: Apple\n\nSubject: \"Apple\", Object: \"Cupertino\"\n\nRelation1: location of formation; relation2: Cupertino\n\nApple: location of formation, Cupertino: Apple\n\nSubject: \"Apple\", Object: \"Steve Jobs\"\n\nRelation1: creator; relation2: Steve Jobs\n\nApple: creator, Steve Jobs: Apple",
+    "text": ""
+  },
+  {
+    "input": "首先，对于发行商来说，我们全球范围内都有很好的机会，包括在欧洲，与TSYS在发行商方面合作，以及与Global Payments在商家方面合作。",
+    "output": "I'm sorry, but I need the English sentence you want me to translate into Chinese. Please provide the sentence, and I will be happy to help you with the translation.",
+    "instruction": "TSYS and Global Payments are both companies in the payment industry. They are not directly related as parent organization or subsidiary, but they do compete in the same market. Therefore, the most appropriate relationship between them is \"competitor\" in the industry.",
+    "text": ""
+  },
+  {
+    "input": "首先，在发行方方面，我们拥有全球范围内令人惊叹的机会，包括在欧洲，TSYS在发行方方面，Global Payments在商家方面。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "TSYS and Global Payments are both companies in the financial services industry. They are competitors in the payment processing and technology sectors. In the context of the input sentence, the relationship between TSYS and Global Payments is that they are both parent organizations of other companies in the financial services industry.",
+    "text": ""
+  },
+  {
+    "input": "The Strategic Services agreement with the University of Arizona Global Campus will have an initial term of 15 years with renewals at year 7 and 12, Zovio receive 19.5% of University of Arizona Global Campus annual revenue, as well as reimbursement for direct cost.\nThe Strategic Services agreement with the University of Arizona Global Campus will have an initial term of 15 years with renewals at year 7 and 12, Zovio receive 19.5% of University of Arizona Global Campus annual revenue, as well as reimbursement for direct cost.",
+    "output": "Zovio, the University of Arizona Global Campus.",
+    "instruction": "The input text is missing. Please provide the English sentence that needs to be translated into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"The Strategic Services agreement with the University of Arizona Global Campus will have an initial term of 15 years with renewals at year 7 and 12, Zovio receive 19.5% of University of Arizona Global Campus annual revenue, as well as reimbursement for direct cost.\" 可以翻译为：\n\n\"与亚利桑那大学全球校区的战略服务协议将有一个初始期限为15年的条款，并在第7年和第12年续约。Zovio将获得亚利桑那大学全球校区年度总收入的19.5％，并提供直接成本的补偿。\"",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation in the response. {subsidiary: Zovio, the University of Arizona Global Campus}\"\n\n英文翻译：请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！ {子公司：Zovio，亚利桑那大学全球校区}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThis sentence appears to be a request for assistance in translating a given English sentence into Chinese. However, it is not clear what the actual English sentence is that needs to be translated. Could you please provide the English sentence you would like me to translate?",
+    "text": ""
+  },
+  {
+    "input": "The Strategic Services agreement with the University of Arizona Global Campus will have an initial term of 15 years with renewals at year 7 and 12, Zovio receive 19.5% of University of Arizona Global Campus annual revenue, as well as reimbursement for direct cost. \n\n翻译：\n战略服务协议与亚利桑那大学全球分校将有一个初始期限为15年，在第7年和第12年续签，Zovio将获得亚利桑那大学全球分校年度总收入的19.5％，以及直接成本的报销。",
+    "output": "I'm sorry, but I can't see the English sentence you want me to translate into Chinese. Please provide the English sentence and I will be happy to help you with the translation.",
+    "instruction": "Zovio is the parent organization of the University of Arizona Global Campus.",
+    "text": ""
+  },
+  {
+    "input": "The Strategic Services agreement with the University of Arizona Global Campus will have an initial term of 15 years with renewals at year 7 and 12, Zovio receive 19.5% of University of Arizona Global Campus annual revenue, as well as reimbursement for direct cost.",
+    "output": "Sure, I can help you with that. Please provide me with the English sentence you would like to be translated into Chinese.",
+    "instruction": "Zovio is the parent organization of the University of Arizona Global Campus.",
+    "text": ""
+  },
+  {
+    "input": "显然，空客和波音的飞机交付量下降和飞机生产率削减是主要原因。",
+    "output": "The sentence you provided is incomplete and does not contain any English text to be translated. Please provide the full sentence or additional information so I can assist you better.",
+    "instruction": "The input text is missing. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "主要的原因为：显然，空中客车公司和波音公司的飞机交付量下降，飞机生产率削减。",
+    "output": "\"Airbus produces aircraft.\"",
+    "instruction": "The sentence you provided seems to be a set of instructions for a task, rather than a sentence to be translated. Based on the instructions, here is an example of how the relation extraction would look:\n\n\"relation1: product, material; relation2: manufacturer, produced\"\n\nFor the given input sentence, the relation extraction would be:\n\n\"relation1: subject, object; relation2: subject, object\"\n\nPlease provide the input sentence you want me to extract the relations from.",
+    "text": ""
+  },
+  {
+    "input": "The main reasons there are, obviously, lower aircraft deliveries and aircraft production rate cuts at Airbus and Boeing. \n\n显然，主要原因是空客和波音的飞机交付量和生产率降低。",
+    "output": "产品或材料生产。",
+    "instruction": "Airbus is a manufacturer of aircraft.",
+    "text": ""
+  },
+  {
+    "input": "当然，下面是英文句子的中文翻译：\n“显然，飞机交付量下降和波音和空客的飞机生产率削减是主要原因。”",
+    "output": "Product or material produced: 生产的产品或材料",
+    "instruction": "The relationship between Airbus and aircraft in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "ASEAN地区当时11%的增长也是该时期表现非常强劲的地区，我们在印度尼西亚和印度都取得了非常显著的增长，这两个地区的收入在该时期都增长了大约40%，所以非常、非常强劲的表现。",
+    "output": "Founded by ASEAN, Indonesia.",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nHere is the translation of the given English sentence into Chinese:\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translation is: \"Help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nPlease note that the options provided in the instruction are not part of the translation task, but rather a list of possible relationships between words or phrases that can be extracted from the input text.",
+    "text": ""
+  },
+  {
+    "input": "The ASEAN region then at an 11% increase was also a very strong performer in the period, and we had particularly noteworthy growth in Indonesia and in India, both of which had roughly 40% increases in income in the period, so very, very strong performance.\n\n亚洲国家联盟地区在此期间的增长率为11%，同样表现出色，印度尼西亚和印度都实现了大约40%的收入增长，因此表现非常非常强劲。",
+    "output": "{founded_by: ASEAN, Indonesia} - 由 ASEAN 和印度尼西亚创立。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: The sentence does not contain a clear subject.\nObject: The sentence does not contain a clear object.\nRelation: The sentence does not contain a clear relation.",
+    "text": ""
+  },
+  {
+    "input": "ASEAN地区当时以11%的增长率也是一个非常出色的表现，我们在该时期印度尼西亚和印度的增长尤其引人注目，这两个地区的收入增长率都在40%左右，所以是一个非常非常出色的表现。",
+    "output": "The English sentence \"founded by\" can be translated to Chinese as \"由...创立\" or \"由...创建\" depending on the context. Here are some examples:\n\n1. \"The company was founded by John Smith.\" 翻译为 \"这家公司由约翰·史密斯创立。\"\n2. \"The university was founded by a group of educators.\" 翻译为 \"这所大学由一群教育家创建。\"\n\nPlease note that the context and specific words used in the sentence may affect the translation.",
+    "instruction": "The given sentence is not provided in the instruction, so I cannot translate it. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "The ASEAN region then at an 11% increase was also a very strong performer in the period, and we had particularly noteworthy growth in Indonesia and in India, both of which had roughly 40% increases in income in the period, so very, very strong performance.\n\n亚洲国家联盟地区在此期间11%的增长也是表现非常出色的，印度尼西亚和印度在此期间收入增长了约40%，这两个国家表现非常出色。",
+    "output": "Founded by 由...创立",
+    "instruction": "The relationship between ASEAN and Indonesia in the context of the input sentence is: member of.",
+    "text": ""
+  },
+  {
+    "input": "我认为，正如陈华分享的，我们大部分的投资组合都在商业核心地段，而不是零售和酒店业资产。",
+    "output": "Industry: Prime, Retail\n翻译为：行业：高端，零售",
+    "instruction": "\"Apple: a product/material produced by Apple Inc., manufacturer of iPhone; iPhone: a product/material produced by Apple Inc., manufacturer of iPhone; Apple Inc.: a company founded by Steve Jobs, CEO of Apple Inc., parent organization of Apple Inc., headquarters located in Cupertino, California, United States; Steve Jobs: the CEO of Apple Inc., original broadcaster of Macintosh computer, chief executive officer of Apple Inc., chairperson of Apple Inc., founder of Apple Inc., developer of Macintosh computer, publisher of Macintosh computer, brand of Apple Inc., position held as CEO of Apple Inc., employer of Steve Jobs, subsidiary of Apple Inc., legal form of Apple Inc., business division of Apple Inc., location of formation of Apple Inc., operator of Apple Inc., member of Apple Inc., owned by Apple Inc., distributor of iPhone, currency of Apple Inc., stock exchange of Apple Inc., platform of Apple Inc.\"\n\n\"relation1: Apple, Apple Inc.; relation2: iPhone, Apple Inc.; relation3: Steve Jobs, Apple Inc.; relation4: Macintosh computer, Apple Inc.; relation5: CEO, Apple Inc.; relation6: headquarters, Apple Inc.; relation7: Steve Jobs, Macintosh computer; relation8: Steve Jobs, Apple Inc.; relation9: founder, Apple Inc.; relation10: Steve Jobs, Apple Inc.; relation11: developer, Apple Inc.; relation12: publisher, Apple Inc.; relation13: brand, Apple Inc.; relation14: business division, Apple Inc.; relation15: location of formation, Apple Inc.; relation16: operator, Apple Inc.; relation17: member, Apple Inc.; relation18: owner, Apple Inc.; relation19: distributor, iPhone; relation20: currency, Apple Inc.; relation21: stock exchange, Apple Inc.; relation22: platform, Apple Inc.\"",
+    "text": ""
+  },
+  {
+    "input": "\"I think as shared by Chin Hua, I think most of our portfolio are in prime commercials and not in retail and hospitality assets.\" 翻译为中文是：“我认为，正如Chin Hua分享的那样，我认为我们的投资组合大部分都在商业核心区域，而不是零售和酒店业资产。”",
+    "output": "The prime industry and retail sector.",
+    "instruction": "请提供需要翻译的英文句子，以便我将其翻译成中文。",
+    "text": ""
+  },
+  {
+    "input": "我认为，正如陈华分享的，我们的大部分投资组合都在商业领域，而不是在零售和酒店业资产上。",
+    "output": "Industry: 工业",
+    "instruction": "利用输入文本作为上下文参考，选择制造商和分销商之间的关系。选项：产品/材料生产，制造商，分销商，行业，担任的职位，原始广播，拥有，由创立，发行格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，拥有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。",
+    "text": ""
+  },
+  {
+    "input": "我认为，正如陈华分享的，我们大部分投资组合都在商业领域，而不是零售和酒店业资产。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the sentence you provided:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\n\nEnglish: Please help me translate the following English sentence into Chinese, and provide the translation directly in English! {industry}",
+    "instruction": "The relationship between prime and retail in the context of the input sentence is \"distributed by\". \n\nTranslation: 原句中，\"prime\"和\"retail\"之间的关系是\"由...分发\"。",
+    "text": ""
+  },
+  {
+    "input": "BA already decided to exit its Boeing 747 fleet with early retirement of the remaining 30 aircraft, as well around eight Airbus 318s and six Boeing 777s for up to two years until longhaul demand returns.",
+    "output": "{developer: 波音747, 波音; product_or_material_produced: 波音, 波音747}",
+    "instruction": "The sentence you provided seems to be a set of instructions for a translation task, rather than a sentence to be translated. Here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nThe requested output format is:\n\n\"relation1: word1, word2; relation2: word3, word4\"\n\nHowever, there are no specific word/phrase pairs or lexical relationships provided in the given sentence. Please provide a specific sentence to be translated, and I'll be happy to help!",
+    "text": ""
+  },
+  {
+    "input": "BA already decided to exit its Boeing 747 fleet with early retirement of the remaining 30 aircraft, as well around eight Airbus 318s and six Boeing 777s for up to two years until longhaul demand returns.",
+    "output": "The developer of the Boeing 747 is Boeing, and the product or material produced is also Boeing, specifically the Boeing 747.",
+    "instruction": "Sure, here is the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nAnd here are the extracted subject and object containing a certain relation in the sentence according to the given relation types:\n\nrelation1: word1, word2; relation2: word3, word4\n\nNote: The given sentence does not contain any of the relation types mentioned in the instruction.",
+    "text": ""
+  },
+  {
+    "input": "英国航空公司已经决定退出其波音747机队，提前退役剩余的30架飞机，以及大约8架空客A318和6架波音777，直到长途需求回归，为期至少两年。",
+    "output": "Sure, here's the translation of the sentence you provided:\n\n{developer}",
+    "instruction": "The Boeing 747 is a product/material produced by the manufacturer Boeing.",
+    "text": ""
+  },
+  {
+    "input": "\"BA has already decided to exit its Boeing 747 fleet with early retirement of the remaining 30 aircraft, as well around eight Airbus 318s and six Boeing 777s for up to two years until longhaul demand returns.\" 翻译为中文是：\"BA已经决定退出其波音747机队，提前退役剩余的30架飞机，同时还有大约8架空客318和6架波音777，直到长途需求回归，为期两年。\"",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {developer}\".",
+    "instruction": "Boeing 747 is a product/material produced by Boeing.",
+    "text": ""
+  },
+  {
+    "input": "英国航空已经决定退出其波音747机队，提前退役剩余的30架飞机，以及大约8架空客A318和6架波音777，直到长途需求回归，最长可达两年。",
+    "output": "The product or material produced.",
+    "instruction": "The sentence \"Boeing 747\" is a product/material produced by Boeing.",
+    "text": ""
+  },
+  {
+    "input": "BA has already decided to exit its Boeing 747 fleet with early retirement of the remaining 30 aircraft, as well around eight Airbus 318s and six Boeing 777s for up to two years until longhaul demand returns.\nBA已经决定退出其波音747机队，提前退役剩余的30架飞机，以及大约8架空客318和6架波音777，直到长途需求回归，最多两年。",
+    "output": "The product or material produced.",
+    "instruction": "Boeing 747 is a product/material produced by Boeing.",
+    "text": ""
+  },
+  {
+    "input": "我认为Vueling是一个我们拥有的机会，他们有一个合理的成本结构，并且他们已经很好地开发了巴塞罗那基地。我认为他们在意大利和法国也做得很好。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译成中文是：“请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！”",
+    "instruction": "product/material produced: 产品/材料生产\nmanufacturer: 制造商\ndistributed by: 由...分销\nindustry: 行业\nposition held: 所持职位\noriginal broadcaster: 原始广播者\nowned by: 由...所有\nfounded by: 由...创立\ndistribution format: 分发格式\nheadquarters location: 总部所在地\nstock exchange: 股票交易所\ncurrency: 货币\nparent organization: 母公司\nchief executive officer: 首席执行官\ndirector/manager: 董事/经理\nowner of: 拥有者\noperator: 运营商\nmember of: 成员\nemployer: 雇主\nchairperson: 主席\nplatform: 平台\nsubsidiary: 子公司\nlegal form: 法律形式\npublisher: 出版商\ndeveloper: 开发者\nbrand: 品牌\nbusiness division: 业务部门\nlocation of formation: 成立地点\ncreator: 创作者",
+    "text": ""
+  },
+  {
+    "input": "我认为，Vueling是一个我们拥有的机会，他们拥有合理的成本结构，并且他们已经非常成功地开发了巴塞罗那基地。我认为他们在意大利和法国也做得非常好。",
+    "output": "Vueling, Barcelona is located in Barcelona.",
+    "instruction": "Subject: 下面英文句子\nObject: 中文翻译\nRelation: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！",
+    "text": ""
+  },
+  {
+    "input": "我认为 Vueling 是一个我们拥有的机会，它是一个具有正确成本结构的操作商，他们在巴塞罗那基地方面做得非常好，我认为他们在意大利和法国也做得很好。",
+    "output": "The location of formation refers to the place where a substance or compound is formed or created. It can be in a variety of environments, such as in the depths of the ocean, in the atmosphere, or even in space. The specific location can have a significant impact on the properties and behavior of the substance or compound, as different conditions can lead to different outcomes.",
+    "instruction": "Vueling is a company that operates in the aviation industry, specifically as an airline. The company was founded in Barcelona, Spain, and is owned by the Globalia group. The brand name \"Vueling\" is used to represent the airline and its services. The company's headquarters are located in Barcelona, and it is listed on the stock exchange. The chief executive officer of Vueling is Javier Hidalgo.",
+    "text": ""
+  },
+  {
+    "input": "我认为 Vueling 是我们的一个机会，他们拥有一个适合成本结构的运营商，他们已经非常成功地开发了巴塞罗那基地，我认为他们在意大利和法国也做得非常好。",
+    "output": "Sure, I can help you with that. Here's the translation:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the response!\"\n\nI hope that helps! Let me know if you have any other questions or need further assistance.",
+    "instruction": "Vueling is a subsidiary of International Airlines Group (IAG). IAG is the parent organization of Vueling.",
+    "text": ""
+  },
+  {
+    "input": "The impact on retail foodstuffs and fashion business is also deepening. 直译为：“对零售食品和时尚业务的影响也在加深。”",
+    "output": "Sure, I can help you with that. Here's the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: foodstuffs, retail}\"\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: foodstuffs, retail}\n\nEnglish: Please help me translate the following English sentence into Chinese. The answer should be given directly in English! {industry: foodstuffs, retail}",
+    "instruction": "The given English sentence is: \"Can you translate this sentence into Chinese for me, please?\"\n\nThe corresponding Chinese translation is: \"请帮我把这句话翻译成中文，好吗？\"\n\nIn the given input text, there are no options provided to extract the word/phrase pair and the corresponding lexical relationship between them. Therefore, I cannot provide the required output format. Please provide the necessary options for me to extract the required information.",
+    "text": ""
+  },
+  {
+    "input": "The impact on retail foodstuffs and fashion business is also deepening. = 对零售食品和时尚业的影响也在加深。",
+    "output": "Sure, I'd be happy to help you with that. Here's the translation:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n翻译：Please help me translate the following English sentence into Chinese. The answer should be given directly in English.\n\nI hope this helps! Let me know if you have any other questions.",
+    "instruction": "The given input sentence is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"\n\nSubject: \"Please help me\"\nObject: \"translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"\n\nRelation: \"translator\"",
+    "text": ""
+  },
+  {
+    "input": "The impact on retail foodstuffs and fashion business is also deepening. \n翻译成中文：零售食品和时尚业务的影响也在加深。",
+    "output": "I'd be happy to help you translate the English sentence into Chinese. Here's the translation: \n\n\"I need to translate this sentence into Chinese for you. Here's the translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\" \n\nPlease note that the translation may vary depending on the context and the intended meaning.",
+    "instruction": "Given the context of the sentence, the most appropriate translation would be:\n\n\"利用上下文信息，选择正确的食品与零售之间的关系。选项：产品/材料制造，制造商，分销商，行业，担任职务，原始广播者，所属，由...创立，分发格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，所属者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。\"\n\nPlease note that the translation provided is a direct translation of the options given in the context. The specific relationship between foodstuffs and retail may require additional context to accurately determine the correct translation.",
+    "text": ""
+  },
+  {
+    "input": "\"The impact on retail foodstuffs and fashion business is also deepening.\" 翻译成中文是：“对零售食品和时尚产业的影响也在加深。”",
+    "output": "Of course, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry}\n\n英文翻译：Please help me translate the following English sentence into Chinese, and provide the English translation in your response! {industry}\n\n(Note: The translation is directly given in the response, as requested.)",
+    "instruction": "The relationship between foodstuffs and retail in the context of the input sentence is \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "当然，以下是英文翻译：\n\"The catalyst for TD Ameritrade was really our public company clients, right?\" 翻译成中文为：“TD Ameritrade的催化剂实际上是我们的公众公司客户，对吧？”",
+    "output": "以下是英文句子翻译成中文：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{legal_form: TD Ameritrade, public company}\" 翻译为：\n\n\"Can you help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {legal_form: TD Ameritrade, public company}\"",
+    "instruction": "Given phrases: \"This company was founded by John Smith in 2010.\"\n\nOutput: \"founded by: John Smith, company;\"",
+    "text": ""
+  },
+  {
+    "input": "\"The catalyst for TD Ameritrade was really our public company clients, right?\" 的中文翻译是：“TD Ameritrade的催化剂实际上是我们的上市公司客户，对吧？”",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{legal_form: TD Ameritrade, public company}\" 翻译为 \"Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation! {legal_form: TD Ameritrade, public company}\"。",
+    "instruction": "Here is the translation of the given sentence into English:\n\n\"The company, founded by John Smith in 2015, is a subsidiary of ABC Corporation and operates in the technology industry.\"\n\nRelation: founded by\nSubject: company\nObject: John Smith\n\nRelation: subsidiary of\nSubject: company\nObject: ABC Corporation\n\nRelation: operates in\nSubject: company\nObject: technology industry",
+    "text": ""
+  },
+  {
+    "input": "The catalyst for TD Ameritrade was really our public company clients, right? \n\nTD 美国交易的催化剂实际上是我们的公共公司客户，对吗？",
+    "output": "当然可以，以下是您所请求的英文句子翻译成中文：\n\n英文句子：Please help me translate the following English sentence into Chinese, and provide the translation directly in your answer. {legal_form}\n\n中文翻译：请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{legal_form}",
+    "instruction": "The English sentence you provided is not a complete sentence, but it seems like you are asking for a translation and a relationship between TD Ameritrade and a public company. Based on the given options, here is a possible translation and relationship:\n\n- Translate: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n- Relationship: \"owned by\" (TD Ameritrade is owned by a public company)\n\nPlease note that this is just one possible translation and relationship based on the limited context provided. If you can provide more information or context, I can give a more accurate translation and relationship.",
+    "text": ""
+  },
+  {
+    "input": "TD Ameritrade的催化剂实际上是我们的公共公司客户，对吧？",
+    "output": "Sure, here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" into English:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "TD Ameritrade and public company: \"owned by\"",
+    "text": ""
+  },
+  {
+    "input": "\"Internationally, I will start with China because it continues to just build steam and momentum from, Q1 when we had the early closings to when the stores reopened, and we are seeing incredible growth in both our e-commerce number which was up 136% in China in stores, which are up, significant, growth, as we saw through the quarter and heading into this quarter.\" can be translated to Chinese as:\n\n\"在国际上，我将从中国开始，因为从Q1我们提前关闭商店到重新开放商店，中国市场一直在持续增长。我们不仅在实体店铺中看到了显著的增长，我们的电子商务数字也增长了136%。这种增长贯穿整个季度，并且在本季度我们预计还将继续保持这种增长势头。\"",
+    "output": "\"Please help me translate the following English sentence into Chinese. Here is the direct translation in English: {distributed_by: number, steam}\"",
+    "instruction": "\"Apple: a company that produces iPhones and iPads, which are distributed by Apple Inc. The headquarters of Apple Inc. are located in Cupertino, California. Apple Inc. is a subsidiary of Apple Inc. and was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne. Apple Inc. is listed on the NASDAQ stock exchange and uses the USD as its currency. Apple Inc. is a member of the technology industry and operates in the business division of consumer electronics.\" \n\nTranslation: \"Apple: a company that produces iPhones and iPads, which are distributed by Apple Inc. The headquarters of Apple Inc. are located in Cupertino, California. Apple Inc. is a subsidiary of Apple Inc. and was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne. Apple Inc. is listed on the NASDAQ stock exchange and uses the USD as its currency. Apple Inc. is a member of the technology industry and operates in the business division of consumer electronics.\" \n\nOutput: \"relation1: Apple, produces; relation2: iPhones, iPads; relation3: Apple Inc., distributes; relation4: Apple Inc., headquarters location; relation5: Apple Inc., subsidiary; relation6: Steve Jobs, Steve Wozniak, Ronald Wayne, founded by; relation7: Apple Inc., listed on NASDAQ; relation8: Apple Inc., uses USD; relation9: Apple Inc., member of technology industry; relation10: Apple Inc., operates in consumer electronics business division.\"",
+    "text": ""
+  },
+  {
+    "input": "\"在国际上，我会从中国开始，因为自从Q1早期关闭到商店重新开业以来，中国一直在不断增加动力和势头。我们不仅在电子商务方面看到了惊人的增长，中国的实体店铺也出现了显著的增长，我们通过整个季度看到了这一点，并且预计这个季度也会有类似的增长。\"",
+    "output": "Distributed by number, steam.",
+    "instruction": "Here is the translation of the given sentence:\n\n\"Apple Inc. is an American multinational technology company headquartered in Cupertino, California. It was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in April 1976. The company went public four years later and its revenue in 2020 was $274.5 billion.\"\n\nRelation1: founded by; word1: Apple Inc., word2: Steve Jobs, Steve Wozniak, and Ronald Wayne; Relation2: headquartered in; word3: Apple Inc., word4: Cupertino, California; Relation3: went public; word5: Apple Inc., word6: four years later; Relation4: revenue; word7: Apple Inc., word8: $274.5 billion; Relation5: in; word9: 2020.",
+    "text": ""
+  },
+  {
+    "input": "Internationally, I will start with China because it continues to just build steam and momentum from Q1 when we had the early closings to when the stores reopened, and we are seeing incredible growth in both our e-commerce numbers which was up 136% in China in stores, which are up, significant, growth, as we saw through the quarter and heading into this quarter.",
+    "output": "\"distributed_by\" 翻译为中文是 \"由...分布\"。",
+    "instruction": "The input text is: \"Utilize the input text as a context reference, choose the right relationship between number and steam from the options.\"\n\nTranslation: \"利用输入文本作为上下文参考，从选项中选择正确数量的关系。\"\n\nIn this case, the relationship is between \"number\" and \"steam\" (a typo for \"steam\"). The correct relationship is \"number\" and \"options.\"",
+    "text": ""
+  },
+  {
+    "input": "Internationally, I will start with China because it continues to just build steam and momentum from Q1 when we had the early closings to when the stores reopened, and we are seeing incredible growth in both our e-commerce number which was up 136% in China in stores, which are up, significant, growth, as we saw through the quarter and heading into this quarter. \n\n直译为中文：\n我会先从中国开始，因为从一季度我们提前关闭到商店重新开业，中国持续增长，我们看到了令人难以置信的增长，无论是我们的电子商务数量，在中国的商店中增长了136%，商店数量也在显著增长，正如我们在整个季度所看到的，并且展望下一个季度。",
+    "output": "\"distributed_by\" in English means \"由...分发\" in Chinese.",
+    "instruction": "The relationship between number and steam in the context of the input sentence is \"product/material produced\". \n\nEnglish translation: What is the relationship between number and steam in the context of the input sentence? The answer is: product/material produced.",
+    "text": ""
+  }
+]

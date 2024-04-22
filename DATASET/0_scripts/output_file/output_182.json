@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Louiebeene vwap is 1.63, held the trend line. Should be on a LOT of radars. $NAVB\n\n直译为：Louiebeene的平均价差（VWAP）为1.63，保持了趋势线。应该在很多雷达上出现。$NAVB",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Rally goes on as China cuts U.S. tariffs.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Crude oil futures rise, but support seen weak. #crudeoil #matprem #MarketScreener https://t.co/eQjD8yUBJ6 https://t.co/c2vI3soF9F\n\n\"原油期货上涨，但支撑被认为很弱。#原油#matprem#MarketScreener\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在此交易之前，未披露财务条款，阿尔玛媒体拥有科蒂科基网40%的股份。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The offer, deemed too low by Finnlines' board, stands until 4 pm tomorrow.\" 翻译为中文是：“该报价，被芬航线董事会认为太低，将在明天下午4点之前有效。”",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Back to Back intraday reversals look out below. Shorts moving in!\" 翻译为中文是：“日内连续反转，小心下方！空头正在行动！”",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "McDonald's P.L.T. sales sky-high projection.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"上周的收益报告和比预期更高的就业机会数量引发的持续影响，很可能正在发挥作用。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon stock is really cheap, especially if you plan on holding it long term. 翻译成中文为：亚马逊股票真的很便宜，特别是如果你打算长期持有它的话。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Investors should prepare for a coronavirus-induced 'vicious spiral' more than twice as bad as the financial crisis, according to a new report by JP Morgan. The report warns that the economic impact of the coronavirus could be severe and long-lasting, with potential consequences for markets, companies, and individuals.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The trade momentum rose in September for the first time in four months.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Centaurus Energy reports Q3 results: {$MDLNF - https://t.co/ZjalIENFaq}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"FB\"下跌了7.5%，从这种看跌模式来看。考虑到看涨情绪 - 这是一个令人印象深刻的看跌动作。https://t.co/TaJF0cH2qh}",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子翻译为中文：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n英文翻译：\n\nHelp me translate the following English sentence into Chinese, and provide the English translation directly in the answer! \n\n{$NM - Navios Maritime Holdings Inc. 2019 Q3 - Results - Earnings Call Presentation. Continue reading:… https://t.co/kxOtkBSmFw}\n\n中文翻译：\n\n",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Jazz Pharmaceuticals plc's (NASDAQ:JAZZ) CEO 是否获得了具有竞争力的薪酬？\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"3D Systems (DDD) Stock Receives Ratings Downgrade Today at Jefferies\" 可以翻译为 \"今天杰富瑞将3D Systems（DDD）股票评级下调\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"The Dow Jones Industrial Average is often put on too high of a pedestal by novice investors and ignored by professionals. But this year, the Dow is the best-performing index of the four major US indices.\" \n\n翻译成中文为：“道琼斯工业平均指数经常被新手投资者过度吹捧，而专业人士则常常忽视它。但今年，道琼斯指数是美国四大主要指数中表现最好的。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Just Eat shareholders were advised to stand down.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲商业团体表示，上海在成为全球金融中心方面还有很长的路要走。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "另一个显著的是，对Tata和Airtel品牌的搜索大多与`宽带连接'有关。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{芯片制造商可能会因为其惊人的业务增长而出现牛市行情。}",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "通知依据：蒂迈瑞公司（Tiimari Plc）于2010年12月30日发布董事会于2011年1月31日作出的可转换资本贷款分配决定。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Comptel Corporation will publish its financial statements for 2008 on 12 February 2009. 翻译成中文为：“科姆特尔公司将于2009年2月12日发布2008年的财务报表。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The rest of this week's tapings of Jimmy Kimmel Live have been canceled until he is back on his feet. \n\n“本周剩余部分吉米·金梅尔现场直播的录制已被取消，直到他恢复健康。”",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "欧洲最富有的人正在巴黎的一家百货公司上花费10亿美元。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Verizon and AT&T被指控伤害竞争对手。\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "I'm sorry, but the sentence you provided is not a valid English sentence. It seems like you've mentioned a command or instruction for an AI assistant, rather than a sentence to be translated. Please provide a valid English sentence for me to translate.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n{Yahoo Finance Live 主持人布拉德·史密斯、朱莉·海曼和布莱恩·索兹齐讨论微软对收购动视暴雪的坚定承诺。}",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "苹果拥有坚实的基石，尽管其价值以万亿计，并且是家喻户晓的品牌，但它仍然能够迅速增长。科技行业的调整和供应链问题可能会给公司的股票带来麻烦。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "With the Basware Connectivity services, companies gain visibility to an audit trail that can be traced from order to goods delivery and invoice. \n\n翻译：借助 Basware Connectivity 服务，公司能够获得可追溯至订单至货物交付及发票的审计轨迹的可见性。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Facebook 拒绝 HIGHS 可卖空...在 109 美元。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"为什么《取二互动》的股票今天下跌了？\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "美国食品药品监督管理局（FDA）批准阿斯利康公司药物用于治疗晚期肺癌。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple Inc. 在它的全球开发者大会上揭晓了一系列的全新软件功能和服務，包括更新後的 iPhone 鎖定屏幕、iPad 的多任務功能以及一個先使用後付款的服務，進一步擴展了它在金融領域的影響力。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "特斯拉 Model X 召回增加了可靠性问题。$TSLA",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Costco (COST) 在2022年2月季度实现了8.55%的营收超预期和1.17%的利润超预期。这些数字是否为股票的未来提供了线索？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们的广泛合作也将加强SysOpen Digia在国内运营商市场中的地位，”Kallioranta补充道。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "When the OMX market forwards mature on May 16, 2008, Novator Finland Oy's direct shareholding in Amer Sports Corporation will exceed one-fifth 1-5 of the company's shares and voting rights. \n\n中文翻译：当2008年5月16日，OMX市场的期货到期时，Novator Finland Oy对Amer Sports Corporation的直接持股将超过公司股份和投票权的五分之一。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Salesforce Conference Interrupted by Immigration Protesters 翻译成中文为：“Salesforce 会议被移民抗议者打断”。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"退休储蓄遇到困难？现在就做这四件事！\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net sales in 2010 were about EUR 2.0 billion, of which international operations accounted for roughly a quarter.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子“Standard Chartered, RBS Escape Capital Raising in Stress Test”的中文翻译：\n\n“标准查尔斯银行，苏格兰皇家银行在压力测试中成功逃避资本增加”。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "SMH在6月4日收到卖出信号，如果无法在39.28上方走高，否则可能会下跌至低于37.60的缺口，最低至35.38。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "我们已到达盈利季的尾声。然而，还有一些值得注意的滞后者需要报告——包括内存芯片制造商美光科技（MU，$58.71），它计划在6月30日收盘后公布其第三财季业绩。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Deutsche Bank cuts to Hold\" 翻译成中文是 \"德意志银行将评级降至持有\"。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla Model S的销量超过预期，盈利能力指导被上调：http://stks.co/jQ0w",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"二月 2020：天然气供需平衡概述及预测。https://t.co/HuoAlaxFwY #投资 #股市 #股票\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The S&P 500 just had the worst start of the year in decades. Slowly accumulating shares of great businesses has proven to be an excellent strategy in times like these for long-term investors.",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Cellect Biotechnology reports Q3 results. \n\n翻译：赛乐特生物技术公司公布了第三季度的业绩。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jobs fuel economic momentum for Trump ahead of election.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  }
+]

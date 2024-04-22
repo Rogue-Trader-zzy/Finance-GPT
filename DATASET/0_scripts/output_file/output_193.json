@@ -1,0 +1,302 @@
+[
+  {
+    "input": "\"Aviva closes Friends Life head office in swift integration move\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stocks indexes edge higher for the day, lower for the week. 股票指数今天小幅上涨，本周小幅下跌。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Registration is required.} → {注册是必需的。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "债务减免努力和航空旅行需求的改善提振了美国航空（AAL）。然而，上升的燃料成本是一个担忧。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"虽然苹果公司决定在美国保持iPhone价格稳定，但该公司在国际市场上做出了多种价格调整，这可能会影响其业务。\"",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Buffett's Berkshire builds Deere stake, dumps Exxon\" 的中文翻译是 \"巴菲特的伯克希尔哈撒韦增加了迪尔的股份，清算了埃克森的股份\"。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Activision Blizzard CEO Bobby Kotick and Phil Spencer, Microsoft head of gaming, join 'Squawk on the Street' to break down Microsoft's decision to buy the video gaming company for $95 per share.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Investcorp Credit Management BDC NII 的每股收益超出预期 $0.01，在总投资收益方面也超过了预期。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Upon completion of these transactions, Metso's stake will amount to more than 60%.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"考虑将你的房子卖给iBuyer？你可能比在公开市场上卖出你的房子少赚11%。\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n{$GEOS - Geospace Technologies Corporation (GEOS) CEO Rick Wheeler on Q4 2019 Results - Earnings Call Transcript. Co… https://t.co/P3gGg2tEUX}\n\n中文翻译：\n\n{$GEOS - 地球空间技术公司（GEOS）第四季度2019年业绩 - 业绩电话会议记录。Co… https://t.co/P3gGg2tEUX}\n\n请注意，我提供了英文句子的中文翻译，其中保留了原句中的特定元素，如缩写\"$GEOS\"和网址\"https://t.co/P3gGg2tEUX\"。如果您需要进一步的帮助，请告诉我。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "R&D Loan: 研发贷款。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon, in order to stay on track to meet its Climate Pledge, will work with Rivian to triple its fleet of electric delivery vans in Europe by 2025.",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国股市接近创纪录高位，因巴克莱银行和壳牌公司下跌。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Investors will look for how well Apple managed its supply chain during a worldwide shortage of parts needed to build electronics. \n投资者将寻找苹果如何在全球范围内缺乏建造电子产品的零部件时管理其供应链。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Alphabet's (GOOGL) Google is exploring various methods to utilize smartphones for capturing heart sounds and retinal images.",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{KONE, headquartered in Espoo, Finland, is one of the world's leading elevator and escalator companies.} 的中文翻译为：\n{KONE，总部位于芬兰埃斯波，是全球领先的电梯和自动扶梯公司之一。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "EA points to the two Facebook games and accuses Zynga of copyright infringement.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子翻译成中文：\n\"亚马逊的自由现金流遭受打击，AMZN股票遭受损失。AMZN股票以大规模出血的现金损失，所以投资者应该在它能够控制成本之前保持距离。\"",
+    "output": "强烈负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"I'm liking the price action in $SWKS, currently @21.80; my target: 24.00+ before year end.\" 翻译为： \"我对 $SWKS 的价格走势很满意，目前价格为 21.80 美元；我的目标是在年底前达到 24.00 美元以上。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The ship cranes, which will be manufactured by MacGREGOR's partner plants in China, will be delivered between 2008-2010 for vessels ordered by Chinese COSCO, German Peter Dohle, and Hong Kong based Cido Shipping.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "投资者应该准备好利用这些快速增长的科技股票。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Nyrstar也已经同意在锌精矿供应期间向Talvivaara供应最高达每年15万吨的硫酸，用于Talvivaara的浸出过程中。}",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Raute表示，之前针对其他人员的适应措施目前来说是足够的。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Homebuilders - $RYL 跌破支撑位，关注这个。$SPY\"",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The amendment will not incur additional costs. \n翻译成中文为：修正案不会产生额外费用。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是您提供的英文句子的中文翻译：\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{long $SDLP $CPGX $TWTR $BITA $LABU $FB $TSLA $ETE $SDRL  Autocharts @ https://t.co/nxLx1ES7nY}\n\n直接英文翻译：\n\nPlease help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {long $SDLP $CPGX $TWTR $BITA $LABU $FB $TSLA $ETE $SDRL  Autocharts @ https://t.co/nxLx1ES7nY}\n\n请注意，这里的代码部分可能代表了股票代码或交易指令，因此保持不变。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Stena Poseidon is a so-called Panamax tanker, designed to be able to pass through the narrow passages in the Panama Canal's locks. \n\n翻译为中文：斯滕娜·波塞冬号是一艘所谓的巴拿马型油轮，设计能够通过巴拿马运河闸门之间的狭窄通道。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Green Organic Dutchman 宣布了 4170 万美元的高级担保信贷设施。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政、约翰逊·马太泰公司领跌富时指数。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"在交易之前，其财务条款尚未披露，Alma Media 拥有 Kotikokki net 的 40%。\"",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Hedge Funds Have Never Been This Bullish On Construction Partners, Inc. (ROAD) can be translated to Chinese as \"对Construction Partners, Inc.（ROAD）的信心从未如此强烈过。\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The Hayward, Calif.-based target designs active, casual and dress footwear, as well as boots and sandals.\n\n{The Hayward, California 基于的目标设计运动，休闲和正式鞋类，以及靴子和拖鞋。}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Levi Strauss 的收入比预期增长了 0.05 美元。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesco Abandons Video-Streaming Ambitions in Blinkbox Sale\n\n翻译为：\n特易购在出售Blinkbox时放弃视频流媒体雄心。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ramelius Resources to acquire Spectrum Metals.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该英文句子翻译成中文为：「标普500指数看起来比复活节兔子布下的巧克力蛋更快地被布下了熊陷阱」。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Tesla (TSLA) is recalling nearly every single Model X, and CNN's breaking news has short sellers jumping into the money trade even at work.",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Derby's Take: Even Post-Coronavirus, Swollen Fed Balance Sheet Will Remain\"\n\n翻译为中文：\n\"Derby's Take: 即使在冠状病毒后，美联储膨胀的资产负债表仍然会保持不变。\"\n\n英文翻译：\n\"Derby's Take: Even Post-Coronavirus, Swollen Fed Balance Sheet Will Remain\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\n\"PepsiCo, Inc. (NASDAQ:PEP) Q1 2022 Earnings Conference Call April 26, 2022 8:15 AM ET Company Participants Ravi Pamnani - SVP, IR Hugh Johnston - Vice Chairman, Executive VP & CFO Ramon Laguarta - Chairman & CEO Conference Call Participants Bryan Spillane - Bank of America Merrill Lynch Dara Mohsenian - Morgan Stanley Lauren Lieberman - Barclays Bank Bonnie Herzog - Goldman Sachs Group Andrea Teixeira - JPMorgan Chase & Co. Laurent Grandet - Guggenheim Securities Vivien Azer - Cowen and Company Kaumil Gajrawala - Crédit Suisse Kevin Grundy - Jefferies Robert Ottenstein - Evercore ISI Steve Powers - Deutsche Bank Filippo Falorni - RBC Capital Markets Brett Cooper - Consumer Edge Research Christopher Carey - Wells Fargo Securities Operator Good morning, and welcome to PepsiCo's 2022 First Quarter Earnings Question-and-Answer Session. [Operator Instructions].\"\n\n中文翻译：\n\n\"PepsiCo, Inc. (纳斯达克股票代码：PEP) 2022年第一季度收益电话会议 - 2022年4月26日 8:15 AM ET 公司参与者：Ravi Pamnani - 高级副总裁，投资者关系部门负责人 Hugh Johnston - 副主席，执行副总裁及首席财务官 Ramon Laguarta - 董事长兼首席执行官 电话会议参与者：Bryan Spillane - 美国银行美林证券 Dara Mohsenian - 摩根士丹利 Lauren Lieberman - 巴克莱银行 Bonnie Herzog - 高盛集团 Andrea Teixeira - JPMorgan Chase & Co. Laurent Grandet - 古根海姆证券 Vivien Azer - 高盛证券 Kaumil Gajrawala - 瑞士信贷 Kevin Grundy - 杰弗瑞 Robert Ottenstein - 埃弗科尔 ISI Steve Powers - 德意志银行 Filippo Falorni - RBC资本市场 Brett Cooper - 消费者边缘研究 Christopher Carey - 韦尔斯法戈证券 操作员 早上好，欢迎参加百事可乐2022年第一季度收益问答环节。[操作员指示]。\"",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "BioArctic collaborates with Eisai to further characterize Alzheimer's candidate BAN2401.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Can We See Significant Insider Ownership On The Elmos Semiconductor AG (ETR:ELG) Share Register?} 翻译为中文为：{我们在埃尔摩半导体 AG（ETR:ELG）的股东名册中能看到显著的内部人士所有权吗？}",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "皇家邮政从Ofcom邮政监管报告中得到了混合的结果。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The high inflation and rising interest rate environment has caused a cyclical shift from growth stocks to value stocks. This is partially because valuation multiples have been compressed due to higher discount rates.\n\n高通胀和利率上升的环境导致了从成长股到价值股的周期性转变。这部分原因是由于更高的折扣率导致估值倍数被压缩。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Insight 雇佣了 Aviva 的 David Hillier 加入其多资产团队。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "是",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "保险公司Hastings Group正在进行1.8亿英镑的IPO。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "An earn-out payment of up to 4.0 mln euro ( $ 5.3 mln ) can also be paid depending on Intellibis financial performance in 2007.\n\n翻译成中文：\n\n根据Intellibis在2007年的财务表现，最高可达400万欧元（530万美元）的绩效奖金也可以支付。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The net interest income totaled EUR 15.9 mn, compared to EUR 15.6 mn a year earlier.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "安海斯-布希公司（Anheuser-Busch InBev）表示不会对南非米勒啤酒公司（SABMiller）采取敌意收购。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

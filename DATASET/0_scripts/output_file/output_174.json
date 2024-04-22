@@ -1,0 +1,302 @@
+[
+  {
+    "input": "Alandsbanken has given a \"buy\" recommendation on Swedish industrial company SKF AB (STO: SKF B) with a share price target of SEK150.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "消费者可选消费股是否会在经济复苏时继续增长？",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Jussi Pesonen, a member of the Sampo Board since 2006, will resign from his position on the Sampo Board.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Estonia's beer market overall grew three percent last year to 130 million liters. \n\n翻译成中文为：爱沙尼亚的啤酒市场去年总体增长了百分之三，达到1300万升。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"倡导团体反对听力障碍者驾照限制\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The 19,200-square metre technology center is located near University of Tampere in central Tampere. \n\n翻译成中文：位于塔潘涅市中心，靠近塔潘涅大学，该技术中心占地19,200平方米。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"COH Gaining Momentum! Nice buy signals here! Long Over $35.92 http://stks.co/t0tAh\" 的中文翻译是：“COH 势头强劲！这里有不错的买入信号！长线超过 35.92 美元。”",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Yestar Healthcare: Next Day Disclosure Returns #YestarHealthcare #Stock #MarketScreener https://t.co/k6srQHazpf https://t.co/oW9KRoFuxU\" 的中文翻译是：\"Yestar Healthcare：次日披露回报 #YestarHealthcare #股票 #市场筛选器 https://t.co/k6srQHazpf https://t.co/oW9KRoFuxU\"。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The brand-new market analysis provides a clear overview of the current situation and future outlook of the pharmaceutical market in Poland.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{Better Buy: Luckin Coffee or Starbucks?}\n\n更划算的购买：瑞幸咖啡还是星巴克？",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Amazon's stock is skyrocketing, time to sell!",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Arena Partners Oy is a development company for electronic business.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Arex Capital increases pressure on Zagg.",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Apple is diving deeper into its automotive ambitions, opening up the possibility to enter into a multi-billion segment of the auto industry.\n翻译：苹果正深入挖掘其汽车野心，为进军百亿级别的汽车行业打开了可能。",
+    "output": "适度正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{\"是否应该跟随伯克希尔·哈撒韦进入苹果股票？\"}",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Following the acquisition, Relacom will strengthen its presence in Finland, serving operators and the office market with mobile and fixed networks construction, installation, and maintenance services.\" 翻译为中文为：\"收购之后，Relacom将加强其在芬兰的市场地位，为运营商和办公楼市场提供移动和固定网络建设、安装和维护服务。\"",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Glaston's share GLA1V is listed on the NASDAQ OMX Helsinki, Mid Cap List.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "可口可乐公司和可口可乐FEMSA将从联合利华手中收购AdeS豆基饮料业务。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Yahoo Finance 科技编辑 Dan Howley 讨论了微软收购动视暴雪是否会面临反垄断挑战的可能性。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "“罕见地弱雪条件几乎影响了每个市场的业绩，影响了我们第一季度的结果，”首席执行官Roger Talermo说。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Azul's January traffic rose 29.1%. \n\n翻译：Azul 的 1 月交通量增长了 29.1%。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. Answer directly gives English translation! {long $SDLP $CPGX $TWTR $BITA $LABU $FB $TSLA $ETE $SDRL Autocharts @ https://t.co/nxLx1ES7nY}\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Winter is coming, so book your next meeting in the Game Of Thrones conference room\n\nWalk This Way for a tour of the…\n\n翻译为中文：\n\n冬季将至，所以预订您的下一次会议在《权力的游戏》会议室。\n\n走这条路，来一次……（https://t.co/UchpdZTnxV）",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "英国的FTSE指数因阿什泰德（Ashtead）下跌，商品承压而回落。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Operating profit for the three-month period increased from EUR1.2 m, while revenue increased from EUR20.2 m, as compared to the corresponding period in 2005. \n\n翻译：\n该季度的营业利润从2005年同期的1.2百万欧元增加，而收入也从20.2百万欧元增加。",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Morrisons 面临节日销售测试。",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "该公司的主要股东利哈昆塔和伊蒂卡合作协会都承诺收购价值2000万欧元的股份。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "New York Opioid Case A Significant Risk For Pharma Stocks, Says Bearish BofA\n纽约的鸦片案件对制药股构成重大风险，悲观的BofA表示。",
+    "output": "负面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "TWTR, ZNGA among premarket gainers 在盘前交易中，TWTR和ZNGA股价上涨。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "eBay 近期有了一个不错的突破，恭喜那些持有它的人。",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"2019年企业利润下降，标普指数上涨24%，或者如高盛所说“这些回报很可能不会像...”\n\n英文翻译：\"Corporate profits are down in 2019, S&P is up 24%, or as Goldman says \"these returns likely would not have been possible without the Fed's support.\"",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In Hong Kong, protesters have had to create a visual culture that 'emerges, spreads and vanishes rapidly'. \n\n在香港，抗议者不得不创造一种视觉文化，这种文化'出现、传播并迅速消失'。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The stocks rise further, but the S&P 500 ends a six-week streak of weekly gains.",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Ragutis, controlled by the Finnish brewery Olvi, achieved a 5.7 percent rise in beer sales to 22.6 million liters and held a 10.75 percent market share.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Coca-Cola was the market leader of manufacturers with a market share of 36.9%, down 2.2% from the corresponding period in 2004-2005.",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "As part of the reorganisation, Pohjola Insurance's 250 field staff for private customers will join the payroll of local cooperative banks from the beginning of October 2008.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Carnival Corporation and China Merchants Group Sign Memo of Understanding on Cooperation in the Cruise Industry.",
+    "output": "正面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "M-real will start statutory employer-employee negotiations at the +ä+ñnekoski board mill that concern about 130 people.\n\n翻译：M-real将在+ä+ñnekoski纸板厂开始关于130人的法定雇主-雇员谈判。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"There aren't many companies that the world is so reliant upon without even realizing it. This is one of them.\" 的中文翻译为：“世界上没有多少公司是如此依赖，甚至没有意识到这一点。这是其中之一。”",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The new organization consists of two business units: Charging & Messaging and Finance & Administration.\n\n新组织由两个业务部门组成：收费与消息和财务与行政。",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Eric Martin on China/Chipmaking: 埃里克·马丁关于中国/芯片制造。",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "The valuations are reasonable, so investors shouldn't hold off any longer. \n\n估值合理，所以投资者不应再推迟。",
+    "output": "稍微正面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$COH Gaining Momentum! Nice buy signals here! Long Over $35.92 http://stks.co/t0tAh} translates to: \"COH gaining momentum! Nice buy signals here! Long over $35.92 http://stks.co/t0tAh\"",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "{$FREE Ha Heeeeeere comes the pump! So glad I picked up 9K end of day! Get ready for the bull ride!} 的中文翻译是：{$FREE 泵来了！！！太高兴我在收盘前拿下了9K！准备迎接牛市！}",
+    "output": "正面的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Call Buyers Keep Betting on Booming Centene Stock\n直译为：买家继续押注上涨的Centene股票。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Queen Cancels Prince Andrew's 60th Birthday For Being Besties With Dead Pedophile\n\n女王因与已故儿童性侵犯是好友而取消安德鲁王子的60岁生日。",
+    "output": "中性的",
+    "instruction": "这个推文的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "\"Is Trouble Brewing At Legal & General Group Plc And Aviva plc?\" 的中文翻译为：\"法律与普通集团 PLC 和 Aviva PLC 是否存在麻烦？\"",
+    "output": "负面的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "In stead of being based on a soft drink, as is usual, the Teho energy drink is made with fresh water.",
+    "output": "中性的",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "Stanley Druckenmiller (交易，投资组合)，杜克家庭办公室主席兼总裁，在一份监管文件中披露，其公司第二季度的最大交易包括关闭其在亚马逊.com Inc. (AMZN，金融)的股份，减少在微软公司(MSFT，金融)和自由港-麦克莫兰公司(FCX，金融)的持仓，并在艾利·利和公司(LLY，金融)和Crowdstrike Holdings Inc. (CRWD，金融)上建立了新的头寸。",
+    "output": "稍微负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\"MercadoLibre's stock declined by 7.2% in the last twenty-one trading days. In comparison, the broader S&P500 index fell by only 1.2% in the last twenty-one trading days.\" 可以翻译为：\n\"MercadoLibre的股票在过去21个交易日内下跌了7.2%。相比之下，更广泛的S&P500指数在过去21个交易日内仅下跌了1.2%。\"",
+    "output": "适度负面",
+    "instruction": "这个新闻的情绪是什么？",
+    "text": ""
+  }
+]

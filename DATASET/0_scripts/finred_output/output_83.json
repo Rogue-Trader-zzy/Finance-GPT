@@ -1,0 +1,302 @@
+[
+  {
+    "input": "And I think you can see that Fortum - both Fortum and Uniper have followed a similar path. \n\n中文翻译：我认为你们可以看到，Fortum - 无论是Fortum还是Uniper，都遵循了相似的路径。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n{owner_of} in Chinese is \"所有者\" (suǒyǒu zhě).",
+    "instruction": "Fortum and Uniper are both companies that operate in the energy sector. They are related as parent and subsidiary, with Fortum being the parent company and Uniper being its subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "{\"And I think you can see that Fortum - both Fortum and Uniper have followed a similar path.\"}\n\n中文翻译：{\"我认为您可以看到Fortum - 无论是Fortum还是Uniper，它们都遵循了相似的道路。\"}",
+    "output": "{owner_of} 在中文中可翻译为 \"拥有者\"。",
+    "instruction": "Fortum and Uniper are both companies that operate in the energy sector, specifically in the production and distribution of electricity and gas. They are both based in Finland and have a complex relationship that involves ownership, management, and operational roles. In the context of the input sentence, the relationship between Fortum and Uniper can be described as \"parent organization.\" Fortum is the parent company of Uniper, as it holds a significant stake in the company and has influence over its operations and decisions.",
+    "text": ""
+  },
+  {
+    "input": "我认为一般来说，新冠病毒已经触及了我们每一个人，所以我必须首先为每个人说声感谢，我指的是，Fortum和Uniper的每一个人，以及所有真正适应了这种新情况的人，包括孩子、家庭、每一个人，我们的老年人，所以我们必须适应。",
+    "output": "Uniper, Fortum 所有；Fortum, Uniper 所有。",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: Please help me translate the following English sentence into Chinese. The answer should be given directly in English.\n\nThe corresponding lexical relationship between the two words/phrases in the input text is:\n\n- relation1: help, me; relation2: translate, sentence; relation3: answer, directly; relation4: English, translation; relation5: Chinese, answer; relation6: given, directly; relation7: English, translation; relation8: Chinese, answer.\n\nThe output format should be: \"relation1: help, me; relation2: translate, sentence; relation3: answer, directly; relation4: English, translation; relation5: Chinese, answer; relation6: given, directly; relation7: English, translation; relation8: Chinese, answer\".",
+    "text": ""
+  },
+  {
+    "input": "\"I think generally speaking, Corona has touched us all, so I have to say that first of all, I feel strongly for everyone I mean, every person inside Fortum and Uniper and everyone else who's really had to accommodate to this new situation, children, families, everybody, our elderly family members, so we've all had to stretch.\" 翻译为：\n\n我认为一般而言，冠状病毒影响了我们所有人，所以我首先要为所有人表示同情，包括Fortum和Uniper的每个人以及其他人，他们真的必须适应这种新情况，孩子们、家庭、每个人，我们的年长家庭成员，所以我们所有人都必须做出努力。",
+    "output": "{owned_by: Uniper, Fortum; owner_of: Fortum, Uniper}\n\n\"Uniper and Fortum are the owners, while Fortum and Uniper are the owners of the company.\"",
+    "instruction": "Subject: The input sentence\nObject: The relation type and corresponding words\n\nRelation type: product/material produced\nWords: Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\".\n\nRelation type: manufacturer\nWords: manufacturer\n\nRelation type: distributed by\nWords: distributed by\n\nRelation type: industry\nWords: industry\n\nRelation type: position held\nWords: position held\n\nRelation type: original broadcaster\nWords: original broadcaster\n\nRelation type: owned by\nWords: owned by\n\nRelation type: founded by\nWords: founded by\n\nRelation type: distribution format\nWords: distribution format\n\nRelation type: headquarters location\nWords: headquarters location\n\nRelation type: stock exchange\nWords: stock exchange\n\nRelation type: currency\nWords: currency\n\nRelation type: parent organization\nWords: parent organization\n\nRelation type: chief executive officer\nWords: chief executive officer\n\nRelation type: director/manager\nWords: director/manager\n\nRelation type: owner of\nWords: owner of\n\nRelation type: operator\nWords: operator\n\nRelation type: member of\nWords: member of\n\nRelation type: employer\nWords: employer\n\nRelation type: chairperson\nWords: chairperson\n\nRelation type: platform\nWords: platform\n\nRelation type: subsidiary\nWords: subsidiary\n\nRelation type: legal form\nWords: legal form\n\nRelation type: publisher\nWords: publisher\n\nRelation type: developer\nWords: developer\n\nRelation type: brand\nWords: brand\n\nRelation type: business division\nWords: business division\n\nRelation type: location of formation\nWords: location of formation\n\nRelation type: creator\nWords: creator\n\nSubject: The input sentence\nObject: The relation type and corresponding words\n\nNote: The translation is in Chinese.",
+    "text": ""
+  },
+  {
+    "input": "I think generally speaking, Corona has touched us all, so I have to say that first of all, I feel strongly for everyone I mean, every person inside Fortum and Uniper and everyone else who's really had to accommodate to this new situation, children, families, everybody, our elderly family members, so we've all had to stretch.\n\n我认为，一般来说，冠状病毒已经影响了我们所有人，所以我必须说，首先，我为所有人感到强烈，我指的是，Fortum和Uniper内部的每个人以及其他人，他们真的必须适应这种新情况，孩子们，家庭，每个人，我们的老年家庭成员，所以我们所有人都必须适应。",
+    "output": "Owned by: 所有权属于",
+    "instruction": "Uniper and Fortum are both energy companies, so the most appropriate relationship in this context would be \"parent organization\". \n\nEnglish translation: Uniper and Fortum are both energy companies, so the most appropriate relationship in this context would be \"parent organization\".",
+    "text": ""
+  },
+  {
+    "input": "\"I think generally speaking, Corona has touched us all, so I have to say that first of all, I feel strongly for everyone I mean, every person inside Fortum and Uniper and everyone else who's really had to accommodate to this new situation, children, families, everybody, our elderly family members, so we've all had to stretch.\" \n\n翻译为中文：\n“我认为，总体来说，新冠病毒影响了我们所有人，所以我首先要表达对所有人的关切，包括Fortum和Uniper内部每个人，以及所有必须适应这种新情况的人，孩子们、家庭、每个人，我们的老年家庭成员，所以我们所有人都不得不适应。”",
+    "output": "Owned by: 拥有者",
+    "instruction": "The relationship between Uniper and Fortum in the context of the input sentence is \"parent organization\". \n\nEnglish translation: Uniper and Fortum are both subsidiaries of the same parent organization.",
+    "text": ""
+  },
+  {
+    "input": "我认为一般而言，冠状病毒已经触及了我们每一个人，所以首先，我要对所有我所说的，每个在Fortum和Uniper工作的人，以及所有真正适应新情况的人表示深深感激，包括孩子们、家庭、每个人，我们的老年家庭成员，所以我们必须适应。",
+    "output": "Sure, I can help with that! The English translation of the given Chinese sentence \"{owner_of}\" is \"拥有者\" (yǒu zhàng zhě).",
+    "instruction": "Fortum and Uniper are both energy companies. They are related as parent organization and subsidiary. Fortum is the parent organization and Uniper is its subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "我认为一般而言，新冠病毒已经影响了我们所有人，所以我要说，首先，我对每个人都感到深深的同情，我指的是Fortum和Uniper内部每一个人，以及所有真正适应这种新情况的人，包括孩子、家庭、每个人，我们的老年家庭成员，所以我们所有人都要适应。",
+    "output": "I'm happy to help! Here's the translation of the sentence with the word \"{owner_of}\" in Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\"\n\nIn English, this translates to:\n\n\"Please help me translate the following English sentence into Chinese. In the response, directly provide the English translation of \"{owner_of}\".\"\n\nLet me know if you need further assistance!",
+    "instruction": "Fortum and Uniper are both parent organizations in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "您好，以下是您提供的英文句子的中文翻译：\n\n\"关于北欧方面，您提到Uniper已经创建了2022年的一些容量，Fortum是否也做了同样的事情，还是针对发电业务，或者还没有因为我在您的演示中没有看到任何2022年的对冲？\"\n\n请注意，这个翻译是基于对句子中单词和短语的直接翻译，可能无法完全传达原始句子的含义或语境。",
+    "output": "Owned by: Uniper, Fortum; owner of: Fortum, Uniper\n\n拥有者：Uniper, Fortum；所属者：Fortum, Uniper",
+    "instruction": "The relationship between the two phrases is \"distributed by\". The corresponding word pair is \"product/material produced\" and \"manufacturer\". So the output format is \"distributed by: product/material produced, manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "关于北欧市场，你提到Uniper已经创造了2022年的一些量，Fortum是否也为发电业务创造了，还是没有，因为我没有在您的演示中看到任何2022年的对冲？",
+    "output": "{owned_by: 上海人工智能实验室; owner_of: 上海人工智能实验室}",
+    "instruction": "Here's the translation of the given sentence into English: \"Please help me translate the following English sentence into Chinese. In the answer, directly provide the English translation!\"\n\nSubject: The sentence\nObject: Chinese translation\nRelation: translation",
+    "text": ""
+  },
+  {
+    "input": "\"在北欧方面，你提到Uniper已经创造了2022年的部分量，Fortum是否也为了发电业务创造了一些，还是没有，因为我在你的演示中没有看到任何2022年的对冲？\"",
+    "output": "The English sentence you provided, \"{owned_by}\", does not contain any context or information that can be translated into a meaningful sentence. Please provide a complete sentence for translation.",
+    "instruction": "Uniper and Fortum are both energy companies, with Uniper being a subsidiary of Fortum. Therefore, the correct relationship between Uniper and Fortum is \"subsidiary.\"",
+    "text": ""
+  },
+  {
+    "input": "In terms of Nordic, you mentioned that Uniper has already created some of the 2022 volume. Has Fortum done it also for generation business or not yet because I didn't see any 2022 hedges on your presentation?\n\n翻译成中文：\n\n您在提到北欧市场时提到，Uniper已经为2022年创造了一定的量。Fortum是否也在发电业务上采取了类似的行动，或者还没有，因为我没有在您的演示中看到任何2022年的对冲。",
+    "output": "Owned by: 由...拥有",
+    "instruction": "The relationship between Uniper and Fortum in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "In terms of Nordic, you mentioned that Uniper has already created some of the 2022 volume, has Fortum done it also for generation business or not yet because I didn't see any 2022 hedges on your presentation? \n\n翻译：\n\n在北欧方面，你提到Uniper已经为2022年创造了一些体积，Fortum是否也为发电业务做了同样的事情，或者还没有，因为我没有在你的演示中看到任何2022对冲？",
+    "output": "The owner of the company.",
+    "instruction": "Fortum and Uniper are both energy companies, with Fortum being a Finnish electricity and gas company and Uniper being a German energy company. They are related as a parent organization and subsidiary, with Fortum owning a significant stake in Uniper.",
+    "text": ""
+  },
+  {
+    "input": "在斯堪的纳维亚方面，你提到Uniper已经为2022年创造了一定的量，Fortum是否也为您在发电业务方面完成了，或者还没有，因为我没有在你的演示中看到任何2022年的对冲？",
+    "output": "{owner_of} in English translates to \"拥有者\" in Chinese.",
+    "instruction": "The relationship between Fortum and Uniper in the context of the input sentence is: parent organization. \n\n英文翻译：Fortum and Uniper之间的关系是在输入句子的上下文中，作为母公司。",
+    "text": ""
+  },
+  {
+    "input": "{因此，既然我们已经说了这么多，是的，我们确实对开发我们在整个运营区域的可再生能源存在非常感兴趣，现在也在扩大的Fortum Uniper集团中。}",
+    "output": "\"Uniper, Fortum is the owner; Fortum, Uniper is owned by.\"",
+    "instruction": "This is a request for help with translation. However, it seems like there is an error in the provided options. The options are not in the correct format. Here is the corrected format for the options:\n\n1. product/material produced\n2. manufacturer\n3. distributed by\n4. industry\n5. position held\n6. original broadcaster\n7. owned by\n8. founded by\n9. distribution format\n10. headquarters location\n11. stock exchange\n12. currency\n13. parent organization\n14. chief executive officer\n15. director/manager\n16. owner of\n17. operator\n18. member of\n19. employer\n20. chairperson\n21. platform\n22. subsidiary\n23. legal form\n24. publisher\n25. developer\n26. brand\n27. business division\n28. location of formation\n29. creator\n\nPlease provide the sentence you want me to translate, and I will translate it into Chinese for you.",
+    "text": ""
+  },
+  {
+    "input": "所以，考虑到这一切，是的，我们确实感兴趣，并且非常感兴趣在我们的整个运营区域以及扩大后的Fortum Uniper集团中发展我们的可再生能源业务。",
+    "output": "Uniper and Fortum are the owners of Fortum and Uniper respectively.",
+    "instruction": "Sure, I can help you with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "所以，尽管我已经解释了所有这些，是的，我们确实对发展我们的可再生能源业务感兴趣，特别是对我们整个运营区域，现在也包括扩大后的Fortum Uniper集团。",
+    "output": "Owned by is translated to \"由...所有\" in Chinese.",
+    "instruction": "Uniper is a German energy company that was founded in 2016. It was formed as a result of the merger between E.ON's and RWE's gas, power, and energy trading businesses. Uniper operates in the energy industry and is headquartered in Düsseldorf, Germany. Fortum, on the other hand, is a Finnish energy company that was founded in 1993. It operates in the energy industry and is headquartered in Espoo, Finland. Both companies are competitors in the energy market and are not directly related as parent organizations or subsidiaries. Therefore, the correct relationship between Uniper and Fortum is \"competitor\".",
+    "text": ""
+  },
+  {
+    "input": "So, having said all of this, yes, we are interested, definitely interested in developing our renewables presence actually in our whole operating area, and now also in the enlarged Fortum Uniper Group.\n\n翻译为中文：\n因此，考虑到这一切，是的，我们确实感兴趣，并且非常热衷于在我们整个运营区域内，以及现在也包括扩大后的Fortum Uniper集团中，发展我们的可再生能源业务。",
+    "output": "Owned by: 由...所有",
+    "instruction": "Uniper and Fortum are both companies in the energy industry, specifically in the field of power generation. Uniper is a German energy company that operates power plants and trades electricity and gas. Fortum is a Finnish energy company that focuses on renewable energy and energy efficiency. The relationship between Uniper and Fortum can be described as competitors or potential partners in the energy market. They both operate in the same industry and may have collaborations or partnerships in certain areas, such as renewable energy projects or gas trading. However, they are also direct competitors in the generation and supply of electricity and gas.\n\nIn terms of the given choices, the most appropriate answer would be \"parent organization.\" This is because both Uniper and Fortum are subsidiaries of larger energy companies. Uniper is a subsidiary of E.ON, a German energy company, while Fortum is a subsidiary of Fortum Corporation, a Finnish energy company. This relationship means that both Uniper and Fortum are controlled by their respective parent organizations, which have a significant influence on their operations and strategies.\n\nHowever, it's important to note that the relationship between Uniper and Fortum can be complex and multifaceted, as they may have different roles and relationships with each other in various contexts. For example, they may be competitors in certain markets but partners in others. Additionally, their parent organizations may have different priorities and strategies, which can impact their relationship with each other. Overall, the relationship between Uniper and Fortum is best understood as a dynamic and evolving one, shaped by various factors within the energy industry.",
+    "text": ""
+  },
+  {
+    "input": "So, having said all of this, yes, we are interested, definitely interested in developing our renewables presence actually in our whole operating area, and now also in the enlarged Fortum Uniper Group. \n\n中文翻译：\n因此，考虑到所有这些，是的，我们对发展我们在整个运营区域的可再生能源存在确实感兴趣，现在也在扩大后的Fortum Uniper集团中。",
+    "output": "Sure, I'd be happy to help! The phrase \"{owner_of}\" in English can be translated to \"所有者\" in Chinese.",
+    "instruction": "Fortum is the parent organization of Uniper.",
+    "text": ""
+  },
+  {
+    "input": "{因此，经过上述讨论，是的，我们确实对开发可再生能源在我们整个运营区域的业务很感兴趣，现在也在扩大后的Fortum Uniper集团中。}",
+    "output": "The phrase \"owner_of\" is typically used in programming or scripting languages to denote the ownership or association of an object or entity. In English, it can be translated as \"owner of\" or \"possessor of.\" For example, \"owner_of the car\" can be translated to \"车主\" in Chinese.",
+    "instruction": "Fortum and Uniper are both energy companies, so their relationship can be described as \"parent organization.\" Fortum is the parent company that owns Uniper.",
+    "text": ""
+  },
+  {
+    "input": "好的，以下是英文翻译：\n\n{所以，首先涉及到的是北溪-2号，由于这似乎是Uniper的一个重要投资，但Fortum作为母公司如何评估这种情况，Uniper是否应该退出这个项目？}",
+    "output": "{owned_by: 上海人工智能实验室; owner_of: 上海人工智能实验室}",
+    "instruction": "Original broadcaster: ABC News, CNN; Owned by: Time Warner; Headquarters location: New York City; Stock exchange: New York Stock Exchange; Currency: US Dollar; Parent organization: Time Warner; Chief executive officer: Jeff Bewkes; Director/manager: Jeff Zucker; Operator: Turner Broadcasting System; Member of: Turner Broadcasting System; Employer: Turner Broadcasting System; Chairperson: Jeff Bewkes; Platform: Television; Subsidiary: CNN; Legal form: Corporation; Publisher: Time Warner; Developer: Turner Broadcasting System; Brand: CNN; Business division: Turner Entertainment; Location of formation: Atlanta, Georgia, United States; Creator: Ted Turner.",
+    "text": ""
+  },
+  {
+    "input": "以下是将英文句子翻译成中文：\n\n{所以，首先关于北溪-2号，并且鉴于这似乎是Uniper的一个重要投资，但Fortum作为母公司如何评估这一情况，Uniper是否应该退出该项目？}",
+    "output": "以下是英文句子翻译成中文：\n\n{owned_by: Uniper, Fortum; owner_of: Fortum, Uniper}\n\n翻译：\n\nUniper和Fortum是拥有者，Fortum和Uniper是拥有者。",
+    "instruction": "Sure, I can help you with that. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "So, first relating to Nord Stream-2 and since this seems to be an important investment by Uniper, but how does Fortum as a parent company assess the situation and should Uniper pull out of the project?\n\nThe direct translation of the given English sentence into Chinese is:\n\n\"首先，关于北溪-2号，因为这对Uniper来说似乎是一项重要的投资，但是作为母公司的Fortum如何评估这一情况，Uniper是否应该退出该项目？\"",
+    "output": "Owned by: 由...所有",
+    "instruction": "Fortum is the parent organization of Uniper.",
+    "text": ""
+  },
+  {
+    "input": "{所以，首先涉及到的是北溪-2号，鉴于这似乎是Uniper的一项重要投资，但Fortum作为母公司如何评估当前形势，Uniper是否应该退出这个项目？}",
+    "output": "Owned by: 拥有者",
+    "instruction": "The relationship between Uniper and Fortum is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "So, first regarding Nord Stream-2, and since this appears to be an important investment by Uniper, but how does Fortum, as the parent company, assess the situation, and should Uniper withdraw from the project?",
+    "output": "Sure, here is the translation of the sentence:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer: {owner_of}\"\n\nTranslation: 请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！",
+    "instruction": "Fortum is a Finnish energy company that was founded in 1994. It is a subsidiary of the Uniper Group, a German energy company. Fortum is the original broadcaster of the Finnish TV channel Yleisradio and is listed on the Helsinki Stock Exchange. The company's CEO is Markus Rauramo, and its headquarters are located in Helsinki, Finland. Fortum operates in the energy industry and is a member of the World Business Council for Sustainable Development. The company's primary business division is the production of electricity and heat, as well as the distribution of these products to customers. Fortum is also involved in the development and operation of renewable energy projects, such as wind and solar power plants.",
+    "text": ""
+  },
+  {
+    "input": "首先，涉及到的是北溪-2号管道项目，因为这是Uniper的一项重要投资，但是Fortum作为母公司如何评估当前情况，Uniper是否应该退出这个项目？",
+    "output": "Sure, I can help with that! Here's the translation of the English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}\"\n\nChinese translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{owner_of}",
+    "instruction": "Fortum and Uniper are both companies, and in the context of the input sentence, they are related as parent organizations.",
+    "text": ""
+  },
+  {
+    "input": "因此，劳动力身份管理是按用户每年进行的，您的前者 GDF SUEZ 的 ENGIE 拥有 120,000，150,000 个座位，我们的各种产品的全覆盖，通用目录，单一登录，多年合同，所有年度现金一次性支付，所有这些类型的事情。",
+    "output": "由ENGIE和SUEZ创立。",
+    "instruction": "原句：Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\n\n翻译：请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！ {给出的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对以及它们之间的对应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产，制造商，由...分发，行业，担任职务，原始广播者，由...拥有，由...创立，分发格式，总部所在地，证券交易所，货币，母组织，首席执行官，董事/经理，拥有者，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发者，品牌，业务部门，成立地点，创作者。}",
+    "text": ""
+  },
+  {
+    "input": "所以劳动力身份管理是按用户每年进行，您的前公司 ENGIE 曾经是 GDF SUEZ，您有 120,000 到 150,000 个座位，我们不同的产品覆盖了从墙到墙，通用目录，单一登录，多年合同，所有现金每年提前支付，所有这些类型的东西。",
+    "output": "The following English sentence translates to Chinese as: “由{ENGIE, SUEZ}创立”。",
+    "instruction": "Subject: sentence\nObject: English sentence translation\nRelation: translation\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer.\"\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "So workforce identity management is per user per year, your ENGIE formerly GDF SUEZ you have 120,000, 150,000, seats, wall-to-wall of our different products, universal directory, single sign-on, multi-year contracts, all annual cash up front, all these kinds of things.",
+    "output": "当然，以下是您提供的英文句子的中文翻译：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{founded_by}\" 翻译为：\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {founded_by}\"\n\n我希望这个翻译对您有所帮助。如果您有其他需要翻译的内容，欢迎随时告诉我。",
+    "instruction": "ENGIE and SUEZ are both companies that operate in the energy and water management industries. They are not directly related in terms of ownership or parent organization. However, they do have some similarities in their core businesses and could potentially be considered competitors in certain markets.\n\nThe relationship between ENGIE and SUEZ is \"industry\".",
+    "text": ""
+  },
+  {
+    "input": "So workforce identity management is per user per year, your ENGIE formerly GDF SUEZ you have 120,000, 150,000, seats, wall-to-wall of our different products, universal directory, single sign-on, multi-year contracts, all annual cash up front, all these kinds of things.",
+    "output": "\"Founded by\" 在中文中可以翻译为 \"由...创立\"。",
+    "instruction": "The relationship between ENGIE and SUEZ in the context of the input sentence is \"parent organization\".",
+    "text": ""
+  },
+  {
+    "input": "以下是您的英文句子的中文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用和推出新功能，使营销人员能够加快跨渠道的数据收集，从而基于实时见解实现更快、个性化的体验；Real-time Customer Data Platform中的数据治理能力的全面可用性；我们的Customer Journey Analytics服务在早期阶段的良好发展，该服务为客户提供线上和线下的客户旅程的完整视图；Adobe Experience Manager Cloud Service的加速部署；电子商务产品的大幅季度增长；与Advertising Cloud客户的合作，以逐步终止我们的基于交易的产品；关键客户成功，包括Eli Lilly、Truist、Nike、Lowe's、Shell、Lloyds和U.S. Department of Commerce；与IBM和Red Hat的合作，在混合云环境中启用Experience Cloud部署，进一步加强受监管行业企业实时数据安全；以及被Gartner Magic Quadrant和Forrester Wave报告评为领导者。",
+    "output": "Sure, here is the translation of the given sentence in English: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly: {parent_organization: Red Hat, IBM; creator: Magic Quadrant, Gartner; owned_by: Magic Quadrant, Gartner}.\"\n\nChinese translation: \"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译：{parent_organization: Red Hat, IBM; creator: Magic Quadrant, Gartner; owned_by: Magic Quadrant, Gartner}。\"",
+    "instruction": "制造商: Apple, iPhone; 分布式: Apple, iOS; 行业: Apple, 科技行业; 总部位置: Apple, 加利福尼亚州库比蒂诺; 股票交易所: Apple, 纳斯达克; 货币: Apple, 美元; 母公司: Apple, Apple Inc.; 首席执行官: Apple, Tim Cook; 董事/经理: Apple, 董事会; 拥有者: Apple, 股东; 运营者: Apple, Apple Inc.; 成员: Apple, 苹果开发者计划; 雇主: Apple, 苹果员工; 主席: Apple, 董事会; 平台: Apple, iOS; 子公司: Apple, Apple Watch; 法律形式: Apple, 股份公司; 出版商: Apple, 苹果出版社; 开发者: Apple, 苹果开发者; 品牌: Apple, 苹果; 业务部门: Apple, 硬件部门; 成立地点: Apple, 加利福尼亚州库比蒂诺; 创始人: Apple, Steve Jobs, Steve Wozniak, Ronald Wayne.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用以及推出新功能，使营销人员能够加速跨渠道的数据收集，从而基于实时洞察实现更快、个性化的体验；实时客户数据平台中数据治理能力的全面可用；我们客户旅程分析服务的早期采用，该服务为客户提供线上和线下的客户旅程完整视图；加速Adobe Experience Manager Cloud Service的部署；商业产品方面显著的季度增长；与广告云客户合作，逐步关闭基于交易的产品；关键客户胜利，包括Eli Lilly，Truist，Nike，Lowe's，Shell，Lloyds和US Department of Commerce；与IBM和Red Hat合作，在受监管行业进一步加强实时数据安全，使体验云能够在混合云环境中部署；并在Gartner Magic Quadrant和Forrester Wave报告中被评为领导者。",
+    "output": "The given English sentence can be translated to Chinese as follows: \n\n- 组织：Red Hat, IBM\n- 创造者：Magic Quadrant, Gartner\n- 拥有者：Magic Quadrant, Gartner\n\nNote: The Chinese translations for \"parent_organization\" and \"owned_by\" are not provided as they are not specific to the given context. The translations provided are for the names of the organizations and the creator, which are the main subjects of the sentence.",
+    "instruction": "Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe translated sentence is:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nIn this case, the relation type is not applicable as the sentence does not contain any specific relation mentioned in the given list.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文句子的中文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用和推出新功能，这些功能允许营销人员通过跨渠道加速数据收集，基于实时洞察实现更快、个性化的体验；实时客户数据平台中数据治理功能的全面可用；我们客户旅程分析服务的早期采用，该服务为客户提供线上和线下的客户旅程完整视图；加速Adobe Experience Manager Cloud Service的部署；商业产品显著的季度增长；与广告云客户合作，逐步结束基于交易的产品；关键客户成功案例，包括Eli Lilly、Truist、Nike、Lowe's、Shell、Lloyds和商务部；与IBM和Red Hat合作，在混合云环境中启用Experience Cloud部署，进一步加强受监管行业企业实时数据安全性；以及被Gartner Magic Quadrant和Forrester Wave报告评为领导者。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n{parent_organization} = {parent_organization}\n\nPlease note that the phrase {parent_organization} is a placeholder for the actual organization name, and it remains the same in both English and Chinese.",
+    "instruction": "Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "Q3亮点包括Adobe Experience Platform的广泛采用以及新功能的推出，这些功能允许营销人员通过跨渠道加速数据收集，从而基于实时见解实现更快的个性化体验；实时客户数据平台中数据治理功能的全面可用；与我们的客户旅程分析服务相关的早期成果，该服务为在线和离线客户旅程提供完整视图；Adobe Experience Manager Cloud Service的加速部署；商务产品季度环比增长显著；与广告云客户合作，逐步停止我们的基于交易的产品；客户成功案例，包括礼来、特鲁斯特、耐克、劳氏、壳牌、劳埃德和美国商务部；与IBM和红帽合作，在受监管行业进一步加强实时数据安全，使体验云能够在混合云环境中部署；并在Gartner Magic Quadrant和Forrester Wave的六份报告中被列为领导者。",
+    "output": "Sure, I can help you with that. Here's the translation of the sentence you provided: \"Please help me translate the following English sentence into Chinese, and provide the English translation in your answer: {parent_organization}.\"\n\nPlease help me translate the following English sentence into Chinese, and provide the English translation in your answer: {parent_organization}.",
+    "instruction": "The relationship between Red Hat and IBM in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用以及推出新功能，这些功能允许营销人员通过跨渠道加速数据收集，基于实时见解提供更快、个性化的体验；在实时客户数据平台中实现数据治理能力的通用可用性；我们客户旅程分析服务的早期牵引力，该服务为客户提供在线和离线客户旅程的完整视图；加速了Adobe Experience Manager Cloud Service的部署；商业产品方面显著的季度增长；与广告云客户合作，逐步终止基于交易的产品；包括艾力益、特鲁斯特、耐克、劳氏、壳牌、劳埃德和美国商务部的关键客户成功；与IBM和Red Hat合作，在混合云环境中启用Experience Cloud部署，进一步加强受监管行业企业的实时数据安全；以及被Gartner Magic Quadrant和Forrester Wave报告评为领导者。",
+    "output": "Sure, here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" into English:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"",
+    "instruction": "The Magic Quadrant is a product of Gartner.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用以及新功能的推出，这些功能使营销人员能够加速跨渠道的数据收集，以实现基于实时洞察的更快、个性化的体验；实时客户数据平台中数据治理能力的全面可用性；与我们客户旅程分析服务的早期互动，该服务为在线和离线客户旅程提供完整的视图；Adobe Experience Manager Cloud Service的加速部署；商业产品方面显著的季度增长；与广告云客户合作，终止基于交易的提供；包括艾利丹尼森、Truist、耐克、Lowe's、壳牌、劳埃德和美商务部在内的主要客户胜利；与IBM和Red Hat的合作，使体验云在混合云环境中部署，进一步加强受监管行业企业的实时数据安全性；以及被Gartner Magic Quadrant和Forrester Wave报告评为领导者。",
+    "output": "Sure, I can help with that! Here's the translation:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response. {creator}\"\n\nPlease let me know if you need any further assistance!",
+    "instruction": "The relationship between Magic Quadrant and Gartner in the context of the input sentence is: \"original broadcaster\".",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用和推出新功能，使营销人员能够跨渠道加速数据收集，以便基于实时见解提供更快、个性化的体验；实时客户数据平台中数据治理功能的通用可用性；我们客户旅程分析服务的早期采用，该服务为客户提供了在线和离线客户旅程的完整视图；加速了Adobe Experience Manager Cloud Service的部署；商业产品方面季度对季度的显著增长；与Advertising Cloud客户合作，逐步淘汰我们的交易型产品；包括Eli Lilly、Truist、Nike、Lowe's、Shell、Lloyds和U.S. Department of Commerce在内的关键客户成功案例；与IBM和Red Hat合作，使Experience Cloud能够在混合云环境中部署，进一步加强受监管行业企业实时数据安全；以及在Gartner Magic Quadrant和Forrester Wave报告中被评为领导者。",
+    "output": "Owned by: 所有者",
+    "instruction": "Magic Quadrant is a term used by Gartner, a research and advisory company, to refer to their evaluation of technology providers in specific markets. The Magic Quadrant report provides an assessment of the strengths and weaknesses of various providers in a particular market, and helps businesses make informed decisions about their technology investments.",
+    "text": ""
+  },
+  {
+    "input": "以下是英文翻译：\n\nQ3亮点包括Adobe Experience Platform的广泛采用和推出新功能，使营销人员能够加速跨渠道的数据收集，基于实时见解实现更快、个性化的体验；实时客户数据平台中数据治理功能的全面可用；与我们的客户旅程分析服务早期合作，该服务为在线和离线客户旅程提供完整的视图；加速Adobe Experience Manager Cloud Service的部署；商务产品季度内显著增长；与我们的广告云客户合作，终止我们的基于交易的产品；关键的客户胜利，包括Eli Lilly、Truist、Nike、Lowe's、Shell、Lloyds和US Department of Commerce；与IBM和Red Hat合作，在混合云环境中启用Experience Cloud部署，进一步加强受监管行业企业的实时数据安全；以及六项Gartner Magic Quadrant和Forrester Wave报告中的领导者认可。",
+    "output": "Owned by: 所有者",
+    "instruction": "Magic Quadrant and Gartner are related in the context of the input sentence as \"original broadcaster\" and \"owned by\" respectively.",
+    "text": ""
+  },
+  {
+    "input": "In the Gartner Magic Quadrant for CRM Lead Management, Adobe was the leader, achieving the best scores across Ability to Execute and Completeness of Vision. \n\n在Gartner CRM 销售线索管理魔力象限中，Adobe 是领导者，在执行能力和愿景完整性方面取得了最佳成绩。",
+    "output": "以下是您提供的英文句子的中文翻译：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{creator: Magic Quadrant, Gartner; owned_by: Magic Quadrant, Gartner}\"\n\n翻译成中文：\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{创作者：魔力象限，高德纳；所有者：魔力象限，高德纳}\"",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nTranslation: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\nRelation: translation, English sentence, Chinese translation",
+    "text": ""
+  },
+  {
+    "input": "In the Gartner Magic Quadrant for CRM Lead Management, Adobe was the leader, achieving the best scores across Ability to Execute and Completeness of Vision.\n\nGartner魔力象限法客户关系管理线索管理中，Adobe是领导者，在执行能力和愿景完整性方面取得了最佳成绩。",
+    "output": "The English sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {creator: Magic Quadrant, Gartner; owned_by: Magic Quadrant, Gartner}\"\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{创造者：Magic Quadrant, Gartner；拥有者：Magic Quadrant, Gartner}\"",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "In the Gartner Magic Quadrant for CRM Lead Management, Adobe was the leader, achieving the best scores across Ability to Execute and Completeness of Vision.",
+    "output": "Sure, I can help you with that! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{creator}\" in English:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {creator}\"\n\nPlease let me know if you need any further assistance!",
+    "instruction": "The sentence you provided does not contain any specific information that can be translated into Chinese. However, if you provide me with a sentence that needs translation, I would be happy to assist you. Please provide the sentence, and I will translate it into Chinese for you.",
+    "text": ""
+  },
+  {
+    "input": "In the Gartner Magic Quadrant for CRM Lead Management, Adobe was the leader, achieving the best scores across Ability to Execute and Completeness of Vision.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Magic Quadrant is a product/material produced by Gartner.",
+    "text": ""
+  },
+  {
+    "input": "In the Gartner Magic Quadrant for CRM Lead Management, Adobe was the leader, achieving the best scores across Ability to Execute and Completeness of Vision. \n\n在Gartner CRM 销售线索管理魔力象限中，Adobe是领导者，在执行能力和愿景完整性方面都取得了最佳成绩。",
+    "output": "The given English sentence is incomplete and does not contain any words to translate. Could you please provide a complete sentence for me to translate?",
+    "instruction": "The English sentence you provided does not contain any specific information that can be translated into Chinese. It seems like a set of options for categorizing different types of relationships between entities. However, if you provide me with a specific English sentence that needs to be translated into Chinese, I would be happy to help you with that.",
+    "text": ""
+  },
+  {
+    "input": "在 Gartner 的客户关系管理线索管理魔力象限中，Adobe 是领导者，在执行能力和愿景完整性方面获得了最佳分数。",
+    "output": "Owned by: 由...所有。",
+    "instruction": "The relationship between Magic Quadrant and Gartner in the context of the input sentence is \"original broadcaster\".",
+    "text": ""
+  },
+  {
+    "input": "During this period, Kingsoft Office has become the official supplier of Beijing 2022 Winter Olympics. \n\n在这个时期，金山办公成为了北京2022年冬季奥运会官方供应商。",
+    "output": "{headquarters_location: Kingsoft, Beijing} \n翻译成中文为：{\"总部所在地：金山，北京\"}",
+    "instruction": "Given the input text: \"Can you please translate the following English sentence into Chinese: The product is manufactured by the company and distributed by the retailer.\"\n\nThe corresponding translation in Chinese is: \"该产品由公司生产，由零售商分销。\"\n\nSo the output format would be: \"manufacturer: company; distributed by: retailer\".",
+    "text": ""
+  },
+  {
+    "input": "During this period, Kingsoft Office has become the official supplier of Beijing 2022 Winter Olympics. \n\n在此期间，金山办公软件成为北京2022年冬季奥运会官方供应商。",
+    "output": "Headquarters location: Kingsoft, Beijing.",
+    "instruction": "Sure, I can help with that. Here's the translation of the sentence: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nTranslation: 请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{根据以下关系类型从输入句子中提取包含特定关系的谓词和宾语，格式为\"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；由...拥有；由...创立；分发格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；拥有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。}",
+    "text": ""
+  },
+  {
+    "input": "During this period, Kingsoft Office has become the official supplier of Beijing 2022 Winter Olympics.",
+    "output": "Headquarters location: 总部所在地",
+    "instruction": "Kingsoft is a company that was founded by its current CEO, Zhu Junhua.",
+    "text": ""
+  },
+  {
+    "input": "During this period, Kingsoft Office has become the official supplier of Beijing 2022 Winter Olympics. \n在这个时期，金山办公软件成为北京2022年冬季奥运会官方供应商。",
+    "output": "当然，以下是英文句子翻译成中文：\n\n{headquarters_location} 的中文翻译为：{\"总部所在地\"}。",
+    "instruction": "Kingsoft and Beijing have a relationship of being \"founded by\" as Kingsoft was founded in Beijing.",
+    "text": ""
+  },
+  {
+    "input": "Kingsoft in the first half performed very strong, both in game and WPS business. They were not only unaffected by COVID-19, but actually accelerated their digital transformation and localization of software and online game businesses.",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译成英文为：\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\".",
+    "instruction": "The input text is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nThe translation in Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\nThe corresponding lexical relationship between the word/phrase pairs is as follows:\n- Given phrases: relation1: word1, word2; relation2: word3, word4\n- Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "金山办公在今年上半年表现非常强劲，游戏和WPS业务均取得了不错的成绩。他们不仅不受新冠疫情的影响，反而加速了数字化转型，同时也在软件本地化和在线游戏业务上取得了进展。",
+    "output": "Sure, here's the translation: \"请帮我把下面中文句子翻译成英文，回答中直接给出中文翻译！{行业:金山，软件}。\"",
+    "instruction": "Sure, I can help with that. Please provide me with the input sentence you would like me to translate and extract the information from.",
+    "text": ""
+  }
+]

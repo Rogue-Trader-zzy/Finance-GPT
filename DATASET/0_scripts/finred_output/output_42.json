@@ -1,0 +1,302 @@
+[
+  {
+    "input": "我们认为与Spotify的长期合作关系对Universal Music的股东，包括我们的艺术家，都是非常有利的。通过这种关系与Spotify共同开发市场，对Universal Music及其主要利益相关者的未来是非常有利的。",
+    "output": "Sure, I can help you with that. The English sentence you provided is: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {distributed_by: future, Spotify}\" \n\nHere is the Chinese translation: \"请帮我将下面的英文句子翻译成中文，直接在答案中给出英文翻译！{distributed_by: future, Spotify}\" \n\nAnd here is the English translation of the Chinese sentence: \"Please help me translate the following Chinese sentence into English, and provide the Chinese translation directly in the answer. {distributed_by: future, Spotify}\"",
+    "instruction": "The relationship between the two words/phrases in the given sentence is \"manufacturer\". The corresponding lexical relationship is \"product/material produced\". Therefore, the output format is: \"manufacturer: product, material produced\".",
+    "text": ""
+  },
+  {
+    "input": "\"We do consider that the long-term relationship with Spotify is in the best interest of both our shareholders from our artists to develop the market through such relationship with Spotify is very good for the future of Universal Music and its main stakeholders.\" \n\n翻译为中文：\n\"我们认为，与Spotify的长期合作关系对包括我们艺术家在内的股东来说都是最佳利益，通过这样的合作关系，Spotify对市场的开发对于环球音乐及其主要利益相关者来说是非常有益的。\"",
+    "output": "Here is the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\n英文翻译: Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer.",
+    "instruction": "Sure, I can help with that. Here's the translation:\n\n{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}\n\nThe sentence you provided is already in Chinese, so I'll provide the English translation for the relation types:\n\n1. product/material produced: 生产/制造的产品/材料\n2. manufacturer: 制造商\n3. distributed by: 由...分销\n4. industry: 行业\n5. position held: 担任的职位\n6. original broadcaster: 原始广播者\n7. owned by: 属于...\n8. founded by: 由...创立\n9. distribution format: 分发格式\n10. headquarters location: 总部所在地\n11. stock exchange: 股票交易所\n12. currency: 货币\n13. parent organization: 母公司\n14. chief executive officer: 首席执行官\n15. director/manager: 董事/经理\n16. owner of: 拥有者\n17. operator: 运营商\n18. member of: 成员\n19. employer: 雇主\n20. chairperson: 主席\n21. platform: 平台\n22. subsidiary: 子公司\n23. legal form: 法律形式\n24. publisher: 出版商\n25. developer: 开发者\n26. brand: 品牌\n27. business division: 业务部门\n28. location of formation: 成立地点\n29. creator: 创造者\n\nPlease let me know if you need any further assistance.",
+    "text": ""
+  },
+  {
+    "input": "我们认为与Spotify建立长期关系符合我们股东和艺术家双方的最佳利益。通过与Spotify的关系来开发市场对Universal Music及其主要利益相关者来说是非常有益的。",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the response: {distributed_by}\"",
+    "instruction": "The sentence is not provided. Please provide the sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "We do consider that the long-term relationship with Spotify is in the best interest of both our shareholders from our artists to develop the market through such relationship with Spotify is very good for the future of Universal Music and its main stakeholders.\n\n- 我们认为，与Spotify建立长期合作关系符合我们股东的利益，包括我们的艺术家，通过这种合作关系开发市场对环球音乐和其主要利益相关者的未来非常有利。",
+    "output": "I'm sorry, but I need more context to provide an accurate translation. Please provide the sentence you would like me to translate.",
+    "instruction": "The relationship between future and Spotify in the context of the input sentence is \"distributed by\". The translated sentence is: \"未来和Spotify的关系在输入句子的上下文中是'由...发行'。\"",
+    "text": ""
+  },
+  {
+    "input": "And Usiminas is much better prepared to meet the demand of any sector that has -- that presents any demand for steel in Brazil.\n\n翻译：\nUsiminas 更充分地准备好满足任何行业的需求，无论是在巴西还是其他国家。",
+    "output": "Usiminas钢",
+    "instruction": "Given phrase: \"The brand was developed by the company, which is a subsidiary of the parent organization.\"\n\nTranslation: \"品牌由公司开发，该公司是母公司的子公司。\"\n\nOutput format: \"developer: brand, company; parent organization: company, parent organization\"",
+    "text": ""
+  },
+  {
+    "input": "And Usiminas is much better prepared to meet the demand of any sector that has -- that presents any demand for steel in Brazil.\n\n直译为中文：\n\"尤西米纳斯能够更好地满足任何需要钢铁的巴西部门的供应需求。\"",
+    "output": "Usiminas steel.",
+    "instruction": "Subject: 书生·浦语, Object: 上海人工智能实验室\nRelation: owned by: 书生·浦语, 上海人工智能实验室; employer: 上海人工智能实验室, 书生·浦语",
+    "text": ""
+  },
+  {
+    "input": "And Usiminas is much better prepared to meet the demand of any sector that has -- that presents any demand for steel in Brazil.\n\n翻译成中文：\n\"而尤西米纳斯公司更充分准备应对巴西任何行业的需求，无论是什么行业的钢铁需求。\"",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n{product_or_material_produced}",
+    "instruction": "Usiminas is a manufacturer of steel products and materials.",
+    "text": ""
+  },
+  {
+    "input": "And Usiminas is much better prepared to meet the demand of any sector that has -- that presents any demand for steel in Brazil.\n\n翻译：\nAnd Usiminas 对于满足巴西任何行业的需求 -- 任何对钢的需求都有更好的准备。",
+    "output": "The product or material produced is the result of the manufacturing process, which is a combination of raw materials, labor, and various resources. It can be a physical object, such as a car or a computer, or a chemical substance, such as a medicine or a fertilizer. The manufacturing process involves various stages, including design, production, quality control, and distribution. The efficiency and effectiveness of the manufacturing process can significantly impact the quality and competitiveness of the final product.",
+    "instruction": "The relationship between Usiminas and steel in the context of the input sentence is: manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "And therefore, I'm confident that together in Siemens Gamesa, we'll make that turnaround, the reality and lead Siemens Gamesa back to the top of the industry.\n\n翻译：因此，我对在西门子歌美飒，我们能够实现逆转，使现实，并带领西门子歌美飒回到行业顶峰充满信心。",
+    "output": "{parent_organization: Siemens Gamesa, Siemens} \n\n\"Parent organization: Siemens Gamesa, Siemens\"",
+    "instruction": "Here's the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nThe translation is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nIn this translation, I have directly provided the English translation of the given sentence. The sentence is asking for help in translating an English sentence into Chinese and requesting the answer to be given in English. The options provided are related to various aspects of a company or organization, such as product/material produced, manufacturer, industry, etc. The output format should be in the form of \"relation1: word1, word2; relation2: word3, word4\".",
+    "text": ""
+  },
+  {
+    "input": "And therefore, I'm confident that together in Siemens Gamesa, we'll make that turnaround, the reality and lead Siemens Gamesa back to the top of the industry. \n\n翻译：因此，我对我们在西门子歌雅共同实现的转变充满信心，这将变为现实，并带领西门子歌雅重返行业巅峰。",
+    "output": "Sure, here is the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Siemens Gamesa, Siemens}\" translates to \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {parent_organization: Siemens Gamesa, Siemens}\".",
+    "instruction": "Subject: sentence; Object: relation types, relation1, relation2, word1, word2, word3, word4, etc.\n\nEnglish sentence: \"Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\"\n\nChinese translation: \"请将以下英文句子翻译成中文，回答中直接给出英文翻译！{给定输入句子，请根据以下关系类型提取句子中的主语和宾语，包含某种关系，格式为 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播者；拥有；创立者；发行格式；总部所在地；股票交易所；货币；母公司；首席执行官；董事/经理；拥有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发商；品牌；业务部门；成立地点；创作者。}\"",
+    "text": ""
+  },
+  {
+    "input": "因此，我充满信心，在西门子歌美飒，我们将会实现这种逆转，让它成为现实，并带领西门子歌美飒重回行业巅峰。",
+    "output": "{\"parent_organization\": \"parent organization\"}",
+    "instruction": "Siemens Gamesa is a manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "And therefore, I'm confident that together in Siemens Gamesa, we'll make that turnaround, the reality and lead Siemens Gamesa back to the top of the industry.\n翻译成中文为：\n因此，我充满信心地认为，在西门子歌美飒（Siemens Gamesa），我们能够实现逆转，让它成为现实，并带领西门子歌美飒回到行业的巅峰。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the English sentence \"Please help me translate the following English sentence into Chinese, and provide the translation directly in the response.\" into Chinese:\n\n请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\n\nIn Chinese, this sentence is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "instruction": "The relationship between Siemens Gamesa and Siemens in the context of the input sentence is: parent organization.",
+    "text": ""
+  },
+  {
+    "input": "我们西门子歌美飒有一个系统叫做西门子科迈萨的项目管理系统（PM at Siemens Comesa），用于西门子歌美飒的项目管理，它是一个工具箱，包括项目分类、项目报告、风险预备方案等。",
+    "output": "Siemens Gamesa is a leading provider of wind turbines and solutions for renewable energy, with a strong presence in the global wind power industry. Siemens is a global technology company that focuses on innovative solutions in the areas of energy, healthcare, infrastructure, and cities.",
+    "instruction": "\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"\n\n翻译成中文：\n\n\"给定的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对以及它们之间的相应词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：product/material produced（产品/材料生产），manufacturer（制造商），distributed by（由...分发），industry（行业），position held（所持职位），original broadcaster（原创广播），owned by（所有者），founded by（由...创立），distribution format（分发格式），headquarters location（总部所在地），stock exchange（股票交易所），currency（货币），parent organization（母公司），chief executive officer（首席执行官），director/manager（董事/经理），owner of（...的所有者），operator（操作者），member of（...的成员），employer（雇主），chairperson（主席），platform（平台），subsidiary（子公司），legal form（法律形式），publisher（出版商），developer（开发者），brand（品牌），business division（业务部门），location of formation（成立地点），creator（创作者）。\"\n\n翻译成英文：\n\n\"Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\"",
+    "text": ""
+  },
+  {
+    "input": "我们西门子歌雅有一个系统叫做西门子科美萨的项目管理（PM at Siemens Comesa, project management at Siemens Gamesa），它是一个工具箱，它从项目的分类开始，包括项目报告、风险应对和所有相关内容。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Siemens Gamesa, Siemens}\" translates to \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: 西门子游戏，西门子}\" in Chinese.",
+    "instruction": "Subject: Apple Inc.\nObject: iPhone\nRelation: product/material produced\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: manufacturer\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distributed by\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: industry\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: position held\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: original broadcaster\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: owned by\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: founded by\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: distribution format\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: headquarters location\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: stock exchange\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: currency\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: parent organization\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: chief executive officer\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: director/manager\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: owner of\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: operator\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: member of\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: employer\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: chairperson\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: platform\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: subsidiary\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: legal form\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: publisher\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: developer\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: brand\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: business division\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: location of formation\n\nSubject: Apple Inc.\nObject: iPhone\nRelation: creator.",
+    "text": ""
+  },
+  {
+    "input": "我们西门子歌美飒有一个系统，在西门子科美萨被称作PM，西门子歌美飒的项目管理，这是一个工具包，它始于项目分类，项目报告，风险应对以及所有这些。",
+    "output": "Sure, I'd be happy to help you with that! Here's the translation of the given English sentence into Chinese:\n\n\"{parent_organization}\" is translated as \"{parent_organization}\" in Chinese.\n\nIs there anything else I can help you with?",
+    "instruction": "Siemens Gamesa is a subsidiary of Siemens.",
+    "text": ""
+  },
+  {
+    "input": "And we have a system in Siemens Gamesa that is called PM at Siemens Comesa, project management at Siemens Gamesa, which is a toolbox, it starts with the classification of projects, project reporting, risk contingencies and all of that. \n\n翻译：我们在西门子游戏风电项目中有一个系统，在西门子科迈萨项目中称为PM，西门子游戏风电项目中的项目管理，这是一个工具箱，它从项目的分类开始，项目报告，风险应对以及所有这些。",
+    "output": "\"Parent organization\" can be translated to \"母公司\" in Chinese.",
+    "instruction": "The relationship between Siemens Gamesa and Siemens in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "这些领域将吸引公众驱动投资的大部分努力，ACCIONA通过其基础设施业务，已经高度符合欧盟分类法，有望为实现这些目标做出贡献。",
+    "output": "The English sentence is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: ACCIONA, Infrastructure}\"\n\nThe Chinese translation is: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{行业：ACCIONA，基础设施}\"\n\nThe English translation is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {industry: ACCIONA, Infrastructure}\"",
+    "instruction": "product/material produced: product, material; manufacturer: manufacturer; distributed by: distributed, by; industry: industry; position held: position, held; original broadcaster: original, broadcaster; owned by: owned, by; founded by: founded, by; distribution format: distribution, format; headquarters location: headquarters, location; stock exchange: stock, exchange; currency: currency; parent organization: parent, organization; chief executive officer: chief, executive, officer; director/manager: director, manager; owner of: owner, of; operator: operator; member of: member, of; employer: employer; chairperson: chairperson; platform: platform; subsidiary: subsidiary; legal form: legal, form; publisher: publisher; developer: developer; brand: brand; business division: business, division; location of formation: location, formation; creator: creator.",
+    "text": ""
+  },
+  {
+    "input": "这些地区将吸引大部分公共驱动的投资努力，ACCIONA通过其基础设施业务贡献于实现这些目标，这些业务已经高度与欧盟分类法对齐。",
+    "output": "ACCIONA in the infrastructure industry.",
+    "instruction": "The given input sentence is not provided, so I cannot translate it into Chinese. Please provide the input sentence for me to translate it into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "These areas will attract the lion's share of the publicly driven investment efforts, and ACCIONA is well positioned to contribute to achieving these targets through its Infrastructure businesses, which are already highly aligned with EU taxonomy.\n翻译：\n这些领域将吸引公众投资努力的绝大部分，ACCIONA通过其基础设施业务对其做出了贡献，这些业务已经高度符合欧盟分类法。",
+    "output": "Sure, please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "ACCIONA is a Spanish company that specializes in the construction and operation of infrastructure projects. It was founded in 1978 and is headquartered in Madrid, Spain. ACCIONA is listed on the Spanish Stock Exchange and is a subsidiary of the company Grupo ACCIONA, S.A. The company's CEO is Josu Jon Imaz. ACCIONA operates in various industries, including renewable energy, water, and transportation. It is also a member of the Global Compact, a United Nations initiative to promote sustainable and socially responsible business practices. ACCIONA has a strong commitment to corporate social responsibility and has received numerous awards for its sustainability efforts. The company's products and services are distributed throughout Spain and other countries around the world.",
+    "text": ""
+  },
+  {
+    "input": "这些领域将吸引大部分公共驱动的投资努力，ACCIÓNA在这些目标的实现方面处于有利位置，通过其基础设施业务做出贡献，这些业务已经高度符合欧盟的分类法。",
+    "output": "Sure, please provide the English sentence you would like me to translate into Chinese.",
+    "instruction": "ACCIONA 和 Infrastructure 之间的关系是：制造商。",
+    "text": ""
+  },
+  {
+    "input": "即使在最糟糕的当前危机中，我们也能够证明绿色能源对变革性基础设施解决方案的渴望，以及 ACCIONA 如何利用这些机会。",
+    "output": "Sure, here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{industry: ACCIONA, infrastructure}\"\n\nChinese translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{行业：ACCIONA，基础设施}",
+    "instruction": "\"Apple: a brand, manufacturer, and developer of consumer electronics and computer software; iPhone: a product of Apple, originally developed by Steve Jobs and his team at Apple; iPhone X: a smartphone produced by Apple, released in 2017 and distributed by Apple in various countries; Apple Store: a retail location for Apple products, founded by Steve Jobs in 2001 and located in various cities worldwide; Apple Inc.: the parent organization of Apple, founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976 and headquartered in Cupertino, California; Tim Cook: the current chief executive officer of Apple, appointed in 2011; iOS: the mobile operating system developed by Apple, originally launched in 2007; App Store: the digital distribution platform for iOS apps, operated by Apple and launched in 2008; Mac: a line of personal computers and laptops produced by Apple, introduced in 2002; MacBook: a laptop series produced by Apple, introduced in 2005; iPod: a line of portable media players and smartphones produced by Apple, introduced in 2001; iTunes: a media player and digital media software developed by Apple, originally released in 2004; Siri: the voice assistant developed by Apple, integrated into iOS devices since 2011; App Store: the digital distribution platform for iOS apps, operated by Apple and launched in 2008; Apple Pay: a mobile payment system developed by Apple, launched in 2014; Apple Music: a music streaming service developed by Apple, launched in 2015; AirPods: a line of wireless earbuds produced by Apple, introduced in 2016; Apple Watch: a smartwatch produced by Apple, introduced in 2015; Apple TV: a digital media player and streaming device produced by Apple, introduced in 2007; iCloud: a cloud storage and online service developed by Apple, launched in 2011; App Store: the digital distribution platform for iOS apps, operated by Apple and launched in 2008; Apple ID: a user account system developed by Apple, used for accessing various Apple services; Apple Maps: a digital mapping service developed by Apple, integrated into iOS devices since 2012; Apple News: a news aggregator app developed by Apple, launched in 2016; Apple Pencil: a stylus device produced by Apple, introduced in 2015 for use with the iPad Pro; Apple Watch Series 6: a smartwatch produced by Apple, introduced in 2020; Apple Store: a retail location for Apple products, founded by Steve Jobs in 2001 and located in various cities worldwide; Apple Inc.: the parent organization of Apple, founded by Steve Jobs, Steve Wozniak, and Ronald Wayne in 1976 and headquartered in Cupertino, California; Tim Cook: the current chief executive officer of Apple, appointed in 2011; iOS: the mobile operating system developed by Apple, originally launched in 2007; App Store: the digital distribution platform for iOS apps, operated by Apple and launched in 2008; Mac: a line of personal computers and laptops produced by Apple, introduced in 2002; MacBook: a laptop series produced by Apple, introduced in 2005; iPod: a line of portable media players and smartphones produced by Apple, introduced in 2001; iTunes: a media player and digital media software developed by Apple, originally released in 2004; Siri: the voice assistant developed by Apple, integrated into iOS devices since 2011; App Store: the digital distribution platform for iOS apps, operated by Apple and launched in 2008; Apple Pay: a mobile payment system developed by Apple, launched in 2014; Apple Music: a music streaming service developed by Apple, launched in 2015; AirPods: a line of wireless earbuds produced by Apple, introduced in 2016; Apple Watch: a smartwatch produced by Apple, introduced in 2015; Apple TV: a digital media player and streaming device produced by Apple, introduced in 2007; iCloud: a cloud storage and online service developed by Apple, launched in 2011; App Store: the digital distribution platform for iOS apps, operated by Apple and launched in 2008; Apple ID: a user account system developed by Apple, used for accessing various Apple services; Apple Maps: a digital mapping service developed by Apple, integrated into iOS devices since 2012; Apple News: a news aggregator app developed by Apple, launched in 2016; Apple Pencil: a stylus device produced by Apple, introduced in 2015 for use with the iPad Pro; Apple Watch Series 6: a smartwatch produced by Apple, introduced in 2020; Apple Store: a retail location for Apple products, founded by Steve Jobs in 2001 and located in various cities worldwide; Apple Inc.: the parent organization of Apple, founded by Steve Jobs, Steve Wozni",
+    "text": ""
+  },
+  {
+    "input": "Even in the worst of the current crisis, we have been able to evidence the appetite for green energy for transformative infrastructure solutions and how ACCIONA can take advantage of these opportunities.\n\n即使在最糟糕的当前危机中，我们也能够证明对绿色能源和转型基础设施解决方案的巨大需求，以及ACCIONA如何利用这些机会。",
+    "output": "ACCIONA is a leading company in the infrastructure industry.",
+    "instruction": "Sorry, I can't understand the task you provided. It seems like a mix of different instructions. Could you please provide me with a clear task or question to answer?",
+    "text": ""
+  },
+  {
+    "input": "即使在最糟糕的当前危机中，我们也能够证明绿色能源在转型基础设施解决方案方面的需求，以及ACCIONA如何利用这些机会。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nChinese: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\nEnglish: Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!",
+    "instruction": "ACCIONA is a Spanish company that specializes in infrastructure development and management.",
+    "text": ""
+  },
+  {
+    "input": "Even in the worst of the current crisis, we have been able to evidence the appetite for green energy for transformative infrastructure solutions and how ACCIONA can take advantage of these opportunities.\n即使在当前危机最糟糕的时候，我们也能证明对绿色能源和转型基础设施解决方案的需求，以及ACCIÓNA如何利用这些机会。",
+    "output": "Sure, I'd be happy to help. Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "ACCIONA 是一家基础设施领域的制造商，主要生产各种基础设施产品，如能源、水处理、交通、城市服务等。",
+    "text": ""
+  },
+  {
+    "input": "我将回答关于北欧电力市场策略的问题，而乔尔乔将回答关于奥斯陆证券交易所现金股票收益的问题。",
+    "output": "总部所在地：北欧电力交易所，奥斯陆。",
+    "instruction": "The English sentence you provided is incomplete and does not contain any phrases that describe the relationship between two words/phrases. Please provide a complete sentence or a phrase that contains the relationship between two words/phrases for me to translate it into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "我会回答关于北欧电力市场策略的问题，乔治将回答关于奥斯陆证券交易所现金股息收益率的问题。",
+    "output": "The headquarters location is Nord Pool, Oslo.",
+    "instruction": "请提供需要翻译的英文句子，以便我可以帮助您将其翻译成中文。",
+    "text": ""
+  },
+  {
+    "input": "我会回答关于北欧电力市场策略的问题，而乔治会回答关于奥斯陆证券交易所现金股息收益率的问题。",
+    "output": "总部所在地",
+    "instruction": "Nord Pool is the largest electricity exchange in the Nordic countries and is owned by the Norwegian Ministry of Petroleum and Energy. It was founded in 1996 and is headquartered in Oslo, Norway. Nord Pool provides a platform for electricity trading in the Nordic region and is a key player in the electricity market.",
+    "text": ""
+  },
+  {
+    "input": "我会回答关于北欧电力市场战略的问题，乔治会回答关于奥斯陆证券交易所现金股息收益率的问题。",
+    "output": "The headquarters location is: {headquarters_location}",
+    "instruction": "Nord Pool and Oslo are related as the headquarters location of Nord Pool, a European electricity exchange, is located in Oslo, Norway.",
+    "text": ""
+  },
+  {
+    "input": "Nord Pool's strategy of becoming an important component of the Euronext group involves facilitating and boosting Nord Pool initiatives across the European continent.",
+    "output": "{parent_organization: 北欧电力交易所, 欧洲证券交易所; subsidiary: 欧洲证券交易所, 北欧电力交易所}",
+    "instruction": "product/material produced: 产品/材料生产；\nmanufacturer: 制造商；\ndistributed by: 由...分销；\nindustry: 行业；\nposition held: 所持职位；\noriginal broadcaster: 原始广播者；\nowned by: 由...拥有；\nfounded by: 由...创立；\ndistribution format: 分销格式；\nheadquarters location: 总部所在地；\nstock exchange: 股票交易所；\ncurrency: 货币；\nparent organization: 母公司；\nchief executive officer: 首席执行官；\ndirector/manager: 董事/经理；\nowner of: 所有者；\noperator: 运营商；\nmember of: 成员；\nemployer: 雇主；\nchairperson: 主席；\nplatform: 平台；\nsubsidiary: 子公司；\nlegal form: 法律形式；\npublisher: 出版商；\ndeveloper: 开发者；\nbrand: 品牌；\nbusiness division: 业务部门；\nlocation of formation: 成立地点；\ncreator: 创作者。",
+    "text": ""
+  },
+  {
+    "input": "The strategy of Nord Pool, which is now an important component of the Euronext group, is to facilitate and boost Nord Pool initiatives across the European continent.",
+    "output": "The parent organizations are Nord Pool and Euronext, and the subsidiary is Euronext and Nord Pool.",
+    "instruction": "Sure, I can help with that. Please provide me with the input sentence and the specific relation type you want me to extract from it.",
+    "text": ""
+  },
+  {
+    "input": "One part of the strategy of Nord Pool, now being an important component of the Euronext group, is to facilitate and boost the Nord Pool initiatives across the European continent.",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\nTranslation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}",
+    "instruction": "Nord Pool is a company that operates a power exchange for the Nordic electricity market. It was founded in 1996 and is headquartered in Oslo, Norway. The company is owned by the Nordic countries (Denmark, Finland, Iceland, Norway, and Sweden) and is regulated by the European Union.\n\nEuronext is a pan-European exchange operator that operates several stock exchanges in Europe, including the Paris Stock Exchange, Amsterdam Stock Exchange, and Brussels Stock Exchange. Euronext was founded in 2000 and is headquartered in Paris, France.\n\nIn terms of their relationship, Nord Pool and Euronext are not directly related. Nord Pool operates a power exchange, while Euronext operates stock exchanges. They operate in different industries and serve different markets. Therefore, the correct relationship between Nord Pool and Euronext from the given options is \"different industries\".",
+    "text": ""
+  },
+  {
+    "input": "One part of the strategy of Nord Pool now being an important component of the Euronext group is to facilitate and boost the Nord Pool initiatives across the European continent.\n\nNord Pool now being an important part of the Euronext group aims to simplify and enhance Nord Pool's initiatives throughout Europe.",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译为 \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "Nord Pool and Euronext are both stock exchanges, so their relationship can be described as \"stock exchange.\"",
+    "text": ""
+  },
+  {
+    "input": "Nord Pool 战略的一部分，现在成为 Euronext 集团的重要组成部分，是通过促进和加强 Nord Pool 在欧洲大陆的倡议。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "instruction": "Euronext is a stock exchange and Nord Pool is an electricity exchange, so the correct relationship between them is \"stock exchange\". \n\nIn English: Euronext is a stock exchange and Nord Pool is an electricity exchange, so the correct relationship between them is \"stock exchange\".",
+    "text": ""
+  },
+  {
+    "input": "One part of the strategy of Nord Pool, now being an important component of the Euronext group, is to facilitate and boost the Nord Pool initiatives across the European continent.",
+    "output": "I apologize, but I am unable to see the English sentence that you are referring to. Please provide the sentence so that I can translate it for you.",
+    "instruction": "The relationship between Euronext and Nord Pool is \"parent organization\".",
+    "text": ""
+  },
+  {
+    "input": "So Anthony Attia will answer your first question on the ambition of the Euronext of CSDs and Giorgio will answer your 3 questions on the debt listing on Nord Pool and on the cost structure.",
+    "output": "Nord Pool, Euronext; subsidiary: Euronext, Nord Pool.",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"\n\nThe English translation of the sentence is:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer!\"\n\nRelation1: English sentence, Chinese translation; Relation2: English, Chinese.",
+    "text": ""
+  },
+  {
+    "input": "所以，安东尼·阿蒂亚将会回答您关于CSDs的Euronext雄心的第一个问题，乔治将会回答您关于北欧电力交易所的债务上市和成本结构的三个问题。",
+    "output": "The parent organization is Nord Pool, Euronext; subsidiary: Euronext, Nord Pool.\n\n{parent_organization: 北欧电力市场, 欧洲证券交易所; subsidiary: 欧洲证券交易所, 北欧电力市场}",
+    "instruction": "Please provide the input sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "所以，安东尼·阿蒂亚将会回答您关于CSDs的欧罗投交易平台的雄心壮志的问题，而乔治欧将会回答您关于在北欧交易所进行债务上市以及成本结构的问题。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given English sentence into Chinese:\n\n{parent_organization} is a global leader in the field of artificial intelligence, specializing in natural language processing, computer vision, and robotics. The company has offices in several countries and employs a diverse team of experts in these fields. Their mission is to create cutting-edge technologies that improve people's lives and advance the frontiers of science and engineering.\n\nI hope this helps! Let me know if you have any other questions or if there's anything else I can assist you with.",
+    "instruction": "Nord Pool is a stock exchange that is owned by Euronext.",
+    "text": ""
+  },
+  {
+    "input": "So Anthony Attia will answer your first question on the ambition of the Euronext of CSDs and Giorgio will answer your 3 questions on the debt listing on Nord Pool and on the cost structure.\n\n{安东尼·阿提亚将回答您对CSDs的Euronext雄心的第一个问题，乔吉奥将回答您在Nord Pool的债务上市以及成本结构方面的3个问题。}",
+    "output": "当然，我会将句子翻译成中文。以下是英文翻译：\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\n中文翻译：\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "Nord Pool and Euronext are both stock exchanges, operating in different regions. Nord Pool is a power exchange in the Nordic region, while Euronext is a pan-European exchange. They are not directly related to each other in terms of product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, or creator.",
+    "text": ""
+  },
+  {
+    "input": "So Anthony Attia will answer your first question on the ambition of the Euronext of CSDs and Giorgio will answer your 3 questions on the debt listing on Nord Pool and on the cost structure.",
+    "output": "Sure, I'd be happy to help! Please provide the English sentence you'd like me to translate into Chinese.",
+    "instruction": "Euronext and Nord Pool are both stock exchanges, so the correct relationship between them is \"stock exchange\". \n\nHere is the English translation of the sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Utilize the input text as a context reference, choose the right relationship between Euronext and Nord Pool from the options. Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nEuronext and Nord Pool are both stock exchanges, so the correct relationship between them is \"stock exchange\".",
+    "text": ""
+  },
+  {
+    "input": "所以，安东尼·阿提亚将回答您有关CSDs的Euronext雄心壮志的第一个问题，而乔治将回答您在北欧池上的债务上市以及成本结构方面的三个问题。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want to translate into Chinese.",
+    "instruction": "Euronext and Nord Pool are both stock exchanges, so the relationship between them is that they are competitors in the same industry.",
+    "text": ""
+  },
+  {
+    "input": "So, we divested certain businesses in the past whether it was cocoa and chocolate or fertilizer businesses, palm, sugar businesses that we didn't see ourselves getting the proper returns in the future.\n\n中文翻译：所以，我们在过去放弃了某些业务，无论是可可和巧克力业务还是化肥业务，棕榈和糖业务，我们都不认为自己能在未来获得适当的回报。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{product_or_material_produced: cocoa, chocolate}。\"\n\nThe translation of the sentence is: \"Please help me translate the following English sentence into Chinese. In the answer, please directly provide the English translation! {product_or_material_produced: cocoa, chocolate}.\"",
+    "instruction": "Here's the translation of the given English sentence into Chinese:\n\nThe company was founded by John Smith in 2015 and is headquartered in New York City. (公司由John Smith于2015年创立，总部位于纽约市。)\n\nIn this sentence, the relationship between the two phrases is \"founded by\" and the corresponding word pair is \"John Smith\" and \"company\". Therefore, the output format should be:\n\nfounded by: John Smith, company.",
+    "text": ""
+  },
+  {
+    "input": "所以，我们过去剥离了一些业务，无论是可可和巧克力业务，还是化肥业务，棕榈油和糖类业务，我们都不再认为自己在未来能获得适当的回报。\n\n{So, we divested certain businesses in the past whether it was cocoa and chocolate or fertilizer businesses, palm, sugar businesses that we didn't see ourselves getting the proper returns in the future.}",
+    "output": "Cocoa and chocolate are the product or material produced.",
+    "instruction": "Subject: \"请帮我把下面英文句子翻译成中文\"\nObject: \"answer\"\nRelation: translation\nOutput: \"Please help me translate the following English sentence into Chinese.\"",
+    "text": ""
+  },
+  {
+    "input": "因此，我们在过去剥离了某些业务，无论是可可和巧克力，还是化肥业务，棕榈，糖业务，我们都不再看到自己在未来获得适当的回报。",
+    "output": "The translation of the given English sentence into Chinese is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "instruction": "Cocoa is a product/material produced by the cocoa tree, which is used to make chocolate.",
+    "text": ""
+  },
+  {
+    "input": "So, we divested certain businesses in the past whether it was cocoa and chocolate or fertilizer businesses, palm, sugar businesses that we didn't see ourselves getting the proper returns in the future.\n\n我们过去曾剥离了一些业务，无论是在可可和巧克力领域，还是在化肥、棕榈、糖等领域，我们都不再期望在未来获得适当的回报。",
+    "output": "The product or material produced.",
+    "instruction": "The relationship between cocoa and chocolate in the context of the input sentence is: product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "\"For Brian, Paragon Honda and Acura achieved number one status in sales nationally for both new cars and certified preowned sales during the month of June.\" 可以翻译为：“对于布莱恩来说，在6月份，帕朗本田和雅阁在全国范围内都取得了新车的销售和认证二手车销售的销量第一名。”",
+    "output": "{founded_by: Acura, Honda; owned_by: Acura, Honda} 翻译成中文为：“由Acura和Honda创立，由Acura和Honda拥有。”",
+    "instruction": "The English sentence is: \"The company is owned by the founder and operated by the CEO.\"\n\nThe corresponding Chinese translation is: \"这家公司由创始人拥有，由CEO运营。\"\n\nThe relation1: word1, word2 is \"owned by, company\" and relation2: word3, word4 is \"operated by, CEO\".",
+    "text": ""
+  },
+  {
+    "input": "For Brian, Paragon Honda and Acura achieved number one status in sales nationally for both new cars and certified preowned sales during the month of June. \n= 对于Brian，Paragon Honda和Acura在6月份在全国范围内实现了新车的销售和认证二手车销售的双重第一。",
+    "output": "Acura and Honda founded and own the company.",
+    "instruction": "Here is the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese. The answer should directly provide the English translation!\"\n\nGiven the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nTranslation: 请帮我翻译以下英文句子成中文，答案应直接给出英文翻译！\n\n给定输入句子，请根据以下关系类型提取句子中的主语和宾语，以格式 \"relation1: word1, word2; relation2: word3, word4\"。关系包括：产品/材料生产；制造商；分销商；行业；担任职务；原始广播；拥有；创立；分发格式；总部所在地；证券交易所；货币；母公司；首席执行官；董事/经理；所有者；运营商；成员；雇主；主席；平台；子公司；法律形式；出版商；开发者；品牌；业务部门；成立地点；创作者。",
+    "text": ""
+  },
+  {
+    "input": "对于布莱恩，帕拉戈恩本田和雅阁在6月份实现了全国新汽车和认证二手车销售方面的销售排名第一。",
+    "output": "\"Founded by\" 的中文翻译是 \"由...创立\"。",
+    "instruction": "Acura is a luxury vehicle brand owned by Honda, a Japanese multinational automotive manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "For Brian, Paragon Honda and Acura achieved number one status in sales nationally for both new cars and certified preowned sales during the month of June. \n\n翻译：对于Brian，Paragon Honda和Acura在6月份取得了全国新车上销和认证二手车销售的销量第一。",
+    "output": "\"Founded by\" can be translated to \"由...创立\" in Chinese.",
+    "instruction": "The relationship between Acura and Honda is \"manufacturer\".",
+    "text": ""
+  },
+  {
+    "input": "For Brian, Paragon Honda and Acura reached the top spot in national sales for both new cars and certified pre-owned sales during the month of June.",
+    "output": "Owned by.",
+    "instruction": "Acura is a luxury vehicle brand owned by Honda, a Japanese multinational automotive manufacturer.",
+    "text": ""
+  },
+  {
+    "input": "For Brian, Paragon Honda and Acura achieved number one status in sales nationally for both new cars and certified pre-owned sales during the month of June. \n\n翻译成中文：\n\n对于Brian，Paragon Honda和Acura在6月份实现了全国新车和认证二手车销售方面的销售第一。",
+    "output": "Owned by: 由...所有",
+    "instruction": "The relationship between Acura and Honda is \"manufacturer.\"",
+    "text": ""
+  }
+]

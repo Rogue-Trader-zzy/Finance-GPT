@@ -1,0 +1,302 @@
+[
+  {
+    "input": "IBM has a vast software and middleware portfolio, which has now been containerized and runs on OpenShift and Red Hat Linux.\n\n翻译成中文：\nIBM拥有庞大的软件和中间件组合，现在已经被容器化，并在OpenShift和Red Hat Linux上运行。",
+    "output": "The translated sentence is: \"The {product_or_material_produced} is produced.\"",
+    "instruction": "Red Hat is a company that produces and distributes software products.",
+    "text": ""
+  },
+  {
+    "input": "IBM has a vast software and middleware portfolio, which has now been containerized and runs on OpenShift and Red Hat Linux.\n翻译：\nIBM拥有庞大的软件和中间件产品组合，现在已经被容器化，并在OpenShift和Red Hat Linux上运行。",
+    "output": "The product or material produced.",
+    "instruction": "The relationship between Red Hat and software in the context of the input sentence is \"distributed by.\"",
+    "text": ""
+  },
+  {
+    "input": "I have just described the importance of Red Hat Linux and OpenShift to our platform, and Red Hat continued its momentum in the quarter, with the combination of IBM and Red Hat driving strong revenue and bookings growth.",
+    "output": "{parent_organization: Red Hat, IBM; developer: OpenShift, Red Hat; developer: Red Hat Linux, Red Hat} \n= {parent_organization: 红帽, IBM; developer: OpenShift, 红帽; developer: Red Hat Linux, 红帽}",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nFor example, given the input text \"Apple is a brand that was founded by Steve Jobs and Steve Wozniak.\", the output should be \"founded by: Apple, Steve Jobs; founded by: Apple, Steve Wozniak\".",
+    "text": ""
+  },
+  {
+    "input": "我刚刚描述了 Red Hat Linux 和 OpenShift 对我们平台的重要性，Red Hat 在季度中继续保持势头，IBM 和 Red Hat 的合并推动了强劲的营收和预订增长。",
+    "output": "Here is the translation of the given sentence into Chinese:\n{\"parent_organization\": \"Red Hat, IBM\", \"developer\": \"OpenShift, Red Hat\", \"developer\": \"Red Hat Linux, Red Hat\"} 翻译为中文如下：\n{\"parent_organization\": \"Red Hat, IBM\", \"developer\": \"OpenShift, Red Hat\", \"developer\": \"Red Hat Linux, Red Hat\"}",
+    "instruction": "请提供需要翻译的英文句子，我会根据您提供的句子进行翻译。",
+    "text": ""
+  },
+  {
+    "input": "我已经描述了 Red Hat Linux 和 OpenShift 对我们平台的重要性，Red Hat 在季度内继续保持势头，IBM 和 Red Hat 的合并推动了强劲的收入和预订增长。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "\"Red Hat is a subsidiary of IBM.\"",
+    "text": ""
+  },
+  {
+    "input": "\"I have just described the significance of Red Hat Linux and OpenShift to our platform, and Red Hat continued its momentum in the quarter, with the integration of IBM and Red Hat driving robust revenue and booking growth.\"",
+    "output": "\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in your response: {parent_organization}.\"",
+    "instruction": "Red Hat and IBM have a parent-company relationship.",
+    "text": ""
+  },
+  {
+    "input": "I have translated the given English sentence into Chinese as follows: \"我刚刚描述了Red Hat Linux和OpenShift对我们平台的重要性，并在本季度Red Hat继续保持其势头，IBM和Red Hat的合并推动了强劲的收入和预订增长。\"",
+    "output": "I'm sorry, but I cannot directly provide the translation without knowing the specific sentence you want to translate. Please provide the sentence you want to translate, and I will be happy to assist you with the translation.",
+    "instruction": "OpenShift is a product/material produced by Red Hat.",
+    "text": ""
+  },
+  {
+    "input": "我刚刚描述了Red Hat Linux和OpenShift对我们平台的必要性，Red Hat在季度中继续保持势头，IBM和Red Hat的结合推动了强劲的收入和预订增长。",
+    "output": "Sure, I can help with that. Please provide the English sentence you want me to translate.",
+    "instruction": "The relationship between OpenShift and Red Hat in the context of the input sentence is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "我已经描述了Red Hat Linux和OpenShift对我们平台的的重要性，Red Hat在季度内继续保持了势头，IBM和Red Hat的合并推动了强劲的收入和预订增长。",
+    "output": "Sure, I can help with that! Here's the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer}\" into English:\n\n\"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer! {developer}\"\n\nHope that helps! Let me know if you need any further assistance.",
+    "instruction": "Red Hat Linux is a product/material produced by Red Hat.",
+    "text": ""
+  },
+  {
+    "input": "我刚刚描述了 Red Hat Linux 和 OpenShift 对我们平台的重要性，Red Hat 在季度中继续保持了其势头，IBM 和 Red Hat 的合并推动了强劲的收入和预订增长。",
+    "output": "Sure, I can help with that! Here's the translation:\n\n\"Please help me translate the following English sentence into Chinese. The answer should include the English translation directly.\"\n\nIf you have any specific sentence you'd like me to translate, feel free to provide it and I'll be happy to assist you.",
+    "instruction": "Red Hat Linux and Red Hat have a relationship of \"owned by\" in the context of the input sentence.",
+    "text": ""
+  },
+  {
+    "input": "我们推出了基于 Red Hat OpenStack 和 Red Hat OpenShift 的新边缘和电信网络云解决方案，使客户能够在任何地方运行工作负载，从数据中心到多个云再到边缘。",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer: OpenShift, Red Hat}\" 可以翻译为：\n\n\"Can you please translate the following English sentence into Chinese? Please provide the translation directly in English! {developer: OpenShift, Red Hat}\"\n\n注：这里的 `{developer: OpenShift, Red Hat}` 是一个占位符，用于表示具体的开发者名称或相关信息。在翻译时，应将其替换为相应的中文翻译。",
+    "instruction": "Here are the translations for the given phrases:\n\n- \"product/material produced\": 生产的产品/材料\n- \"manufacturer\": 制造商\n- \"distributed by\": 由...分销\n- \"industry\": 行业\n- \"position held\": 担任的职位\n- \"original broadcaster\": 原始广播者\n- \"owned by\": 拥有者\n- \"founded by\": 由...创立\n- \"distribution format\": 分发格式\n- \"headquarters location\": 总部所在地\n- \"stock exchange\": 股票交易所\n- \"currency\": 货币\n- \"parent organization\": 母公司\n- \"chief executive officer\": 首席执行官\n- \"director/manager\": 董事/经理\n- \"owner of\": 拥有者\n- \"operator\": 运营商\n- \"member of\": 成员\n- \"employer\": 雇主\n- \"chairperson\": 主席\n- \"platform\": 平台\n- \"subsidiary\": 子公司\n- \"legal form\": 法律形式\n- \"publisher\": 出版商\n- \"developer\": 开发者\n- \"brand\": 品牌\n- \"business division\": 业务部门\n- \"location of formation\": 成立地点\n- \"creator\": 创作者\n\nPlease let me know which phrase you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "{我们已经推出了基于Red Hat OpenStack和Red Hat OpenShift的全新边缘和电信网络云解决方案，使客户可以在任何地方运行工作负载，包括数据中心、多个云和边缘。}",
+    "output": "Here is the translation of the given English sentence into Chinese: \n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nTranslated to English: Please help me translate the following English sentence into Chinese, and provide the English translation in your response.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe input sentence is: \"Apple is a technology company that produces and distributes consumer electronics, computer software, and online services. Its headquarters are located in Cupertino, California.\"\n\nThe relation type is \"product/material produced\" and the subject and object containing this relation are \"Apple\" and \"consumer electronics, computer software, and online services\". \n\nSo the answer is \"product/material produced: Apple, consumer electronics, computer software, and online services\".",
+    "text": ""
+  },
+  {
+    "input": "{我们推出了基于Red Hat OpenStack和Red Hat OpenShift的新边缘和电信网络云解决方案，使客户能够在任何地方运行工作负载，从数据中心到多个云再到边缘。}",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The translation should be given directly in English.\"",
+    "instruction": "OpenShift is a product/material produced by Red Hat.",
+    "text": ""
+  },
+  {
+    "input": "我们推出了基于Red Hat OpenStack和Red Hat OpenShift的新边缘和电信网络云解决方案，这使得客户能够在任何地方运行工作负载，从数据中心到多个云，再到边缘。",
+    "output": "Sure, here's the translation of the given sentence:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" translates to: \"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer!\"",
+    "instruction": "The relationship between OpenShift and Red Hat is \"owned by\".",
+    "text": ""
+  },
+  {
+    "input": "{我们已经将 Red Hat 和 IBM 技术整合到我们的现代化 Cloud Pak 软件解决方案中，提供领先混合云平台。}",
+    "output": "Red Hat, IBM; product_or_material_produced: Red Hat, software; translate to Chinese: Red Hat, IBM; 产品或材料生产: Red Hat, 软件。",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nPlease provide the input text for translation.",
+    "text": ""
+  },
+  {
+    "input": "{我们已经将Red Hat和IBM技术结合在一起，在我们的现代化Cloud Pak软件解决方案中，提供了领先的混合云平台。}",
+    "output": "{parent_organization: 红帽, IBM; product_or_material_produced: 红帽, 软件}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: AI Assistant\nObject: user\n\nRelation: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator\n\nTranslation: 请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.}",
+    "text": ""
+  },
+  {
+    "input": "We've brought Red Hat and IBM technology together in our modernized Cloud Pak software solutions, providing the leading hybrid cloud platform. \n\n我们已经将 Red Hat 和 IBM 的技术结合在一起，为我们现代化的 Cloud Pak 软件解决方案带来了领先的混合云平台。",
+    "output": "当然可以，以下是您的英文句子翻译成中文：\n\n{parent_organization} 翻译为中文是：\n\n父组织",
+    "instruction": "Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "We've brought Red Hat and IBM technology together in our modernized Cloud Pak software solutions, providing the leading hybrid cloud platform. \n\n翻译成中文：\n我们已经将 Red Hat 和 IBM 的技术结合在我们的现代化 Cloud Pak 软件解决方案中，提供领先的混合云平台。",
+    "output": "Sure, here's the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{parent_organization}\n\n直接翻译成英文：\n\nPlease help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\n\n{parent_organization}",
+    "instruction": "Red Hat and IBM have a parent organization relationship.",
+    "text": ""
+  },
+  {
+    "input": "我们结合了Red Hat和IBM的技术，在我们的现代化Cloud Pak软件解决方案中，提供了领先的混合云平台。",
+    "output": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn Chinese, it translates to:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nPlease let me know if you need any further assistance.",
+    "instruction": "Red Hat is a software company that produces and distributes various software products, including Linux operating systems and middleware. It was founded in 1993 and is headquartered in Raleigh, North Carolina. Red Hat is a publicly traded company listed on the New York Stock Exchange. Its CEO is Jim Whitehurst.",
+    "text": ""
+  },
+  {
+    "input": "我们已将 Red Hat 和 IBM 技术整合到我们的现代化 Cloud Pak 软件解决方案中，提供领先的混合云平台。",
+    "output": "I apologize, but I cannot provide a translation without knowing the specific sentence you would like me to translate. Please provide the sentence you would like me to translate and I will do my best to provide an accurate translation.",
+    "instruction": "Red Hat is a company that produces and distributes software, so the correct answer from the given options is \"product/material produced\" and \"distributed by\".",
+    "text": ""
+  },
+  {
+    "input": "Red Hat在期间取得了强劲的业绩，得益于IBM和Red Hat的协同效应，其标准化收入增长了18%。",
+    "output": "Here's the translation of the given sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Red Hat, IBM}\"\n\nThe translated sentence in English is: \"Please help me translate the following English sentence into Chinese. The answer should be given directly in English! {parent_organization: Red Hat, IBM}\"",
+    "instruction": "The given sentence is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nTranslation: \"请帮我将下面的英文句子翻译成中文，直接在答案中给出英文翻译！\"\n\nThe word/phrase pair and the corresponding lexical relationship between them is: \n\n- \"translate\" and \"Chinese\" are the word/phrase pair.\n- The lexical relationship between them is \"into\".",
+    "text": ""
+  },
+  {
+    "input": "Red Hat delivered strong results in the period with normalized revenue growth of 18%, driven by the synergistic effect of IBM and Red Hat. 翻译为：\n\n\"在周期内，Red Hat 实现了强劲的结果，其归一化收入增长了 18%，这是 IBM 和 Red Hat 协同效应驱动的结果。\"",
+    "output": "\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Red Hat, IBM}\" 翻译成中文为 \"请帮我将下面的英文句子翻译成中文，在回答中直接给出英文翻译！{parent_organization: Red Hat, IBM}\"。",
+    "instruction": "Subject: Apple, Inc.\nObject: iPhone\n\nRelation: product/material produced: Apple, Inc. produces iPhone.\n\nSubject: Apple, Inc.\nObject: Samsung\n\nRelation: competitor: Apple, Inc. is a competitor to Samsung.\n\nSubject: Amazon\nObject: Kindle\n\nRelation: product/material produced: Amazon produces Kindle.\n\nSubject: Sony\nObject: PlayStation\n\nRelation: product/material produced: Sony produces PlayStation.\n\nSubject: Microsoft\nObject: Xbox\n\nRelation: product/material produced: Microsoft produces Xbox.\n\nSubject: Google\nObject: Android\n\nRelation: product/material produced: Google produces Android.\n\nSubject: Facebook\nObject: WhatsApp\n\nRelation: product/material produced: Facebook produces WhatsApp.\n\nSubject: Netflix\nObject: Original series\n\nRelation: product/material produced: Netflix produces original series.\n\nSubject: Tesla\nObject: Model S\n\nRelation: product/material produced: Tesla produces Model S.\n\nSubject: Airbnb\nObject: Accommodation\n\nRelation: product/material produced: Airbnb produces accommodation.\n\nSubject: Uber\nObject: Ride-hailing service\n\nRelation: product/material produced: Uber produces ride-hailing service.\n\nSubject: Alibaba\nObject: Taobao\n\nRelation: product/material produced: Alibaba produces Taobao.\n\nSubject: Xiaomi\nObject: Redmi\n\nRelation: product/material produced: Xiaomi produces Redmi.\n\nSubject: Tencent\nObject: WeChat\n\nRelation: product/material produced: Tencent produces WeChat.\n\nSubject: Intel\nObject: Processor\n\nRelation: product/material produced: Intel produces processor.\n\nSubject: Apple\nObject: Apple Watch\n\nRelation: product/material produced: Apple produces Apple Watch.\n\nSubject: Samsung\nObject: Galaxy\n\nRelation: product/material produced: Samsung produces Galaxy.\n\nSubject: Google\nObject: Google Maps\n\nRelation: product/material produced: Google produces Google Maps.\n\nSubject: Microsoft\nObject: Xbox One\n\nRelation: product/material produced: Microsoft produces Xbox One.\n\nSubject: Facebook\nObject: Oculus\n\nRelation: product/material produced: Facebook produces Oculus.\n\nSubject: Netflix\nObject: Original movies\n\nRelation: product/material produced: Netflix produces original movies.\n\nSubject: Tesla\nObject: Solar panels\n\nRelation: product/material produced: Tesla produces solar panels.\n\nSubject: Airbnb\nObject: Flights\n\nRelation: product/material produced: Airbnb produces flights.\n\nSubject: Uber\nObject: Uber Eats\n\nRelation: product/material produced: Uber produces Uber Eats.\n\nSubject: Alibaba\nObject: Alipay\n\nRelation: product/material produced: Alibaba produces Alipay.\n\nSubject: Xiaomi\nObject: Redmi Note\n\nRelation: product/material produced: Xiaomi produces Redmi Note.\n\nSubject: Tencent\nObject: QQ\n\nRelation: product/material produced: Tencent produces QQ.\n\nSubject: Intel\nObject: Graphics card\n\nRelation: product/material produced: Intel produces graphics card.\n\nSubject: Apple\nObject: Apple TV+\n\nRelation: product/material produced: Apple produces Apple TV+.\n\nSubject: Samsung\nObject: Galaxy S\n\nRelation: product/material produced: Samsung produces Galaxy S.\n\nSubject: Google\nObject: Google Assistant\n\nRelation: product/material produced: Google produces Google Assistant.\n\nSubject: Microsoft\nObject: Surface\n\nRelation: product/material produced: Microsoft produces Surface.\n\nSubject: Facebook\nObject: Oculus Rift\n\nRelation: product/material produced: Facebook produces Oculus Rift.\n\nSubject: Netflix\nObject: Original TV shows\n\nRelation: product/material produced: Netflix produces original TV shows.\n\nSubject: Tesla\nObject: SolarCity\n\nRelation: product/material produced: Tesla produces SolarCity.\n\nSubject: Airbnb\nObject: Airbnb Experiences\n\nRelation: product/material produced: Airbnb produces Airbnb Experiences.\n\nSubject: Uber\nObject: Uber Freight\n\nRelation: product/material produced: Uber produces Uber Freight.\n\nSubject: Alibaba\nObject: AliExpress\n\nRelation: product/material produced: Alibaba produces AliExpress.\n\nSubject: Xiaomi\nObject: Mi\n\nRelation: product/material produced: Xiaomi produces Mi.\n\nSubject: Tencent\nObject: WeChat Pay\n\nRelation: product/material produced: Tencent produces WeChat Pay.\n\nSubject: Intel\nObject: Atom\n\nRelation: product/material produced: Intel produces Atom.\n\nSubject: Apple\nObject: Apple Music\n\nRelation: product/material produced: Apple produces Apple Music.\n\nSubject: Samsung\nObject: Samsung Galaxy Note\n\nRelation: product/material produced: Samsung produces Samsung Galaxy Note.\n\nSubject: Google\nObject: Google Pixel\n\nRelation: product/material produced: Google produces Google Pixel.\n\nSubject: Microsoft\nObject: Microsoft Band\n\nRelation: product/material produced: Microsoft produces Microsoft Band.\n\nSubject: Facebook\nObject: Facebook Messenger\n\nRelation: product/material produced: Facebook produces Facebook Messenger.\n\nSubject: Netflix\nObject: Original documentaries\n\nRelation: product/material produced: Netflix produces original documentaries.\n\nSubject: Tesla\nObject: Tesla Powerwall\n\nRelation: product/material produced: Tesla produces Tesla Powerwall.\n\nSubject: Airbnb\nObject: Airbnb Plus\n\nRelation: product/material produced: Airbnb produces Airbnb Plus.\n\nSubject: Uber\nObject: Uber for Business\n\nRelation: product/material produced: Uber produces Uber for Business",
+    "text": ""
+  },
+  {
+    "input": "Red Hat delivered strong results in the period with normalized revenue growth of 18%, driven by the synergistic effect of IBM and Red Hat. \n\n翻译成中文为：“在一段时间内，Red Hat 取得了强劲的业绩，其归一化收入增长了 18%，这是 IBM 和 Red Hat 协同效应的结果。”",
+    "output": "Sure, I can help with that. Here's the translation of the English sentence \"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer {parent_organization}.\" into Chinese: \"请帮我把下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{parent_organization}\".\n\nHope this helps! Let me know if you need any further assistance.",
+    "instruction": "Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "Red Hat delivered strong results in the period with normalized revenue growth of 18%, driven by the synergistic effect of IBM and Red Hat. 翻译为：\n\n\"红帽在期间内取得了强劲的业绩，归一化收入增长了18%，这得益于IBM和红帽的协同效应。\"",
+    "output": "Sure, here is the translation of the sentence \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" into Chinese:\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"\n\nNote: The curly brackets \"{}\" are preserved in the translation as they are not part of the sentence to be translated.",
+    "instruction": "Red Hat and IBM are related as a parent organization and subsidiary, respectively. In other words, IBM is the parent company of Red Hat.",
+    "text": ""
+  },
+  {
+    "input": "我们看到了当IBM和Red Hat结合在一起时，客户会做出更大规模的架构承诺和长期、更具有战略性的购买。",
+    "output": "Red Hat and IBM are parent organizations.",
+    "instruction": "Given the input text: \"The company was founded by John Smith and is owned by Jane Doe. The product is manufactured by the company and distributed by a third-party.\"\n\nThe corresponding translation in Chinese would be: \"公司由John Smith创立，由Jane Doe拥有。产品由公司生产，由第三方分销。\"\n\nThe relation1: word1, word2; relation2: word3, word4 format would be:\n\n\"founded by: John Smith, company; owned by: Jane Doe, company\"",
+    "text": ""
+  },
+  {
+    "input": "我们看到了当IBM和Red Hat结合在一起时，客户正在做出更大规模的架构承诺和更长期、更战略性的购买。",
+    "output": "Red Hat, IBM 是两个知名公司，它们都是全球领先的科技企业。Red Hat 是一家专注于开源软件的公司，而 IBM 则是一家多元化的科技巨头，涉及多个领域，包括云计算、人工智能、区块链等。",
+    "instruction": "Subject: company, product, industry, position, original broadcaster, headquarters, stock exchange, currency, parent organization, chief executive officer, director/manager, owner, operator, member, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nObject: product, material, manufacturer, distributor, industry, position, original broadcaster, headquarters, stock exchange, currency, parent organization, chief executive officer, director/manager, owner, operator, member, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nRelation types:\n\n1. product/material produced: company, product\n2. manufacturer: company, product\n3. distributed by: company, distributor\n4. industry: company, industry\n5. position held: person, position\n6. original broadcaster: company, original broadcaster\n7. owned by: company, owner\n8. founded by: company, founder\n9. distribution format: company, distribution format\n10. headquarters location: company, location\n11. stock exchange: company, stock exchange\n12. currency: company, currency\n13. parent organization: company, parent organization\n14. chief executive officer: company, chief executive officer\n15. director/manager: company, director/manager\n16. owner of: person, owner\n17. operator: company, operator\n18. member of: person, group\n19. employer: company, employee\n20. chairperson: company, chairperson\n21. platform: company, platform\n22. subsidiary: company, subsidiary\n23. legal form: company, legal form\n24. publisher: company, publisher\n25. developer: company, developer\n26. brand: company, brand\n27. business division: company, business division\n28. location of formation: company, location of formation\n29. creator: company, creator\n\nNote: The given input sentence is not provided, so I cannot provide a specific translation. Please provide the input sentence for me to translate.",
+    "text": ""
+  },
+  {
+    "input": "\"We're seeing that where IBM and Red Hat come together, clients are making larger scale architectural commitments and longer-term and more strategic purchases.\" 翻译为：“我们看到，当IBM和Red Hat合作时，客户会做出更大规模的架构承诺，并做出更长期和更具战略性的购买。”",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. Directly provide the English translation in the answer: {parent_organization}.\"",
+    "instruction": "Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "我们发现，当IBM和Red Hat联手时，客户会做出更大规模的架构承诺，并做出更长期和更战略性的购买决策。",
+    "output": "Sure, I can help with that! The English sentence you provided is \"{parent_organization}\". If you meant to ask for a translation of a different sentence, please let me know and I'll be happy to assist you.",
+    "instruction": "Red Hat and IBM are related as a parent organization and subsidiary, respectively. IBM owns Red Hat, which is a subsidiary company.",
+    "text": ""
+  },
+  {
+    "input": "本季度，我们在Red Hat方面表现良好，包括在过去一年中IBM帮助Red Hat拓展市场渠道的30个渗透率较低的国家中，预订增长显著。",
+    "output": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Red Hat, IBM}\"\n\nChinese translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Red Hat, IBM}\"\n\nPlease note that the organization names \"Red Hat\" and \"IBM\" remain the same in both languages.",
+    "instruction": "Original broadcaster: word1, word2; original broadcaster: word3, word4.",
+    "text": ""
+  },
+  {
+    "input": "This quarter, we had good performance across Red Hat, including amplified bookings growth in the 30 underpenetrated countries where IBM has helped Red Hat expand go-to-market efforts over the last year. \n\n翻译：\n本季度，我们在红帽（Red Hat）取得了良好的业绩，包括在30个未被充分渗透的国家中，IBM帮助红帽（Red Hat）扩大市场推广努力，这些国家的预订增长得到了显著的提升。",
+    "output": "Sure, here's the translation of the sentence you provided:\n\n原文：Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer. {parent_organization: Red Hat, IBM}\n\n翻译：请帮我将下面的英文句子翻译成中文，并在答案中直接给出英文翻译！ {parent_organization: Red Hat, IBM}",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n翻译成英文：\n\nTranslate the following English sentence into Chinese, and directly provide the English translation in the answer. According to the following relation types, extract the subject and object containing a certain relation in the sentence, in the format of \"relation1: word1, word2; relation2: word3, word4\". The relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\n英文翻译：\n\nTranslate the given English sentence into Chinese, and directly provide the English translation in the answer. According to the following relation types, extract the subject and object containing a certain relation in the sentence, in the format of \"relation1: word1, word2; relation2: word3, word4\". The relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "This quarter, we had good performance across Red Hat, including amplified bookings growth in the 30 underpenetrated countries where IBM has helped Red Hat expand go-to-market efforts over the last year.\n\n这个季度，我们在 Red Hat 上取得了不错的业绩，包括在 IBM 在过去一年中帮助 Red Hat 拓展市场渠道的 30 个未渗透国家中，预订量得到了显著增长。",
+    "output": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" -> \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "instruction": "Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "This quarter, we had good performance across Red Hat, including amplified bookings growth in the 30 underpenetrated countries where IBM has helped Red Hat expand go-to-market efforts over the last year.\n翻译：\n本季度，我们在红帽公司取得了良好的业绩，包括在30个渗透率较低的国家中，IBM在过去一年中帮助红帽公司扩大其市场推广力度，预订量有了显著增长。",
+    "output": "Sure, I can help with that. Here's the translation of \"{parent_organization}\" in English: \n\n- Parent organization: 母公司/上级组织\n\nPlease let me know if you need any further assistance!",
+    "instruction": "Red Hat and IBM have a parent organization relationship.",
+    "text": ""
+  },
+  {
+    "input": "本季度，我们宣布西班牙银行墨西哥分行（Sabadell Mexico），墨西哥第一家100%移动银行，将托管其基础设施在IBM云上，并使用红帽企业级Linux来现代化其应用程序。",
+    "output": "Sure, here is the translation of the given English sentence into Chinese:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{parent_organization: Red Hat, IBM}\n\n翻译：请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\n\n{parent_organization: Red Hat, IBM}",
+    "instruction": "Given phrases: \"product/material produced\", \"manufacturer\", \"distributed by\", \"industry\", \"position held\", \"original broadcaster\", \"owned by\", \"founded by\", \"distribution format\", \"headquarters location\", \"stock exchange\", \"currency\", \"parent organization\", \"chief executive officer\", \"director/manager\", \"owner of\", \"operator\", \"member of\", \"employer\", \"chairperson\", \"platform\", \"subsidiary\", \"legal form\", \"publisher\", \"developer\", \"brand\", \"business division\", \"location of formation\", \"creator\".\n\nOutput format: \"relation1: word1, word2; relation2: word3, word4\".\n\nTranslation: \"产品/材料生产：制造商; 分布：由...分销; 行业：...行业; 职位：...担任; 原始广播：...原始广播; 所有者：...拥有; 创始：...创立; 分发格式：...分发格式; 总部所在地：...总部所在地; 股票交易所：...股票交易所; 货币：...货币; 母公司：...母公司; 首席执行官：...首席执行官; 董事/经理：...董事/经理; 拥有者：...拥有; 运营商：...运营; 成员：...成员; 雇主：...雇主; 主席：...主席; 平台：...平台; 子公司：...子公司; 法律形式：...法律形式; 出版商：...出版商; 开发者：...开发者; 品牌：...品牌; 业务部门：...业务部门; 成立地点：...成立地点; 创作者：...创作者\".",
+    "text": ""
+  },
+  {
+    "input": "\"And, this quarter we announced Sabadell Mexico, the first 100% mobile bank in Mexico, will host its infrastructure on the IBM cloud, and use Red Hat Enterprise Linux to modernize its applications.\" \n\n翻译成中文：“并且，本季度我们宣布，墨西哥萨巴德尔银行，墨西哥第一家完全移动银行，将托管其基础设施在IBM云上，并使用红帽企业级Linux来现代化其应用程序。”",
+    "output": "Red Hat, IBM 是以下英文句子的翻译：\n\n- \"Red Hat\" 是 \"红帽\" 的直译，它是一家美国开源软件公司。\n- \"IBM\" 是 \"国际商业机器公司\" 的缩写，它是一家美国跨国科技公司。\n\n这两个公司都是全球知名的科技公司，Red Hat 以提供 Linux 操作系统而闻名，而 IBM 则在计算机、软件、服务和人工智能等领域有着广泛的影响力。",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.",
+    "text": ""
+  },
+  {
+    "input": "并且，本季度我们宣布Sabadell Mexico，墨西哥第一家100%移动银行，将托管其基础设施在IBM云上，并使用Red Hat Enterprise Linux来现代化其应用程序。",
+    "output": "Sure, I'd be happy to help! Here's the translation of the given sentence in English:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer: {parent_organization}\"\n\nHere's the translation in Chinese:\n\n\"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\"",
+    "instruction": "Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "And, this quarter we announced Sabadell Mexico, the first 100% mobile bank in Mexico, will host its infrastructure on the IBM cloud, and use Red Hat Enterprise Linux to modernize its applications. \n\n翻译： 并且，本季度我们宣布，墨西哥萨巴德尔银行（Sabadell Mexico），墨西哥第一家完全移动银行，将托管其基础设施在IBM云上，并使用Red Hat企业版Linux来现代化其应用程序。",
+    "output": "Here is the translation of the given English sentence into Chinese: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nChinese translation: 请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\nNote: The sentence you provided is already in English, so there was no need to translate it. The translation I provided is the direct translation of your request into Chinese.",
+    "instruction": "Red Hat and IBM are related as a parent organization and subsidiary. Red Hat is a subsidiary of IBM.",
+    "text": ""
+  },
+  {
+    "input": "是的，虽然Red Hat的势头非常强劲，但我们无法比现在更满意地将IBM和Red Hat更好合作所带来的协同价值带给我们的客户。",
+    "output": "Sure, here is the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization: Red Hat, IBM}\"\n\nTranslation: \"Please help me translate the following English sentence into Chinese. The answer should be directly given in English! {parent_organization: Red Hat, IBM}\"\n\n英文翻译: \"Please help me translate the following English sentence into Chinese. The answer should be directly given in English! {parent_organization: Red Hat, IBM}\"",
+    "instruction": "Here is the translation of the given English sentence into Chinese:\n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.}\"\n\nChinese translation: \"请帮我把下面的英文句子翻译成中文，并直接在回答中给出英文翻译！{给定的短语描述了两个单词/短语之间的关系，从输入文本中提取单词/短语对及其对应的词汇关系。输出格式应为\"relation1: word1, word2; relation2: word3, word4\"。选项：产品/材料生产商，制造商，由...发行，行业，担任职务，原始广播商，由...拥有，由...创立，发行格式，总部所在地，证券交易所，货币，母公司，首席执行官，董事/经理，...拥有，运营商，成员，雇主，主席，平台，子公司，法律形式，出版商，开发商，品牌，业务部门，成立地点，创作者。}\"\n\nPlease note that the Chinese translation provided is a direct translation of the given English sentence, and it may not convey the same meaning or context as the original sentence.",
+    "text": ""
+  },
+  {
+    "input": "Yes, although there is very strong momentum on Red Hat and we couldn't be more pleased with the synergistic value we are bringing to our clients with regards to IBM and Red Hat better together.",
+    "output": "The parent organizations are Red Hat and IBM.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nSubject: 书生·浦语\nObject: 上海人工智能实验室\n\nRelation: 开发者\n\nEnglish translation: The developer of 书生·浦语 is 上海人工智能实验室.",
+    "text": ""
+  },
+  {
+    "input": "Yes, albeit very strong momentum on Red Hat and we couldn’t be more pleased with the synergistic value we are bringing to our clients with regards to IBM and Red Hat better together.\n\n翻译：\n是的，尽管在 Red Hat 上有很强的动力，我们对与 IBM 和 Red Hat 共同为客户提供更好的协同价值感到非常满意。",
+    "output": "Here is the translation of the sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}\" \n\nThe English translation is: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {parent_organization}\"",
+    "instruction": "The English sentence you provided does not contain any information that can be translated into Chinese. It seems to be a set of instructions for a translation task, rather than a sentence to be translated. Please provide a specific English sentence to be translated into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"是的，尽管Red Hat方面有很强的动力，但我们对IBM和Red Hat更好地合作给我们的客户带来的协同效应感到非常满意。\"",
+    "output": "Sure, here is the translation of the sentence: \"Please help me translate the following English sentence into Chinese, and provide the English translation in your response: {parent_organization}.\"\n\nIn Chinese: \"请帮我将下面的英文句子翻译成中文，回答中直接给出英文翻译！{parent_organization}。\"",
+    "instruction": "Red Hat and IBM have a relationship of being parent organization and subsidiary.",
+    "text": ""
+  },
+  {
+    "input": "因此，当我们考虑云和认知软件的贡献时，关于红帽在过去所看到的前半部分与未来前进方向的后半部分，它大约是一个点或上下浮动的一个头风力相比。",
+    "output": "Red Hat is a company that produces software.",
+    "instruction": "The sentence you provided seems to be a set of instructions rather than an actual sentence to be translated. If you could provide a specific English sentence that needs to be translated into Chinese, I would be happy to assist you.",
+    "text": ""
+  },
+  {
+    "input": "所以当你从贡献的角度看待云计算和认知软件的Red Hat在过去我们看到的第一半和未来去向的第二半时，这大约是一个点的顺风或逆风。",
+    "output": "Red Hat is a software company that produces and provides various software solutions for various industries, including enterprise, cloud computing, and more.",
+    "instruction": "Subject: 书生·浦语\nObject: 上海人工智能实验室\nRelation: founded by\nTranslation: 书生·浦语是由上海人工智能实验室创立的。",
+    "text": ""
+  },
+  {
+    "input": "所以当你考虑云和认知软件与红帽在过去六个月中的贡献相比，在第二半年中，我们即将前行的方向，这大约是一个点左右或接近于一个头风阻力。",
+    "output": "Here is the translation of the given English sentence into Chinese:\n\n{product_or_material_produced} = {产品或材料生产}\n\nIn this sentence, the word \"product\" is translated as \"产品\", \"or\" as \"或\", \"material\" as \"材料\", and \"produced\" as \"生产\". So, the complete sentence in Chinese is \"{产品或材料生产}\".",
+    "instruction": "Red Hat is a company that produces and distributes software.",
+    "text": ""
+  },
+  {
+    "input": "所以，当你考虑云和认知软件，与红帽在第一半的贡献相比，我们看到的第二半的走向，这大约是一个头部风阻相比的差距。",
+    "output": "The product or material produced.",
+    "instruction": "Red Hat and software are related as a manufacturer and product/material produced.",
+    "text": ""
+  },
+  {
+    "input": "Sure, here's the translation of the given English sentence into Chinese:\n\n{Just given that Amazon Prime Video is a very large customer for you, can you just give us more color on the revenue growth you’re seeing with them, how your share of their CDN spend is trending and maybe elaborate on the overall confidence in the long-term partnership with them?}\n\n= {鉴于亚马逊Prime视频是你们的重要客户，你能给我们更多关于你们从他们那里看到的收入增长的情况吗？他们CDN支出中你们份额的趋势如何？你能详细说明一下你们对长期合作伙伴关系的整体信心吗？}",
+    "output": "{developer: Prime Video, Amazon; founded_by: Prime Video, Amazon; parent_organization: Prime Video, Amazon} 翻译成中文为：\n{开发者：Prime Video, Amazon; 创立者：Prime Video, Amazon; 母公司：Prime Video, Amazon}",
+    "instruction": "Given phrases that describe the relationship between two words/phrases as options, extract the word/phrase pair and the corresponding lexical relationship between them from the input text. The output format should be \"relation1: word1, word2; relation2: word3, word4\". Options: product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.\n\nTranslation: 给定描述两个单词/短语之间关系的短语选项，从输入文本中提取单词/短语对及其对应的词汇关系。输出格式应为 \"relation1: word1, word2; relation2: word3, word4\"。选项：product/material produced, manufacturer, distributed by, industry, position held, original broadcaster, owned by, founded by, distribution format, headquarters location, stock exchange, currency, parent organization, chief executive officer, director/manager, owner of, operator, member of, employer, chairperson, platform, subsidiary, legal form, publisher, developer, brand, business division, location of formation, creator.",
+    "text": ""
+  },
+  {
+    "input": "{仅考虑到亚马逊Prime视频是你的主要客户之一，能否给我们更多关于你与他们合作的收入增长情况的信息，他们CDN支出的比例趋势如何，并且能否详细说明你对长期合作关系的信心？}",
+    "output": "Here is the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{developer: Prime Video, Amazon; founded_by: Prime Video, Amazon; parent_organization: Prime Video, Amazon}\"\n\nTranslated into English: \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer! {developer: Prime Video, Amazon; founded_by: Prime Video, Amazon; parent_organization: Prime Video, Amazon}\"\n\nPlease note that the translation is for the sentence provided in the instruction and not for the given information about Prime Video and Amazon.",
+    "instruction": "Given the input sentence, please extract the subject and object containing a certain relation in the sentence according to the following relation types, in the format of \"relation1: word1, word2; relation2: word3, word4\". Relations include: product/material produced; manufacturer; distributed by; industry; position held; original broadcaster; owned by; founded by; distribution format; headquarters location; stock exchange; currency; parent organization; chief executive officer; director/manager; owner of; operator; member of; employer; chairperson; platform; subsidiary; legal form; publisher; developer; brand; business division; location of formation; creator.\n\nThe input sentence is: \"Apple is the manufacturer of iPhone and iPad, and is distributed by Apple Inc. in the technology industry.\"\n\nThe relation is: \"manufacturer: Apple, iPhone; distributed by: Apple Inc., technology industry.\"\n\nSo the answer is: \"manufacturer: Apple, iPhone; distributed by: Apple Inc., technology industry.\"",
+    "text": ""
+  },
+  {
+    "input": "Given that Amazon Prime Video is a very large customer for you, can you just provide more details on the revenue growth you are seeing with them, how your share of their CDN spending is trending, and perhaps elaborate on the overall confidence in the long-term partnership with them?",
+    "output": "Sure, here's the translation: \"Please help me translate the following English sentence into Chinese. The translation should be provided directly in the response. {developer}\"",
+    "instruction": "Prime Video is owned by Amazon.",
+    "text": ""
+  },
+  {
+    "input": "当然可以，这是该句子的中文翻译：\n\n{鉴于亚马逊Prime视频是你的主要客户之一，你能否告诉我们你对他们带来的营收增长的看法，他们在你CDN支出中所占的比例的趋势，并详细阐述你对长期合作伙伴关系的信心吗？}",
+    "output": "Sure, here's the translation: \"Developer\" in Chinese is 开发者。",
+    "instruction": "Prime Video is owned by Amazon.",
+    "text": ""
+  },
+  {
+    "input": "Given that Amazon Prime Video is a very large customer for you, can you provide more details on the revenue growth you are experiencing with them, how your share of their CDN spending is trending, and elaborate on the overall confidence in the long-term partnership with them?",
+    "output": "{founded_by} is a placeholder for the name of the person or entity that founded something. Here is an example of its use in a sentence: \"The company was founded by John Smith in 2015.\" The translation in Chinese would be: \"该公司由John Smith于2015年创立。\"",
+    "instruction": "Prime Video is distributed by Amazon.",
+    "text": ""
+  },
+  {
+    "input": "Given that Amazon Prime Video is a very large customer for you, can you just provide more detail on the revenue growth you are seeing with them, how your share of their CDN spend is trending, and possibly elaborate on the overall confidence in the long-term partnership with them?",
+    "output": "Founded by: 创立者",
+    "instruction": "The relationship between Prime Video and Amazon is \"owned by\".",
+    "text": ""
+  }
+]
