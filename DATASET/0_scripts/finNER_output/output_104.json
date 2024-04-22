@@ -1,0 +1,302 @@
+[
+  {
+    "input": "This LOAN AND SECURITY AGREEMENT dated January 27, 1999, between SILICON VALLEY BANK (\"Bank\"), a California-chartered bank with its principal place of business at 3003 Tasman Drive, Santa Clara, California 95054 with a loan production office located at 40 William St., Ste.",
+    "output": "硅谷银行是一家组织，银行是一家组织，加利福尼亚州是一个地点，银行是一家组织，3003 Tasman Drive是一个地点，圣克拉拉是一个地点，加利福尼亚州是一个地点，40 William St是一个地点。",
+    "instruction": "Sure, I'd be happy to help. Here's the translation of the given sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nIn English, this translates to:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in English.\"\n\nNow, let's extract the entities and their types from the input sentence:\n\n- 你 (person)\n- 帮我 (action)\n- 翻译 (action)\n- 下面 (location)\n- 英文句子 (object)\n- 中文 (location)\n- 回答 (location)\n- 直接 (adverb)\n- 给出 (action)\n- 英文翻译 (object)\n\nI hope this helps! Let me know if you have any other questions.",
+    "text": ""
+  },
+  {
+    "input": "{350, Wellesley, Massachusetts 02481 作为 \"Silicon Valley East\" 和 AKAMAI TECHNOLOGIES, INC.（以下简称“借款人”），其地址为 201 Broadway, 4th Floor, Cambridge, Massachusetts 02139，提供了银行向借款人贷款的条款，以及借款人将如何偿还银行。}",
+    "output": "Here are the translations for the given terms:\n\n- Wellesley is a location, Massachusetts is a location, Silicon Valley East is a location, AKAMAI TECHNOLOGIES is an organization, Borrower is a person, 201 Broadway is a location, Cambridge is a location, Massachusetts is a location, Bank is an organization, Borrower is a person, Borrower is a person, Bank is an organization.\n\nWellesley is a location, Massachusetts is a location, Silicon Valley East is a location, AKAMAI TECHNOLOGIES is an organization, Borrower is a person, 201 Broadway is a location, Cambridge is a location, Massachusetts is a location, Bank is an organization, Borrower is a person, Borrower is a person, Bank is an organization.\n\n- Wellesley: 韦尔斯利（Wellesley）\n- Massachusetts: 马萨诸塞州（Massachusetts）\n- Silicon Valley East: 硅谷东（Silicon Valley East）\n- AKAMAI TECHNOLOGIES: 阿卡迈科技（Akamai Technologies）\n- Borrower: 借款人（Borrower）\n- 201 Broadway: 201 Broadway（201 Broadway）\n- Cambridge: 剑桥（Cambridge）\n- Massachusetts: 马萨诸塞州（Massachusetts）\n- Bank: 银行（Bank）\n- Borrower: 借款人（Borrower）\n- Borrower: 借款人（Borrower）\n- Bank: 银行（Bank）",
+    "instruction": "Sure, I can do that. Here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{请提取输入句子中的实体及其类型，实体类型应该从{person/organization/location}中进行选择。}\"",
+    "text": ""
+  },
+  {
+    "input": "\"This Agreement shall be construed to impart upon Bank a duty to act reasonably at all times.\" 可以翻译为 \"本协议应被理解为赋予银行在所有情况下合理行事的义务。\"",
+    "output": "{Bank is an organization.} = {银行是一个组织。}",
+    "instruction": "I'm sorry, but I'm not able to perform the task you've requested. As an AI language model, I can assist you in a variety of tasks such as language translation, providing definitions and explanations, answering questions, and more. However, I am not capable of extracting entities and their types from a sentence as you have requested. Is there anything else I can help you with?",
+    "text": ""
+  },
+  {
+    "input": "Borrower will pay Bank the unpaid principal amount of all Credit Extensions and interest on the unpaid principal amount of the Credit Extensions.\n\n翻译为中文：\n借款人将支付银行所有信用额度未偿还的本金金额及对信用额度未偿还本金金额的利息。",
+    "output": "借款人是一个个体，银行是一个组织。",
+    "instruction": "Sure, I can help you with that. Here's the translation of the given English sentence into Chinese:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" 翻译成中文为：\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "根据本协议的条款和条件，银行同意在承诺终止日期之前向借款人提供设备预付款（每次均为“设备预付款”，统称为“设备预付款”）。",
+    "output": "\"Bank is an organization, Borrower is a person.\" 翻译成中文为：\"银行是一个组织，借款人是个人。\"",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "The proceeds of the Equipment Advances will be used solely to reimburse Borrower for the purchase of Eligible Equipment.\n\n翻译：设备升级的收益将专门用于偿还借款人购买合格设备的费用。",
+    "output": "Borrower is a person.",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "银行的贷款义务在本协议下应于以下情况中任何一项先发生者终止：（一）违约事件的发生并持续；（二）承诺终止日期。",
+    "output": "Bank is an organization.",
+    "instruction": "请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\n\n{Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}\n\nExtracted entities and their types:\n- None\n\n直接给出英文翻译：\n\nPlease help me translate the following English sentence into Chinese. Provide the English translation directly in your response.\n\n{Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}\n\n提取的实体和它们的类型：\n- 不存在实体",
+    "text": ""
+  },
+  {
+    "input": "( a ) 为取得设备预付款，借款人将向银行提交一份内容基本符合所附格式（“贷款补充”）的补充文件，以及发票和银行在提议融资日期（“融资日期”）前至少五个（5）个营业日所要求的其他信息。",
+    "output": "Borrower is a person, Bank is an organization, Bank is an organization. \n\n翻译成中文为：借款人是个人，银行是组织，银行是组织。",
+    "instruction": "Please provide the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "在每个贷款日期，银行将根据每个设备预付款的贷款补充说明指定基本利率、贷款因子、付款日期，以及与贷款补充说明中描述的设备相关的UCC融资声明，以及指定的贷款价值表。",
+    "output": "银行是一个组织。",
+    "instruction": "Sorry, I can't directly translate the sentence without knowing the specific sentence you want to translate. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "{如果借款人满足银行不时指定的每笔设备预付款的条件，银行将通过内部转账将设备预付款拨付到借款人在银行的存款账户中。}",
+    "output": "{Borrower is a person, Bank is an organization, Bank is an organization, Borrower is a person, Bank is an organization.} \n\nThis sentence can be translated to Chinese as follows: \n\n{\"借款人是个人，银行是组织，银行是组织，借款人是个人，银行是组织。\"}",
+    "instruction": "Sure, I can help you with that. Please provide me with the English sentence that you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "( b ) 银行根据本协议规定的未发放部分贷款设备的义务将在银行单独裁量下，如果发生以下任一情况时终止：（i）一般事务、管理、经营结果、条件（财务或其他）或借款人的前景出现重大不利变化，无论是否源于常规业务交易；（ii）借款人违反了本协议签署前提交给并经银行接受的最近商业计划。",
+    "output": "Bank is an organization, Bank is an organization, Borrower is a person, Borrower is a person, Borrower is a person, Bank is an organization.\n\n银行是一个组织，银行是一个组织，借款人是个人，借款人是个人，借款人是个人，银行是一个组织。",
+    "instruction": "Sure, here's the translation: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{请提取输入句子中的实体及其类型，实体类型应该从{person/organization/location}中选择。}\"",
+    "text": ""
+  },
+  {
+    "input": "Borrower will make payments monthly in advance of principal and accrued interest for each Equipment Advance (collectively, \"Scheduled Payments\"), on the first Business Day of the month following the Funding Date (or commencing on the Funding Date if the Funding Date is the first Business Day of the month) with respect to such Equipment Advance and continuing thereafter during the Repayment Period on the first Business Day of each calendar month (each a \"Payment Date\"), in an amount equal to the Loan Factor multiplied by the Loan Amount for such Equipment Advance as of such Payment Date.\n\n中文翻译：\n借款人将按月提前支付每个设备提前（统称为“计划付款”）的贷款本金和利息，自资金日期（或资金日期为每月第一个工作日）起在资金日期后一个月的第一个工作日（或自资金日期起），并在还款期内，每月第一个日历日（每个“付款日期”）支付等额于贷款因素乘以该设备提前的贷款金额，在付款日期。",
+    "output": "Borrower is a person. 翻译为： 借款人是一个人。",
+    "instruction": "I'm sorry, but I didn't receive an input sentence to translate. Please provide the sentence you would like me to translate, and I will be happy to assist you.",
+    "text": ""
+  },
+  {
+    "input": "The sentence translates to: \"A prepayment premium specified by the bank must be paid before an Equipment Advance can be prepaid.\"",
+    "output": "\"Bank is an organization.\" 翻译成中文是 \"银行是一个组织。\"",
+    "instruction": "Sure, I'd be happy to help with that! Please provide me with the English sentence you would like me to translate into Chinese, and I will give you the translation directly in English. Additionally, I will extract entities and their types from the input sentence, choosing from the options {person/organization/location}.",
+    "text": ""
+  },
+  {
+    "input": "Borrower will pay interest on the unpaid principal amount of each Equipment Advance from the first Payment Date after the Funding Date of such Equipment Advance until the Equipment Advance has been paid in full, at the per annum rate of interest equal to the Basic Rate determined by Bank as of the Funding Date for each Equipment Advance in accordance with the definition of the Basic Rate. \n\n翻译为中文：\n借款人应当从每笔设备贷款发放后的第一个付款日起至该笔设备贷款全部清偿之日止，按每笔设备贷款的实际发放日，银行确定的该笔设备贷款的基本利率，以年利率支付未偿还本金部分的利息。",
+    "output": "\"借款人是个人，银行是组织。\"",
+    "instruction": "Sure, I'd be happy to help! Here's the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\nPlease extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.",
+    "text": ""
+  },
+  {
+    "input": "{\" Basic Rate \" is , as of the Funding Date , the per annum rate of interest ( based on a year of 360 days ) equal to the sum of ( a ) the U . S . Treasury note yield to maturity for a term equal to the Treasury Note Maturity as quoted in The Wall Street Journal on the day the applicable Loan Terms Schedule is prepared , plus ( b ) the applicable Loan Margin for the type of Eligible Equipment being financed .}\n\n{\"基本利率\"是在融资日期，以一年360天为基础的年利率，等于美国国债到期收益率与成熟期限相等的美国国债到期收益率，以及《华尔街日报》在准备适用贷款条款表时引用的成熟期限，加上(b)适用于融资的合格设备类型的贷款边际。}",
+    "output": "The Wall Street Journal is an organization. \n《华尔街日报》是一家组织。",
+    "instruction": "The user has requested assistance in translating an English sentence into Chinese, and specifically asked for the entities and their types to be extracted from the input sentence. Here is the translation of the sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" which translates to \"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\".\n\nEntities:\n- 请 (qǐng) - person\n- 帮 (bāng) - person\n- 我 (wǒ) - person\n- 下面 (xià miàn) - location\n- 英文 (yīng wén) - location\n- 句子 (jù zi) - location\n- 翻译 (fān yì) - location\n- 中文 (zhōng wén) - location\n- 回答 (huí dá) - location\n- 直接 (zhí jiè) - location\n- 给出 (gěi chū) - location\n- 英文翻译 (yīng wén fān yì) - location\n\nEntity types:\n- person: 请, 帮, 我\n- location: 下面, 英文, 句子, 翻译, 中文, 回答, 直接, 给出, 英文翻译",
+    "text": ""
+  },
+  {
+    "input": "除定期付款外，对于每笔设备预付款的融资日期（除非融资日期是当月第一个营业日），借款人应代表银行向银行支付一定金额（“中期付款”），等于初始设备预付款乘以（i）初始贷款因子与该设备预付款的比值乘以30，以及（ii）设备预付款贷款的融资日期到该设备预付款的首次付款日期的日数。",
+    "output": "Loaner is a person, Bank is an organization.",
+    "instruction": "Sure, I can help with that. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "在关于此类设备贷款的到期日，借款人除了支付未偿还的本金、已发生的利息和所有其他应付款项外，还应支付相当于最终付款的金额。",
+    "output": "{借款人是个人。}",
+    "instruction": "I'm sorry, but I need a sentence to translate. Please provide one.",
+    "text": ""
+  },
+  {
+    "input": "{\"Original Stated Cost\" is (i) the original cost of the New Equipment, the original cost to the Borrower of the item of New Equipment net of any and all freight, installation, tax or (ii) the fair market value assigned to such item of Used Equipment by mutual agreement of Borrower and Bank at the time of making of the Equipment Advance.}\n\n原定成本（Original Stated Cost）是指（i）新设备的原始成本，即新设备净值去除所有运费、安装费、税费等的原始成本，或（ii）新设备或二手设备的价格，由借款人和银行在设备贷款时通过相互协议确定的市场公允价值。",
+    "output": "\"借款人是个人，借款人是个人，银行是组织。\"",
+    "instruction": "Sure, I can do that. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "{如果任何受融资设备发生损失事件，借款人被要求或选择就此类设备提前支付设备预付款}",
+    "output": "Borrower is a person.",
+    "instruction": "The input sentence is: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nThe extracted entities and their types are:\n- 不存在实体",
+    "text": ""
+  },
+  {
+    "input": "If the Equipment Advances are accelerated following the occurrence of an Event of Default or otherwise (other than following an Event of Loss), then Borrower will immediately pay to Bank (i) all unpaid Scheduled Payments with respect to each Equipment Advance due prior to the date of prepayment, (ii) the Stipulated Loss Value with respect to each Equipment Advance, and (iii) all other sums, if any, that shall have become due and payable with respect to any Equipment Advance. \n\n翻译成中文为：\n如果因发生违约事件或其他原因（不包括因损失事件而加速）导致设备提前还款，借款人应立即向银行支付（i）每个设备提前还款前应支付的所有未支付的定期付款，（ii）每个设备提前还款的约定的损失价值，以及（iii）如果适用，任何应于任何设备提前还款日到期和应付的余额。",
+    "output": "借款人是一个个体，银行是一个组织。",
+    "instruction": "Sure, I'd be happy to help! Here's the translation of the sentence you provided:\n\n\"Please help me translate the following English sentence into Chinese, and provide the English translation directly in the answer! {Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}\"\n\nIn Chinese, the sentence would be:\n\n\"请帮我将下面的英文句子翻译成中文，并在回答中直接给出英文翻译！{请从输入句子中提取实体及其类型，实体类型应从{人/组织/地点}中选择。}\"\n\nI hope this helps! Let me know if you have any other questions.",
+    "text": ""
+  },
+  {
+    "input": "{\"g\": \"借款人应按照《贷款补充协议》中约定的条件偿还设备款项。\"}",
+    "output": "Borrower is a person. 翻译成中文是：“借款人是个人。”",
+    "instruction": "Sorry, but I cannot perform the task you requested as it goes beyond my capabilities as an AI language model. However, I can provide you with an example of how to extract entities and their types from a sentence:\n\nInput sentence: \"John, the CEO of Google, visited the company's office in New York City.\"\n\nEntities and their types:\n- John: person\n- CEO: person\n- Google: organization\n- New York City: location\n\nPlease note that the type of an entity may not always be straightforward and may require additional context or knowledge to accurately determine.",
+    "text": ""
+  },
+  {
+    "input": "An Equipment Advance may be prepaid only upon payment of a prepayment premium specified from time to time by Bank.\n\n可以提前支付的设备提前付款只有在银行指定的时间支付预付款的前提下才能进行。",
+    "output": "Bank is an organization.\n银行是一个组织。",
+    "instruction": "Sure, here's the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\n\"Please help me translate the following English sentence into Chinese. The answer should be given directly in English.\"",
+    "text": ""
+  },
+  {
+    "input": "If any change in the law increases Bank's expenses or decreases its return from the Equipment Advances, Borrower will pay Bank upon request the amount of such increase or decrease. \n\n翻译成中文：\n如果法律的任何改变增加了银行因设备贷款而产生的费用或减少了其从设备贷款中获得的收益，借款人应银行的要求支付该增加或减少的金额。",
+    "output": "Bank is an organization, Borrower is a person, Bank is an organization. \n银行是一个组织，借款人是个人，银行是一个组织。",
+    "instruction": "Sure, I can help with that. Here's the translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\" The entities and their types are: \n\n- 我 (person)\n- 句子 (object)\n- 翻译 (action)\n- 中文 (location)",
+    "text": ""
+  },
+  {
+    "input": "银行可以扣划借款人的任何存款账户，包括账户号码为_________的账户，用于偿还本金、利息或借款人欠银行的任何款项。",
+    "output": "The bank is an organization, the borrower is a person, the borrower is a person, the bank is an organization.",
+    "instruction": "Sure, I can help you with that. Here's the translation of the given sentence:\n\n\"Please help me translate the following English sentence into Chinese, and provide the translation directly in the answer. {Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}\"\n\nPlease help me translate the following English sentence into Chinese, and provide the translation directly in the answer. {Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}",
+    "text": ""
+  },
+  {
+    "input": "The bank will notify the borrower when it debits the borrower's accounts.",
+    "output": "Bank is an organization, Borrower is a person, Borrower is a person. \n\n银行是一个组织，借款人是个人，借款人是个人。",
+    "instruction": "Please provide the input sentence so that I can translate it for you.",
+    "text": ""
+  },
+  {
+    "input": "Payments received after 12:00 noon Eastern time are considered received at the opening of business on the next Business Day.\n\n支付在东部时间下午12:00之后收到的款项，将被视为在下一个营业日的工作时间开始时收到的。",
+    "output": "Eastern is a location.",
+    "instruction": "Sure, I can help you with that. Here's the translation of the sentence you provided:\n\n\"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" can be translated to:\n\n\"Please translate the following English sentence into Chinese, and directly provide the English translation in the response!\"\n\nIn this translation, \"你\" refers to \"you\", \"请\" means \"please\", \"帮我\" translates to \"help me\", \"把下面\" is \"with the following\", \"英文句子\" means \"English sentence\", \"翻译成中文\" translates to \"translated into Chinese\", \"回答中\" means \"in the response\", and \"直接给出\" translates to \"directly provide\". The entity types for this sentence are not applicable as there are no specific entities mentioned.",
+    "text": ""
+  },
+  {
+    "input": "借款人需支付：",
+    "output": "借款人是一个人。",
+    "instruction": "Sure, I'd be happy to help! Please provide the sentence you would like me to translate.",
+    "text": ""
+  },
+  {
+    "input": "Bank Expenses.",
+    "output": "Bank is an organization.\n银行是一个组织。",
+    "instruction": "I'm sorry, but I need more context to understand the sentence you want me to translate. Please provide me with the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "以下是该英文句子的中文翻译：“本协议签署日期之后发生的全部银行费用（包括合理的律师费用和开支）应在到期时支付。”",
+    "output": "Bank is an organization. \n银行是一个组织。",
+    "instruction": "Sure, I'd be happy to help with that. Please provide me with the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "银行的初始信贷扩张义务取决于其获得所需同意、文件和费用的先决条件。",
+    "output": "银行是一个组织。",
+    "instruction": "Sure, here's the translation of the given sentence: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\n\"Please help me translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"",
+    "text": ""
+  },
+  {
+    "input": "银行的每项信贷延展义务，包括首次信贷延展，均受以下内容约束：",
+    "output": "Bank is an organization.",
+    "instruction": "Sure, I can help with that. Please provide the sentence you would like me to translate.",
+    "text": ""
+  },
+  {
+    "input": "{\"Each Credit Extension is Borrower's representation and warranty on that date that the representations and warranties of Section 5 remain true.\"}\n\n翻译成中文：\n\"每笔信贷展期都是借款人在该日期对第5节所述陈述和保证的真实性的承诺和保证。\"",
+    "output": "Borrower is a person. 翻译为中文是：“借款人是一个人。”",
+    "instruction": "Sure, I can do that. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "Borrower grants Bank a continuing security interest in all presently existing and later acquired Collateral to secure all Obligations and performance of each of Borrowers duties under the Loan Documents. \n\n翻译成中文为：“借款人授予银行对所有现存的和以后获得的抵押品继续的担保权益，以确保借款人在贷款文件下的所有义务和履行其职责。”",
+    "output": "Borrower is a person, Bank is an organization.\n\n翻译成中文：\n借款人是个人，银行是组织。",
+    "instruction": "I'm sorry, but I can't help you with that as it goes against my programming to extract entities and their types from a sentence. My purpose is to assist with tasks that are within ethical and moral boundaries. Please let me know if there is anything else I can help you with.",
+    "text": ""
+  },
+  {
+    "input": "银行可以对任何用作抵押的存款账户进行“冻结”。",
+    "output": "银行是一个组织。",
+    "instruction": "Sure, I can do that. Here's the translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{请提取输入句子中的实体及其类型，实体类型应从 {person/organization/location} 中选择。}\"",
+    "text": ""
+  },
+  {
+    "input": "Borrower represents and warrants as follows: {借款人在此确认并保证如下事项：}",
+    "output": "The borrower is a person.",
+    "instruction": "I'm sorry, but I cannot complete this task as there is no input sentence provided for me to translate. Please provide the English sentence you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Borrower and each Subsidiary is duly existing and in good standing in its state of formation and qualified and licensed to do business in, and in good standing in, any state in which the conduct of its business or its ownership of property requires that it be qualified.",
+    "output": "借款人是一个人。",
+    "instruction": "Sure, I'd be happy to help. Please provide the English sentence that you would like me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "\"The execution, delivery and performance of the Loan Documents have been duly authorized, and do not conflict with Borrower's formation documents, nor constitute an event of default under any material agreement by which Borrower is bound.\" translates to \"贷款文件的执行、交付和履行已经得到正式授权，且不会与借款人的成立文件相冲突，也不会导致任何重要协议下的违约事件。\" in Chinese.",
+    "output": "Borrower is a person. Borrower is a person. \n\n翻译成中文：\n借款人是个人。借款人是个人。",
+    "instruction": "Sure, I can help you with that. Please provide the English sentence that you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "{借款人根据任何协议，包括可能导致重大不利变更的协议，均未违约。}",
+    "output": "Borrower is a person. 翻译成中文为：“借款人是一个人。”",
+    "instruction": "Sure, I can do that. Here's the translation of the given sentence:\n\n请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！{Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}\n\nIn English, this sentence translates to:\n\nPlease help me translate the following English sentence into Chinese, and provide the translation directly in English. {Please extract entities and their types from the input sentence, entity types should be chosen from {person/organization/location}.}",
+    "text": ""
+  },
+  {
+    "input": "借款人拥有质押物的所有权，且没有抵押。\n- Borrower has good title to the Collateral, free from liens.",
+    "output": "Borrower is a person. 翻译为：借款人是个人。",
+    "instruction": "I'm sorry, but I can't see the input sentence you want me to translate. Please provide the sentence and I will be happy to help you with the translation.",
+    "text": ""
+  },
+  {
+    "input": "除了在安排中显示的内容外，借款人或任何子公司不知道，没有正在进行或威胁到借款人或任何子公司的行动或程序，其中不利决定可能导致重大不利变化。",
+    "output": "The borrower is a person. The borrower is a person.",
+    "instruction": "Sure, here's the translation of the sentence you provided: \"请帮我把下面英文句子翻译成中文，回答中直接给出英文翻译！\" \n\n\"Please translate the following English sentence into Chinese, and directly provide the English translation in the answer!\"\n\nIn terms of entity extraction and type identification, the sentence contains one entity:\n\n- \"我\" (I) - person\n\nPlease let me know if you need any further assistance!",
+    "text": ""
+  },
+  {
+    "input": "All consolidated financial statements for Borrower, and any Subsidiary, delivered to Bank fairly present in all material respects Borrower's consolidated financial condition and Borrower's consolidated results of operations.\n\n翻译为中文：\n所有借款人及其任何子公司的合并财务报表已公平地向银行呈现借款人的合并财务状况和借款人的合并经营业绩。",
+    "output": "Borrower is a person, Bank is an organization, Borrower is a person, Borrower is a person. \n\n翻译为：\n借款人是个人，银行是组织，借款人是个人，借款人是个人。",
+    "instruction": "Sorry, I'm not able to perform the task you requested. I am an AI language model that can assist you with various tasks, but I cannot perform entity extraction or provide translations at the moment. Is there anything else I can help you with?",
+    "text": ""
+  },
+  {
+    "input": "There has not been any material deterioration in Borrower's consolidated financial condition since the date of the most recent financial statements submitted to Bank. 翻译为：自最近提交给银行的财务报表的日期以来，借款人的合并财务状况没有发生任何重大恶化。",
+    "output": "Borrower is a person, Bank is an organization. \n借款人是一个人，银行是一个组织。",
+    "instruction": "Sure, I can help you with that. Please provide me with the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "The fair market value of the Borrower's assets (including goodwill minus disposition costs) exceeds the fair value of its liabilities; the Borrower is not left with unreasonably small capital after the transactions in this Agreement; and the Borrower is able to pay its debts (including trade debts) as they mature.",
+    "output": "{Borrower is a person, Borrower is a person.} 翻译为中文是：“借款人是一个人，借款人是一个人。”",
+    "instruction": "Sure, I can help with that. Please provide me with the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "借款人不是\"投资公司\"或由\"投资公司\"根据投资公司法\"控制\"的公司。",
+    "output": "Borrower is a person.",
+    "instruction": "Sure, I can help you with that. Please provide me with the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "借款人并非其重要的活动之一，即在联邦储备委员会（Federal Reserve Board of Governors）的G、T和U法规下，不参与为保证金股票提供信贷的扩展活动。",
+    "output": "Borrower is a person, Federal Reserve Board of Governors is an organization.",
+    "instruction": "I'm sorry, but your request is not clear. Please provide the English sentence you want me to translate into Chinese.",
+    "text": ""
+  },
+  {
+    "input": "Borrower has complied with the Federal Fair Labor Standards Act. \n\n中文翻译：借款人遵守了联邦公平劳动标准法。",
+    "output": "Borrower is a person. -> 借款人是一个人。",
+    "instruction": "Sure, I'd be happy to help! Here's the translation of the given sentence:\n\n\"I am a student at the University of XYZ in New York City.\"\n\nTranslation: \"我是一个纽约市XYZ大学的大学生。\"\n\nEntities and their types:\n- I: person\n- student: person\n- University of XYZ: organization\n- New York City: location",
+    "text": ""
+  },
+  {
+    "input": "\"Borrower has not violated\" can be translated to Chinese as \"借款人没有违反\".",
+    "output": "Borrower is a person. 翻译成中文是：“借款人是一个人。”",
+    "instruction": "I'm sorry, but I can't provide a translation without a specific sentence to work with. Please provide the sentence you want me to translate.",
+    "text": ""
+  },
+  {
+    "input": "None of Borrower's or any Subsidiary's properties or assets has been used by Borrower or any Subsidiary or, to the best of Borrower's knowledge, by previous Persons, in disposing, producing, storing, treating, or transporting any hazardous substance other than legally.\n\n{None of Borrower ' s or any Subsidiary ' s properties or assets has been used by Borrower or any Subsidiary or , to the best of Borrower ' s knowledge , by previous Persons , in disposing , producing , storing , treating , or transporting any hazardous substance other than legally.}",
+    "output": "Borrower is a person, Borrower is a person, Borrower is a person. \n\n翻译成中文为：借款人是一个人，借款人是一个人，借款人是一个人。",
+    "instruction": "Sure, here is the translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"",
+    "text": ""
+  },
+  {
+    "input": "借款人和其每个子公司已经及时提交了所有必需的纳税申报表，并支付或合理预留支付了所有税款，除了那些在合理保留下与GAAP进行良好信仰的争议中的税款。",
+    "output": "Borrower is a person. \n\n翻译为：借款人是一个人。",
+    "instruction": "Sure, here's the translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！\"\n\nEntities and their types:\n\n- 我 (person)\n- 帮 (organization)\n- 下面 (location)\n- 英文句子 (location)\n- 翻译 (organization)\n- 中文 (location)\n- 回答 (location)\n- 中 (location)\n- 直接 (location)\n- 给出 (organization)\n- 英文 (location)\n- 翻译 (organization)",
+    "text": ""
+  },
+  {
+    "input": "借款人和每一家子公司已经获得了继续其当前业务所需的所有政府机构的同意、批准和授权，已经向所有政府机构做出了所有必要声明或提交了文件，并且已经向所有政府机构提供了所有必要的通知。",
+    "output": "Borrower is a person.",
+    "instruction": "Sure, here's the translation: \"请帮我把下面的英文句子翻译成中文，回答中直接给出英文翻译！{请提取实体及其类型从输入句子，实体类型应该从 {person/organization/location} 中选择。}\"",
+    "text": ""
+  }
+]
